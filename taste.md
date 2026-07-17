@@ -6,6 +6,21 @@
 
 steering: #fitness  <- currently in /recently_searched_hashtags (Marcus searched it in-app; treated as a deliberate nudge, queried first in step 2b)
 
+## universal
+Account-stripped craft — the ONLY section customer jobs (JOBS.md) may read.
+- A hook is a concrete PROMISE (a number, a how-to, a time-box: "what it
+  cost", "in 15 seconds") — vague vibes get swiped in under 5s.
+- Payoff LAST, always: the promised reveal is the final beat, and making
+  the viewer wait for it is what holds watch-time.
+- Short loops win: 7–15s cuts whose last frame lands flush against the
+  hook invite an instant rewatch — the algorithm reads a rewatch as love.
+- Identity/confession framing beats announcements ("I am an accountant
+  and…" > "introducing…").
+- A beat the viewer must READ needs reading time (up to 5s); every other
+  beat stays 0.8–2.5s, minimum 2 hard cuts, nothing frozen.
+- Emotional resonance without a promise earns saves/shares but not
+  watch-time — fine as a payoff beat, fatal as a hook.
+
 ## @imabgold (tech / build-with-Claude, faceless founder POV)
 
 Top 3 by avg-watch-time:
