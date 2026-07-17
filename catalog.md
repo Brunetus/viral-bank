@@ -11,6 +11,56 @@ justification to use). Clips are never deleted by the scan.
 
 <!-- entries below, newest first -->
 
+## Da1XqUENtuI — An Argentine radio commentator in a stadium booth completely loses it — welling up, then a full open-mouthed scream with fist-pumps — the moment Argentina scores
+- source: @houseofhighlights | https://www.instagram.com/reel/Da1XqUENtuI/
+- lane: sports
+- first-seen: 2026-07-17 | status: FRESH
+- stats-at-capture: 222632 likes / 2644 comments (2.6x account median)
+- joke-structure: emotional overflow — a grown man in a suit erupts from teary-eyed to ecstatic screaming, colleagues jumping behind him; the humor is the sheer scale of the reaction
+- the-beat: builds from welling-up at 0:00-0:05 to the peak scream + arms-up around the goal moment (mid-clip); cut on the open-mouthed peak
+- pairs-with: a user's own "it finally worked / the deploy went green / we shipped" payoff — the commentator's meltdown is the pure over-the-top reaction; the user's material supplies what he's reacting to
+- file: clips/Da1XqUENtuI.mp4 (54s)
+
+## Da3uav_z55p — Three streamers cosplaying stone-faced security "officers" (vests, badges) sit dead silent in front of a wall of Twitch streams at Kai Cenat's Streamer University
+- source: @houseofhighlights | https://www.instagram.com/reel/Da3uav_z55p/
+- lane: sports
+- first-seen: 2026-07-17 | status: FRESH
+- stats-at-capture: 223056 likes / 1027 comments (2.5x account median)
+- joke-structure: deadpan commitment — the comedy is the utterly serious tough-guy faces on an absurd premise (streamers roleplaying as campus police)
+- the-beat: no single turn; a held deadpan tableau — cut anywhere on the stone-faced trio (any 1-2s reads instantly as "we are taking this way too seriously")
+- pairs-with: a user's own moment of mock-seriousness — "me guarding my side project", "us defending the codebase" — the deadpan officers are a reusable "we mean business" setup for a trivial stake
+- file: clips/Da3uav_z55p.mp4 (19s)
+
+## Da3OzHrz_qr — LeBron James, deadpan on a Fanatics Fest stage, rattles off his own free-agency rumors ("I heard Warriors, I heard Philly, Miami...") while the crowd films
+- source: @houseofhighlights | https://www.instagram.com/reel/Da3OzHrz_qr/
+- lane: sports
+- first-seen: 2026-07-17 | status: FRESH
+- stats-at-capture: 205199 likes / 3135 comments (2.4x account median)
+- joke-structure: dry mockery of the rumor mill — the star lists the wild speculation about himself with a straight face, "👀🍿" energy
+- the-beat: the punch is the list itself; cut on "...Miami" as the deadpan lands (~0:05-0:10)
+- pairs-with: a user's own "here's what people THINK I'm building next" bit — the deadpan rumor-list is a setup for revealing the mundane real answer (the user's material)
+- file: clips/Da3OzHrz_qr.mp4 (14s)
+
+## Da3V4ssTDQx — On the same Fanatics Fest stage, Tyrese Haliburton pump-fakes a fake announcement of LeBron's next team; the "reveal" goes nowhere
+- source: @houseofhighlights | https://www.instagram.com/reel/Da3V4ssTDQx/
+- lane: sports
+- first-seen: 2026-07-17 | status: FRESH
+- stats-at-capture: 185271 likes / 465 comments (2.1x account median)
+- joke-structure: build-up then anticlimax — a teased big reveal that intentionally fizzles ("Hali pump faked LeBron's decision 😭😭")
+- the-beat: the tease builds early; cut on the non-reveal / deflation beat (mid-clip) where the promised payoff evaporates
+- pairs-with: a user's own "I hyped it up and then... nothing" moment — the pump-fake is a clean setup for a let-down punchline the user's material delivers
+- file: clips/Da3V4ssTDQx.mp4 (13s)
+
+## Da1S0PitXRr — "Officer" Fanum sprints across a campus lawn and tackle-"arrests" streamer Silky, pinning him with cuffs, in Kai Cenat's Streamer University security bit
+- source: @houseofhighlights | https://www.instagram.com/reel/Da1S0PitXRr/
+- lane: sports
+- first-seen: 2026-07-17 | status: FRESH
+- stats-at-capture: 180489 likes / 984 comments (2.1x account median)
+- joke-structure: staged physical comedy — a full committed tackle/arrest over a nonsense "crime", played completely straight
+- the-beat: the chase/sprint sets up; cut on the tackle-and-pin (~0:03-0:08) as the takedown lands
+- pairs-with: a user's own "and then it all came crashing down" beat — the tackle is an over-the-top physical punchline for a small failure or an abrupt stop
+- file: clips/Da1S0PitXRr.mp4 (26s)
+
 ## Da1BW2LSA26 — IShowSpeed, in an England kit in a car, melts down and screams "SAVE ME LAMINE YAMAL!" into the lens
 - source: @sportscenter | https://www.instagram.com/reel/Da1BW2LSA26/
 - lane: sports
@@ -44,7 +94,7 @@ justification to use). Clips are never deleted by the scan.
 ## Dap7CtuFWne — The Verge hands-on with the gold "Trump Mobile" phone, opening on the phone glamour-shot atop a pile of gold coins and jewelry
 - source: @verge | https://www.instagram.com/reel/Dap7CtuFWne/
 - lane: tech
-- first-seen: 2026-07-17 | status: FRESH
+- first-seen: 2026-07-17 | status: AD-REJECTED (retro ad sweep 2026-07-17: single-product hands-on/showcase of the gold Trump Mobile phone; splicing it would lend the product's marketing — dead to architects)
 - stats-at-capture: 4170 likes / 154 comments (10.51x account median)
 - joke-structure: not a joke — a 2:44 subtitled review (camera, 512GB storage, "no service" quick-settings). The gold-on-gold hero shots are the only visually splice-worthy frames
 - the-beat: the gold-phone-on-gold-hoard glamour shot (recurring, incl. ~2:30) is a striking 2-second cutaway; the review body has no comedic turn
