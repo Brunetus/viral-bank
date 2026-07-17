@@ -4,3 +4,4 @@ frames/
 .env
 TEST-MODE
 last-scan.txt
+.DS_Store
