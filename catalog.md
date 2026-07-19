@@ -11,6 +11,17 @@ justification to use). Clips are never deleted by the scan.
 
 <!-- entries below, newest first -->
 
+## DaDSeU5SJ3E — A tech creator throws a smug "Chinese Phone ❌ iPhone ✅" trollface superiority pose, then demos an iPhone Headphone-Accommodations audio settings trick
+- source: @techburner | https://www.instagram.com/reel/DaDSeU5SJ3E/
+- lane: tech
+- first-seen: 2026-07-18 | status: FRESH
+- stats-at-capture: 50672 likes / 195 comments (2.31x account median)
+- joke-structure: superiority-meme — a distorted trollface overlays him doing a smug point/glare ("my thing ✅ vs your thing ❌") for one beat; the rest is an informational settings tip (talking-head + phone-screen recordings) with no comedic turn
+- the-beat: the trollface superiority beat (~0:11-0:13) is the only clean splice-usable frame — cut on the smug trollface glare/point. NOTE: the "Chinese Phone ❌ IPhone ✅" caption is baked over the beat, so cover/crop it to repurpose; do NOT splice the tip body
+- audio-model: flexible
+- pairs-with: an imabgold-style "my no-code/simple stack ✅ vs the overcomplicated way ❌" or "the tool everyone doubted, just shipping" flex — the trollface superiority glare is a reusable "my way wins" setup; the user's own build/ship footage is the hero and payoff. Thin: only borrow the trollface beat.
+- file: clips/DaDSeU5SJ3E.mp4 (42s)
+
 ## Da5z0B7AGC6 — A shirtless older dad stands at the washing machine while mum, animatedly gesturing, demonstrates the detergent and laundry steps to him
 - source: @ladbible | https://www.instagram.com/reel/Da5z0B7AGC6/
 - lane: general
