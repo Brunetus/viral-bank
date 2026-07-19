@@ -69,6 +69,10 @@ The self-aware "everything is AI-generated now" bit. Instagram is actively
 deprioritizing slop, so the joke lands.
 Splice: a "made by an actual human" flex over real footage.
 
+**13. "Dear Instagram, please connect me with [X]" — algorithm-plea caption** · audio: flexible · CAPTION FORMAT, not a banked clip · 🔥 LIVE (2026-07-19)
+A direct plea to the algorithm over aspirational b-roll: "Dear instagram, please do your thing and connect me with [startup obsessed people who aren't afraid to start at 0]". Engagement-bait / manifestation framing that invites comments and openly signals the exact audience you want to reach.
+Use: an imabgold "connect me with other people building with Claude / non-technical founders shipping real things" version over the user's OWN build/founder footage — the caption is the hook, the user's material is the hero and the b-roll. Drives COMMENTS more than watch-time (a saves/shares + reach play). Recreate the format with your own footage; don't repost someone else's clip. (Sourced from @aarondambruso; the footage was cut from the bank as ad-adjacent — the caption is the viral asset.)
+
 ## Family lane (feeds @bambi.map)
 
 **14. Toddler bumps head, no words to express it** · audio: diegetic (bakeable)

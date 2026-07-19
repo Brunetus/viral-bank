@@ -13,17 +13,6 @@ justification to use). Clips are never deleted by the scan.
 
 <!-- entries below, newest first -->
 
-## Da86mbPM-e- — Text "Dear instagram, please do your thing and connect me with startup obsessed people who aren't afraid to start at 0" over a follow-me POV: a superyacht marina at night, then the creator arm-out walking through a neon Hong Kong cityscape
-- source: @aarondambruso | https://www.instagram.com/p/Da86mbPM-e-/
-- lane: tech
-- first-seen: 2026-07-19 | status: FRESH
-- stats-at-capture: 48 likes / 8 comments (manual add from Marcus's "Viral stuff" saves; caption is a networking CTA — "I'm Aaron, a 22yo entrepreneur… let's connect" · #entrepreneur #journey #mindset #focus; 18h old)
-- joke-structure: not a joke — aspirational founder-lifestyle / engagement-bait; luxury-marina + neon-city follow-me b-roll under a "connect me with startup people" plea. NOTE: reads as self-promo/networking-bait (guard-7 ad-adjacent) — kept only because Marcus saved it deliberately; splice value is the aspirational night-city b-roll, not a comedic beat
-- the-beat: no turn; a held mood/aspiration montage — the follow-me neon-city walk (mid-clip) is the most usable few seconds of "founder chasing the dream" b-roll
-- audio-model: trending sound (add in-app) — music/vibe-driven
-- pairs-with: an imabgold "chasing the build / founder life" aspirational beat — the night-city follow-me is reusable aspirational b-roll, and (REACH mode) can set the vibe while the user's own build/story stays essential. Thin as a joke; strongest as a mood cutaway. Weigh whether it fits imabgold's authentic non-technical-founder voice vs. reading as generic hustle-flex
-- file: clips/Da86mbPM-e-.mp4 (10s)
-
 ## Da5fOr8jg6L — Text "When the claude + caffeine + house music hits and you genuinely enter flow state" over a builder hunched at a laptop against a city-skyline sunset, hard-cutting to a sweaty DJ going all-out at the decks (b&w) as the flow-state payoff
 - source: @osiris.scales | https://www.instagram.com/p/Da5fOr8jg6L/
 - lane: tech
