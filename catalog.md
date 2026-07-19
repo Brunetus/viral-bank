@@ -11,6 +11,17 @@ justification to use). Clips are never deleted by the scan.
 
 <!-- entries below, newest first -->
 
+## DawHM0axgHf — A creator at a MacBook desk (POV text: "what I do when I'm not editing videos but it's lowkey the Mbappé Special") hard-cuts to the viral clip of Mbappé smiling and deadpanning that his signature dish is "nothing," then walking off with a football
+- source: @nashvillehiddengems | https://www.instagram.com/reel/DawHM0axgHf/
+- lane: general
+- first-seen: 2026-07-18 | status: FRESH
+- stats-at-capture: 417 likes / 29 comments (manual browser add — this repost is small; the FORMAT is what's viral, "the Mbappé Special" surpassed 14.2M views across the trend)
+- joke-structure: build-up then deadpan anticlimax — a hyped "what do you do / what's your specialty" setup lands on Mbappé's flat "nothing"; "the Mbappé Special" = nothing. This clip is a worked EXAMPLE of the format (a POV desk setup spliced onto the Mbappé "nothing" reveal)
+- the-beat: two parts — the creator's POV desk setup runs 0:00-0:07, then the money beat is the Mbappé "nothing." reveal at ~0:07-0:09 (he then continues "I was like..." with a ball to ~0:14). SPLICE: extract ONLY the Mbappé "nothing." reveal (~0:07-0:09) as the reusable setup; the desk-POV first half is the original creator's footage, not reusable
+- audio-model: diegetic (bakeable) — Mbappé's spoken "nothing" is the beat
+- pairs-with: an imabgold "what's my backend / my tech stack / what it cost to build = [cut to Mbappé] nothing" flex — the deadpan "nothing" is the setup; the user's own build/screen reveal is the hero and payoff. Universal deadpan-anticlimax; reads sports-adjacent but the joke is verbal, so it travels anywhere
+- file: clips/DawHM0axgHf.mp4 (14s)
+
 ## DaDSeU5SJ3E — A tech creator throws a smug "Chinese Phone ❌ iPhone ✅" trollface superiority pose, then demos an iPhone Headphone-Accommodations audio settings trick
 - source: @techburner | https://www.instagram.com/reel/DaDSeU5SJ3E/
 - lane: tech
