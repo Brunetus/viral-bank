@@ -3,8 +3,10 @@
 Architect-facing index of banked clips. Written ONLY by the twice-weekly
 scan (law: `~/Claude Code/ig-routine-core/BANK.md`); consumed read-only by
 daily routines and reel-app jobs. Splicing a banked clip is an OPTIONAL
-tool — the account's/user's own material is always the hero and always
-carries the payoff; a famous clip is setup only.
+tool (REACH mode) — optimize for the most viral reel, but the account's/
+user's own material must stay essential/load-bearing (never disposable
+filler) and the cut copyright-safe (no muted licensed/broadcast
+centerpiece); within those floors a banked clip MAY carry the payoff.
 
 Entry statuses: FRESH (usable), STALE (>21 days in bank — needs explicit
 justification to use). Clips are never deleted by the scan.

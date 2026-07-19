@@ -5,9 +5,10 @@
      from hashtag top_media), so the bank rarely holds a downloaded clip for them.
      Use them as splice IDEAS and as a read on the current meta — the architect can
      recreate a format with the user's own footage even when no banked clip exists.
-     PRODUCT INVARIANT (same as catalog.md): the user's/account's own material is the
-     hero and carries the payoff; a trend/clip is setup only. "Photos alone are
-     stronger" is always a valid call. -->
+     PRODUCT INVARIANT (same as catalog.md, REACH mode): optimize for the most viral
+     reel; the user's/account's own material must stay essential/load-bearing (never
+     disposable filler) and the cut copyright-safe, but a trend/clip MAY carry the
+     payoff. "Photos alone are stronger" is always a valid call. -->
 
 # Viral playbook — the July 2026 meta
 
