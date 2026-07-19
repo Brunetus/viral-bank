@@ -13,6 +13,17 @@ justification to use). Clips are never deleted by the scan.
 
 <!-- entries below, newest first -->
 
+## Da6N-C-SIxs — A young guy at a laptop, phone in hand, gives a deadpan/exasperated "here we go again" reaction to on-screen text reading Claude: "Apple all Changed to 32,654 files? (Y/N)" — the over-eager AI coding assistant proposing an absurdly massive sweep
+- source: @bensage | https://www.instagram.com/p/Da6N-C-SIxs/
+- lane: tech
+- first-seen: 2026-07-19 | status: FRESH
+- stats-at-capture: 57 likes (manual browser add; caption "Just make it work buddy" · #claude #ai #coding #viral; 1 day old)
+- joke-structure: relatable-absurdity — the humor is the insane file count (32,654) an AI coding assistant casually asks to change, plus the creator's deadpan resignation ("just make it work buddy"). Single-shot talking-to-camera reaction, text held throughout
+- the-beat: one held beat (~7.7s) — the text is up the whole time over his mild-exasperation gesture; cut on the shrug/gesture for a clean reaction, or use the whole clip as a self-contained joke
+- audio-model: diegetic (bakeable) — his own original audio; can also run under a trending sound if the architect prefers
+- pairs-with: an imabgold "building with Claude / vibe-coding goes sideways" beat — the "AI wants to change 32,654 files" reaction is a ready-made tech-builder setup, and (REACH mode) it can carry the punchline while the user's own screen/build stays the essential, load-bearing context. Bang-on for the non-technical-founder-building-with-Claude POV
+- file: clips/Da6N-C-SIxs.mp4 (8s)
+
 ## DawHM0axgHf — A creator at a MacBook desk (POV text: "what I do when I'm not editing videos but it's lowkey the Mbappé Special") hard-cuts to the viral clip of Mbappé smiling and deadpanning that his signature dish is "nothing," then walking off with a football
 - source: @nashvillehiddengems | https://www.instagram.com/reel/DawHM0axgHf/
 - lane: general
