@@ -9,9 +9,68 @@ filler) and the cut copyright-safe (no muted licensed/broadcast
 centerpiece); within those floors a banked clip MAY carry the payoff.
 
 Entry statuses: FRESH (usable), STALE (>21 days in bank — needs explicit
-justification to use). Clips are never deleted by the scan.
+justification to use), AD-REJECTED (promotional; never usable),
+DO-NOT-SPLICE (real footage, no comedic mechanism and/or sensitive subject;
+never usable — catalogued only so a later scan doesn't re-download it).
+Anything not FRESH is outside the canon. Clips are never deleted by the scan.
 
 <!-- entries below, newest first -->
+
+## Da-o07aDWD_ — Dad in a floral shirt walks the camera down a driveway saying "'bring the baby' they said", then whip-pans to reveal the entire driveway buried in baby gear: two suitcases, a bouncer, a bassinet, four bags, a stroller, all of it for one infant
+- source: @parents | https://www.instagram.com/reel/Da-o07aDWD_/
+- lane: family
+- first-seen: 2026-07-20 | status: FRESH
+- stats-at-capture: 2138 likes / 41 comments (6.56x account median)
+- joke-structure: quoted-advice setup, scale-reveal payoff — the throwaway phrase "bring the baby" cashed out as an absurd physical inventory
+- the-beat: talking-head setup 0:00-0:12, the reveal pan lands at ~0:16 and the gear keeps going for another 6s (the laugh grows with the pile). Cut the setup short and keep the full pan; the length of the reveal IS the joke
+- audio-model: diegetic (bakeable) — his delivery to camera carries the setup, though the reveal also works muted under a trending sound since the on-screen text does the work
+- pairs-with: any bambi.map packing/travel-day moment — the stroller-vs-tiny-restaurant beat, or a "what we actually brought to Tokyo" gear dump; also sets up a highchair-scan punchline (you hauled all this and the place still has no highchair)
+- file: clips/Da-o07aDWD_.mp4 (24.7s)
+
+## Da80ChqHDLa — Caption "my dog loves to shake off water right next to my brother": a golden retriever swims in the ocean below a deck, climbs out, sprints up the stairs across the deck straight at the brother waiting by the grill, and unloads the shake on him
+- source: @ladbible | https://www.instagram.com/reel/Da80ChqHDLa/
+- lane: general
+- first-seen: 2026-07-20 | status: FRESH
+- stats-at-capture: 755028 likes / 964 comments (21.09x account median)
+- joke-structure: telegraphed-doom setup, inevitable-payoff — the text tells you exactly what is coming and the comedy is the wait, not the surprise
+- the-beat: dog in the water 0:00-0:04 (setup + text), the run-up 0:08-0:10, shake lands ~0:11. Cut on the sprint at 0:08 for a fast loop, or run to the shake for the full payoff
+- audio-model: flexible — no dialogue, only ambient water/deck noise; drops cleanly under a trending sound
+- pairs-with: any "I knew this was coming and let it happen anyway" user moment — a toddler winding up to throw food, a laptop parked next to a full glass of water, a build about to break in exactly the predicted way
+- file: clips/Da80ChqHDLa.mp4 (12.4s)
+
+## Da_eg50RQ6C — Pubity's own street footage of a packed Times Square crowd erupting as Spain beat Argentina in the World Cup final: phones up, arms up, Barcelona and Argentina shirts shoulder to shoulder under the billboards
+- source: @pubity | https://www.instagram.com/reel/Da_eg50RQ6C/
+- lane: general
+- first-seen: 2026-07-20 | status: FRESH
+- stats-at-capture: 25195 likes / 274 comments (54.07x account median)
+- joke-structure: not a joke — a pure mass-reaction beat, a crowd losing it in unison. Reaction fuel, not a setup
+- the-beat: no punchline; the usable unit is any 2-3s of peak crowd eruption (strongest around 0:08-0:12). Use it as the REACTION to something the user's own footage sets up
+- audio-model: diegetic (bakeable) — the crowd roar is the whole asset. This clip is worth almost nothing muted
+- pairs-with: a user's own small win cut against disproportionate mass celebration — shipping a feature, a first paying customer, a baby finally sleeping, then Times Square goes up
+- copyright note: this is pubity's own crowd/street footage, not broadcast match footage — safe as a short reaction segment. Do NOT pair it with actual game footage
+- file: clips/Da_eg50RQ6C.mp4 (14.3s)
+
+## Da050coN-rB — Morningbrew reporter in a suit does a deadpan news package on "Finance Bros to Tech Bros: Don't Mess With My Bloomberg Terminal", standing outside Google, pointing at a Bloomberg terminal, ending on a mock Hinge profile reading "I hype myself up by learning keybinds on my Bloomberg Terminal"
+- source: @morningbrew | https://www.instagram.com/reel/Da050coN-rB/
+- lane: tech
+- first-seen: 2026-07-20 | status: FRESH
+- stats-at-capture: 8249 likes / 54 comments (3.65x account median)
+- joke-structure: straight-news format as the setup, escalating absurd specifics as the payoff — the joke is the gap between anchor-voice delivery and how petty the subject is
+- the-beat: the strongest self-contained unit is the Hinge-profile gag at ~1:08-1:12 (reads as a standalone punchline with no context). The WSJ-headline cold open at 0:08-0:12 is the best setup fragment. The 72s middle is explainer, not joke — do not splice it whole
+- audio-model: diegetic (bakeable) — the deadpan anchor VO is the mechanism; muted, this clip has no joke left
+- pairs-with: imabgold's non-technical-founder angle — the tribal-identity gag cuts against "I'm an accountant who gave Claude the keys", or any tools-snobbery beat (terminal vs spreadsheet vs Claude Code)
+- file: clips/Da050coN-rB.mp4 (72.6s)
+
+## Da7hu8PETwi — NOT A JOKE CLIP. A teenage boy talks straight to camera in soft evening light; on-screen text reads "Ethan has level three autism and had a bad meltdown this morning". A sincere 74-second piece to camera about his brother
+- source: @ladbible | https://www.instagram.com/reel/Da7hu8PETwi/
+- lane: general
+- first-seen: 2026-07-20 | status: DO-NOT-SPLICE
+- stats-at-capture: 226372 likes / 5817 comments (6.48x account median)
+- joke-structure: none. Downloaded on engagement signal before frame-sampling; the footage is earnest autism-awareness content about a disabled minor, with no comedic mechanism anywhere in it
+- the-beat: none. There is no turn, no payoff, no cuttable gag
+- audio-model: diegetic, irrelevant — not for use
+- pairs-with: NOTHING. Do not splice this into any cut. Catalogued only so a future scan doesn't re-spend a download slot rediscovering it. Its engagement is sincerity, which does not transfer to a joke reel and would read as mocking a disabled kid if it did
+- file: clips/Da7hu8PETwi.mp4 (74.5s)
 
 ## Da5fOr8jg6L — Text "When the claude + caffeine + house music hits and you genuinely enter flow state" over a builder hunched at a laptop against a city-skyline sunset, hard-cutting to a sweaty DJ going all-out at the decks (b&w) as the flow-state payoff
 - source: @osiris.scales | https://www.instagram.com/p/Da5fOr8jg6L/
