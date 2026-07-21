@@ -20,6 +20,17 @@ touched.
 
 <!-- entries below, newest first -->
 
+## Dannr_EOKAv — POV meme: a guy looks exasperated to camera under text "POV: When ChatGPT keeps giving you a terrible answer and you have to pull this method", then hard-cuts to a phone screen where he types an escalating, profane message to the AI ("fucking dumbass did you even read wtf i said. Read that shit again and get that mf right before i...")
+- source: @nicksavestime | https://www.instagram.com/reel/Dannr_EOKAv/
+- lane: tech
+- first-seen: 2026-07-20 | status: FRESH
+- stats-at-capture: 229713 likes (manual add from Marcus's saves; caption "This shi pmo #cooked #chatgpt #funny"; 10 days old, no account baseline)
+- joke-structure: relatable-exaggeration — the "pro method" hyped in the setup turns out to be berating the AI like an abusive boss. Comedy is the gap between how calmly people pretend to prompt and how they actually snap at it
+- the-beat: talking-head setup 0:00-0:03, hard cut to the typing screen ~0:03, the payoff is the fully-typed profane message reading out at ~0:08-0:09. SPLICE: extract the ~1-2s "typing the unhinged message" beat as the payoff turn, or the whole 3s cut as a self-contained gag
+- audio-model: flexible — talking-head VO carries the setup, but the typing half drops cleanly under a trending sound; his delivery is not essential to the joke (the on-screen text is)
+- pairs-with: an imabgold "when Claude gives me a garbage answer at 3am" setup over his own screen, cutting to this berating-the-AI beat — the everyone-secretly-does-this angle. TONE NOTE: the message is aggressively profane; it fits a raw builder-humor cut but reads off-brand for the calm faceless-founder voice, so the architect should decide whether imabgold's persona would say it (or keep it as a quick fakeout the user's own reaction undercuts)
+- file: clips/Dannr_EOKAv.mp4 (9.8s)
+
 ## Da-o07aDWD_ — Dad in a floral shirt walks the camera down a driveway saying "'bring the baby' they said", then whip-pans to reveal the entire driveway buried in baby gear: two suitcases, a bouncer, a bassinet, four bags, a stroller, all of it for one infant
 - source: @parents | https://www.instagram.com/reel/Da-o07aDWD_/
 - lane: family
