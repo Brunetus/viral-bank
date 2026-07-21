@@ -5,14 +5,18 @@ scan (law: `~/Claude Code/ig-routine-core/BANK.md`); consumed read-only by
 daily routines and reel-app jobs. Splicing a banked clip is an OPTIONAL
 tool (REACH mode) — optimize for the most viral reel, but the account's/
 user's own material must stay essential/load-bearing (never disposable
-filler) and the cut copyright-safe (no muted licensed/broadcast
-centerpiece); within those floors a banked clip MAY carry the payoff.
+filler); within that floor a banked clip MAY carry the payoff.
 
 Entry statuses: FRESH (usable), STALE (>21 days in bank — needs explicit
 justification to use), AD-REJECTED (promotional; never usable),
 DO-NOT-SPLICE (real footage, no comedic mechanism and/or sensitive subject;
 never usable — catalogued only so a later scan doesn't re-download it).
-Anything not FRESH is outside the canon. Clips are never deleted by the scan.
+Anything not FRESH is outside the canon. Out-of-canon entries (STALE,
+AD-REJECTED, DO-NOT-SPLICE) are pruned by a later scan: the clip file is
+deleted and the block is compressed to a one-line `[PRUNED <status>]`
+tombstone that STAYS here — it's the record that stops a future scan from
+re-downloading a clip already judged. FRESH clips and entries are never
+touched.
 
 <!-- entries below, newest first -->
 
@@ -47,7 +51,7 @@ Anything not FRESH is outside the canon. Clips are never deleted by the scan.
 - the-beat: no punchline; the usable unit is any 2-3s of peak crowd eruption (strongest around 0:08-0:12). Use it as the REACTION to something the user's own footage sets up
 - audio-model: diegetic (bakeable) — the crowd roar is the whole asset. This clip is worth almost nothing muted
 - pairs-with: a user's own small win cut against disproportionate mass celebration — shipping a feature, a first paying customer, a baby finally sleeping, then Times Square goes up
-- copyright note: this is pubity's own crowd/street footage, not broadcast match footage — safe as a short reaction segment. Do NOT pair it with actual game footage
+- provenance note: this is pubity's own crowd/street footage, not broadcast match footage
 - file: clips/Da_eg50RQ6C.mp4 (14.3s)
 
 ## Da050coN-rB — Morningbrew reporter in a suit does a deadpan news package on "Finance Bros to Tech Bros: Don't Mess With My Bloomberg Terminal", standing outside Google, pointing at a Bloomberg terminal, ending on a mock Hinge profile reading "I hype myself up by learning keybinds on my Bloomberg Terminal"
@@ -102,7 +106,7 @@ Anything not FRESH is outside the canon. Clips are never deleted by the scan.
 - joke-structure: build-up then deadpan anticlimax — a hyped "what do you do / what's your specialty" setup lands on Mbappé's flat "nothing"; "the Mbappé Special" = nothing. This clip is a worked EXAMPLE of the format (a POV desk setup spliced onto the Mbappé "nothing" reveal)
 - the-beat: two parts — the creator's POV desk setup runs 0:00-0:07, then the Mbappé "nothing." deadpan turn at ~0:07-0:09 (he continues "I was like..." with a ball to ~0:14). SPLICE: extract ONLY the ~1-2s Mbappé "nothing." beat as a mid-reel SETUP/turn; the desk-POV first half is the original creator's footage, not reusable
 - audio-model: diegetic (bakeable) — Mbappé's spoken "nothing" is the beat
-- pairs-with: SETUP-ONLY, and it must NOT be the last frame — this is a verbal-punchline clip, so ending the reel on "nothing" makes the borrowed clip carry the payoff (which the consumption law forbids). Use it as a fakeout turn: an imabgold hook ("everyone asks how I built this / what my whole backend is") → Mbappé "nothing" (~1-2s deadpan turn) → CUT to the user's OWN footage as the hero + payoff and final frame (the app actually running, the no-code canvas, the shipped product). The user's real build closes the reel; "nothing" only sets it up. If a cut can't hand the payoff back to the user's material, the architect should pass on this clip
+- pairs-with: SETUP-ONLY, and it must NOT be the last frame — this is a verbal-punchline clip, so ending the reel on "nothing" leaves the user's own material as filler before someone else's punchline (the attributable floor: their footage must stay load-bearing). Use it as a fakeout turn: an imabgold hook ("everyone asks how I built this / what my whole backend is") → Mbappé "nothing" (~1-2s deadpan turn) → CUT to the user's OWN footage as the hero + payoff and final frame (the app actually running, the no-code canvas, the shipped product). The user's real build closes the reel; "nothing" only sets it up. If a cut can't hand the payoff back to the user's material, the architect should pass on this clip
 - file: clips/DawHM0axgHf.mp4 (14s)
 
 ## DaDSeU5SJ3E — A tech creator throws a smug "Chinese Phone ❌ iPhone ✅" trollface superiority pose, then demos an iPhone Headphone-Accommodations audio settings trick

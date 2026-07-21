@@ -2,13 +2,19 @@
      Seeded 2026-07-18 from live trend research (IG/TikTok July 2026). This is
      INTELLIGENCE, not footage: most of these formats are audio/format memes that
      Instagram's read API cannot surface (they're invisible in captions and absent
-     from hashtag top_media), so the bank rarely holds a downloaded clip for them.
+     from hashtag results), so the bank rarely holds a downloaded clip for them.
      Use them as splice IDEAS and as a read on the current meta — the architect can
      recreate a format with the user's own footage even when no banked clip exists.
      PRODUCT INVARIANT (same as catalog.md, REACH mode): optimize for the most viral
      reel; the user's/account's own material must stay essential/load-bearing (never
-     disposable filler) and the cut copyright-safe, but a trend/clip MAY carry the
-     payoff. "Photos alone are stronger" is always a valid call. -->
+     disposable filler), but a trend/clip MAY carry the payoff. "Photos alone are
+     stronger" is always a valid call.
+     TWO KINDS OF ENTRIES: hand-seeded (Marcus's — the scan never touches them, even
+     when they carry a dated 🔥 LIVE stamp like #13) and scan-written (BANK.md step
+     5b), marked by the trailing `·scan` token on the stamp — that token, not the
+     date, is what makes an entry the scan's to manage. `·scan` entries age: >30 days
+     unseen -> `~ FADING`, >45 days -> deleted (git keeps history). Numbering gaps
+     are normal. -->
 
 # Viral playbook — the July 2026 meta
 
