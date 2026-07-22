@@ -20,6 +20,106 @@ touched.
 
 <!-- entries below, newest first -->
 
+## DXriT7ajsDu — POV meme: text "POV: You decide to take a break after grinding for 8 hours" over a young guy at a desk setup who leans back and picks up his phone to scroll, then HARD-CUTS to a (screen-recorded) David Goggins podcast clip pointing at camera, on-screen text "Get back to work" and captioned "Get back to fucking work"
+- source: @fortisclothing.co | https://www.instagram.com/p/DXriT7ajsDu/
+- lane: tech
+- first-seen: 2026-07-22 | status: FRESH
+- stats-at-capture: 68000 likes / 317 comments / 2.7k shares (manual add from Marcus's "Viral stuff" saves; caption "David Goggins is a former Navy SEAL... #davidgoggins #reel #instagram"; posted Apr 28, no account baseline)
+- joke-structure: relatable-slack-off setup, drill-sergeant-callout payoff — the calm "I earned a break" moment gets interrupted by Goggins screaming you back to work. Comedy is the guilt-trip hard cut, the gap between permission-to-rest and being yelled at for it
+- the-beat: setup 0:00-0:07 (leans back, picks up phone = the break), hard cut to the Goggins "get back to work" beat ~0:08-0:15. SPLICE: the ~2s Goggins callout is the payoff turn. NOTE: the Goggins half is a screen-recorded repost with a TikTok/@hustlers UI overlay baked into the frame — for a clean cut the architect would want a de-UI'd Goggins source, or keep it small/quick so the overlay doesn't read
+- audio-model: diegetic (bakeable) — Goggins's "get back to fucking work" VO is the whole payoff; muted this clip loses the punchline. (Profanity: fits raw builder-humor, reads slightly off the calm faceless-founder voice — architect's call)
+- pairs-with: an imabgold "when I try to take a break mid-build / step away from Claude for one second" setup over the user's OWN desk/screen, cutting to the Goggins callout as the guilt-trip payoff. Bang-on for the builder-grind lane; the user's real work stays the load-bearing setup, Goggins carries the turn
+- file: clips/DXriT7ajsDu.mp4 (15.3s)
+
+## DbEkGfnh5cI — Two-part contrast bit: text "entrepreneurs trying to lock in during the day:" over a guy pacing a hallway barefoot, animatedly talking big on the phone (fake-busy, unfocused), then cuts to "10pm-4am:" over the same guy locked in at a dark triple-monitor battlestation actually deep in work
+- source: @itsjoshboyd | https://www.instagram.com/p/DbEkGfnh5cI/
+- lane: tech
+- first-seen: 2026-07-22 | status: FRESH
+- stats-at-capture: 145 likes / 11 shares / 0 comments (manual add from Marcus's "Viral stuff" saves; caption "I swear I can never focus.. #emoney #motivation #entrepreneur #ugccreator #ecom"; posted ~22h before capture, no account baseline)
+- joke-structure: relatable day-vs-night contrast — the entrepreneur who cannot focus in daylight but goes full deep-work at 2am. The comedy/recognition is that the "real" grind only happens after everyone else is asleep
+- the-beat: two labeled halves, daytime-distracted 0:00-0:04 then the "10pm-4am" lock-in reveal 0:05-0:08. This is a FORMAT to recreate, not a splice donor — both halves are the creator's own footage of himself; there is no borrowable payoff frame
+- audio-model: flexible — original talking/ambient VO, but the format works fully under a trending sound with the two text cards doing the work
+- pairs-with: imabgold's single strongest proven theme — "my cofounder is a baby, he clocks out at 7pm so I clock in" (taste.md). Recreate the day-cant-focus / night-locked-in contrast with the user's OWN desk and real Claude build on the monitors. The user's footage IS the reel here; this entry is the structural template
+- file: clips/DbEkGfnh5cI.mp4 (8.9s)
+
+## DZu3UJZoMQS — Phone films a monitor showing a Claude chat that just delivered a sharp debugging breakdown (a funnel bug: "28 landing page viewers, 0 form submissions", a chat-widget script silently killing form submits); text overlay "When Claude cooks so hard you genuinely gotta congratulate him:" as the creator types back into the chat box "that was kinda sick bro ngl you..."
+- source: @iambenhollingworth | https://www.instagram.com/p/DZu3UJZoMQS/
+- lane: tech
+- first-seen: 2026-07-22 | status: FRESH
+- stats-at-capture: 19400 likes / 114 comments / 728 shares (manual add from Marcus's "Viral stuff" saves; caption "Yes it was worth the tokens #fyp #claude #viral #relateable #dubistgutgenug"; posted Jun 18, no account baseline; comments riff on "worth the tokens" / Claude spending 40k tokens on itself)
+- joke-structure: wholesome-absurdity — genuinely praising your AI like a human teammate ("that was kinda sick bro ngl") after it nails a hard debug. The recognition beat for anyone building with Claude: you DO end up congratulating it
+- the-beat: one held shot, phone panning the screen 0:00-0:05 (Claude's answer visible), the payoff is the typed congratulation appearing ~0:05-0:07. FORMAT to recreate, not a splice donor — it's the creator's own filmed screen; the value is the concept, not borrowable frames
+- audio-model: flexible — no essential dialogue; the on-screen text + typed message carry it, drops cleanly under a trending sound
+- pairs-with: imabgold's core "non-technical founder building with Claude" identity. Recreate with the user's OWN Claude Code session actually cooking (a real fix landing), then film the congratulating-the-AI beat. The user's real build is the load-bearing footage; this is the structural template and a proven-viral concept for the exact audience imabgold wants
+- file: clips/DZu3UJZoMQS.mp4 (7.5s)
+
+## DbC5egUOiMl — Single deadpan text card held over slowed b-roll of a guy walking toward camera through a loft office: "If she didn't support you during localhost:3000 she doesn't deserve you at .vercel.app" — a dev-loyalty wordplay (stand by me in the struggle/dev phase, stay for the shipped/deployed phase)
+- source: @eugeneanisei | https://www.instagram.com/p/DbC5egUOiMl/
+- lane: tech
+- first-seen: 2026-07-22 | status: FRESH
+- stats-at-capture: 7700 likes / 74 comments / 290 shares (manual add from Marcus's "Viral stuff" saves; caption "Am I right?"; audio "worry" by riserayss ultra-slowed; posted ~1d before capture; top comment "what about .com" 116 likes)
+- joke-structure: relationship-loyalty template mapped onto dev jargon — "ride or die" romance advice re-skinned as localhost (the grind) vs vercel.app (success). The whole joke is the on-screen text; the b-roll is just a mood bed
+- the-beat: one static text card the entire 6s over a slow dolly-in on the deadpan creator. No second beat. This is a CAPTION/TEXT FORMAT to recreate, not a splice donor
+- audio-model: trending sound (add in-app) — "worry" (riserayss) ultra-slowed is the current bed for this deadpan-wordplay format; pick it natively when posting, don't bake it in
+- pairs-with: an imabgold text-card version over the user's own walk-through-the-workspace or a slow push-in on the laptop: "if she didn't ride with you at localhost:3000 / she doesn't deserve you at [the shipped product]". Pure hook/caption play — drives comments (people quote-tweet the wordplay). The user's own footage is the bed; the text is the asset. Rotate the jargon so it isn't a straight copy (taste.md: recycled hooks decay)
+- file: clips/DbC5egUOiMl.mp4 (6.3s)
+
+## DZk9fE1zLP4 — Cinematic entrepreneur-grind montage (guy at a laptop on a night street, a silhouette at a high-rise window at sunset) under motivational text: "Only an entrepreneur can / Work 16 hours, make $0, / And still believe / tomorrow is the day. / It's called faith in the process."
+- source: @dnixx.official | https://www.instagram.com/p/DZk9fE1zLP4/
+- lane: tech
+- first-seen: 2026-07-22 | status: FRESH
+- stats-at-capture: 21900 likes / 114 comments / 1.7k shares (manual add from Marcus's "Viral stuff" saves; caption "The long game" + a grind monologue; posted Jun 14, no account baseline)
+- PROMOTIONAL ORIGIN (flag): the caption is a sales-course funnel with a "Comment SALES" comment-bait CTA. The VIDEO itself is a motivational quote card over b-roll (no in-video product pitch), so the FORMAT is the transferable asset; do NOT treat this as a splice donor or copy the CTA. Kept FRESH because the video content is a clean format example, not an ad in itself
+- joke-structure: not a joke — an aspirational grind-motivation beat (delayed-payoff / faith-in-the-process). The mechanism is the specific relatable number ("16 hours, make $0") + moody cinematic b-roll; earnest, not comedic
+- the-beat: a 13s cinematic montage, text held across it. No punchline. FORMAT to recreate with the channel's own footage; the aspirational b-roll could also serve as a mood bed
+- audio-model: trending sound (add in-app) — a licensed track (The Handsome Family) carries the mood; select it natively, never bake it. (This clip was banked VIDEO-ONLY on purpose — the song is licensed)
+- pairs-with: an imabgold builder-grind version ("work 16 hours, ship nothing, still open the laptop tomorrow") over the user's OWN late-night build footage. TASTE CAUTION (taste.md): imabgold's announcement-shaped / earnest-motivational openers underperform, and product-pitch reels die — this format only works if it stays a genuine story with a concrete first line, NOT a motivational-poster CTA. Weigh hard before using; "the user's own footage alone is stronger" is a very live call here
+- file: clips/DZk9fE1zLP4.mp4 (13.5s, video-only)
+
+## DYujHn5B9e8 — Single low-light shot of a guy hunched over a laptop late at night, obsessively typing (energy drink + green glass bottle on the table), text: "No baby I don't want to go out tonight, this AI revolution is bigger than the internet and we need our piece"
+- source: @robthebank | https://www.instagram.com/p/DYujHn5B9e8/
+- lane: tech
+- first-seen: 2026-07-22 | status: FRESH
+- stats-at-capture: 23200 likes / 429 comments / 1.2k shares (manual add from Marcus's "Viral stuff" saves; caption "Like the money just grew off a tree"; posted May 24; @diplo commented "he gets it" (768 likes), top reply "I haven't left my house in three weeks, bro" (329 likes))
+- joke-structure: obsessed-builder confession — the deranged-conviction bit ("this is bigger than the internet, we need our piece") delivered by someone clearly too deep in the grind to socialize. Comedy is the intensity/relatability, the AI-gold-rush FOMO said out loud
+- the-beat: one held 9s shot (locked-in typing) with the text card up throughout. FORMAT to recreate, not a splice donor — it's the creator's own footage. The transferable asset is the LINE + the never-leave-the-desk visual
+- audio-model: flexible — original audio; the on-screen text carries it, works fine under a trending sound
+- pairs-with: imabgold's proven night-owl-builder theme (taste.md: "clock in when the baby clocks out", the gym/Claude grind reels). Recreate the "no I can't come out, the AI wave is once-in-a-generation and I need my piece" confession over the user's OWN late-night Claude build. Pairs naturally with DbEkGfnh5cI (day-cant-focus / night-locked-in) — same night-grind lane. User's real footage is the hero; the line is the hook
+- file: clips/DYujHn5B9e8.mp4 (9.5s)
+
+## DafgEASyykv — Deadpan founder bit: text "Proof hard work can turn your little side hustle into a multi million dollar company..." over a guy hustling/packing orders in a cramped makeshift office buried in shipping boxes, who then walks straight up to the camera and stares deadpan (the "proof" is that nothing has changed — he's still doing it all himself)
+- source: @henry_hyukjin | https://www.instagram.com/p/DafgEASyykv/
+- lane: tech
+- first-seen: 2026-07-22 | status: FRESH
+- stats-at-capture: 17600 likes / 593 comments / 345 shares (manual add from Marcus's "Viral stuff" saves; caption "Proof hard work pays off. #fyp #korea #entrepreneurship #foryou #startup"; posted Jul 7; @godaddy commented "it's coming though", top reply "I'll wait patiently")
+- joke-structure: aspirational setup, deadpan-anticlimax payoff — the "multi million dollar company" hook cashes out as him still grinding solo in a box-filled room. The trailing "..." and the deadpan stare are the punchline; the gap between the promise and the messy reality IS the joke (self-aware bootstrapped-founder humor)
+- the-beat: setup 0:00-0:06 (packing/hustling amid the boxes, text up), then the deadpan walk-to-camera close-up ~0:07-0:10 as the anticlimax button. Whole clip is the creator's own footage — FORMAT to recreate; the "proof hard work → multimillion company..." card is also a reusable SETUP that can fake-out into the user's own reality
+- audio-model: diegetic/flexible — original audio; the text carries it, drops cleanly under a trending sound
+- pairs-with: imabgold's bootstrapped-solo-founder truth. Recreate the "proof hard work turns your side hustle into a multi-million company..." setup over the user's OWN one-person-doing-everything reality (packing, support, the Claude build at 2am), landing on a deadpan to-camera button. Fits the non-technical-founder-in-the-trenches identity; keep the user's real footage load-bearing. Adjacent to DZk9fE1zLP4 (grind motivation) but funnier/self-aware, which taste.md favors over earnest
+- file: clips/DafgEASyykv.mp4 (10.1s)
+
+## DaYdC0iwMI7 — POV single-shot: a guy sits on his bed with a laptop open beside him, glancing distractedly off-camera and back at the screen; text held throughout: "POV: me and my girl are arguing but Claude needs my approval" (torn between the argument and clicking approve on Claude's permission prompt)
+- source: @adanxai | https://www.instagram.com/p/DaYdC0iwMI7/
+- lane: tech
+- first-seen: 2026-07-22 | status: FRESH
+- stats-at-capture: 7300 likes / 42 comments / 249 shares (manual add from Marcus's "Viral stuff" saves; caption "Priorities am I right #claude #ai #gf #reels"; posted Jul 4; top comment "imagine not bypassing all permissions lmao" (158 likes) — the Claude Code permission-prompt insider joke)
+- joke-structure: misplaced-priorities POV — the builder so locked into his Claude Code session that a real-life argument loses to a tool-use approval prompt. Recognition beat for anyone who's babysat Claude's "allow this action?" prompts mid-agentic-run
+- the-beat: one continuous POV shot (~8s), text card up throughout, the performance is his divided-attention glancing between the off-screen girl and the laptop. FORMAT to recreate; also a strong SPLICE SETUP — the text is a fakeout that can hard-cut to the user's OWN screen with a real Claude permission prompt as the payoff
+- audio-model: flexible — original audio; the on-screen text is the mechanism, works under a trending sound
+- pairs-with: DEAD-ON for imabgold's non-technical-founder-building-with-Claude identity, and the most literally on-brand of this batch (it names Claude and the exact permission-approval UX). Recreate the POV over the user's real desk, or use the text as a setup that cuts to an actual Claude Code approval prompt on the user's screen (user's real build stays load-bearing). Note the insider "permissions" gag lands hardest with a builder audience — keep the hook broad enough that an outsider still parses "obsessed with my AI over my relationship" (ARCHITECT-CORE hook law)
+- file: clips/DaYdC0iwMI7.mp4 (8.1s)
+
+## DaSbWVpsGrU — Energetic talking-head selling a paid "system for creators": the guy pitches to camera (on-screen text ".../everyone...") that you don't need to go "all in" to grow, then funnels to a product he built. IG's own encode pipeline tags the asset `INSTAGRAM.AD`
+- source: @jun_yuh | https://www.instagram.com/p/DaSbWVpsGrU/
+- lane: tech
+- first-seen: 2026-07-22 | status: AD-REJECTED
+- stats-at-capture: 277 likes / 11 comments / 17,144 views (manual add from Marcus's "Viral stuff" saves; posted Jul 2)
+- joke-structure: none — it's a straight creator-course sales funnel. Caption: "...That's exactly why I built a system designed specifically for creators like you: busy, committed, and serious..." A 52s talking-head product pitch; IG flags the underlying asset as an AD
+- the-beat: none usable — a promo monologue, not a comedic mechanism. No cuttable gag
+- audio-model: diegetic, irrelevant — not for use
+- pairs-with: NOTHING. Promotional; never usable. Catalogued only so a future scan/import doesn't re-spend effort rediscovering it. (No clip kept — ads are skipped before download per bank protocol.) NOTE for Marcus: this is the one save of the nine that reads as an ad rather than a joke/format clip; flip it to FRESH if you want the "you don't need to go all-in" hook kept as a format, but as-is it's a course pitch with a weak engagement ratio
+- file: none (AD-REJECTED, not downloaded)
+
 ## Dannr_EOKAv — POV meme: a guy looks exasperated to camera under text "POV: When ChatGPT keeps giving you a terrible answer and you have to pull this method", then hard-cuts to a phone screen where he types an escalating, profane message to the AI ("fucking dumbass did you even read wtf i said. Read that shit again and get that mf right before i...")
 - source: @nicksavestime | https://www.instagram.com/reel/Dannr_EOKAv/
 - lane: tech
