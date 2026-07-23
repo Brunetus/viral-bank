@@ -79,6 +79,10 @@ Splice: a "made by an actual human" flex over real footage.
 A direct plea to the algorithm over aspirational b-roll: "Dear instagram, please do your thing and connect me with [startup obsessed people who aren't afraid to start at 0]". Engagement-bait / manifestation framing that invites comments and openly signals the exact audience you want to reach.
 Use: an imabgold "connect me with other people building with Claude / non-technical founders shipping real things" version over the user's OWN build/founder footage — the caption is the hook, the user's material is the hero and the b-roll. Drives COMMENTS more than watch-time (a saves/shares + reach play). Recreate the format with your own footage; don't repost someone else's clip. (Sourced from @aarondambruso; the footage was cut from the bank as ad-adjacent — the caption is the viral asset.)
 
+**22. Role-labelled news dramatisation (two-hander)** · audio: diegetic (bakeable) · 🔥 LIVE (2026-07-23) ·scan · → clips/ DbHFRLzJjuH
+A real headline is pinned as a card up top, then two performers act it out wearing floating on-screen labels for who they are ("AI" / "AI companies"), one of them playing the powerful party as a dopey child. No punchline is written — the actual facts of the story are the punchline, and a naive "yay that sounds cool and fun" is the button.
+Splice: label yourself and the thing you're fighting, act out this week's real AI news, and let the user's own build/screen be what the joke is defended against. Works solo too (film both roles, swap the label). (source: https://www.instagram.com/reel/DbHFRLzJjuH/)
+
 ## Family lane (feeds @bambi.map)
 
 **14. Toddler bumps head, no words to express it** · audio: diegetic (bakeable)
@@ -96,6 +100,10 @@ Splice: a "parenting a tiny adult" setup; payoff is the real moment out.
 **17. Mom convinces toddler to do a viral trend** · audio: flexible
 The meta "getting my toddler to do the trend" beat, relatable-motherhood energy.
 Splice: a bambi "we travel + eat out with a baby" hero moment.
+
+**23. One parent performs both sides of the refusal loop** · audio: diegetic (bakeable) · 🔥 LIVE (2026-07-23) ·scan · → clips/ DbAyGZhDktL
+Selfie-cam, one performer flipping between a soft reasonable-parent voice and a feral toddler "NO!" on every line, escalating through better and better offers until the last one is refused too. The comedy is the speed of the face-switch plus pure recognition.
+Splice: a bambi "we offered the entire menu and got destroyed" beat — perform the loop over the real restaurant/highchair moment, and let the actual footage of the meltdown be the payoff. (source: https://www.instagram.com/reel/DbAyGZhDktL/)
 
 ## Sports (feeds everyone)
 

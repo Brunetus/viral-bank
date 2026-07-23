@@ -20,6 +20,72 @@ touched.
 
 <!-- entries below, newest first -->
 
+## DbG1EzpBH8r — Beach-club crowd at golden hour: Erling Haaland, in a novelty viking helmet with a red cape, dances shoulder-to-shoulder with fans while phones film him. A single static text card sits over the whole 12s: "INSTAGRAM IS COOL BECAUSE WE CAN POST THIS VIDEO OF HAALAND DANCING AND HE'LL JUST COMMENT WHAT HE HAD FOR BREAKFAST THIS MORNING"
+- source: @pubity | https://www.instagram.com/reel/DbG1EzpBH8r/
+- lane: general
+- first-seen: 2026-07-23 | status: FRESH
+- stats-at-capture: 791059 likes / 4764 comments (52.49x account median)
+- joke-structure: comment-bait prophecy — the text predicts that the famous subject will show up in the comments being wholesome and boring, so the footage is the evidence and the joke is the prediction. The card never changes; the clip is a 12s loop of proof
+- the-beat: no cut-on-turn — the whole thing is one held beat. Use 0:00-0:04 as a text-card setup, or the crowd-dancing action as a payoff cutaway. Text needs ~4s of reading time before anything else happens
+- audio-model: trending sound (add in-app) — the diegetic bed is club music playing at the venue (third-party track); never bake it in, pick a library sound natively when posting
+- pairs-with: any "watch this person turn up in my comments" or "the nicest guy in [X] is about to reply" setup; also a "famous person doing an extremely normal thing" cutaway against a user's own small win. Recreating the TEXT over the user's own footage is the stronger play — see playbook 21
+- file: clips/DbG1EzpBH8r.mp4 (12.6s)
+
+## DbHHPQ5j290 — A girl leans out an apartment window shouting across the neighbourhood under the text "MY SISTER HAS FIGURED OUT HOW TO CHAT WITH THE HORSE THAT LIVES NEAR OUR BUILDING"; the camera pans down and holds on a vacant red-dirt lot across the road where a small dark horse stands alone by a fence, and stays there, apparently answering her
+- source: @ladbible | https://www.instagram.com/reel/DbHHPQ5j290/
+- lane: general
+- first-seen: 2026-07-23 | status: FRESH
+- stats-at-capture: 388629 likes / 1736 comments (22.09x account median)
+- joke-structure: absurd-claim setup, literal payoff — the text promises something ridiculous, the pan delivers exactly it, and the deadpan length of the hold (the horse just stands there) is what makes it funny. Family-audio bonus: an off-camera mum is yelling in the background the whole time
+- the-beat: setup and text 0:00-0:05, camera search 0:05-0:13, horse reveal lands ~0:14, holds to the end. Cut on the reveal at 0:14 if you only want the payoff; keep 0:00-0:16 for the full setup-to-turn
+- audio-model: diegetic (bakeable) — the shouted call-and-response and the mum yelling in the background ARE the beat; muting it kills the clip
+- pairs-with: a "my kid has made friends with [absurd thing]" beat over a family's own footage, or any "I promise you this is real, look" reveal where the user's own reveal is the payoff. The long deadpan hold is a reusable rhythm for a bambi restaurant-scan bit
+- file: clips/DbHHPQ5j290.mp4 (24.5s)
+
+## DbFKJJIN4PQ — Night on a Rio beach field lit orange by streetlights, dozens of kites in a black sky: a guy in a cap runs and duels his kite against the others with absurd precision, camera chasing him. Held text: "Bro is playing in the wrong lobby"
+- source: @houseofhighlights | https://www.instagram.com/reel/DbFKJJIN4PQ/
+- lane: sports
+- first-seen: 2026-07-23 | status: FRESH
+- stats-at-capture: 1420773 likes / 11163 comments (16.09x account median)
+- joke-structure: gamer-lingo reframe — a piece of online-gaming vocabulary ("wrong lobby" = you are far too good for the people you are playing against) dropped over real-world footage of someone quietly outclassing everyone. The gap between the casual setting and the skill is the joke
+- the-beat: no single punchline; the skill escalates. Best 5s window is 0:07-0:12 where the kite lines cross and he snaps his out of the tangle. Dark, high-contrast footage — reads well as a fast cutaway, poorly as a long hold
+- audio-model: flexible — ambient beach crowd, nothing load-bearing; works muted under a trending sound or kept as texture
+- pairs-with: a "someone doing an ordinary thing at an insane level" cutaway against a user's own modest attempt at the same thing; or the gamer-lingo text template over a user's own footage ("bro is playing in the wrong lobby" over their build, their toddler, their gym set)
+- file: clips/DbFKJJIN4PQ.mp4 (30.4s)
+
+## DbHFRLzJjuH — Two-hander office skit dramatising a real 404 Media headline (shown as a card up top: "AI Companies Are Buying Tons of Old Books Because They're Free of AI Slop"). One performer wears a floating label "AI" and plays it as a whiny, dopey child; the other wears the label "AI companies". AI: "I need books from pre-2022, the ones after 2022 have a bunch of AI slop." AI companies solves it by buying print books and destroying them "because trading a physical copy maintains 1-for-1 equivalence, not breaking copyright infringement." AI, delighted: "Yay, that sounds like fun and cool and awesome"
+- source: @morningbrew | https://www.instagram.com/reel/DbHFRLzJjuH/
+- lane: tech
+- first-seen: 2026-07-23 | status: FRESH
+- stats-at-capture: 5695 likes / 28 comments (3.02x account median)
+- joke-structure: role-labelled dramatisation — a real news story is acted out by two labelled characters, one playing the powerful party as a toddler. No punchline is written; the absurdity of the actual facts is the punchline, and the naive-enthusiasm reaction is the button
+- the-beat: two usable turns. The mid turn at ~0:24 ("we will also destroy these books") is the absurd-fact reveal; the closing beat 0:35-0:41 ("yay that sounds like fun and cool and awesome") is the button. Cut on either. Whole clip is dialogue-dense, so it needs to be the spine of a section, not a garnish
+- audio-model: diegetic (bakeable) — the dialogue IS the joke, subtitles alone lose the delivery
+- pairs-with: DEAD-ON for imabgold — an "AI vs. the people building on it" beat, or the AI-slop meta-joke where the user's own real build is the counterpoint ("made by an actual human"). Also a format to steal outright: label yourself and the thing you are fighting, act out the week's real news. See playbook 22
+- file: clips/DbHFRLzJjuH.mp4 (41.1s)
+
+## DbAyGZhDktL — Selfie-cam in a moving car, one mum performing both halves of a toddler refusal loop under the held text "i'm in whatever phase of parenting this is". She asks, in a soft parent voice, "Do you want your blanket?" then snaps into the toddler: "No!" Escalates through "I have mac and cheese and chocolate milk. NO!!!!" and "if you use your words, Bubba, and tell me, I can try to fix it. NO!", her face flipping between weary adult and feral toddler on every line
+- source: @parents | https://www.instagram.com/reel/DbAyGZhDktL/
+- lane: family
+- first-seen: 2026-07-23 | status: FRESH
+- stats-at-capture: 2301 likes / 72 comments (3.44x account median)
+- joke-structure: one-performer two-hander — the same person plays the reasonable offer and the irrational refusal back to back, and the comedy is in the escalation plus how fast her face switches. Recognition humour: every parent has run this exact loop
+- the-beat: escalating, so the laugh compounds. Strongest single beat is the mac-and-cheese offer at ~0:06-0:09 (best offer, hardest "NO"); the final "I can try to fix it. NO!" at ~0:17 is the button. Cut 0:00-0:09 for a tight setup-payoff
+- audio-model: diegetic (bakeable) — it is a solo vocal performance, both voices are hers; the switch in delivery is the whole mechanism
+- pairs-with: bambi's eating-out-with-a-baby canon — a restaurant meltdown, the highchair refusal, the "we offered everything on the menu" beat. Also any "I made a reasonable offer and got destroyed" setup where the user's own real moment is the payoff. See playbook 23
+- file: clips/DbAyGZhDktL.mp4 (21.4s)
+
+## DavKOUfvEqI — AD, caught at frame-sampling. Opens as a joke ("Ai vs Umpire" over a cricket bat and tennis ball on a rooftop court) but turns into a full walkthrough of the Fulltrack AI app: App Store icon tap, the app's own onboarding screen ("Film and analyze your game like never before"), tripod setup, then branded Swing/Spin/Speed ball-tracking overlays and a SHARE button end-card
+- source: @techburner | https://www.instagram.com/reel/DavKOUfvEqI/
+- lane: tech
+- first-seen: 2026-07-23 | status: AD-REJECTED
+- stats-at-capture: 265563 likes / 565 comments (12.0x account median)
+- joke-structure: none that survives. The "AI vs umpire" framing is a hook onto a product demo — install flow, feature tour, branded analytics UI. The caption gave no ad signal (#ai #cricket #ipl), so the download slot was spent before the footage could be judged
+- the-beat: none usable — splicing any of it lends the app its marketing
+- audio-model: irrelevant — not for use
+- pairs-with: NOTHING. Promotional; never usable. Catalogued only so a later scan does not re-spend a download slot rediscovering it
+- file: clips/DavKOUfvEqI.mp4 (39.1s) — clip kept one cycle per the prune delay; a later scan deletes it
+
 ## DXriT7ajsDu — POV meme: text "POV: You decide to take a break after grinding for 8 hours" over a young guy at a desk setup who leans back and picks up his phone to scroll, then HARD-CUTS to a (screen-recorded) David Goggins podcast clip pointing at camera, on-screen text "Get back to work" and captioned "Get back to fucking work"
 - source: @fortisclothing.co | https://www.instagram.com/p/DXriT7ajsDu/
 - lane: tech
@@ -109,16 +175,7 @@ touched.
 - pairs-with: DEAD-ON for imabgold's non-technical-founder-building-with-Claude identity, and the most literally on-brand of this batch (it names Claude and the exact permission-approval UX). Recreate the POV over the user's real desk, or use the text as a setup that cuts to an actual Claude Code approval prompt on the user's screen (user's real build stays load-bearing). Note the insider "permissions" gag lands hardest with a builder audience — keep the hook broad enough that an outsider still parses "obsessed with my AI over my relationship" (ARCHITECT-CORE hook law)
 - file: clips/DaYdC0iwMI7.mp4 (8.1s)
 
-## DaSbWVpsGrU — Energetic talking-head selling a paid "system for creators": the guy pitches to camera (on-screen text ".../everyone...") that you don't need to go "all in" to grow, then funnels to a product he built. IG's own encode pipeline tags the asset `INSTAGRAM.AD`
-- source: @jun_yuh | https://www.instagram.com/p/DaSbWVpsGrU/
-- lane: tech
-- first-seen: 2026-07-22 | status: AD-REJECTED
-- stats-at-capture: 277 likes / 11 comments / 17,144 views (manual add from Marcus's "Viral stuff" saves; posted Jul 2)
-- joke-structure: none — it's a straight creator-course sales funnel. Caption: "...That's exactly why I built a system designed specifically for creators like you: busy, committed, and serious..." A 52s talking-head product pitch; IG flags the underlying asset as an AD
-- the-beat: none usable — a promo monologue, not a comedic mechanism. No cuttable gag
-- audio-model: diegetic, irrelevant — not for use
-- pairs-with: NOTHING. Promotional; never usable. Catalogued only so a future scan/import doesn't re-spend effort rediscovering it. (No clip kept — ads are skipped before download per bank protocol.) NOTE for Marcus: this is the one save of the nine that reads as an ad rather than a joke/format clip; flip it to FRESH if you want the "you don't need to go all-in" hook kept as a format, but as-is it's a course pitch with a weak engagement ratio
-- file: none (AD-REJECTED, not downloaded)
+## DaSbWVpsGrU — [PRUNED AD-REJECTED] Talking-head sales funnel for a paid "system for creators"; IG tagged the underlying asset INSTAGRAM.AD. NOTE for Marcus: flip back to FRESH if you ever want the "you don't need to go all-in" hook kept as a format · https://www.instagram.com/p/DaSbWVpsGrU/ · first-seen 2026-07-22
 
 ## Dannr_EOKAv — POV meme: a guy looks exasperated to camera under text "POV: When ChatGPT keeps giving you a terrible answer and you have to pull this method", then hard-cuts to a phone screen where he types an escalating, profane message to the AI ("fucking dumbass did you even read wtf i said. Read that shit again and get that mf right before i...")
 - source: @nicksavestime | https://www.instagram.com/reel/Dannr_EOKAv/
@@ -176,16 +233,7 @@ touched.
 - pairs-with: imabgold's non-technical-founder angle — the tribal-identity gag cuts against "I'm an accountant who gave Claude the keys", or any tools-snobbery beat (terminal vs spreadsheet vs Claude Code)
 - file: clips/Da050coN-rB.mp4 (72.6s)
 
-## Da7hu8PETwi — NOT A JOKE CLIP. A teenage boy talks straight to camera in soft evening light; on-screen text reads "Ethan has level three autism and had a bad meltdown this morning". A sincere 74-second piece to camera about his brother
-- source: @ladbible | https://www.instagram.com/reel/Da7hu8PETwi/
-- lane: general
-- first-seen: 2026-07-20 | status: DO-NOT-SPLICE
-- stats-at-capture: 226372 likes / 5817 comments (6.48x account median)
-- joke-structure: none. Downloaded on engagement signal before frame-sampling; the footage is earnest autism-awareness content about a disabled minor, with no comedic mechanism anywhere in it
-- the-beat: none. There is no turn, no payoff, no cuttable gag
-- audio-model: diegetic, irrelevant — not for use
-- pairs-with: NOTHING. Do not splice this into any cut. Catalogued only so a future scan doesn't re-spend a download slot rediscovering it. Its engagement is sincerity, which does not transfer to a joke reel and would read as mocking a disabled kid if it did
-- file: clips/Da7hu8PETwi.mp4 (74.5s)
+## Da7hu8PETwi — [PRUNED DO-NOT-SPLICE] Sincere piece-to-camera by a teenage boy about his autistic brother's meltdown; real footage, no comedic mechanism, never usable · https://www.instagram.com/reel/Da7hu8PETwi/ · first-seen 2026-07-20
 
 ## Da5fOr8jg6L — Text "When the claude + caffeine + house music hits and you genuinely enter flow state" over a builder hunched at a laptop against a city-skyline sunset, hard-cutting to a sweaty DJ going all-out at the decks (b&w) as the flow-state payoff
 - source: @osiris.scales | https://www.instagram.com/p/Da5fOr8jg6L/
@@ -511,15 +559,7 @@ touched.
 - pairs-with: a user's "finally found the right [apartment / setup / fit]" moment — the crab swap is a relatable-metaphor setup; the user's own reveal is the payoff. Caption-driven, so re-time or drop the cards to fit the host voice.
 - file: clips/Da3O_zYiXWx.mp4 (31s)
 
-## Dap7CtuFWne — The Verge hands-on with the gold "Trump Mobile" phone, opening on the phone glamour-shot atop a pile of gold coins and jewelry
-- source: @verge | https://www.instagram.com/reel/Dap7CtuFWne/
-- lane: tech
-- first-seen: 2026-07-17 | status: AD-REJECTED (retro ad sweep 2026-07-17: single-product hands-on/showcase of the gold Trump Mobile phone; splicing it would lend the product's marketing — dead to architects)
-- stats-at-capture: 4170 likes / 154 comments (10.51x account median)
-- joke-structure: not a joke — a 2:44 subtitled review (camera, 512GB storage, "no service" quick-settings). The gold-on-gold hero shots are the only visually splice-worthy frames
-- the-beat: the gold-phone-on-gold-hoard glamour shot (recurring, incl. ~2:30) is a striking 2-second cutaway; the review body has no comedic turn
-- pairs-with: thin. A "gaudy tech flex" or "peak late-capitalism gadget" bit could borrow only the gold glamour shot as a setup image — user material carries any actual joke. Do not splice the review body.
-- file: clips/Dap7CtuFWne.mp4 (164s)
+## Dap7CtuFWne — [PRUNED AD-REJECTED] The Verge hands-on showcase of the gold Trump Mobile phone; splicing it would lend the product its marketing · https://www.instagram.com/reel/Dap7CtuFWne/ · first-seen 2026-07-17
 
 ## Da3jl46jXKa — A toddler tries a ball-launcher trick shot for a black Labrador; the ball goes astray and both kid and dog stand around confused
 - source: @ladbible | https://www.instagram.com/reel/Da3jl46jXKa/
