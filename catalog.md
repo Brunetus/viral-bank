@@ -20,6 +20,72 @@ touched.
 
 <!-- entries below, newest first -->
 
+## DbRGKvJz6bL — Suburban driveway hoop after rain: a middle-aged dad in floral shorts plays his two teenage sons, backs the shirtless one down, and buries a turnaround over him. Held text the whole clip: "DAD'S BAG WAS DEEPER THAN EXPECTED 😭😭". The other son doubles over screaming with his hands on his head, then the game just carries on
+- source: @houseofhighlights | https://www.instagram.com/reel/DbRGKvJz6bL/
+- lane: sports
+- first-seen: 2026-07-27 | status: FRESH
+- stats-at-capture: 1240220 likes / 4192 comments (18.43x account median)
+- joke-structure: underestimated-elder reversal — the setup is a dad who looks like he is about to be embarrassed, the payoff is that he has moves, and the real laugh is the son's disbelief, not the bucket itself. Reaction carries it, not the skill
+- the-beat: milling and posting up 0:00-0:13, dad's move and score 0:14-0:17, the screaming reaction lands 0:18-0:21. Cut on the turn at 0:17 and hold the reaction to 0:21; everything after is filler
+- audio-model: diegetic (bakeable) — the shouting, the ball on wet concrete and the scream are the beat
+- pairs-with: a "the old man still has it" beat over a parent/partner's own footage (dad beating the kid at anything), or an "I underestimated this person" turn where the user's own moment is the reveal and this is the reaction cutaway
+- file: clips/DbRGKvJz6bL.mp4 (37.5s)
+
+## DbMNX2lE4hm — An armadillo trots across a tiled lobby floor, past a lounging iguana, straight to a big leather massage chair, then climbs the arm and settles into the seat like it owns the place. Text cards: "THIS ARMADILLO ABSOLUTELY LOVES HIS MASSAGE CHAIR 😭" → "HE KNOWS EXACTLY WHERE IT IS!" → "AND HOW TO GET INTO HIS FAVOURITE SPOT"
+- source: @ladbible | https://www.instagram.com/reel/DbMNX2lE4hm/
+- lane: general
+- first-seen: 2026-07-27 | status: FRESH
+- stats-at-capture: 118756 likes / 573 comments (10.52x account median)
+- joke-structure: animal-with-a-routine — the comedy is competence, not chaos. The armadillo walks a known route with intent, and the text narrates it as a habit, so the payoff is how ordinary the absurd thing looks
+- the-beat: the walk 0:00-0:05, the climb 0:06-0:10, settled-in payoff 0:11-0:13. Cut on the climb at 0:06 if you want a short beat; the seated hold at 0:12 is the loop point
+- audio-model: flexible — nothing in the audio is the joke, so it ducks cleanly under a library track or plays as-is
+- pairs-with: any "he has a spot and that is HIS spot" beat over a user's own kid/pet/partner claiming a chair, or a "walks in like he owns the place" cutaway against a user's own arrival shot
+- file: clips/DbMNX2lE4hm.mp4 (16.3s)
+
+## DbQcn9Ls47b — Night on a bar strip: a young guy stands safely behind a glass door taunting a police officer on the other side, sticking his tongue out at him. The officer never engages. He calmly lifts his phone, presses the screen flat against the glass so the guy has to read it, and the guy immediately folds and turns away. Text: "THAT'S THE SMARTEST WAY I'VE SEEN A COP DEAL WITH SOMEONE..."
+- source: @pubity | https://www.instagram.com/reel/DbQcn9Ls47b/
+- lane: general
+- first-seen: 2026-07-27 | status: FRESH
+- stats-at-capture: 240720 likes / 1101 comments (9.5x account median)
+- joke-structure: escalation met with anticlimax — the setup promises a confrontation and the payoff is a completely silent, deadpan counter. The loudest person loses without anyone raising their voice
+- the-beat: taunting 0:00-0:07, the phone comes up 0:08, screen reveal 0:10, the guy deflates 0:12. Cut on the phone at 0:08 and let the reveal land; the deflate at 0:12 is the button
+- audio-model: diegetic (bakeable) — street noise and the taunting are the setup, and the silence on the payoff is doing work
+- pairs-with: a "said nothing and won" beat over a user's own footage (showing someone a screenshot instead of arguing), or any "I had the receipts" turn where the user's own reveal is the payoff
+- file: clips/DbQcn9Ls47b.mp4 (13.1s)
+
+## DbRF5SgDrB_ — Family around a kitchen island. A woman scratches what she thinks is a lottery ticket, reads "we're having a baby" out loud, and completely fails to understand it: "What the $@#%&" · "Where is that?" · "What does that even mean?" · "I don't have a baby" · "I'm not even joking you guys." Everyone else already knows. It takes her about twenty seconds to land on "Are you having a baby?" and then the whole room erupts. Burned-in captions throughout
+- source: @parents | https://www.instagram.com/reel/DbRF5SgDrB_/
+- lane: family
+- first-seen: 2026-07-27 | status: FRESH
+- stats-at-capture: 1307 likes / 12 comments (9.41x account median)
+- joke-structure: dramatic irony with a long fuse — the audience and the whole family are in on it, one person is not, and the comedy is entirely the length of her confusion. The longer she misreads it, the bigger the payoff
+- the-beat: scratch and misread 0:00-0:06, the oblivious stretch 0:06-0:19 (this is the funny part, not the reveal), the penny drops at 0:22, eruption 0:24-0:32. Cut on "What does that even mean?" at 0:11 for a short beat; keep 0:19-0:26 for the turn alone
+- audio-model: diegetic (bakeable) — the overlapping voices and the scream are the beat, and the captions are burned in, so it plays muted too
+- pairs-with: a "took them way too long to get it" beat over a user's own reveal footage (a surprise, a name drop, a gift), or a bambi-style bit where a parent misreads an obvious situation while everyone watches
+- file: clips/DbRF5SgDrB_.mp4 (42.4s)
+
+## DbS23kppOgh — Seven-second dev meme: a guy at a desk sits head-in-hands staring at his monitors under the text "That moment when your fix breaks prod", then a hard cut to the Tony Stark close-up meme frame captioned "JARVIS, WHAT IS THIS SHIT...?" with the Claude starburst logo glowing underneath
+- source: #programmerhumor | https://www.instagram.com/reel/DbS23kppOgh/
+- lane: tech
+- first-seen: 2026-07-27 | status: FRESH
+- stats-at-capture: 5 likes / 0 comments (hashtag recent_media, no account baseline)
+- joke-structure: two-panel meme — relatable pain in panel one, blame reassigned to the AI in panel two. The whole joke is the cut, and naming the tool is what makes it land for a build-in-public audience
+- the-beat: setup 0:00-0:03, cut on the turn at 0:04, payoff frame holds 0:04-0:06. The second panel needs its ~2s of reading time or the gag reads as noise
+- audio-model: trending sound (add in-app) — it is a short meme edit riding a licensed track; never bake this audio into a delivered MP4, pick the library sound natively in the app when posting
+- pairs-with: a user's own "the fix broke something else" moment as the setup, with this as the payoff panel; or any beat where the user blames their AI tool out loud. Only lend the second panel if the user's own footage carries panel one
+- file: clips/DbS23kppOgh.mp4 (7.0s)
+
+## DbG8iH0J-Yg — A Morning Brew correspondent walks a supermarket aisle holding a bottle of weedkiller and delivers a 2.5-minute piece on the pesticide industry: the Supreme Court Roundup ruling, a CNN card on glyphosate and cancer risk, Bayer's stock jump, a consolidation chart, EPA approval of a fifth "forever chemical" pesticide, PFAS residue on produce. Sincere consumer journalism end to end, no bit, no turn
+- source: @morningbrew | https://www.instagram.com/reel/DbG8iH0J-Yg/
+- lane: tech
+- first-seen: 2026-07-27 | status: DO-NOT-SPLICE
+- stats-at-capture: 16589 likes / 89 comments (2.92x account median)
+- joke-structure: none. The caption ("thank god my coworkers are chillers") reads like a skit and the footage is not one — this is exactly the guess the frame-sample exists to catch. No comedic mechanism, and cancer/pesticide-residue is not a subject to lend as a joke setup
+- the-beat: n/a
+- audio-model: n/a
+- pairs-with: nothing. Banked as a record only, so a later scan does not re-spend a download slot rediscovering it
+- file: clips/DbG8iH0J-Yg.mp4 (147.5s)
+
 ## DbG1EzpBH8r — Beach-club crowd at golden hour: Erling Haaland, in a novelty viking helmet with a red cape, dances shoulder-to-shoulder with fans while phones film him. A single static text card sits over the whole 12s: "INSTAGRAM IS COOL BECAUSE WE CAN POST THIS VIDEO OF HAALAND DANCING AND HE'LL JUST COMMENT WHAT HE HAD FOR BREAKFAST THIS MORNING"
 - source: @pubity | https://www.instagram.com/reel/DbG1EzpBH8r/
 - lane: general
@@ -75,16 +141,7 @@ touched.
 - pairs-with: bambi's eating-out-with-a-baby canon — a restaurant meltdown, the highchair refusal, the "we offered everything on the menu" beat. Also any "I made a reasonable offer and got destroyed" setup where the user's own real moment is the payoff. See playbook 23
 - file: clips/DbAyGZhDktL.mp4 (21.4s)
 
-## DavKOUfvEqI — AD, caught at frame-sampling. Opens as a joke ("Ai vs Umpire" over a cricket bat and tennis ball on a rooftop court) but turns into a full walkthrough of the Fulltrack AI app: App Store icon tap, the app's own onboarding screen ("Film and analyze your game like never before"), tripod setup, then branded Swing/Spin/Speed ball-tracking overlays and a SHARE button end-card
-- source: @techburner | https://www.instagram.com/reel/DavKOUfvEqI/
-- lane: tech
-- first-seen: 2026-07-23 | status: AD-REJECTED
-- stats-at-capture: 265563 likes / 565 comments (12.0x account median)
-- joke-structure: none that survives. The "AI vs umpire" framing is a hook onto a product demo — install flow, feature tour, branded analytics UI. The caption gave no ad signal (#ai #cricket #ipl), so the download slot was spent before the footage could be judged
-- the-beat: none usable — splicing any of it lends the app its marketing
-- audio-model: irrelevant — not for use
-- pairs-with: NOTHING. Promotional; never usable. Catalogued only so a later scan does not re-spend a download slot rediscovering it
-- file: clips/DavKOUfvEqI.mp4 (39.1s) — clip kept one cycle per the prune delay; a later scan deletes it
+## DavKOUfvEqI — [PRUNED AD-REJECTED] "Ai vs Umpire" hook that turns into a full Fulltrack AI app walkthrough (install flow, branded ball-tracking overlays); caption carried no ad signal so the slot was spent before the footage could be judged · https://www.instagram.com/reel/DavKOUfvEqI/ · first-seen 2026-07-23
 
 ## DXriT7ajsDu — POV meme: text "POV: You decide to take a break after grinding for 8 hours" over a young guy at a desk setup who leans back and picks up his phone to scroll, then HARD-CUTS to a (screen-recorded) David Goggins podcast clip pointing at camera, on-screen text "Get back to work" and captioned "Get back to fucking work"
 - source: @fortisclothing.co | https://www.instagram.com/p/DXriT7ajsDu/
