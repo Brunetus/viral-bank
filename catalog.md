@@ -20,6 +20,72 @@ touched.
 
 <!-- entries below, newest first -->
 
+## DbZYl9oJ9Cj — Helmet-cam rider pulls level with a car that had been driving hard, asks the driver why he was in such a rush, and the man deadpans "I'm dying" — he means he desperately needs a bathroom — then just drives off
+- source: @pubity | https://www.instagram.com/reel/DbZYl9oJ9Cj/
+- lane: general
+- first-seen: 2026-07-30 | status: FRESH
+- stats-at-capture: 129409 likes / 1619 comments (26.75x account median)
+- joke-structure: confrontation setup, deadpan anticlimax payoff — a build that promises road rage collapses into the most mundane possible reason
+- the-beat: confrontation build 0:00-0:20, the turn on "I'm dying" ~0:24, cut as he pulls away ~0:27
+- audio-model: diegetic (bakeable) — the exchange IS the joke and it is subtitled on screen
+- pairs-with: any "why is this suddenly so urgent" beat — a founder sprinting to fix a one-line bug, a parent speed-walking a stroller to the table before the hunger window closes
+- file: clips/DbZYl9oJ9Cj.mp4 (35.7s)
+
+## DbZkdaWJeb2 — A baby in a restaurant highchair gets his first bite of steak, goes wide-eyed feral and gnaws it two-handed while dad tries to hold it steady; held text "THAT FIRST BITE OF STEAK CHANGED MY SON'S LIFE"
+- source: @pubity | https://www.instagram.com/reel/DbZkdaWJeb2/
+- lane: general
+- first-seen: 2026-07-30 | status: FRESH
+- stats-at-capture: 86578 likes / 897 comments (17.86x account median)
+- joke-structure: intensity mismatch — a tiny person discovering an adult pleasure and refusing to hand it back; escalates rather than turning
+- the-beat: first bite ~0:02, the eyes go wide 0:08-0:14 (the reusable beat), two-handed refusal to let go 0:14-0:20
+- audio-model: flexible — no dialogue, restaurant ambience only; the beat is entirely visual
+- pairs-with: a bambi restaurant-with-a-baby moment (a highchair strap is visible in frame, so it cuts straight against real highchair footage); any "we let him try X and lost him" first-taste beat
+- file: clips/DbZkdaWJeb2.mp4 (22.3s)
+
+## DbWT85WBm0a — A small boy in a full Spider-Man suit slowly peels the mask off to "reveal his secret identity" to his parent and lands on a huge proud grin; held text "My son revealed his secret identity to me after the Spider-Man movie 😂"
+- source: @sportscenter | https://www.instagram.com/reel/DbWT85WBm0a/
+- lane: sports
+- first-seen: 2026-07-30 | status: FRESH
+- stats-at-capture: 927674 likes / 10291 comments (17.21x account median)
+- joke-structure: ceremonial reveal of something everyone already knows — total sincerity from the kid, and the "secret" is just his own face
+- the-beat: the slow mask peel 0:04-0:10, cut on the grin ~0:11
+- audio-model: trending sound (add in-app) — no dialogue, the reveal rides a music bed; do not bake it in
+- pairs-with: any "big dramatic unveiling of something obvious" beat — a founder revealing the feature that turned out to be one button, a toddler presenting a drawing as a masterwork
+- file: clips/DbWT85WBm0a.mp4 (15.1s)
+
+## DbTsR5LR5W3 — Office skit in a real conference room: five people wearing paper badges reading OpenAI, Microsoft, Nvidia and Google pass the same handful of cash and cards around the table in a closed loop, under a pinned Bloomberg chyron "Nvidia's $750 Billion in Deals Reignite Circular AI Fears"
+- source: @morningbrew | https://www.instagram.com/reel/DbTsR5LR5W3/
+- lane: tech
+- first-seen: 2026-07-30 | status: FRESH
+- stats-at-capture: 9312 likes / 100 comments (3.17x account median)
+- joke-structure: literal enactment of an abstract financial mechanic — the headline is the setup, watching the same money go in a circle is the payoff, no punchline is written
+- the-beat: headline card lands 0:00-0:03, money starts circulating ~0:05, cut once the loop is legible ~0:12
+- audio-model: trending sound (add in-app) — edited skit over a music bed; do not bake it in
+- pairs-with: an imabgold take on this week's AI headline with his own build as the thing being funded; any "the industry is just paying itself" bit
+- file: clips/DbTsR5LR5W3.mp4 (17.5s)
+
+## DbTc4IRhNDT — A woman sits inside a dryer drum wrapped in bedding and tumbles with it, playing the fitted sheet through its whole cycle, then the shot cuts to the real balled-up sheet alone in the drum; held text "POV: The fitted sheet in the dryer"
+- source: @9gag | https://www.instagram.com/reel/DbTc4IRhNDT/
+- lane: general
+- first-seen: 2026-07-30 | status: FRESH
+- stats-at-capture: 171867 likes / 1146 comments (2.73x account median)
+- joke-structure: inanimate-object personification — a human plays the object, then a reality-cut to the actual object is the button
+- the-beat: personified tumble 0:00-0:10, cut to the real balled sheet ~0:12 (the button)
+- audio-model: trending sound (add in-app) — no dialogue, performed to a track
+- pairs-with: any "the thing that quietly suffers while you do X" bit — the laptop during a 3am build, the stroller in an airport, the one toy that survives a day out
+- file: clips/DbTc4IRhNDT.mp4 (15.9s)
+
+## DbO74yghLkl — ITV game-show clip ("What Would Your Kid Do?"): a small girl calmly lectures the host that Dubai has a tropical desert climate while her parents watch from a booth visibly bracing, pleading "Please don't go for the giraffe"; overlaid text "My parents would disown me ASAP 🤣"
+- source: @daquan | https://www.instagram.com/reel/DbO74yghLkl/
+- lane: general
+- first-seen: 2026-07-30 | status: FRESH
+- stats-at-capture: 116585 likes / 1381 comments (2.22x account median)
+- joke-structure: tiny-adult confidence against parental helplessness — two-level comedy, the kid's deadpan expertise plus the powerless reaction shot
+- the-beat: the kid's lecture ~0:10-0:16, cut to the parents' plea ~0:29 (the reaction is the payoff, not the kid)
+- audio-model: diegetic (bakeable) — the subtitled dialogue is the joke
+- pairs-with: a bambi "we asked our kid and immediately regretted it" beat; any "watching someone represent you badly with no way to intervene" moment
+- file: clips/DbO74yghLkl.mp4 (44.3s)
+
 ## DbRGKvJz6bL — Suburban driveway hoop after rain: a middle-aged dad in floral shorts plays his two teenage sons, backs the shirtless one down, and buries a turnaround over him. Held text the whole clip: "DAD'S BAG WAS DEEPER THAN EXPECTED 😭😭". The other son doubles over screaming with his hands on his head, then the game just carries on
 - source: @houseofhighlights | https://www.instagram.com/reel/DbRGKvJz6bL/
 - lane: sports
@@ -75,17 +141,7 @@ touched.
 - pairs-with: a user's own "the fix broke something else" moment as the setup, with this as the payoff panel; or any beat where the user blames their AI tool out loud. Only lend the second panel if the user's own footage carries panel one
 - file: clips/DbS23kppOgh.mp4 (7.0s)
 
-## DbG8iH0J-Yg — A Morning Brew correspondent walks a supermarket aisle holding a bottle of weedkiller and delivers a 2.5-minute piece on the pesticide industry: the Supreme Court Roundup ruling, a CNN card on glyphosate and cancer risk, Bayer's stock jump, a consolidation chart, EPA approval of a fifth "forever chemical" pesticide, PFAS residue on produce. Sincere consumer journalism end to end, no bit, no turn
-- source: @morningbrew | https://www.instagram.com/reel/DbG8iH0J-Yg/
-- lane: tech
-- first-seen: 2026-07-27 | status: DO-NOT-SPLICE
-- stats-at-capture: 16589 likes / 89 comments (2.92x account median)
-- joke-structure: none. The caption ("thank god my coworkers are chillers") reads like a skit and the footage is not one — this is exactly the guess the frame-sample exists to catch. No comedic mechanism, and cancer/pesticide-residue is not a subject to lend as a joke setup
-- the-beat: n/a
-- audio-model: n/a
-- pairs-with: nothing. Banked as a record only, so a later scan does not re-spend a download slot rediscovering it
-- file: clips/DbG8iH0J-Yg.mp4 (147.5s)
-
+## DbG8iH0J-Yg — [PRUNED DO-NOT-SPLICE] Morning Brew correspondent walking a supermarket aisle with a bottle of weedkiller for a 2.5-minute sincere piece on the pesticide industry; caption read like a skit, footage was consumer journalism, no bit and no turn · https://www.instagram.com/reel/DbG8iH0J-Yg/ · first-seen 2026-07-27
 ## DbG1EzpBH8r — Beach-club crowd at golden hour: Erling Haaland, in a novelty viking helmet with a red cape, dances shoulder-to-shoulder with fans while phones film him. A single static text card sits over the whole 12s: "INSTAGRAM IS COOL BECAUSE WE CAN POST THIS VIDEO OF HAALAND DANCING AND HE'LL JUST COMMENT WHAT HE HAD FOR BREAKFAST THIS MORNING"
 - source: @pubity | https://www.instagram.com/reel/DbG1EzpBH8r/
 - lane: general

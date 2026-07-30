@@ -79,9 +79,14 @@ Splice: a "made by an actual human" flex over real footage.
 A direct plea to the algorithm over aspirational b-roll: "Dear instagram, please do your thing and connect me with [startup obsessed people who aren't afraid to start at 0]". Engagement-bait / manifestation framing that invites comments and openly signals the exact audience you want to reach.
 Use: an imabgold "connect me with other people building with Claude / non-technical founders shipping real things" version over the user's OWN build/founder footage — the caption is the hook, the user's material is the hero and the b-roll. Drives COMMENTS more than watch-time (a saves/shares + reach play). Recreate the format with your own footage; don't repost someone else's clip. (Sourced from @aarondambruso; the footage was cut from the bank as ad-adjacent — the caption is the viral asset.)
 
-**22. Role-labelled news dramatisation (two-hander)** · audio: diegetic (bakeable) · 🔥 LIVE (2026-07-23) ·scan · → clips/ DbHFRLzJjuH
+**22. Role-labelled news dramatisation (two-hander or ensemble)** · audio: diegetic (bakeable) · 🔥 LIVE (2026-07-30) ·scan · → clips/ DbHFRLzJjuH, DbTsR5LR5W3
 A real headline is pinned as a card up top, then two performers act it out wearing floating on-screen labels for who they are ("AI" / "AI companies"), one of them playing the powerful party as a dopey child. No punchline is written — the actual facts of the story are the punchline, and a naive "yay that sounds cool and fun" is the button.
-Splice: label yourself and the thing you're fighting, act out this week's real AI news, and let the user's own build/screen be what the joke is defended against. Works solo too (film both roles, swap the label). (source: https://www.instagram.com/reel/DbHFRLzJjuH/)
+Splice: label yourself and the thing you're fighting, act out this week's real AI news, and let the user's own build/screen be what the joke is defended against. Works solo too (film both roles, swap the label). Re-sighted 2026-07-30 in an ensemble variant: a whole conference table of people in paper company badges passing the same money in a circle under a Bloomberg chyron, so the label can be a worn prop rather than a floating graphic. (sources: https://www.instagram.com/reel/DbHFRLzJjuH/ · https://www.instagram.com/reel/DbTsR5LR5W3/)
+
+**24. "POV: the [inanimate object]" personification** · audio: trending sound (add in-app) · 🔥 LIVE (2026-07-30) ·scan · → clips/ DbTc4IRhNDT
+A human physically climbs into the object's situation and performs its entire ordeal in character, held text naming it ("POV: the fitted sheet in the dryer"). Then a hard reality-cut to the actual object alone is the button.
+The joke lives in the commitment to the bit and the deflation of that cut, not in any line.
+Splice: name the object that quietly suffers in the user's real routine (the laptop at 3am, the stroller in an airport, the highchair at the end of a meal), perform its ordeal, then reality-cut to the user's own footage of the real thing. (source: https://www.instagram.com/reel/DbTc4IRhNDT/)
 
 ## Family lane (feeds @bambi.map)
 
@@ -104,6 +109,11 @@ Splice: a bambi "we travel + eat out with a baby" hero moment.
 **23. One parent performs both sides of the refusal loop** · audio: diegetic (bakeable) · 🔥 LIVE (2026-07-23) ·scan · → clips/ DbAyGZhDktL
 Selfie-cam, one performer flipping between a soft reasonable-parent voice and a feral toddler "NO!" on every line, escalating through better and better offers until the last one is refused too. The comedy is the speed of the face-switch plus pure recognition.
 Splice: a bambi "we offered the entire menu and got destroyed" beat — perform the loop over the real restaurant/highchair moment, and let the actual footage of the meltdown be the payoff. (source: https://www.instagram.com/reel/DbAyGZhDktL/)
+
+**25. Kid ceremonially reveals a "secret identity"** · audio: trending sound (add in-app) · 🔥 LIVE (2026-07-30) ·scan · → clips/ DbWT85WBm0a
+Costume on, then a slow deliberate mask-peel performed with total gravity, while held text reframes it as a confession made to the parent ("my son revealed his secret identity to me after the Spider-Man movie").
+The joke lives in the gap between the ceremony and the fact that everybody already knows the answer; the caption does the framing, the kid plays it dead straight.
+Splice: any reveal in the user's own footage that is technically obvious — the feature that turned out to be one button, the toddler's "masterpiece", the highchair that was there all along — filmed as a solemn unveiling with the caption carrying the bit. (source: https://www.instagram.com/reel/DbWT85WBm0a/)
 
 ## Sports (feeds everyone)
 
