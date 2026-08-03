@@ -55,6 +55,10 @@ Splice: a user POV mini-scene setup; the payoff is their punchline.
 Single person, low-production, mouthing a song completely deadpan. The format IS the hook (@cio0061, 7.4M likes).
 Splice: a deadpan "me, unbothered, while X" reaction over a user's chaos. BANKED — see catalog.md.
 
+**26. "Meet my [X], they are very [trait]" — the footage instantly disproves the claim** · audio: diegetic (bakeable) · 🔥 LIVE (2026-08-03) ·scan · → clips/ DbjAfeTsSCh
+Held text makes a flat, confident claim about a subject who is visibly doing the opposite in the same frame, and nobody ever acknowledges it. The tension is then paid off by escalating the contradiction all the way to an extreme close-up reveal, not by a written punchline.
+Splice: claim the thing the user is transparently bad at ("I am very disciplined about stopping at 6pm", "she is very calm about restaurants"), then let their own footage be the contradiction and cut hard to the close-up. (source: https://www.instagram.com/reel/DbjAfeTsSCh/)
+
 ## Tech / builder lane (feeds @imabgold)
 
 **9. "Build this in 15 seconds" AI/template tutorial** · audio: flexible
@@ -114,6 +118,10 @@ Splice: a bambi "we offered the entire menu and got destroyed" beat — perform 
 Costume on, then a slow deliberate mask-peel performed with total gravity, while held text reframes it as a confession made to the parent ("my son revealed his secret identity to me after the Spider-Man movie").
 The joke lives in the gap between the ceremony and the fact that everybody already knows the answer; the caption does the framing, the kid plays it dead straight.
 Splice: any reveal in the user's own footage that is technically obvious — the feature that turned out to be one button, the toddler's "masterpiece", the highchair that was there all along — filmed as a solemn unveiling with the caption carrying the bit. (source: https://www.instagram.com/reel/DbWT85WBm0a/)
+
+**27. Quiet hold, then one line of text tells you what you are actually looking at** · audio: diegetic (bakeable) · CAPTION FORMAT, no clip banked · 🔥 LIVE (2026-08-03) ·scan
+No cuts, no performance, no movement. One unbroken close hold on something small and ordinary, and a single line of held text lands a few seconds in and recontextualises the whole frame ("she gave her thumb to her twin brother who was crying"). The viewer rewatches to see the detail they just missed, which is where the loop comes from.
+Splice: the user's own quiet footage is the entire reel. Shoot one long still take of a real small moment, then reveal in text what was actually happening in it. Directly answers taste.md's finding that explaining the concept dies at 88% skip while showing a moment holds. (source: https://www.instagram.com/reel/DbjVJzxMvly/ — footage itself is unusable, identifiable strangers' newborns)
 
 ## Sports (feeds everyone)
 

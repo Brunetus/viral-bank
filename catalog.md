@@ -20,6 +20,63 @@ touched.
 
 <!-- entries below, newest first -->
 
+## DbjAfeTsSCh — On-screen text introduces "my cat Elsa, she is very stealthy" while Elsa sits in plain sight in a cardboard wall-cube; the owner ducks behind a wall to hide, the frame goes blank, and Elsa's enormous face slides into the lens from two inches away
+- source: @pubity | https://www.instagram.com/reel/DbjAfeTsSCh/
+- lane: general
+- first-seen: 2026-08-03 | status: FRESH
+- stats-at-capture: 106644 likes / 463 comments (27.65x account median)
+- joke-structure: confident claim, footage immediately contradicts it, then the contradiction escalates into a jumpscare-scale close-up payoff
+- the-beat: claim + visible-cat contradiction 0:00-0:09, the hide-behind-the-wall dead air 0:09-0:19 (holdable or trimmable), face-in-lens payoff at 0:20-0:22 — cut on the reveal
+- audio-model: diegetic (bakeable) — the whole clip is room tone and the reveal is visual, so nothing is lost muting it under a trending track either
+- pairs-with: any "I am very sneaky/subtle about X" claim that the user's own footage instantly disproves — a "I only checked the analytics once today" beat, a toddler who has been spotted from across the restaurant, a founder claiming he is taking a day off
+- file: clips/DbjAfeTsSCh.mp4 (23s)
+
+## DbkOasfBRTc — A Yorkie blocks its owner from the laundry, and when he keeps reaching for it the dog escalates by climbing bodily into the dryer and sitting in the clothes, staring him down from inside the drum
+- source: @pubity | https://www.instagram.com/reel/DbkOasfBRTc/
+- lane: general
+- first-seen: 2026-08-03 | status: FRESH
+- stats-at-capture: 28793 likes / 410 comments (7.54x account median)
+- joke-structure: escalating protest, then a commitment-beyond-reason payoff — the deadpan stare from inside the machine is the punchline
+- the-beat: blocking/protest 0:00-0:06, the climb-in at 0:06-0:08 is the turn, stare-down holds 0:10-0:25 — cut on the climb-in and hold two beats of the stare
+- audio-model: diegetic (bakeable) — handheld room audio, no music; carries fine on its own or ducks under a track
+- pairs-with: any "I said no and it did it anyway" beat — a build that ignored the spec, a toddler reclaiming the thing you just took away, a laptop refusing to close a job
+- file: clips/DbkOasfBRTc.mp4 (25s)
+
+## Dbi8hsFxMD9 — Caption says a real estate agent fell down the stairs during a house viewing; the agent steps back onto the top stair mid-sentence and goes down the whole flight, landing in a heap at the bottom while the camera keeps filming
+- source: @sportscenter | https://www.instagram.com/reel/Dbi8hsFxMD9/
+- lane: sports
+- first-seen: 2026-08-03 | status: FRESH
+- stats-at-capture: 426837 likes / 19356 comments (4.58x account median)
+- joke-structure: mundane setup, physical anticlimax — an authority figure loses all composure in one unbroken shot
+- the-beat: normal walkthrough 0:00-0:02, the fall at 0:02-0:04 is the entire payoff, 6.5s total — usable nearly whole
+- audio-model: diegetic (bakeable) — the thumps and the off-camera reaction are the beat; a trending track can replace it without losing the visual gag
+- pairs-with: any "the professional handling it confidently" setup that collapses — a demo that dies on stage, a parent executing a plan flawlessly right up until it fails, a tool that worked until someone watched
+- file: clips/Dbi8hsFxMD9.mp4 (6.5s)
+
+## DbjVJzxMvly — Static close hold on newborn twins in a parent's arms, one asleep with her thumb in her crying brother's mouth; on-screen text reveals "she gave her thumb to her twin brother who was crying"
+- source: @pubity | https://www.instagram.com/reel/DbjVJzxMvly/
+- lane: general
+- first-seen: 2026-08-03 | status: DO-NOT-SPLICE
+- stats-at-capture: 144015 likes / 1375 comments (37.53x account median)
+- reason: real, non-promotional footage with no comedic or splice mechanism — a sincere wholesome hold of identifiable strangers' newborns. Banked as a record only so a later scan does not re-spend a download slot on it. The reusable value was the FORMAT, captured as playbook entry 27.
+- file: clips/DbjVJzxMvly.mp4 (10.4s)
+
+## DbkuBBRKD4T — Selfie hook with held text "my tech leader to me & my colleagues", then a hard cut to a Bollywood film clip captioned "Tech Lead Be Like:" of a character over-explaining at everyone
+- source: #programmerhumor | https://www.instagram.com/reel/DbkuBBRKD4T/
+- lane: tech
+- first-seen: 2026-08-03 | status: DO-NOT-SPLICE
+- stats-at-capture: 19 likes / 0 comments (hashtag recent_media, no account baseline)
+- reason: the joke is real, but neither half of the footage is lendable — an identifiable stranger's selfie plus a copyrighted Bollywood film clip that would put the delivered MP4 at rights risk. The format ("my [authority figure] to me" cut to an exaggerated character reaction) is generic and already close to playbook 22; it was held back at the 2-entry cap. Banked as a record so a later scan does not re-spend a slot on it.
+- file: clips/DbkuBBRKD4T.mp4 (9.3s)
+
+## DbZD_IcxCMy — A 1:44 talking-head explainer reading out a news story about a $50B data center approved in rural Louisiana under a secret codename, with satellite b-roll, tax-break figures and a New York Times pull-quote about flood insurance
+- source: @morningbrew | https://www.instagram.com/reel/DbZD_IcxCMy/
+- lane: tech
+- first-seen: 2026-08-03 | status: DO-NOT-SPLICE
+- stats-at-capture: 11407 likes / 421 comments (5.17x account median)
+- reason: straight news journalism, no joke and no turn to lend, and at 104s there is no clean beat to cut on. Not an ad, just not spliceable. Banked as a record so a later scan does not re-download it.
+- file: clips/DbZD_IcxCMy.mp4 (104s)
+
 ## DbZYl9oJ9Cj — Helmet-cam rider pulls level with a car that had been driving hard, asks the driver why he was in such a rush, and the man deadpans "I'm dying" — he means he desperately needs a bathroom — then just drives off
 - source: @pubity | https://www.instagram.com/reel/DbZYl9oJ9Cj/
 - lane: general
