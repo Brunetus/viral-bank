@@ -20,6 +20,72 @@ touched.
 
 <!-- entries below, newest first -->
 
+## DbrDhZ4suSs — Held text says "these puppies hide so well their owner put bells on them", the camera hunts an empty bedroom, floor and baseboard finding nothing, then a tiny dachshund with a bright pink bell on its collar is discovered wedged against the skirting board staring up at the lens, and a second one is found in the next gap
+- source: @pubity | https://www.instagram.com/reel/DbrDhZ4suSs/
+- lane: general
+- first-seen: 2026-08-06 | status: FRESH
+- stats-at-capture: 210778 likes / 585 comments (53.78x account median)
+- joke-structure: absurd-but-logical coping hack stated up front, then a POV hunt that pays off in a reveal — the bell explains the search and the search makes the reveal land
+- the-beat: text + empty-room hunt 0:00-0:04 (nothing in frame, this is the tension), first puppy reveal at 0:05, second find at ~0:13 — cut on the 0:05 reveal, or run both finds for a double payoff
+- audio-model: flexible — the bell jingle is a genuine diegetic bonus, but the reveal is entirely visual and survives being ducked under a trending track
+- pairs-with: any "I had to invent a system to find this thing" beat where the user's own footage is the search — hunting the one restaurant with a highchair, hunting the bug that only appears in production, a toddler who has gone silent in a hotel room
+- file: clips/DbrDhZ4suSs.mp4 (16.2s)
+
+## DbmQH7CtNX- — IShowSpeed's brother, blindfolded and in a Buc-ee's beaver onesie, bites unmarked fast-food burgers and names the chain each time; Speed pulls the next one from a bag, holds the Sonic/McDonald's packaging up to camera to confirm the call, and gets progressively more wrecked, ending with both hands on his own head
+- source: @sportscenter | https://www.instagram.com/reel/DbmQH7CtNX-/
+- lane: sports
+- first-seen: 2026-08-06 | status: FRESH
+- stats-at-capture: 2404356 likes / 12774 comments (30.22x account median)
+- joke-structure: repeating challenge cycle — impossible claim, blind attempt, brand-reveal confirmation, escalating disbelief from the witness. The witness's reaction is the joke, not the feat
+- the-beat: 111s of repeated cycles, so lift ONE. Cleanest single cycle is 0:28-0:45 (burger out of the bag → blind bite → the Sonic bag held to camera as proof); peak reaction is the head-grab at ~1:28. Cut on a reveal-then-react pair, never run the whole thing
+- audio-model: diegetic (bakeable) — the reactions and the calls are the beat; muting this clip removes the joke
+- pairs-with: any "I did not believe this would work and it did" moment where the user is the stunned witness — a prompt that one-shots the feature, a toddler who eats the entire unfamiliar meal, a guess that turns out exactly right
+- file: clips/DbmQH7CtNX-.mp4 (111.4s)
+
+## Dbr6mRMJewR — Held text reads "POV: your dad said he didn't want a puppy" over a man on a sofa working at a laptop in pyjama pants, with an apricot cockapoo puppy draped asleep across his shoulder and neck the entire time; he never acknowledges it and quietly smiles at the camera
+- source: @pubity | https://www.instagram.com/reel/Dbr6mRMJewR/
+- lane: general
+- first-seen: 2026-08-06 | status: FRESH
+- stats-at-capture: 41643 likes / 170 comments (10.64x account median)
+- joke-structure: reported past refusal versus present visible evidence — the subject is caught in the contradiction and refuses to comment on it, which is the whole gag
+- the-beat: text over the wide 0:00-0:02, puppy readable on the shoulder from 0:03, his knowing look ~0:05-0:08 — cut on the moment the puppy registers, hold for the smile
+- audio-model: trending sound (add in-app) — quiet room, no dialogue, no diegetic beat; this format rides a soft library track and must not be baked in
+- pairs-with: any "they swore they were against this" reversal in the user's own footage — the partner who did not want the trip photos, the founder who said he would never let AI touch the codebase, the parent who said no more toys in the suitcase
+- file: clips/Dbr6mRMJewR.mp4 (11.1s)
+
+## DbsPBsrB6hm — Held text says "he hit that backflip and the monkeys were hyped"; a man at a zoo enclosure lands a standing backflip on the path, and the macaques behind the glass erupt, launching themselves off the wall and bouncing around the enclosure while he watches
+- source: @pubity | https://www.instagram.com/reel/DbsPBsrB6hm/
+- lane: general
+- first-seen: 2026-08-06 | status: FRESH
+- stats-at-capture: 39489 likes / 292 comments (10.12x account median)
+- joke-structure: the human does the impressive thing, but the payoff is entirely the audience's reaction — the joke is that the crowd is monkeys and they are genuinely losing it
+- the-beat: approach + text 0:00-0:03, backflip lands ~0:04, monkeys erupt 0:05-0:14 (this is the payoff, hold it), the guys wander off 0:16-0:18 — cut on the eruption at 0:05
+- audio-model: flexible — the enclosure noise adds to it but nothing is said; works ducked under a trending track
+- pairs-with: any "I did one small thing and the reaction was disproportionate" beat — a first sale notification, a toddler applauding something trivial, a demo that got a bigger reaction than the product deserved
+- file: clips/DbsPBsrB6hm.mp4 (18.6s)
+
+## DbqpAqORnm8 — A suited correspondent walk-and-talks through Manhattan for two full minutes explaining how Citadel bought out Leopold Aschenbrenner's Situational Awareness fund after AI-stock losses, with WSJ/NYT/Bloomberg headline screenshots, a stock heatmap and reaction memes ("he's a grower, not a shower", "inside you there are two wolves") pasted over almost every line
+- source: @morningbrew | https://www.instagram.com/reel/DbqpAqORnm8/
+- lane: tech
+- first-seen: 2026-08-06 | status: DO-NOT-SPLICE
+- stats-at-capture: 13806 likes / 81 comments (4.3x account median)
+- joke-structure: none liftable — the jokes are meme overlays annotating a specific finance news story, so no beat survives being separated from the two-minute narration that sets it up
+- the-beat: n/a — there is no turn, only a continuous explainer. Banked as a record only; the reusable value was captured as a playbook format instead (see playbook #28)
+- audio-model: diegetic (bakeable) — wall-to-wall narration, but irrelevant since the clip is not for splicing
+- pairs-with: nothing — do not splice. The FORMAT is the asset; rebuild it with the user's own footage per playbook #28
+- file: clips/DbqpAqORnm8.mp4 (120.2s)
+
+## Dbnyi4guiod — Held text reads "whole squad pulled up to the movie"; a full-size Hulk and two Spider-Men in complete costume are crammed into a cinema row, climbing over the seat backs and squeezing past the actual paying audience, whose view is now entirely a green bodybuilder
+- source: @houseofhighlights | https://www.instagram.com/reel/Dbnyi4guiod/
+- lane: sports
+- first-seen: 2026-08-06 | status: FRESH
+- stats-at-capture: 211955 likes / 828 comments (2.5x account median)
+- joke-structure: total over-commitment played straight in a setting that punishes it — nobody breaks character, and the comedy is the innocent bystanders behind them
+- the-beat: whole 13s is one sustained bit; the strongest window is the Spider-Man clamber over the seats at 0:04-0:08 — cut there and let the person behind them be visible in frame
+- audio-model: flexible — ambient cinema chatter only, no line to protect
+- pairs-with: any "we massively overdid it for a normal occasion" beat — arriving at a casual dinner with the full baby setup, a two-week build for a one-button feature, the stroller-plus-bags entrance into a small restaurant
+- file: clips/Dbnyi4guiod.mp4 (13.1s)
+
 ## DbjAfeTsSCh — On-screen text introduces "my cat Elsa, she is very stealthy" while Elsa sits in plain sight in a cardboard wall-cube; the owner ducks behind a wall to hide, the frame goes blank, and Elsa's enormous face slides into the lens from two inches away
 - source: @pubity | https://www.instagram.com/reel/DbjAfeTsSCh/
 - lane: general
@@ -53,29 +119,11 @@ touched.
 - pairs-with: any "the professional handling it confidently" setup that collapses — a demo that dies on stage, a parent executing a plan flawlessly right up until it fails, a tool that worked until someone watched
 - file: clips/Dbi8hsFxMD9.mp4 (6.5s)
 
-## DbjVJzxMvly — Static close hold on newborn twins in a parent's arms, one asleep with her thumb in her crying brother's mouth; on-screen text reveals "she gave her thumb to her twin brother who was crying"
-- source: @pubity | https://www.instagram.com/reel/DbjVJzxMvly/
-- lane: general
-- first-seen: 2026-08-03 | status: DO-NOT-SPLICE
-- stats-at-capture: 144015 likes / 1375 comments (37.53x account median)
-- reason: real, non-promotional footage with no comedic or splice mechanism — a sincere wholesome hold of identifiable strangers' newborns. Banked as a record only so a later scan does not re-spend a download slot on it. The reusable value was the FORMAT, captured as playbook entry 27.
-- file: clips/DbjVJzxMvly.mp4 (10.4s)
+## DbjVJzxMvly — [PRUNED DO-NOT-SPLICE] Static close hold on newborn twins, one asleep with her thumb in her crying brother's mouth, recontextualised by one line of held text; no comedic mechanism and identifiable strangers' newborns — format kept as playbook 27 · https://www.instagram.com/reel/DbjVJzxMvly/ · first-seen 2026-08-03
 
-## DbkuBBRKD4T — Selfie hook with held text "my tech leader to me & my colleagues", then a hard cut to a Bollywood film clip captioned "Tech Lead Be Like:" of a character over-explaining at everyone
-- source: #programmerhumor | https://www.instagram.com/reel/DbkuBBRKD4T/
-- lane: tech
-- first-seen: 2026-08-03 | status: DO-NOT-SPLICE
-- stats-at-capture: 19 likes / 0 comments (hashtag recent_media, no account baseline)
-- reason: the joke is real, but neither half of the footage is lendable — an identifiable stranger's selfie plus a copyrighted Bollywood film clip that would put the delivered MP4 at rights risk. The format ("my [authority figure] to me" cut to an exaggerated character reaction) is generic and already close to playbook 22; it was held back at the 2-entry cap. Banked as a record so a later scan does not re-spend a slot on it.
-- file: clips/DbkuBBRKD4T.mp4 (9.3s)
+## DbkuBBRKD4T — [PRUNED DO-NOT-SPLICE] "My tech leader to me & my colleagues" selfie hook cut to a Bollywood film clip; neither half lendable (identifiable stranger + copyrighted film footage) · https://www.instagram.com/reel/DbkuBBRKD4T/ · first-seen 2026-08-03
 
-## DbZD_IcxCMy — A 1:44 talking-head explainer reading out a news story about a $50B data center approved in rural Louisiana under a secret codename, with satellite b-roll, tax-break figures and a New York Times pull-quote about flood insurance
-- source: @morningbrew | https://www.instagram.com/reel/DbZD_IcxCMy/
-- lane: tech
-- first-seen: 2026-08-03 | status: DO-NOT-SPLICE
-- stats-at-capture: 11407 likes / 421 comments (5.17x account median)
-- reason: straight news journalism, no joke and no turn to lend, and at 104s there is no clean beat to cut on. Not an ad, just not spliceable. Banked as a record so a later scan does not re-download it.
-- file: clips/DbZD_IcxCMy.mp4 (104s)
+## DbZD_IcxCMy — [PRUNED DO-NOT-SPLICE] 1:44 talking-head news explainer on a $50B Louisiana data center approved under a secret codename; straight journalism, no joke and no clean beat to cut on · https://www.instagram.com/reel/DbZD_IcxCMy/ · first-seen 2026-08-03
 
 ## DbZYl9oJ9Cj — Helmet-cam rider pulls level with a car that had been driving hard, asks the driver why he was in such a rush, and the man deadpans "I'm dying" — he means he desperately needs a bathroom — then just drives off
 - source: @pubity | https://www.instagram.com/reel/DbZYl9oJ9Cj/

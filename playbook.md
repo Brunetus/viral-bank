@@ -55,9 +55,9 @@ Splice: a user POV mini-scene setup; the payoff is their punchline.
 Single person, low-production, mouthing a song completely deadpan. The format IS the hook (@cio0061, 7.4M likes).
 Splice: a deadpan "me, unbothered, while X" reaction over a user's chaos. BANKED — see catalog.md.
 
-**26. "Meet my [X], they are very [trait]" — the footage instantly disproves the claim** · audio: diegetic (bakeable) · 🔥 LIVE (2026-08-03) ·scan · → clips/ DbjAfeTsSCh
+**26. "Meet my [X], they are very [trait]" — the footage instantly disproves the claim** · audio: diegetic (bakeable) · 🔥 LIVE (2026-08-06) ·scan · → clips/ DbjAfeTsSCh, Dbr6mRMJewR
 Held text makes a flat, confident claim about a subject who is visibly doing the opposite in the same frame, and nobody ever acknowledges it. The tension is then paid off by escalating the contradiction all the way to an extreme close-up reveal, not by a written punchline.
-Splice: claim the thing the user is transparently bad at ("I am very disciplined about stopping at 6pm", "she is very calm about restaurants"), then let their own footage be the contradiction and cut hard to the close-up. (source: https://www.instagram.com/reel/DbjAfeTsSCh/)
+Splice: claim the thing the user is transparently bad at ("I am very disciplined about stopping at 6pm", "she is very calm about restaurants"), then let their own footage be the contradiction and cut hard to the close-up. Re-sighted 2026-08-06 in a past-tense variant that is cheaper to shoot: instead of a present-tense trait, the text reports a REFUSAL that already happened ("POV: your dad said he didn't want a puppy") while the evidence sits in frame the whole time — no escalation and no close-up needed, the subject just declines to acknowledge it and smiles. Use this version when the user has a real "they swore they were against this" reversal. (sources: https://www.instagram.com/reel/DbjAfeTsSCh/ · https://www.instagram.com/reel/Dbr6mRMJewR/)
 
 ## Tech / builder lane (feeds @imabgold)
 
@@ -92,6 +92,10 @@ A human physically climbs into the object's situation and performs its entire or
 The joke lives in the commitment to the bit and the deflation of that cut, not in any line.
 Splice: name the object that quietly suffers in the user's real routine (the laptop at 3am, the stroller in an airport, the highchair at the end of a meal), perform its ordeal, then reality-cut to the user's own footage of the real thing. (source: https://www.instagram.com/reel/DbTc4IRhNDT/)
 
+**28. Walk-and-talk explainer with headline screenshots as receipts** · audio: diegetic (bakeable) · FORMAT ONLY, footage unusable · 🔥 LIVE (2026-08-06) ·scan · → clips/ DbqpAqORnm8 (DO-NOT-SPLICE, record only)
+One narrator walks a city street straight through the whole piece, never stopping, while the screen is papered with real headline screenshots (WSJ, NYT, Bloomberg) pinned over each claim as proof, plus a reaction meme dropped on the punchline of every second line. The walking is what makes two minutes of finance explainer watchable — the camera never sits still and the receipts do the credibility work so the narrator can stay funny.
+Splice: an imabgold "here is what actually happened this week in AI" walk, with real Anthropic/OpenAI headlines pinned as receipts and the user's own build screen as the payoff shot at the end. The hero material is the user talking and their real screen; the headlines are set dressing. Note it is a long-form format — taste.md says length is fine now when the story keeps opening, but only with a turn every few seconds. (source: https://www.instagram.com/reel/DbqpAqORnm8/)
+
 ## Family lane (feeds @bambi.map)
 
 **14. Toddler bumps head, no words to express it** · audio: diegetic (bakeable)
@@ -122,6 +126,10 @@ Splice: any reveal in the user's own footage that is technically obvious — the
 **27. Quiet hold, then one line of text tells you what you are actually looking at** · audio: diegetic (bakeable) · CAPTION FORMAT, no clip banked · 🔥 LIVE (2026-08-03) ·scan
 No cuts, no performance, no movement. One unbroken close hold on something small and ordinary, and a single line of held text lands a few seconds in and recontextualises the whole frame ("she gave her thumb to her twin brother who was crying"). The viewer rewatches to see the detail they just missed, which is where the loop comes from.
 Splice: the user's own quiet footage is the entire reel. Shoot one long still take of a real small moment, then reveal in text what was actually happening in it. Directly answers taste.md's finding that explaining the concept dies at 88% skip while showing a moment holds. (source: https://www.instagram.com/reel/DbjVJzxMvly/ — footage itself is unusable, identifiable strangers' newborns)
+
+**29. "I had to tag it to find it" — stated hack, empty-frame hunt, reveal** · audio: flexible · 🔥 LIVE (2026-08-06) ·scan · → clips/ DbrDhZ4suSs
+One line of held text states an absurd-but-logical coping hack up front ("these puppies hide so well their owner put bells on them"), and then the reel is just the search: several seconds of genuinely empty frame, panning past ordinary furniture and finding nothing. The hack is what licenses the boring footage, and the emptiness is what makes the eventual reveal land.
+Splice: bambi's version is the hunt itself — "restaurants hide their highchairs so well I started mapping them", then real footage of scanning a room, then the find. Works for any user problem where the search is the story: the one outlet in the airport, the bug that only shows in production, the toddler who has gone quiet. The user's own hunt footage IS the reel; only the text template is borrowed. (source: https://www.instagram.com/reel/DbrDhZ4suSs/)
 
 ## Sports (feeds everyone)
 
