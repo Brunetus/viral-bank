@@ -59,6 +59,11 @@ Splice: a deadpan "me, unbothered, while X" reaction over a user's chaos. BANKED
 Held text makes a flat, confident claim about a subject who is visibly doing the opposite in the same frame, and nobody ever acknowledges it. The tension is then paid off by escalating the contradiction all the way to an extreme close-up reveal, not by a written punchline.
 Splice: claim the thing the user is transparently bad at ("I am very disciplined about stopping at 6pm", "she is very calm about restaurants"), then let their own footage be the contradiction and cut hard to the close-up. Re-sighted 2026-08-06 in a past-tense variant that is cheaper to shoot: instead of a present-tense trait, the text reports a REFUSAL that already happened ("POV: your dad said he didn't want a puppy") while the evidence sits in frame the whole time — no escalation and no close-up needed, the subject just declines to acknowledge it and smiles. Use this version when the user has a real "they swore they were against this" reversal. (sources: https://www.instagram.com/reel/DbjAfeTsSCh/ · https://www.instagram.com/reel/Dbr6mRMJewR/)
 
+**31. "I was filming X being naughty and then they [did something human]"** · audio: flexible · 🔥 LIVE (2026-08-10) ·scan · → clips/ Db0w88EMV_E
+One line of held text frames ordinary bad behaviour as the setup, then the subject notices the camera, freezes, and does one small unmistakably human thing — a raised paw, a wave, a nod. The text is what turns a boring surveillance clip into a two-beat joke: without it you have footage, with it you have a caught-red-handed confession.
+Splice: point it at whoever in the user's life is reliably guilty — the toddler mid-mess, the dog on the sofa, the build that only breaks when watched — and let the real "caught" moment be the payoff. The user's own unedited footage IS the reel; only the text frame is borrowed, and the clip runs best under 10 seconds so the freeze reads. (source: https://www.instagram.com/reel/Db0w88EMV_E/)
+
+
 ## Tech / builder lane (feeds @imabgold)
 
 **9. "Build this in 15 seconds" AI/template tutorial** · audio: flexible
@@ -92,9 +97,9 @@ A human physically climbs into the object's situation and performs its entire or
 The joke lives in the commitment to the bit and the deflation of that cut, not in any line.
 Splice: name the object that quietly suffers in the user's real routine (the laptop at 3am, the stroller in an airport, the highchair at the end of a meal), perform its ordeal, then reality-cut to the user's own footage of the real thing. (source: https://www.instagram.com/reel/DbTc4IRhNDT/)
 
-**28. Walk-and-talk explainer with headline screenshots as receipts** · audio: diegetic (bakeable) · FORMAT ONLY, footage unusable · 🔥 LIVE (2026-08-06) ·scan · → clips/ DbqpAqORnm8 (DO-NOT-SPLICE, record only)
+**28. Walk-and-talk explainer with headline screenshots as receipts** · audio: diegetic (bakeable) · FORMAT ONLY, footage unusable · 🔥 LIVE (2026-08-10) ·scan · → clips/ DbtHfp7xXOQ, DbwA-X6xW_C (both DO-NOT-SPLICE, record only; the original DbqpAqORnm8 clip has been pruned, tombstone only)
 One narrator walks a city street straight through the whole piece, never stopping, while the screen is papered with real headline screenshots (WSJ, NYT, Bloomberg) pinned over each claim as proof, plus a reaction meme dropped on the punchline of every second line. The walking is what makes two minutes of finance explainer watchable — the camera never sits still and the receipts do the credibility work so the narrator can stay funny.
-Splice: an imabgold "here is what actually happened this week in AI" walk, with real Anthropic/OpenAI headlines pinned as receipts and the user's own build screen as the payoff shot at the end. The hero material is the user talking and their real screen; the headlines are set dressing. Note it is a long-form format — taste.md says length is fine now when the story keeps opening, but only with a turn every few seconds. (source: https://www.instagram.com/reel/DbqpAqORnm8/)
+Splice: an imabgold "here is what actually happened this week in AI" walk, with real Anthropic/OpenAI headlines pinned as receipts and the user's own build screen as the payoff shot at the end. The hero material is the user talking and their real screen; the headlines are set dressing. Note it is a long-form format — taste.md says length is fine now when the story keeps opening, but only with a turn every few seconds. Re-sighted twice on 2026-08-10 (an AI-books piece and a Lululemon piece, 88k and 23k likes), which makes this morningbrew's house format rather than a one-off — it is the single most reliably-spiking structure the scan sees, and it is also the reason those clips are never splice donors: the presenter is identifiable and the words are real reporting. Borrow the structure only. (sources: https://www.instagram.com/reel/DbtHfp7xXOQ/ · https://www.instagram.com/reel/DbwA-X6xW_C/)
 
 ## Family lane (feeds @bambi.map)
 
@@ -130,6 +135,11 @@ Splice: the user's own quiet footage is the entire reel. Shoot one long still ta
 **29. "I had to tag it to find it" — stated hack, empty-frame hunt, reveal** · audio: flexible · 🔥 LIVE (2026-08-06) ·scan · → clips/ DbrDhZ4suSs
 One line of held text states an absurd-but-logical coping hack up front ("these puppies hide so well their owner put bells on them"), and then the reel is just the search: several seconds of genuinely empty frame, panning past ordinary furniture and finding nothing. The hack is what licenses the boring footage, and the emptiness is what makes the eventual reveal land.
 Splice: bambi's version is the hunt itself — "restaurants hide their highchairs so well I started mapping them", then real footage of scanning a room, then the find. Works for any user problem where the search is the story: the one outlet in the airport, the bug that only shows in production, the toddler who has gone quiet. The user's own hunt footage IS the reel; only the text template is borrowed. (source: https://www.instagram.com/reel/DbrDhZ4suSs/)
+
+**30. "POV: when you [do the nice thing] but don't do it exactly as they say"** · audio: diegetic (bakeable) · 🔥 LIVE (2026-08-10) ·scan · → clips/ Db1fRXYP24v
+One line of held POV text installs a role reversal and then never changes: the adult is the one being managed, the kids are management, and every cut is another correction delivered with total authority. There is no escalation to write — the format runs on recognition, and the payoff is simply the adult complying and then looking at the camera.
+Splice: the user does the generous thing (joins the game, orders the food, builds the thing they were asked for) and gets audited for it in real time by a toddler. Shoot the kid's real direction, keep the text fixed on screen the whole time, and end on the user's own defeated look to camera — that look is the punchline and it has to be theirs. (source: https://www.instagram.com/reel/Db1fRXYP24v/)
+
 
 ## Sports (feeds everyone)
 

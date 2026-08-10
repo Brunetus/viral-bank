@@ -20,6 +20,72 @@ touched.
 
 <!-- entries below, newest first -->
 
+## Db1fRXYP24v — Two small girls run a doll-and-Barbie-jeep play session and spend the whole clip correcting their parents for doing it wrong, hands on hips, pointing and lecturing while mum keeps a straight face holding the baby, and the bald bearded dad ends on a sheepish to-camera shrug; held text the entire time reads "POV: when you try go play with your kids but don't do exactly as they say"
+- source: #parentsofinstagram | https://www.instagram.com/reel/Db1fRXYP24v/
+- lane: family
+- first-seen: 2026-08-10 | status: FRESH
+- stats-at-capture: 9836 likes / 74 comments (hashtag recent_media, no account baseline)
+- joke-structure: role reversal held by a POV text template — the children are management, the adults are staff, and the punchline is that the parents comply
+- the-beat: the scolding escalates in cuts 0:00-0:16 (any single 2s correction lands on its own), the payoff is dad's defeated to-camera shrug at ~0:18-0:20. Cut on the shrug for a closed joke, or on one scold for a reaction beat
+- audio-model: diegetic (bakeable) — the kids' voices ARE the joke; a track would erase it
+- pairs-with: bambi.map's own baby issuing orders at a restaurant table (the highchair arrives and gets rejected anyway); an imabgold "my cofounder is a baby" beat where the toddler is the one setting the deadline
+- file: clips/Db1fRXYP24v.mp4 (22.0s)
+
+## DbwDG5UxiwR — A shirtless dad in a ball cap on his driveway court calls his shot with a raised finger, heaves a rubber playground ball at the hoop, and the camera whips up to follow it clean over the backboard and off toward the house, landing on a silent hold of the garage; held text reads "Can't believe they actually doubted UNC"
+- source: @sportscenter | https://www.instagram.com/reel/DbwDG5UxiwR/
+- lane: sports
+- first-seen: 2026-08-10 | status: FRESH
+- stats-at-capture: 700803 likes / 4175 comments (6.47x account median)
+- joke-structure: called-shot bravado, anticlimax payoff — the pointing, the wind-up and the whip-pan all promise a make, and the frame delivers a total miss with no acknowledgement
+- the-beat: bravado and the point 0:00-0:07, release ~0:08, the whip-pan that finds nothing but sky at 0:09, silent hold on the house 0:10-0:12. Cut on the whip-pan at 0:09; the silence after is the laugh
+- audio-model: diegetic (bakeable) — the throw and the conspicuous absence of a net sound is the beat; survives being ducked under a track
+- pairs-with: any user "I've got this" declared out loud right before it doesn't (imabgold calling a 5-minute fix that runs three hours, per playbook 11); a bambi "he'll definitely sit in it" before the highchair is refused
+- file: clips/DbwDG5UxiwR.mp4 (11.9s)
+
+## Db0w88EMV_E — Held text says "I was filming my cat being naughty and then she waved at me": a tuxedo cat is caught tugging a blind cord by a bedroom door, freezes when it clocks the camera, sits back and lifts one front paw straight up at the lens like a greeting, then loses interest and wanders the back of the sofa for the remaining 35 seconds
+- source: @pubity | https://www.instagram.com/reel/Db0w88EMV_E/
+- lane: general
+- first-seen: 2026-08-10 | status: FRESH
+- stats-at-capture: 248983 likes / 2064 comments (5.48x account median)
+- joke-structure: caught-in-the-act, then an unexpectedly human reaction — the guilty freeze sets it up and the raised paw reads as "hello", which is funnier than the mischief was
+- the-beat: mischief 0:00-0:05, the freeze at ~0:06, paw up 0:08-0:11. Cut hard at 0:12 — everything after is Pubity padding. NOTE: a small "Pubity / following" UI chip is baked into the frame around 0:11-0:14, so the clean window is 0:00-0:10
+- audio-model: flexible — nothing in the audio carries the beat, so a trending track added in-app works fine
+- pairs-with: bambi.map's baby caught mid-mess who looks straight up into the lens; any "cofounder clocks out" beat where the culprit shows zero remorse
+- file: clips/Db0w88EMV_E.mp4 (49.3s)
+
+## Dbtj3TFQ5k5 — A 2:20 morningbrew mini-doc asking how Jungle Jim's, America's largest grocery store, stays in business, in which the owner turns up throughout in a wizard hat, cape and a giant "JUNGLE" medallion and deadpans flat business truths — "because it's a poor man's business", "don't ask me, I don't, don't get too deep with this shit", "you want him to work for you? or you want to work for him?"
+- source: @morningbrew | https://www.instagram.com/reel/Dbtj3TFQ5k5/
+- lane: tech
+- first-seen: 2026-08-10 | status: FRESH
+- stats-at-capture: 88972 likes / 994 comments (8.88x account median)
+- joke-structure: costumed-authority deadpan — a man dressed as a wizard delivering unbothered, faintly weary business wisdom; the whole joke is the gap between the outfit and the flatness of the delivery
+- the-beat: no single payoff, this is a documentary. Liftable 2-3s reaction beats: the interviewer's "is this place successful in spite of you or because of you?" at ~0:13, "because it's a poor man's business" at ~0:55, and the "don't get too deep with this shit" shrug at ~1:05
+- audio-model: diegetic (bakeable) — the deadpan line reading is the asset
+- pairs-with: an imabgold founder-hustle setup that needs a deflating cutaway ("how is this still working" over the user's own duct-taped build). HONEST SCOPE: this lends a reaction beat, not a setup-and-punchline. If the cut needs an actual payoff, the user's own footage is stronger and this clip should sit it out
+- file: clips/Dbtj3TFQ5k5.mp4 (140.9s)
+
+## DbtHfp7xXOQ — A suited correspondent walk-and-talks through Manhattan for 1:35 with printed pages in hand and real headline cards (Washington Post, NPR, Fortune, Telegraph) pinned beside every claim, laying out that AI labs downloaded millions of pirated books, then bought physical copies and guillotine-scanned them under an internal plan called "Project Panama", and that the buying spree lifted bookseller sales fivefold
+- source: @morningbrew | https://www.instagram.com/reel/DbtHfp7xXOQ/
+- lane: tech
+- first-seen: 2026-08-10 | status: DO-NOT-SPLICE
+- stats-at-capture: 87819 likes / 473 comments (8.72x account median)
+- joke-structure: none liftable — a sourced news explainer carried by real litigation reporting, with one wry aside ("so comically evil") that means nothing without the two preceding minutes. No setup, no turn, no payoff
+- the-beat: n/a — a continuous explainer. Banked as a record only; the reusable value is the FORMAT, captured in playbook #28
+- audio-model: diegetic (bakeable) — wall-to-wall narration, but irrelevant since the clip is not for splicing
+- pairs-with: nothing — do not splice. An identifiable journalist reading real litigation coverage must not be cut into a joke. Rebuild the format with the user's own footage per playbook #28
+- file: clips/DbtHfp7xXOQ.mp4 (95.4s)
+
+## DbwA-X6xW_C — The same morningbrew street-explainer format asking "what happened to Lululemon?": a correspondent walks past a Lululemon store for 1:56 with headline cards (a CBC see-through-pants recall, the $500M MIRROR acquisition, a flopped Disney collab) pinned over each beat, tracing the brand's slowdown and founder Chip Wilson's comments about customers
+- source: @morningbrew | https://www.instagram.com/reel/DbwA-X6xW_C/
+- lane: tech
+- first-seen: 2026-08-10 | status: DO-NOT-SPLICE
+- stats-at-capture: 22658 likes / 417 comments (2.28x account median)
+- joke-structure: none in the footage — a straight business explainer. The laugh in the caption ("more men should invent things after watching women do yoga") is a caption gag about the founder's origin story; the video never performs it
+- the-beat: n/a — continuous narration, identifiable presenter. Banked as a record only so a later scan does not re-spend a slot; the FORMAT is captured in playbook #28
+- audio-model: diegetic (bakeable) — irrelevant, not for splicing
+- pairs-with: nothing — do not splice. Rebuild the format with the user's own footage per playbook #28
+- file: clips/DbwA-X6xW_C.mp4 (115.6s)
+
 ## DbrDhZ4suSs — Held text says "these puppies hide so well their owner put bells on them", the camera hunts an empty bedroom, floor and baseboard finding nothing, then a tiny dachshund with a bright pink bell on its collar is discovered wedged against the skirting board staring up at the lens, and a second one is found in the next gap
 - source: @pubity | https://www.instagram.com/reel/DbrDhZ4suSs/
 - lane: general
@@ -64,16 +130,7 @@ touched.
 - pairs-with: any "I did one small thing and the reaction was disproportionate" beat — a first sale notification, a toddler applauding something trivial, a demo that got a bigger reaction than the product deserved
 - file: clips/DbsPBsrB6hm.mp4 (18.6s)
 
-## DbqpAqORnm8 — A suited correspondent walk-and-talks through Manhattan for two full minutes explaining how Citadel bought out Leopold Aschenbrenner's Situational Awareness fund after AI-stock losses, with WSJ/NYT/Bloomberg headline screenshots, a stock heatmap and reaction memes ("he's a grower, not a shower", "inside you there are two wolves") pasted over almost every line
-- source: @morningbrew | https://www.instagram.com/reel/DbqpAqORnm8/
-- lane: tech
-- first-seen: 2026-08-06 | status: DO-NOT-SPLICE
-- stats-at-capture: 13806 likes / 81 comments (4.3x account median)
-- joke-structure: none liftable — the jokes are meme overlays annotating a specific finance news story, so no beat survives being separated from the two-minute narration that sets it up
-- the-beat: n/a — there is no turn, only a continuous explainer. Banked as a record only; the reusable value was captured as a playbook format instead (see playbook #28)
-- audio-model: diegetic (bakeable) — wall-to-wall narration, but irrelevant since the clip is not for splicing
-- pairs-with: nothing — do not splice. The FORMAT is the asset; rebuild it with the user's own footage per playbook #28
-- file: clips/DbqpAqORnm8.mp4 (120.2s)
+## DbqpAqORnm8 — [PRUNED DO-NOT-SPLICE] A morningbrew suited correspondent walk-and-talks two minutes of Citadel/Situational-Awareness finance news with headline screenshots and reaction memes; no liftable beat, format kept as playbook #28 · https://www.instagram.com/reel/DbqpAqORnm8/ · first-seen 2026-08-06
 
 ## Dbnyi4guiod — Held text reads "whole squad pulled up to the movie"; a full-size Hulk and two Spider-Men in complete costume are crammed into a cinema row, climbing over the seat backs and squeezing past the actual paying audience, whose view is now entirely a green bodybuilder
 - source: @houseofhighlights | https://www.instagram.com/reel/Dbnyi4guiod/
@@ -351,7 +408,7 @@ touched.
 ## DZk9fE1zLP4 — Cinematic entrepreneur-grind montage (guy at a laptop on a night street, a silhouette at a high-rise window at sunset) under motivational text: "Only an entrepreneur can / Work 16 hours, make $0, / And still believe / tomorrow is the day. / It's called faith in the process."
 - source: @dnixx.official | https://www.instagram.com/p/DZk9fE1zLP4/
 - lane: tech
-- first-seen: 2026-07-22 | status: FRESH
+- first-seen: 2026-07-22 | status: AD-REJECTED (2026-08-10)
 - stats-at-capture: 21900 likes / 114 comments / 1.7k shares (manual add from Marcus's "Viral stuff" saves; caption "The long game" + a grind monologue; posted Jun 14, no account baseline)
 - PROMOTIONAL ORIGIN (flag): the caption is a sales-course funnel with a "Comment SALES" comment-bait CTA. The VIDEO itself is a motivational quote card over b-roll (no in-video product pitch), so the FORMAT is the transferable asset; do NOT treat this as a splice donor or copy the CTA. Kept FRESH because the video content is a clean format example, not an ad in itself
 - joke-structure: not a joke — an aspirational grind-motivation beat (delayed-payoff / faith-in-the-process). The mechanism is the specific relatable number ("16 hours, make $0") + moody cinematic b-roll; earnest, not comedic
@@ -456,7 +513,7 @@ touched.
 ## Da5fOr8jg6L — Text "When the claude + caffeine + house music hits and you genuinely enter flow state" over a builder hunched at a laptop against a city-skyline sunset, hard-cutting to a sweaty DJ going all-out at the decks (b&w) as the flow-state payoff
 - source: @osiris.scales | https://www.instagram.com/p/Da5fOr8jg6L/
 - lane: tech
-- first-seen: 2026-07-19 | status: FRESH
+- first-seen: 2026-07-19 | status: STALE (2026-08-10)
 - stats-at-capture: 64 likes / 2 comments (manual add from Marcus's "Viral stuff" saves; caption "it's 5:27am ☠️" · #claude #founder #startup; 2 days old)
 - joke-structure: aspirational vibe, not a joke — the builder-grind flow-state feeling (Claude + caffeine + house music); the laptop-at-sunset setup cuts to an intense DJ dropping the beat as the visual metaphor for "flow state"
 - the-beat: setup on the laptop/skyline with the text, then the peak is the hard cut to the DJ going off (mid-clip); a mood/montage beat — cut on the DJ intensity for the "it all clicks" drop
@@ -467,7 +524,7 @@ touched.
 ## Da6N-C-SIxs — A young guy at a laptop, phone in hand, gives a deadpan/exasperated "here we go again" reaction to on-screen text reading Claude: "Apple all Changed to 32,654 files? (Y/N)" — the over-eager AI coding assistant proposing an absurdly massive sweep
 - source: @bensage | https://www.instagram.com/p/Da6N-C-SIxs/
 - lane: tech
-- first-seen: 2026-07-19 | status: FRESH
+- first-seen: 2026-07-19 | status: STALE (2026-08-10)
 - stats-at-capture: 57 likes (manual browser add; caption "Just make it work buddy" · #claude #ai #coding #viral; 1 day old)
 - joke-structure: relatable-absurdity — the humor is the insane file count (32,654) an AI coding assistant casually asks to change, plus the creator's deadpan resignation ("just make it work buddy"). Single-shot talking-to-camera reaction, text held throughout
 - the-beat: one held beat (~7.7s) — the text is up the whole time over his mild-exasperation gesture; cut on the shrug/gesture for a clean reaction, or use the whole clip as a self-contained joke
@@ -478,7 +535,7 @@ touched.
 ## DawHM0axgHf — A creator at a MacBook desk (POV text: "what I do when I'm not editing videos but it's lowkey the Mbappé Special") hard-cuts to the viral clip of Mbappé smiling and deadpanning that his signature dish is "nothing," then walking off with a football
 - source: @nashvillehiddengems | https://www.instagram.com/reel/DawHM0axgHf/
 - lane: general
-- first-seen: 2026-07-18 | status: FRESH
+- first-seen: 2026-07-18 | status: STALE (2026-08-10)
 - stats-at-capture: 417 likes / 29 comments (manual browser add — this repost is small; the FORMAT is what's viral, "the Mbappé Special" surpassed 14.2M views across the trend)
 - joke-structure: build-up then deadpan anticlimax — a hyped "what do you do / what's your specialty" setup lands on Mbappé's flat "nothing"; "the Mbappé Special" = nothing. This clip is a worked EXAMPLE of the format (a POV desk setup spliced onto the Mbappé "nothing" reveal)
 - the-beat: two parts — the creator's POV desk setup runs 0:00-0:07, then the Mbappé "nothing." deadpan turn at ~0:07-0:09 (he continues "I was like..." with a ball to ~0:14). SPLICE: extract ONLY the ~1-2s Mbappé "nothing." beat as a mid-reel SETUP/turn; the desk-POV first half is the original creator's footage, not reusable
@@ -489,7 +546,7 @@ touched.
 ## DaDSeU5SJ3E — A tech creator throws a smug "Chinese Phone ❌ iPhone ✅" trollface superiority pose, then demos an iPhone Headphone-Accommodations audio settings trick
 - source: @techburner | https://www.instagram.com/reel/DaDSeU5SJ3E/
 - lane: tech
-- first-seen: 2026-07-18 | status: FRESH
+- first-seen: 2026-07-18 | status: STALE (2026-08-10)
 - stats-at-capture: 50672 likes / 195 comments (2.31x account median)
 - joke-structure: superiority-meme — a distorted trollface overlays him doing a smug point/glare ("my thing ✅ vs your thing ❌") for one beat; the rest is an informational settings tip (talking-head + phone-screen recordings) with no comedic turn
 - the-beat: the trollface superiority beat (~0:11-0:13) is the only clean splice-usable frame — cut on the smug trollface glare/point. NOTE: the "Chinese Phone ❌ IPhone ✅" caption is baked over the beat, so cover/crop it to repurpose; do NOT splice the tip body
@@ -500,7 +557,7 @@ touched.
 ## Da5z0B7AGC6 — A shirtless older dad stands at the washing machine while mum, animatedly gesturing, demonstrates the detergent and laundry steps to him
 - source: @ladbible | https://www.instagram.com/reel/Da5z0B7AGC6/
 - lane: general
-- first-seen: 2026-07-18 | status: FRESH
+- first-seen: 2026-07-18 | status: STALE (2026-08-10)
 - stats-at-capture: 355677 likes / 8757 comments (18.05x account median)
 - joke-structure: caption-premise comedy — the overlaid premise ("mum teaching dad how to do the washing because she's leaving him alone for 3 weeks for the first time in 32 years") reframes a mundane tableau as a helpless-partner bit; visual is her patient instruction + his bemused compliance
 - the-beat: no single turn; a held instructional tableau (any 2-4s of mum demonstrating while dad watches blankly reads as "explaining the basics to someone hopeless"). Premise/caption-driven — footage is relatable but visually mild
@@ -511,7 +568,7 @@ touched.
 ## Da7okL5s7lB — A grey tabby kitten is wedged and hanging inside a glass table's frame, peers out wide-eyed, then clambers back down to the floor
 - source: @pubity | https://www.instagram.com/reel/Da7okL5s7lB/
 - lane: general
-- first-seen: 2026-07-18 | status: FRESH
+- first-seen: 2026-07-18 | status: STALE (2026-08-10)
 - stats-at-capture: 304070 likes / 683 comments (12.54x account median)
 - joke-structure: reveal — caption ("caught my kitten hiding in the most unusual place ever") builds anticipation, payoff is the absurd sight of the kitten stuck up inside the furniture, big-eyed and busted
 - the-beat: the reveal + wide-eyed peek-out around 0:05-0:07 is the money frame; cut on the kitten looking straight at the lens from its impossible spot
@@ -522,7 +579,7 @@ touched.
 ## Da49KfWoLFc — A brown pitbull in a yellow collar rides in a car, expression melting from happy anticipation into a betrayed, open-mouthed "oh no" as it clocks where it's going
 - source: @ladbible | https://www.instagram.com/reel/Da49KfWoLFc/
 - lane: general
-- first-seen: 2026-07-18 | status: FRESH
+- first-seen: 2026-07-18 | status: STALE (2026-08-10)
 - stats-at-capture: 191119 likes / 716 comments (9.5x account median)
 - joke-structure: dawning-realization — caption ("the moment my dog realised he was at the vets and NOT the park") sets it up; payoff is the dog's face turning from excited to horrified/betrayed
 - the-beat: the expression flip 0:02-0:06, peaking on the big-eyed open-mouth betrayal look; cut on that face filling the frame
@@ -533,7 +590,7 @@ touched.
 ## Da71IX3tUri — A silver-haired man in a white shirt goes full-out dancing on a cruise ship deck while the crew and a filming crowd hype him up
 - source: @pubity | https://www.instagram.com/reel/Da71IX3tUri/
 - lane: general
-- first-seen: 2026-07-18 | status: FRESH
+- first-seen: 2026-07-18 | status: STALE (2026-08-10)
 - stats-at-capture: 93416 likes / 2369 comments (3.94x account median)
 - joke-structure: unexpected-commitment — an older passenger completely lets loose in a dance-off, the comedy is the scale of his energy and the crowd feeding it
 - the-beat: builds as he warms up, peaks on his biggest move with the crowd erupting (mid-clip); cut on the peak flourish. It's loopable — any 2-3s of him going off reads as "unexpected person stealing the show"
@@ -544,7 +601,7 @@ touched.
 ## Da5s9YTDWra — A tank-topped dad kneels on the floor cuddling and playing with a tuxedo kitten he supposedly "didn't want," visibly smitten
 - source: @ladbible | https://www.instagram.com/reel/Da5s9YTDWra/
 - lane: general
-- first-seen: 2026-07-18 | status: FRESH
+- first-seen: 2026-07-18 | status: STALE (2026-08-10)
 - stats-at-capture: 115902 likes / 471 comments (5.76x account median)
 - joke-structure: contradiction — caption ("dad with the pet he didn't want") vs footage of him tenderly nuzzling and playing with the kitten; the gap is the joke
 - the-beat: no hard turn; a warm loop — cut on him bending down to nuzzle the kitten (~0:17-0:23) where the "didn't want it" claim collapses
@@ -555,7 +612,7 @@ touched.
 ## Da6IaNPlcrL — A golden retriever puppy in a pink harness play-bows, rolls, and flops in front of a life-size bronze wolf statue that will not respond
 - source: @ladbible | https://www.instagram.com/reel/Da6IaNPlcrL/
 - lane: general
-- first-seen: 2026-07-18 | status: FRESH
+- first-seen: 2026-07-18 | status: STALE (2026-08-10)
 - stats-at-capture: 92090 likes / 197 comments (4.57x account median)
 - joke-structure: one-sided effort — the puppy keeps inviting a statue to play; the payoff is the total non-response, escalating the puppy's flopping
 - the-beat: loops through play-bow → flop → still-nothing; cut on a big flop against the statue's stone indifference (any 2-3s reads as "trying to get a reaction from something that gives nothing")
@@ -566,7 +623,7 @@ touched.
 ## Da6yQ0OJXmC — A firefighter kneels beside a fire engine holding a tiny oxygen mask to a soot-dazed pigeon on the ground; caption cards say it recovered and flew off
 - source: @pubity | https://www.instagram.com/reel/Da6yQ0OJXmC/
 - lane: general
-- first-seen: 2026-07-18 | status: FRESH
+- first-seen: 2026-07-18 | status: STALE (2026-08-10)
 - stats-at-capture: 76958 likes / 610 comments (3.19x account median)
 - joke-structure: wholesome-absurd — the visual of a pigeon in a miniature oxygen mask is both sweet and comic; caption cards narrate the rescue to a "flew away" button
 - the-beat: caption-card-driven and fairly static; the striking frame is the pigeon-in-mask closeup (recurring); the button is the "moments later it flew away" card near the end
@@ -577,7 +634,7 @@ touched.
 ## Da3_H2pE3oE — A man films a selfie in a hallway with an orange-and-white cat sitting calmly behind him; on cue the cat charges up and bites/attacks him
 - source: @9gag | https://www.instagram.com/reel/Da3_H2pE3oE/
 - lane: general
-- first-seen: 2026-07-18 | status: FRESH
+- first-seen: 2026-07-18 | status: STALE (2026-08-10)
 - stats-at-capture: 117766 likes / 638 comments (2.14x account median)
 - joke-structure: calm-then-attack — caption ("he bites me when I sing off key") primes it; the cat sits placid through the setup then rushes the frame as the payoff
 - the-beat: calm hold 0:00-0:23, then the cat charges and pounces ~0:27-0:31; cut on the charge as it fills the frame
@@ -588,7 +645,7 @@ touched.
 ## Da0_iy_yPMm — A WWE ring erupts into a massive royal-rumble brawl, dozens of wrestlers fighting at once, captioned as a football rivalry "in a nutshell"
 - source: @9gag | https://www.instagram.com/reel/Da0_iy_yPMm/
 - lane: general
-- first-seen: 2026-07-18 | status: FRESH
+- first-seen: 2026-07-18 | status: STALE (2026-08-10)
 - stats-at-capture: 114558 likes / 859 comments (2.08x account median)
 - joke-structure: metaphor-meme — a chaotic mass wrestling brawl stands in for total chaos ("England vs. Argentina in a nutshell"); borrowed WWE footage + one caption
 - the-beat: the whole clip is wall-to-wall brawl; cut on the densest scrum (0:02-0:06) for maximum "everything descended into chaos" energy
@@ -599,7 +656,7 @@ touched.
 ## DacBZYWBUUM — A convoy of black SUVs speeds down a highway, past aerial checkpoint shots, and blows through a border toll booth (action-movie footage) captioned as a football team's night getaway
 - source: @daquan | https://www.instagram.com/reel/DacBZYWBUUM/
 - lane: general
-- first-seen: 2026-07-18 | status: FRESH
+- first-seen: 2026-07-18 | status: STALE (2026-08-10)
 - stats-at-capture: 138421 likes / 558 comments (2.1x account median)
 - joke-structure: caption-over-cinema — a dramatic SUV escape convoy is repurposed as "[team] trying to leave [place] tonight" after a tense loss; cinematic footage carries the drama, the caption is the joke
 - the-beat: escalates from convoy driving to the checkpoint run; cut on the SUV blowing past the toll booth (~0:22-0:26) as the dramatic "getting out fast" button
@@ -610,7 +667,7 @@ touched.
 ## Da6TugBPwwa — On a Fanatics Fest stage, Tom Brady grabs/smacks Logan Paul's face in a heated confrontation before people move in to separate them
 - source: @sportscenter | https://www.instagram.com/reel/Da6TugBPwwa/
 - lane: sports
-- first-seen: 2026-07-18 | status: FRESH
+- first-seen: 2026-07-18 | status: STALE (2026-08-10)
 - stats-at-capture: 306425 likes / 10475 comments (3.95x account median)
 - joke-structure: sudden-escalation — a staged/heated moment tips into real aggression as Brady's hand goes to Logan's face; the shock is the payoff
 - the-beat: the face-grab/smack lands 0:00-0:03; cut right on the contact before the separation scramble
@@ -621,7 +678,7 @@ touched.
 ## Da6Ro8yzqJl — Streamer Fanum, in a "campus safety" security uniform, sits at a desk calmly watching a livestreamed fight on his monitor instead of breaking it up
 - source: @houseofhighlights | https://www.instagram.com/reel/Da6Ro8yzqJl/
 - lane: sports
-- first-seen: 2026-07-18 | status: FRESH
+- first-seen: 2026-07-18 | status: STALE (2026-08-10)
 - stats-at-capture: 210255 likes / 589 comments (3.45x account median)
 - joke-structure: dereliction-deadpan — caption ("Fanum watching the fight he's supposed to be stopping") + him spectating unbothered in uniform is the whole bit (part of the Kai Cenat Streamer University security run)
 - the-beat: no single turn; a held tableau of the "guard" watching the chaos on-screen — cut anywhere on him calmly viewing the monitor (any 1-2s reads as "the person in charge just watching it happen")
@@ -632,7 +689,7 @@ touched.
 ## Da5cpwBxJqk — NBA's Jalen Brunson, at a signing table, deadpan refuses to autograph a New York Giants helmet: "I am not signing that. It's against my religion."
 - source: @sportscenter | https://www.instagram.com/reel/Da5cpwBxJqk/
 - lane: sports
-- first-seen: 2026-07-18 | status: FRESH
+- first-seen: 2026-07-18 | status: STALE (2026-08-10)
 - stats-at-capture: 208377 likes / 1823 comments (2.62x account median)
 - joke-structure: deadpan-refusal — asked to sign a rival team's helmet, he declines with a totally straight "against my religion" line; the over-serious commitment to a petty rivalry is the joke
 - the-beat: the line lands early (~0:00-0:04) with his deadpan face; cut on the refusal before he eventually caves
@@ -643,7 +700,7 @@ touched.
 ## Da4LTcOR9-f — An NBA Summer League player (Lakers #40) drains a three then walks off with an understated, deadpan celebration/reaction rather than a big party
 - source: @sportscenter | https://www.instagram.com/reel/Da4LTcOR9-f/
 - lane: sports
-- first-seen: 2026-07-18 | status: FRESH
+- first-seen: 2026-07-18 | status: STALE (2026-08-10)
 - stats-at-capture: 207739 likes / 1605 comments (2.61x account median)
 - joke-structure: anticlimax-flex — caption ("wait for it") teases a celebration, payoff is a low-key deadpan reaction (hand on head, walks it off) instead of hype
 - the-beat: the make sets up 0:00-0:03, the understated reaction follows ~0:06-0:09; cut on the deadpan walk-off
@@ -654,7 +711,7 @@ touched.
 ## Da3iVw7vKvH — A silver-haired man in a park keeps pulling out progressively tinier bicycles/tricycles and balancing on each, ending crouched atop the rim of a fountain
 - source: @sportscenter | https://www.instagram.com/reel/Da3iVw7vKvH/
 - lane: sports
-- first-seen: 2026-07-18 | status: FRESH
+- first-seen: 2026-07-18 | status: STALE (2026-08-10)
 - stats-at-capture: 165511 likes / 1256 comments (2.08x account median)
 - joke-structure: escalating-absurdity — a street balance act where the bikes shrink to comic sizes ("his bikes kept getting smaller"); the reposted viral clip carries a sports-meme caption from the account
 - the-beat: builds as the bikes shrink; the button is him balancing the tiniest bike on the fountain edge (~0:34-0:45); cut on the smallest-bike balance for the "this got ridiculous" payoff
@@ -665,7 +722,7 @@ touched.
 ## Dax-lHxDXpn — A dad wearing a black crossbody strap frantically sprints around the house grabbing a jar, jewelry, dishes, clothes and shoes, ending at the front door, mocking his wife's pre-departure chaos
 - source: @parents | https://www.instagram.com/reel/Dax-lHxDXpn/
 - lane: family
-- first-seen: 2026-07-18 | status: FRESH
+- first-seen: 2026-07-18 | status: STALE (2026-08-10)
 - stats-at-capture: 10202 likes / 557 comments (66.83x account median — thin baseline: median 161 across 6 reels, so this is the account's clear standout, not a normal spike ratio)
 - joke-structure: escalating-chaos skit — caption ("my wife always in a rush but can't get out the door") + the dad performing an increasingly frantic montage of last-minute tasks; the pile-up of nonsense errands is the joke
 - the-beat: builds through the montage of grabbing random things; peaks on the biggest frenzy before the door (~0:44-1:10); cut on a mid-frenzy grab for a "doing a hundred things to leave" setup. SPLICE STEER: prefer the dad-only frenzy beats (0:00-0:44); the family's own young child appears at the door near the end, incidental but real, so avoid baking the door beat with the child into a splice
@@ -677,7 +734,7 @@ touched.
 - concept: #6 Truck-driver deadpan lip-sync
 - source: @cio0061 | https://www.instagram.com/reel/DZ4PL1dNUlF/
 - lane: general
-- first-seen: 2026-07-18 | status: FRESH
+- first-seen: 2026-07-18 | status: STALE (2026-08-10)
 - stats-at-capture: 7410613 likes / 26742 comments (manual concept-source, no spike ranking)
 - joke-structure: low-production single-performer lip-sync — the comedy is one guy in a work truck fully committing to a dramatic song, alternating deadpan and cracking a grin; the beat-up cab + a random ornament-as-mic is the whole bit
 - the-beat: it's a loop, not a turn — any 2-4s of the mouthing/prop-mic reads instantly as "regular guy performing his heart out at work"; cut on the ornament-to-mouth gesture
@@ -689,7 +746,7 @@ touched.
 - concept: #6 Truck-driver deadpan lip-sync
 - source: @cio0061 | https://www.instagram.com/reel/DZwiNBXNqII/
 - lane: general
-- first-seen: 2026-07-18 | status: FRESH
+- first-seen: 2026-07-18 | status: STALE (2026-08-10)
 - stats-at-capture: 190924 likes / 2100 comments (manual concept-source, no spike ranking)
 - joke-structure: same single-performer lip-sync format as DZ4PL1dNUlF — deadpan-to-expressive mouthing to a dramatic song, prop-mic committment in a beat-up truck cab
 - the-beat: loop, no single turn; cut on the handset-to-ear "taking a very serious call" gesture (any 2-3s reads as over-committed everyman performance)
@@ -700,7 +757,7 @@ touched.
 ## Da1XqUENtuI — An Argentine radio commentator in a stadium booth completely loses it — welling up, then a full open-mouthed scream with fist-pumps — the moment Argentina scores
 - source: @houseofhighlights | https://www.instagram.com/reel/Da1XqUENtuI/
 - lane: sports
-- first-seen: 2026-07-17 | status: FRESH
+- first-seen: 2026-07-17 | status: STALE (2026-08-10)
 - stats-at-capture: 222632 likes / 2644 comments (2.6x account median)
 - joke-structure: emotional overflow — a grown man in a suit erupts from teary-eyed to ecstatic screaming, colleagues jumping behind him; the humor is the sheer scale of the reaction
 - the-beat: builds from welling-up at 0:00-0:05 to the peak scream + arms-up around the goal moment (mid-clip); cut on the open-mouthed peak
@@ -710,7 +767,7 @@ touched.
 ## Da3uav_z55p — Three streamers cosplaying stone-faced security "officers" (vests, badges) sit dead silent in front of a wall of Twitch streams at Kai Cenat's Streamer University
 - source: @houseofhighlights | https://www.instagram.com/reel/Da3uav_z55p/
 - lane: sports
-- first-seen: 2026-07-17 | status: FRESH
+- first-seen: 2026-07-17 | status: STALE (2026-08-10)
 - stats-at-capture: 223056 likes / 1027 comments (2.5x account median)
 - joke-structure: deadpan commitment — the comedy is the utterly serious tough-guy faces on an absurd premise (streamers roleplaying as campus police)
 - the-beat: no single turn; a held deadpan tableau — cut anywhere on the stone-faced trio (any 1-2s reads instantly as "we are taking this way too seriously")
@@ -720,7 +777,7 @@ touched.
 ## Da3OzHrz_qr — LeBron James, deadpan on a Fanatics Fest stage, rattles off his own free-agency rumors ("I heard Warriors, I heard Philly, Miami...") while the crowd films
 - source: @houseofhighlights | https://www.instagram.com/reel/Da3OzHrz_qr/
 - lane: sports
-- first-seen: 2026-07-17 | status: FRESH
+- first-seen: 2026-07-17 | status: STALE (2026-08-10)
 - stats-at-capture: 205199 likes / 3135 comments (2.4x account median)
 - joke-structure: dry mockery of the rumor mill — the star lists the wild speculation about himself with a straight face, "👀🍿" energy
 - the-beat: the punch is the list itself; cut on "...Miami" as the deadpan lands (~0:05-0:10)
@@ -730,7 +787,7 @@ touched.
 ## Da3V4ssTDQx — On the same Fanatics Fest stage, Tyrese Haliburton pump-fakes a fake announcement of LeBron's next team; the "reveal" goes nowhere
 - source: @houseofhighlights | https://www.instagram.com/reel/Da3V4ssTDQx/
 - lane: sports
-- first-seen: 2026-07-17 | status: FRESH
+- first-seen: 2026-07-17 | status: STALE (2026-08-10)
 - stats-at-capture: 185271 likes / 465 comments (2.1x account median)
 - joke-structure: build-up then anticlimax — a teased big reveal that intentionally fizzles ("Hali pump faked LeBron's decision 😭😭")
 - the-beat: the tease builds early; cut on the non-reveal / deflation beat (mid-clip) where the promised payoff evaporates
@@ -740,7 +797,7 @@ touched.
 ## Da1S0PitXRr — "Officer" Fanum sprints across a campus lawn and tackle-"arrests" streamer Silky, pinning him with cuffs, in Kai Cenat's Streamer University security bit
 - source: @houseofhighlights | https://www.instagram.com/reel/Da1S0PitXRr/
 - lane: sports
-- first-seen: 2026-07-17 | status: FRESH
+- first-seen: 2026-07-17 | status: STALE (2026-08-10)
 - stats-at-capture: 180489 likes / 984 comments (2.1x account median)
 - joke-structure: staged physical comedy — a full committed tackle/arrest over a nonsense "crime", played completely straight
 - the-beat: the chase/sprint sets up; cut on the tackle-and-pin (~0:03-0:08) as the takedown lands
@@ -750,7 +807,7 @@ touched.
 ## Da1BW2LSA26 — IShowSpeed, in an England kit in a car, melts down and screams "SAVE ME LAMINE YAMAL!" into the lens
 - source: @sportscenter | https://www.instagram.com/reel/Da1BW2LSA26/
 - lane: sports
-- first-seen: 2026-07-17 | status: FRESH
+- first-seen: 2026-07-17 | status: STALE (2026-08-10)
 - stats-at-capture: 2062501 likes / 43591 comments (31.0x account median)
 - joke-structure: escalating desperation — starts as teary distress, ramps to a bug-eyed extreme close-up scream, all over one repeated caption line
 - the-beat: distress builds 0:00-0:12; the payoff is the face-in-the-lens scream around 0:16-0:20 — cut on the moment his face fills the frame
@@ -760,7 +817,7 @@ touched.
 ## DaqIw22E24B — The Verge subtitled explainer on saving an "obsolete" PC, cold-opening on a laptop being dropped into a trash bin
 - source: @verge | https://www.instagram.com/reel/DaqIw22E24B/
 - lane: tech
-- first-seen: 2026-07-17 | status: FRESH
+- first-seen: 2026-07-17 | status: STALE (2026-08-10)
 - stats-at-capture: 8041 likes / 149 comments (19.9x account median)
 - joke-structure: not a joke — a 2:23 talking-head/hands-on review (Windows 11 eligibility, ThinkPad keyboard, ports). The one splice-usable beat is the visual cold open
 - the-beat: the laptop-tossed-in-the-bin shot at 0:00-0:03 is the only clean cutaway; everything after is informational subtitled review with no comedic turn
@@ -770,7 +827,7 @@ touched.
 ## Da3O_zYiXWx — A hermit crab crawls out of one shell and into a new one on a beach shell-pile, narrated by LADbible caption cards
 - source: @ladbible | https://www.instagram.com/reel/Da3O_zYiXWx/
 - lane: general
-- first-seen: 2026-07-17 | status: FRESH
+- first-seen: 2026-07-17 | status: STALE (2026-08-10)
 - stats-at-capture: 168932 likes / 1108 comments (10.73x account median)
 - joke-structure: oddly-satisfying-but-uncanny — caption cards build the "house-hunting" metaphor ("spend their whole lives looking for the perfect shell" → "this feels weird to watch" → "this one looks like a snug fit")
 - the-beat: no hard laugh; the turn is the "snug fit" card near the end (~0:26-0:31) landing the metaphor — cut there if used as a metaphor button
@@ -782,7 +839,7 @@ touched.
 ## Da3jl46jXKa — A toddler tries a ball-launcher trick shot for a black Labrador; the ball goes astray and both kid and dog stand around confused
 - source: @ladbible | https://www.instagram.com/reel/Da3jl46jXKa/
 - lane: general
-- first-seen: 2026-07-17 | status: FRESH
+- first-seen: 2026-07-17 | status: STALE (2026-08-10)
 - stats-at-capture: 125788 likes / 1552 comments (8.04x account median)
 - joke-structure: build-up then anticlimax — the "trick shot" whiffs and the payoff is the shared confused-looking-around beat (caption: "left them both confused")
 - the-beat: the launch attempt early; cut on the double take where kid and dog both scan for the lost ball (~0:08-0:12)
@@ -792,7 +849,7 @@ touched.
 ## Da2YE1ziLiL — Doorbell-cam POV: a woman walks up with grocery bags, realizes she's at the wrong door as her face fills the fisheye, mouths "SORRY!" and scurries off
 - source: @ladbible | https://www.instagram.com/reel/Da2YE1ziLiL/
 - lane: general
-- first-seen: 2026-07-17 | status: FRESH
+- first-seen: 2026-07-17 | status: STALE (2026-08-10)
 - stats-at-capture: 109712 likes / 1738 comments (7.03x account median)
 - joke-structure: setup-and-retreat — approach builds, the fisheye close-up + "wrong door" realization is the turn, the "SORRY!" scurry is the button
 - the-beat: face-in-the-lens realization mid-clip, then cut on the "SORRY!" retreat (~0:32-0:39)
