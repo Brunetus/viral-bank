@@ -28,6 +28,20 @@ Entry schema (newest first):
 
 <!-- entries below, newest first -->
 
+## DbZ_j03p07l — @braith.mp4: "I edited 13gb of movie footage with Claude" — the emotion-bucketed B-roll library (+ a delegation prompt pattern)
+- source: @braith.mp4 | https://www.instagram.com/p/DbZ_j03p07l/
+- mechanism: editing-workflow leverage — pre-sorting a large B-roll archive into a small number of EMOTION buckets so every future edit starts from a ready shelf instead of a 2-hour scrub; plus a prompt pattern for delegating the sort to Claude
+- the-lesson: his actual workflow, transcribed:
+  1. His B-roll source is one 2-hour, 13 GB file of back-to-back iconic movie scenes (Interstellar, Wolf of Wall Street, Joker...).
+  2. Insight: for B-roll you are only ever looking for FIVE distinct emotions — anger, happiness, sadness, reflection, excitement.
+  3. So: extract every scene, tag it by emotion, file it into per-emotion folders. When an edit needs a "happy" beat, the options are already on the shelf.
+  4. Cutting scenes to the second and exporting them by hand takes forever, so he had Claude watch the footage and do it: it split the file into ~100 scenes by those emotions and filed them into the right Drive folders in ~40 minutes.
+  5. The prompt pattern he calls out: "use the most efficient, most effective way of doing this — if there's something better than my suggestions, go with it" (delegate the METHOD, not just the task).
+  6. The economics: cutting average edit time from ~40 to ~20 minutes is the money saved; that's the pitch, not the tooling.
+- maps-to: EXTENDS our craft canon on two fronts. (1) The emotion-bucket taxonomy is a better index for splice footage than topic tags — it's exactly how catalog.md's `pairs-with`/`joke-structure` fields already get consumed (the architect shops for a FEELING to land a beat, not a subject), and it would make a strong organizing lens if the bank ever grows a reaction-shot shelf (see DZu9rl2RtDy's steering-wheel stare — pure "despair" bucket). (2) The delegation-prompt pattern mirrors our own routine law of stating the GOAL and letting the worker pick the method. CAVEAT: his archive is wall-to-wall copyrighted film scenes — fine as a private editing shelf, but our splice law still governs what actually ships in a cut. Also note the meta: the reel itself is a STAR-shaped talking-head (shock stat open, credential ("$100M founders"), roadmap, named-ish recipe, comment-bait close "want the prompt?") — it practices DZtdw-PTsHc's template while teaching something else.
+- status: TRAINING-ONLY
+- file: clips/DbZ_j03p07l.mp4 (82s)
+
 ## DZtdw-PTsHc — @seangstewart: "I cracked talking-head videos (new viral method)" — the STAR method
 - source: @seangstewart | https://www.instagram.com/p/DZtdw-PTsHc/
 - mechanism: talking-head retention structure — a 5-part opening/format template ("the STAR method"), studied across ~250 videos, that the creator claims every big creator uses

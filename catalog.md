@@ -20,6 +20,72 @@ touched.
 
 <!-- entries below, newest first -->
 
+## DaW57QKigDK — Text "Bad news for claude / I just got home" over a hand jangling car keys walking in the door, cut to the Claude desktop app greeting him by name ("Yooo Bartu, what's good? What are we working on today?"), cut to a Claude Code terminal where he types "make me a millon dollars." and it just starts Swirling…
+- source: @bartubuilds | https://www.instagram.com/reel/DaW57QKigDK/
+- lane: tech
+- first-seen: 2026-08-15 | status: FRESH
+- stats-at-capture: 9133 likes / 48 comments (manual add from Marcus's saves; caption "Hey claude, make me a million dollars. No mistakes. #claude #startup #ai"; posted Jul 3, no account baseline)
+- joke-structure: pet-owner framing of an AI — "bad news for claude" casts the model as the one whose day just got worse, then the absurd-delegation payoff (typing "make me a million dollars" like a chore) plays the fantasy completely straight
+- the-beat: keys/arrival setup 0:00-0:03, Claude greeting beat ~0:04-0:07, terminal "make me a millon dollars." + Swirling… payoff ~0:08-0:11. Cut on the Swirling… line — the machine dutifully getting to work IS the laugh
+- audio-model: flexible — original audio is ambient; survives a trending bed cleanly
+- pairs-with: an imabgold "my employee was home alone all day" / coming-home-to-Claude setup where the user's own terminal carries the payoff; also a reaction beat for any "I asked Claude for the impossible" confession
+- file: clips/DaW57QKigDK.mp4 (11.9s)
+
+## DbXGmRlN_J9 — Text "POV: you try to take a break as an entrepreneur" over a man closing his laptop at a dim kitchen table; he picks up his phone and every reel he scrolls is hustle content (a Hormozi-style podcast desk, "Do so much work it would be unreasonable...") until he gives up and goes back to the laptop
+- source: @gurr_505 | https://www.instagram.com/reel/DbXGmRlN_J9/
+- lane: tech
+- first-seen: 2026-08-15 | status: FRESH
+- stats-at-capture: 20892 likes / 262 comments (manual add from Marcus's saves; caption "😂😂"; posted Jul 28, no account baseline)
+- joke-structure: escape-that-loops-back — the "break" is scrolling, but the algorithm serves only grind content, so rest turns back into work; payoff is the resigned return to the laptop
+- the-beat: laptop-close + phone pickup setup 0:00-0:05, the scrolled hustle-reels escalate ~0:06-0:15, back-to-the-laptop payoff ~0:16-0:19. Cut on the return to the keyboard. NOTE: the phone UI is in Chinese and the scrolled reels are screen-recorded reposts with IG chrome baked in — keep those beats quick or crop tight so the overlay doesn't read
+- audio-model: diegetic (bakeable) — the scrolled reels' own podcast/motivation audio is the gag; muted, the feed reads as random screens
+- pairs-with: an imabgold "I tried to log off" setup over the user's own desk/screen; the borrowed middle carries the you-can't-escape beat while the user's return-to-work shot lands the payoff
+- file: clips/DbXGmRlN_J9.mp4 (19.8s)
+
+## DaytndsJOv2 — Text held the whole clip: "\"you got lucky\" / the luck:" over a cinematic night montage of a guy alone at a laptop in a glass high-rise apartment — dusk to full dark, headphones on, typing while the city lights up behind him
+- source: @realchasko | https://www.instagram.com/reel/DaytndsJOv2/
+- lane: tech
+- first-seen: 2026-08-15 | status: FRESH
+- stats-at-capture: 39868 likes / 157 comments (manual add from Marcus's saves; caption "Quit the 9-5 to do a 9-9"; posted Jul 14, no account baseline)
+- joke-structure: quote-vs-receipts template — a dismissive quote up top, then "the luck:" reveals the unglamorous grind behind the outcome. Same skeleton as the classic "the luck:" meme, played aesthetic instead of bitter
+- the-beat: no turn — the whole clip is one held contrast; any 3-5s window works as a montage bed. The text template IS the joke; the footage just has to look like work
+- audio-model: trending sound (add in-app) — rides "TAKE ME" — D A N N Y; never bake it
+- pairs-with: FORMAT more than footage: rebuild with the user's own late-night desk/build shots under the same two-line template ("you got lucky" / the luck:). The banked clip suits a quick borrowed beat inside a longer luck-vs-work cut
+- file: clips/DaytndsJOv2.mp4 (10.7s)
+
+## DZu9rl2RtDy — Skit: text "CTO watching CEO sell clients features that don't exist 😭🥀" — two teens on a family-room couch, the CEO pitching with animated hands while the CTO stares dead-eyed at the laptop, escalating reaction shots, then a hard cut to a movie close-up (bald man gripping a steering wheel, thousand-yard stare) as the CTO's inner state
+- source: @travelink.app | https://www.instagram.com/reel/DZu9rl2RtDy/
+- lane: tech
+- first-seen: 2026-08-15 | status: FRESH
+- stats-at-capture: 83000 likes / 680 comments (manual add from Marcus's saves; caption "Tag your CTO and apologize in advance 😭 #startup #founder #tech #foundersbuilding #app"; posted Jun 18, no account baseline)
+- joke-structure: role-pair tension template — one role makes promises, the other has to build them; the comedy is the CTO's silent suffering escalating into a movie-clip reaction payoff. NOTE the source is itself an app company's account, but the skit is made to be funny, not to sell (no product shown, no CTA) — judged intent per guard 7
+- the-beat: couch pitch + dead stare 0:00-0:06, reaction close-ups ~0:06-0:08, movie-clip inner-state payoff ~0:09-0:10. The steering-wheel cut is the splice beat — 2s of borrowed despair that closes any "I promised something I can't build" setup
+- audio-model: diegetic (bakeable) — the pitch chatter and the cut's silence carry it; a light bed underneath survives
+- pairs-with: imabgold "me selling the feature / Claude finding out what I promised" — the user's own pitch or terminal is the setup, the steering-wheel stare lands the payoff. Also fits any solo-founder "I am both people in this meeting" confession
+- file: clips/DZu9rl2RtDy.mp4 (10.2s)
+
+## DZ7ArcGIBBU — Desk POV: text "Yeah running a business is hard but there's no way I'm letting another man tell me when i can eat lunch." — a hand closes the MacBook at 14:31 on the desk clock, beat, then reopens it at 14:32 to a to-do list wallpaper
+- source: @iambenhollingworth | https://www.instagram.com/reel/DZ7ArcGIBBU/
+- lane: tech
+- first-seen: 2026-08-15 | status: FRESH
+- stats-at-capture: 15566 likes / 83 comments (manual add from Marcus's saves; caption "Fr #onlinebusiness #fyp #hustle #laptop #viral"; posted Jun 23, no account baseline)
+- joke-structure: freedom-flex anticlimax — the grand declaration of independence ("no man tells me when to eat lunch") buys exactly one minute of freedom; the 14:31→14:32 clock is the whole punchline
+- the-beat: declaration + laptop close 0:00-0:04, the reopen at 14:32 payoff ~0:05-0:07. Cut on the reopened screen; the clock must stay readable in both shots or the joke dies
+- audio-model: flexible — no meaningful diegetic audio; take any bed
+- pairs-with: imabgold self-employment-irony confessions ("I left the 9-5 so I could work 24/7"); the borrowed minute-long lunch break plays as a beat inside the user's own day-in-the-life
+- file: clips/DZ7ArcGIBBU.mp4 (7.3s)
+
+## DYSOi-KRQlc — Cafe POV: text "Okay guys I brought my macbook to a coffee shop now how do I make $10k a month" — a hand rests on a closed MacBook beside a latte in a gorgeous bookstore cafe (chandeliers, floor-to-ceiling shelves), camera pans the room, laptop never opens
+- source: @itsmarcosphilip | https://www.instagram.com/reel/DYSOi-KRQlc/
+- lane: tech
+- first-seen: 2026-08-15 | status: FRESH
+- stats-at-capture: 19400 likes / 241 comments (manual add from Marcus's saves; caption "What's the next step @tjr ?"; posted May 13, no account baseline)
+- joke-structure: aesthetic-equals-income fallacy played straight — the laptop-in-a-cafe LOOK is treated as the entire business plan, and the sincere "now what" question is the punchline. The laptop staying closed is the tell
+- the-beat: one held joke, no turn — text + setting land in the first 2s, the pan just sustains it. Any 3-4s window splices; keep the closed laptop + latte in frame
+- audio-model: flexible — ambient cafe original audio; survives any bed
+- pairs-with: imabgold "step 1 of becoming a founder" / build-in-public irony setups — the user's own real work (terminal, shipped app) is the contrast payoff after the borrowed aesthetic setup
+- file: clips/DYSOi-KRQlc.mp4 (7.7s)
+
 ## Db1fRXYP24v — Two small girls run a doll-and-Barbie-jeep play session and spend the whole clip correcting their parents for doing it wrong, hands on hips, pointing and lecturing while mum keeps a straight face holding the baby, and the bald bearded dad ends on a sheepish to-camera shrug; held text the entire time reads "POV: when you try go play with your kids but don't do exactly as they say"
 - source: #parentsofinstagram | https://www.instagram.com/reel/Db1fRXYP24v/
 - lane: family
