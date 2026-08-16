@@ -49,3 +49,23 @@
 "Dracula (JENNIE Remix)" — Tame Impala | lane-fit: general (attitude) | why: 307k posts — the walk-toward-camera attitude track of the month; mouth a line, hold the stare, works as a confidence stamp on a reveal | start: on the vocal hit, land it on the turn
 
 "Material Lover" — Sienna Spiro | lane-fit: tech/business | why: the Devil Wears Prada 2 breakout at 6.4k posts, early in its curve — creators use it for project showcases and new-arrival B-roll; the closest current fit for a "here is what I shipped" arc | start: from the top, land the chorus on the reveal
+
+"I Knew It, I Knew You" — Taylor Swift | lane-fit: any | why: 116k posts — the versatile all-purpose bed of the moment for products, behind-the-scenes and general cuts; carries warmth without dictating a mood | start: on the first vocal
+
+"Go Go Juice" — Sabrina Carpenter | lane-fit: tech/business | why: 21k posts driving the "how life feels when..." profession/career format — a natural frame for founder-life and building-in-public jokes | start: on the hook, land it on the identity card
+
+"My Biggest Flex" — Shakira (She Wolf) | lane-fit: general | why: 30k posts on the multi-hat trend — "hire me as your [X]" overlay text listing everything one person does; tailor-made for solo-founder wears-every-hat cuts | start: on the beat, one hat per bar
+
+"The One That Got Away" — Katy Perry | lane-fit: general (comedy/list) | why: 116k posts riding the "Top 5" humorous-list format (petty personal tragedies played as grand loss) — a ready-made frame for dry list jokes | start: on the chorus, one list item per line
+
+"Everything Hallelujah" — Justin Bieber | lane-fit: any | why: 34k posts on the gratitude-list format — name things you love, close on "hallelujah"; plays earnest or ironic with equal ease | start: from the top, land the "hallelujah" on the last card
+
+"Sometimes" — Fleetwood Mac | lane-fit: any | why: 3.1k posts and steady — the warm nostalgic bed for home moments, finds and small wins; proven at playing a dry confession completely straight | start: on the vocal
+
+"Super Trouper" — ABBA | lane-fit: general/family | why: 185k reels holding mid-chart all week — instantly familiar retro lift for feel-good montages and ta-da reveals; the recognition IS the hook | start: on the "su-per trou-per" chorus hit
+
+"Surfin' U.S.A." — The Beach Boys | lane-fit: family/travel | why: 162k reels, stable all week — vintage summer energy for beach days, road trips and family-outing cuts; reads sunny even under grey footage | start: on the opening riff
+
+"Oia at Sunset" — Cielo Ardent | lane-fit: any | why: the emerging track of the 08-08 chart at 58k reels and climbing all day — early in its curve, aesthetic golden-hour bed for travel, evenings and wind-down cuts | start: full track from the top
+
+"In & Out" — Ravyn Lenae | lane-fit: general | why: the lifestyle/showcase track of the week — creators use it for fit checks, recipes and product beats with quick eye-catching clips; suits fast-cut montages | start: on the groove, cut every 1-2s with it
