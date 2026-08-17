@@ -63,6 +63,10 @@ Splice: claim the thing the user is transparently bad at ("I am very disciplined
 One line of held text frames ordinary bad behaviour as the setup, then the subject notices the camera, freezes, and does one small unmistakably human thing — a raised paw, a wave, a nod. The text is what turns a boring surveillance clip into a two-beat joke: without it you have footage, with it you have a caught-red-handed confession.
 Splice: point it at whoever in the user's life is reliably guilty — the toddler mid-mess, the dog on the sofa, the build that only breaks when watched — and let the real "caught" moment be the payoff. The user's own unedited footage IS the reel; only the text frame is borrowed, and the clip runs best under 10 seconds so the freeze reads. (source: https://www.instagram.com/reel/Db0w88EMV_E/)
 
+**32. "My [X] won't [do the thing] unless I do THIS" — the pointless ritual, performed in full** · audio: flexible · 🔥 LIVE (2026-08-17) ·scan · → clips/ DcGbL1OtjwX
+One line of held text promises a fix, and then the reel just performs the fix at unhurried length: an elaborate ceremony that demonstrably changes nothing about the object, handed back identical, and the mark accepts it instantly. The joke is not the ritual, it is the compliance — the viewer stays because they want to see whether it actually works, and it does, which is worse.
+Splice: the user's own superstition is the reel. imabgold's version is the AI that "won't work" unless he opens a fresh terminal, clears context and retypes the same prompt word for word — film the ritual straight-faced with his real screen, then cut to it working. bambi's is the food the toddler refuses until it is moved to a different plate. Keep the ritual to two beats; the payoff must be the subject accepting the identical thing. (source: https://www.instagram.com/reel/DcGbL1OtjwX/)
+
 
 ## Tech / builder lane (feeds @imabgold)
 
@@ -139,6 +143,10 @@ Splice: bambi's version is the hunt itself — "restaurants hide their highchair
 **30. "POV: when you [do the nice thing] but don't do it exactly as they say"** · audio: diegetic (bakeable) · 🔥 LIVE (2026-08-10) ·scan · → clips/ Db1fRXYP24v
 One line of held POV text installs a role reversal and then never changes: the adult is the one being managed, the kids are management, and every cut is another correction delivered with total authority. There is no escalation to write — the format runs on recognition, and the payoff is simply the adult complying and then looking at the camera.
 Splice: the user does the generous thing (joins the game, orders the food, builds the thing they were asked for) and gets audited for it in real time by a toddler. Shoot the kid's real direction, keep the text fixed on screen the whole time, and end on the user's own defeated look to camera — that look is the punchline and it has to be theirs. (source: https://www.instagram.com/reel/Db1fRXYP24v/)
+
+**33. "When your [X] gets too comfortable [doing Y]…" — verbal build, physical punchline** · audio: flexible · 🔥 LIVE (2026-08-17) ·scan · → clips/ DcH2hkzBzKc
+Held text names an overstepping that everybody recognises, then one person delivers an escalating lecture while the offender stands there taking it — and the beat lands physically, not verbally: a flick, a swat, a cap knocked off, arriving before the sentence finishes. Runs 7 seconds and loops back into the lecture, which is where the rewatches come from.
+Splice: the user's own overstepper, and the physical beat has to be theirs. imabgold's is "when your AI gets too comfortable pushing to main" — deliver the lecture to the laptop, land on closing it. bambi's is the toddler who has got too comfortable running the table. Do not write a written punchline; end on the physical beat and keep it under 8 seconds so the loop is invisible. (source: https://www.instagram.com/reel/DcH2hkzBzKc/)
 
 
 ## Sports (feeds everyone)

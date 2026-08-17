@@ -1,11 +1,12 @@
 <!-- audio.md — trending-audio shortlist for CUSTOMER jobs (BANK.md step 6c).
      FULL OVERWRITE each scan; history lives in git. Every entry is a real,
      currently-trending track found in search — never invented. A pick is a
-     title AND an artist. Refreshed 2026-08-15 (sources: Snaplytics
-     "Instagram Reels Trending Songs" 2026-08-08 daily chart with reel
-     counts, Scott Social "50+ Trending Reels Audio This Week" August 2026
-     edition, Buffer "13 Trending Sounds on Instagram in August 2026",
-     Metricool week-of-2026-08-05, Lightreel weekly report).
+     title AND an artist. Refreshed 2026-08-17 (sources: Snaplytics
+     "Instagram Reels Trending Songs" 2026-08-16 dated daily chart with reel
+     counts, Scott Social "50+ Trending Reels Audio This Week" updated
+     2026-08-14, SocialBee "Trending Instagram Songs" updated 2026-08-13,
+     Buffer "13 Trending Sounds on Instagram in August 2026" updated
+     2026-08-11).
      NO RIGHTS FLAGS — MARCUS'S RULING 2026-08-15 (do not re-add them):
      earlier versions of this file carried `rights:` notes (creator-only /
      not-cleared-for-commercial-use) taken from source lists, and picks were
@@ -18,11 +19,18 @@
      stays practical, not legal: the person posting confirms the track
      comes up in their in-app search before committing to it, and if it
      ever doesn't, the pick's named backup is right there in the staged doc.
-     SELECTION NOTE (carried from this refresh): the week-of roundup sites
-     recycle the same ten tracks and account ledgers burn those in days —
-     fill most slots from dated daily charts (Snaplytics) and deep lists
-     (Scott Social 50+), and prefer tracks not already sitting in account
-     ledgers' last-5 windows.
+     SELECTION NOTE: the week-of roundup sites recycle the same ten tracks
+     and account ledgers burn those in days — most slots are filled from the
+     dated daily chart (Snaplytics) and the deep list (Scott Social 50+),
+     and this refresh deliberately over-weights COMEDY-FORMAT tracks, since
+     what the bank lends is joke setups.
+     CHANGES THIS REFRESH: dropped 6 tracks that no longer appear in any
+     current source (Saxophones Getting Louder, You Make My Dreams, Fade
+     Into You, Super Trouper, Surfin' U.S.A., Oia at Sunset) — unsourced is
+     not allowed to persist just because it was here last week. Corrected
+     two entries against source: "Sunny" is Boney M., R3HAB (not R3LL), and
+     the Ian McConnell track's full title is "You Never Take Me to
+     Bangladesh".
      ACCOUNT-AGNOSTIC BY LAW: lane-fit describes the track's vibe, never an
      account.
      EXCLUDED ON PURPOSE (taste vetoes only): "House Tour" — Sabrina
@@ -30,42 +38,42 @@
      Creator "original audio" trends are omitted: real, but not sourceable
      as a title+artist pair, which the audio law requires. -->
 
-"august" — Taylor Swift | lane-fit: general/travel | why: the undisputed #1 of the month at 2.5M reels, its annual August return — summer recaps, sunsets, nostalgic photo dumps; an enormous earnest bed that also plays ironic-sincerity under a dry confession | start: let the verse breathe, cut on the turn
+"Cornfield Chase" — Hans Zimmer | lane-fit: any | why: #1 on the 08-16 daily chart at 1.1M reels — the wordless cinematic swell everyone is using for "look how far this came" arcs; no lyrics to fight held text, and the build does the pacing for you | start: from the top, land the swell on the reveal
 
-"Bangladesh" — Ian McConnell | lane-fit: general (comedy) | why: still the biggest comedy format of the season — absurdist substitution / escalating-demands lip sync with enormous reach; benched for weeks on a rights flag that tested false, so it is fresh in every ledger | start: on the first demand
+"august" — Taylor Swift | lane-fit: general/travel | why: on every current list, its annual August return — summer recaps, sunsets, nostalgic photo dumps; an enormous earnest bed that also plays ironic-sincerity under a dry confession | start: let the verse breathe, cut on the turn
 
-"Sweetly (71.78)" — jkl | lane-fit: any | why: 26k posts and still climbing after a month on the charts — the proven no-vocal bed when the reel is carried by held text; nothing fights the on-screen words | start: full track from the top, it loops cleanly
+"You Never Take Me to Bangladesh" — Ian McConnell | lane-fit: general (comedy) | why: still the biggest comedy format of the season — absurdist substitution / escalating-demands lip sync with enormous reach | start: on the first demand
 
-"You Make My Dreams (Come True)" — Daryl Hall & John Oates | lane-fit: any | why: #3 on the 08-08 daily chart at 581k reels — the feel-good classic of the moment for wins, reveals and "it finally worked" beats; earnest without irony | start: on the chorus so the hook lands the payoff frame
+"interstellar." — pandora., chillwithme, cødy | lane-fit: any | why: 214K reels on the 08-16 chart — ambient, no-vocal, currently the cleanest bed for a reel carried entirely by on-screen words | start: full track from the top, it loops cleanly
 
-"Fade Into You" — Mazzy Star | lane-fit: any | why: steady top-3 all week at 310k reels — dreamy, slow-burn nostalgic bed for reflective cuts, montages and quiet confessions played straight | start: from the top, let the intro breathe under the setup
+"Total Eclipse of the Heart" — Bonnie Tyler | lane-fit: general (comedy) | why: 153K reels and spiking this week — maximum melodrama, which is exactly why it plays a trivial inconvenience as a life-ending catastrophe | start: on the "turn around" hook, land it on the smallest possible problem
 
-"Saxophones Getting Louder" — AXRYN | lane-fit: general (comedy/escalation) | why: 45k reels and growing — an instrumental whose whole mechanism is escalation, built for reels where each beat raises the stakes; the swell does the joke's timing for you | start: from the top so the loudest sax hits the final beat
+"Easy" — Commodores | lane-fit: general (comedy) | why: the standing "ironic calm during chaos" bed — total serenity laid over a situation that is visibly falling apart; the gap between track and footage is the whole joke | start: on "easy like Sunday morning", over the worst frame
 
-"Loser" — Tame Impala | lane-fit: general (deadpan) | why: 30k reels, steady indie presence — a laconic, self-deprecating groove that plays a flat admission completely straight; fills the quiet-deadpan gap the prior lists kept leaving open | start: on the first vocal line
+"A Thousand Miles" — Vanessa Carlton | lane-fit: tech/business (comedy) | why: currently driving the corporate-humour and workplace-frustration format — the piano intro is instantly recognisable and it lets a mundane work grievance play as an epic | start: on the piano riff, cut on the frustration beat
 
-"Sunny" — Boney M., R3LL | lane-fit: family/food/travel | why: 169k posts — bright retro-summer energy for launches, vacation cuts and anything that should feel like a good day; carries momentum without demanding attention | start: on the beat drop
+"Only Time" — Enya | lane-fit: tech/business (comedy) | why: the mundane-frustration / total-disconnection format — plays a dead-eyed thousand-yard stare completely straight; pairs with any "I have left my body" work moment | start: from the top, hold on the blank stare
 
-"Dracula (JENNIE Remix)" — Tame Impala | lane-fit: general (attitude) | why: 307k posts — the walk-toward-camera attitude track of the month; mouth a line, hold the stare, works as a confidence stamp on a reveal | start: on the vocal hit, land it on the turn
+"Se Te Olvida" — Javier Solis | lane-fit: general (comedy) | why: the current "we are not the same" comparison format — two behaviours cut against each other with grand romantic strings underneath | start: on the vocal, one side of the comparison per phrase
 
-"Material Lover" — Sienna Spiro | lane-fit: tech/business | why: the Devil Wears Prada 2 breakout at 6.4k posts, early in its curve — creators use it for project showcases and new-arrival B-roll; the closest current fit for a "here is what I shipped" arc | start: from the top, land the chorus on the reveal
+"The One That Got Away" — Katy Perry | lane-fit: general (comedy/list) | why: 116K posts riding the "Top 5" humorous-list format, petty personal tragedies played as grand loss — a ready-made frame for dry list jokes | start: on the chorus, one list item per line
 
-"I Knew It, I Knew You" — Taylor Swift | lane-fit: any | why: 116k posts — the versatile all-purpose bed of the moment for products, behind-the-scenes and general cuts; carries warmth without dictating a mood | start: on the first vocal
+"She Wolf" — Shakira | lane-fit: general | why: 30K posts on the multi-hat "my biggest flex" trend — overlay text listing everything one person does; tailor-made for wears-every-hat cuts | start: on the beat, one hat per bar
 
-"Go Go Juice" — Sabrina Carpenter | lane-fit: tech/business | why: 21k posts driving the "how life feels when..." profession/career format — a natural frame for founder-life and building-in-public jokes | start: on the hook, land it on the identity card
+"Dracula (JENNIE Remix)" — Tame Impala | lane-fit: general (attitude) | why: 307K posts — the walk-toward-camera attitude track of the month; mouth a line, hold the stare, works as a confidence stamp on a reveal | start: on the vocal hit, land it on the turn
 
-"My Biggest Flex" — Shakira (She Wolf) | lane-fit: general | why: 30k posts on the multi-hat trend — "hire me as your [X]" overlay text listing everything one person does; tailor-made for solo-founder wears-every-hat cuts | start: on the beat, one hat per bar
+"oh yeah?" — Steve Lacy | lane-fit: general | why: trending off the new Spider-Man film — new-day and cityscape cuts, a loose confident groove that suits a "here we go again" opener | start: on the hook
 
-"The One That Got Away" — Katy Perry | lane-fit: general (comedy/list) | why: 116k posts riding the "Top 5" humorous-list format (petty personal tragedies played as grand loss) — a ready-made frame for dry list jokes | start: on the chorus, one list item per line
+"End of August" — Noah Kahan | lane-fit: any | why: driving the "and for the lady…" format, where the track names its target audience out loud — a rare sound that does audience-selection work for you | start: on the named line
 
-"Everything Hallelujah" — Justin Bieber | lane-fit: any | why: 34k posts on the gratitude-list format — name things you love, close on "hallelujah"; plays earnest or ironic with equal ease | start: from the top, land the "hallelujah" on the last card
+"Go Go Juice" — Sabrina Carpenter | lane-fit: tech/business | why: 21K posts driving the "how life feels when…" profession/career format — a natural frame for working-life and building-in-public jokes | start: on the hook, land it on the identity card
 
-"Sometimes" — Fleetwood Mac | lane-fit: any | why: 3.1k posts and steady — the warm nostalgic bed for home moments, finds and small wins; proven at playing a dry confession completely straight | start: on the vocal
+"sweetly (71.78)" — jkl | lane-fit: any | why: 26K posts and still climbing after a month on the charts — the proven no-vocal bed when the reel is carried by held text; nothing fights the on-screen words | start: full track from the top, it loops cleanly
 
-"Super Trouper" — ABBA | lane-fit: general/family | why: 185k reels holding mid-chart all week — instantly familiar retro lift for feel-good montages and ta-da reveals; the recognition IS the hook | start: on the "su-per trou-per" chorus hit
+"Sunny" — Boney M., R3HAB | lane-fit: family/food/travel | why: 169K posts — bright retro-summer energy for outings, vacation cuts and anything that should feel like a good day; carries momentum without demanding attention | start: on the beat drop
 
-"Surfin' U.S.A." — The Beach Boys | lane-fit: family/travel | why: 162k reels, stable all week — vintage summer energy for beach days, road trips and family-outing cuts; reads sunny even under grey footage | start: on the opening riff
+"Everything Hallelujah" — Justin Bieber | lane-fit: any | why: 34K posts on the gratitude-list format — name things you love, close on "hallelujah"; plays earnest or ironic with equal ease | start: from the top, land the "hallelujah" on the last card
 
-"Oia at Sunset" — Cielo Ardent | lane-fit: any | why: the emerging track of the 08-08 chart at 58k reels and climbing all day — early in its curve, aesthetic golden-hour bed for travel, evenings and wind-down cuts | start: full track from the top
+"Sometimes" — Fleetwood Mac | lane-fit: any | why: 3.1K posts and steady across two lists — the warm nostalgic bed for home moments, finds and small wins; proven at playing a dry confession completely straight | start: on the vocal
 
-"In & Out" — Ravyn Lenae | lane-fit: general | why: the lifestyle/showcase track of the week — creators use it for fit checks, recipes and product beats with quick eye-catching clips; suits fast-cut montages | start: on the groove, cut every 1-2s with it
+"Material Lover" — Sienna Spiro | lane-fit: tech/business | why: the Devil Wears Prada 2 breakout at 6.4K posts, still early in its curve — creators use it for project showcases and new-arrival B-roll; the closest current fit for a "here is what I shipped" arc | start: from the top, land the chorus on the reveal
