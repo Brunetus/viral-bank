@@ -20,6 +20,73 @@ touched.
 
 <!-- entries below, newest first -->
 
+## DcPUWj1vU78 — a humanoid robot sprints a full lap of an empty Olympic track, then drives itself straight into the trackside electrical boxes
+- source: @pubity | https://www.instagram.com/reel/DcPUWj1vU78/
+- lane: general
+- first-seen: 2026-08-20 | status: FRESH
+- stats-at-capture: 167404 likes / 8835 comments (173.55x account median)
+- joke-structure: two-card bait and switch — card one is a flat record-breaking boast ("A ROBOT BROKE USAIN BOLT'S SPEED RECORD"), card two arrives mid-run and retroactively demolishes it ("THEN CRASHED STRAIGHT INTO AN ELECTRICAL BOX"), and the crash lands right as you finish reading it
+- the-beat: setup card 0:00-0:05 over the sprint; card flips at 0:05 as the robot rounds the bend; impact at 0:10-0:12 and it is left face-down in the cabling. Cut on the card flip at 0:05, or take 0:08-0:13 as a pure payoff beat
+- audio-model: flexible — the footage is silent training video with no sting of its own, so it takes a trending track cleanly, and it also plays fine muted under a voiceover
+- pairs-with: any "the machine was doing great until it wasn't" beat — imabgold's agent running perfectly all night and then blowing up the build; a toddler sprinting across a room and eating the doorframe
+- file: clips/DcPUWj1vU78.mp4 (15s)
+
+## DcJGKfFh6ct — one man plays every member of a Middle Eastern household and physically prevents a guest from leaving by burying him in tea, nuts and hand-fed fruit
+- source: @9gag | https://www.instagram.com/reel/DcJGKfFh6ct/
+- lane: general
+- first-seen: 2026-08-20 | status: FRESH
+- stats-at-capture: 176131 likes / 2235 comments (5.42x account median)
+- joke-structure: escalating obstruction — the guest announces he is leaving and every attempt to stand up summons more hospitality, played by the same performer switching between a headscarfed auntie and the trapped guest in a cap. The joke is that the exit never happens and the guest stops resisting
+- the-beat: premise card 0:00-0:06; tea appears at 0:07; the table fills 0:12-0:25; the payoff run is 0:30-0:42, close-ups of fruit being pushed directly into his mouth while he chews in defeat. Cut on the tea pour at 0:07 for the turn, or lift 0:33-0:40 as a standalone "I am not getting out of here" payoff
+- audio-model: flexible — it is a spoken sketch, but the escalation reads completely without dialogue, so a trending track over it loses nothing
+- pairs-with: any "I tried to end it and it would not let me" beat — closing the laptop and the agent starting another task; standing up to leave a restaurant and the toddler ordering more
+- file: clips/DcJGKfFh6ct.mp4 (44s)
+
+## DcQSJ10hrBL — a four-year-old in a pink helmet bails hard off her skateboard, says "ouchy", and carries on singing the Australian national anthem without missing a word
+- source: @pubity | https://www.instagram.com/reel/DcQSJ10hrBL/
+- lane: general
+- first-seen: 2026-08-20 | status: FRESH
+- stats-at-capture: 14496 likes / 302 comments (14.57x account median)
+- joke-structure: undercut by indifference — the pain beat arrives and is given exactly one word before the performance resumes. She is singing "Advance Australia Fair" to herself the entire time and treats a full-body slam as a minor interruption to the recital
+- the-beat: setup card 0:00-0:03; the bail at 0:04; she is sitting on the concrete at 0:11 with "Ouchy" and is back on the lyric a second later. The whole usable beat is 0:03-0:13; the remaining 45s is filler park footage
+- audio-model: diegetic (bakeable) — her singing IS the joke and the clip is worthless muted. Do not put a track over this one
+- pairs-with: any "took the hit and kept going" beat — the build that crashes mid-demo and the demo continues; a kid who face-plants and resumes the story they were telling
+- file: clips/DcQSJ10hrBL.mp4 (60s)
+
+## DcQmzUTsBPA — camera creeps into a silent bedroom and finds the toddler has dressed both family dogs in tiaras and jewellery, and they are just lying there taking it
+- source: @pubity | https://www.instagram.com/reel/DcQmzUTsBPA/
+- lane: general
+- first-seen: 2026-08-20 | status: FRESH
+- stats-at-capture: 14044 likes / 112 comments (13.94x account median)
+- joke-structure: stated suspicion, empty hunt, reveal — one held line ("MY DAUGHTER'S ROOM WAS SUSPICIOUSLY QUIET. I THEN FOUND THIS INSIDE HER ROOM") licenses two seconds of nothing, and the payoff is not the crime but the victims' total compliance
+- the-beat: push-in through the doorway 0:00-0:02 on an empty frame; the dogs land at 0:03; the girl turns and grins into the lens at 0:05. Cut on the reveal at 0:03 — the whole thing is 6 seconds and needs no trimming
+- audio-model: flexible — no diegetic beat, the text card carries it, so it takes a trending sound cleanly
+- pairs-with: any "it went quiet, here is why" reveal — the toddler who has gone silent in the next room; the terminal that stopped printing because it finished twenty minutes ago
+- file: clips/DcQmzUTsBPA.mp4 (6s)
+
+## DcOyHDVsWu_ — 25 unbroken seconds of twin toddlers squabbling around a bed frame, promised as "the honest version" of twins, that ends with the two of them hugging
+- source: @pubity | https://www.instagram.com/reel/DcOyHDVsWu_/
+- lane: general
+- first-seen: 2026-08-20 | status: FRESH
+- stats-at-capture: 58781 likes / 708 comments (58.58x account median)
+- joke-structure: bait and switch to wholesome — the card promises the unflattering truth about twins, delivers twenty seconds of low-grade shoving, and then pays off with affection instead of a punchline
+- the-beat: card 0:00-0:05; the chaos is one continuous handheld take with no internal beat, which is the limitation here; the only clean cut is the hug at 0:22-0:25. Use it as a closing beat, not as a setup
+- audio-model: flexible — the room tone carries nothing, so a track can sit over the whole thing
+- pairs-with: a "here is what it is really like" opener that resolves into the warm shot — works as the last three seconds of a parenting cut, badly as the middle of one
+- file: clips/DcOyHDVsWu_.mp4 (25s)
+- note: two identifiable strangers' children fill the entire frame and the format (the "honest version" card) is more portable than the footage. Prefer rebuilding it with the user's own kids.
+
+## DcPfwhLzL93 — Mark Wahlberg, in a gym on a Kick stream, tells a streamer about catching his son sneaking out at 3 AM
+- source: #dadlife | https://www.instagram.com/reel/DcPfwhLzL93/
+- lane: family
+- first-seen: 2026-08-20 | status: DO-NOT-SPLICE
+- stats-at-capture: 74 likes / 0 comments (hashtag recent_media, no account baseline)
+- joke-structure: none in frame. It is a verbal celebrity anecdote delivered by two men standing still in a gym; there is no visual turn, no reaction beat and no punchline you can cut to
+- the-beat: n/a — 31 seconds of talking heads under a third-party headline banner, a Kick.com watermark and burned-in karaoke captions that cannot be removed
+- audio-model: diegetic (bakeable), but irrelevant — the clip is not usable
+- pairs-with: nothing. Catalogued only so a later scan does not re-spend a download slot on it
+- file: clips/DcPfwhLzL93.mp4 (31s)
+
 ## DcH2hkzBzKc — Kitchen, mom in a pink tee lecturing her preteen son (white tee, backwards-ish tan ball cap) who stands with his back to camera taking it; held text reads "When your preteen gets too comfortable running they mouth…" and on the last beat she flicks the cap clean off his head mid-sentence
 - source: #parentsofinstagram | https://www.instagram.com/reel/DcH2hkzBzKc/
 - lane: family
@@ -75,12 +142,7 @@ touched.
 - pairs-with: any "the plan survived first contact for about two seconds" beat — a deploy that cascades, a family exit from a restaurant, a toddler handoff that goes wrong; user's own footage sets the confident plan, this pays it off
 - file: clips/DcBuSDMRHn2.mp4 (22s)
 
-## DcB5cyST7Pf — Static profile shot of a young girl in a denim jacket and a large pink bow riding in a car, looking out the window; the entire reel is one unbroken take under a text card reading Mom: "what you thinking about?" / "The bed… me in it." 😂😂
-- source: @houseofhighlights | https://www.instagram.com/reel/DcB5cyST7Pf/
-- lane: sports
-- first-seen: 2026-08-17 | status: DO-NOT-SPLICE — the joke is 100% the text card; the footage is one static shot of an identifiable child and lends no visual beat. Format already covered hand-seeded by playbook #16 ("You just ruined my vibe" deadpan kid reply), so there is nothing here to bank. Record only, so a later scan does not re-spend a download slot on it.
-- stats-at-capture: 252469 likes / 2641 comments (2.75x account median)
-- file: clips/DcB5cyST7Pf.mp4 (27s)
+## DcB5cyST7Pf — [PRUNED DO-NOT-SPLICE] Static profile shot of a young girl in a denim jacket and a large pink bow riding in a car, looking out the window; the entire reel is one unbroken ta · https://www.instagram.com/reel/DcB5cyST7Pf/ · first-seen 2026-08-17
 
 ## DaW57QKigDK — Text "Bad news for claude / I just got home" over a hand jangling car keys walking in the door, cut to the Claude desktop app greeting him by name ("Yooo Bartu, what's good? What are we working on today?"), cut to a Claude Code terminal where he types "make me a millon dollars." and it just starts Swirling…
 - source: @bartubuilds | https://www.instagram.com/reel/DaW57QKigDK/
@@ -361,7 +423,7 @@ touched.
 ## DbRGKvJz6bL — Suburban driveway hoop after rain: a middle-aged dad in floral shorts plays his two teenage sons, backs the shirtless one down, and buries a turnaround over him. Held text the whole clip: "DAD'S BAG WAS DEEPER THAN EXPECTED 😭😭". The other son doubles over screaming with his hands on his head, then the game just carries on
 - source: @houseofhighlights | https://www.instagram.com/reel/DbRGKvJz6bL/
 - lane: sports
-- first-seen: 2026-07-27 | status: FRESH
+- first-seen: 2026-07-27 | status: STALE (2026-08-20)
 - stats-at-capture: 1240220 likes / 4192 comments (18.43x account median)
 - joke-structure: underestimated-elder reversal — the setup is a dad who looks like he is about to be embarrassed, the payoff is that he has moves, and the real laugh is the son's disbelief, not the bucket itself. Reaction carries it, not the skill
 - the-beat: milling and posting up 0:00-0:13, dad's move and score 0:14-0:17, the screaming reaction lands 0:18-0:21. Cut on the turn at 0:17 and hold the reaction to 0:21; everything after is filler
@@ -372,7 +434,7 @@ touched.
 ## DbMNX2lE4hm — An armadillo trots across a tiled lobby floor, past a lounging iguana, straight to a big leather massage chair, then climbs the arm and settles into the seat like it owns the place. Text cards: "THIS ARMADILLO ABSOLUTELY LOVES HIS MASSAGE CHAIR 😭" → "HE KNOWS EXACTLY WHERE IT IS!" → "AND HOW TO GET INTO HIS FAVOURITE SPOT"
 - source: @ladbible | https://www.instagram.com/reel/DbMNX2lE4hm/
 - lane: general
-- first-seen: 2026-07-27 | status: FRESH
+- first-seen: 2026-07-27 | status: STALE (2026-08-20)
 - stats-at-capture: 118756 likes / 573 comments (10.52x account median)
 - joke-structure: animal-with-a-routine — the comedy is competence, not chaos. The armadillo walks a known route with intent, and the text narrates it as a habit, so the payoff is how ordinary the absurd thing looks
 - the-beat: the walk 0:00-0:05, the climb 0:06-0:10, settled-in payoff 0:11-0:13. Cut on the climb at 0:06 if you want a short beat; the seated hold at 0:12 is the loop point
@@ -383,7 +445,7 @@ touched.
 ## DbQcn9Ls47b — Night on a bar strip: a young guy stands safely behind a glass door taunting a police officer on the other side, sticking his tongue out at him. The officer never engages. He calmly lifts his phone, presses the screen flat against the glass so the guy has to read it, and the guy immediately folds and turns away. Text: "THAT'S THE SMARTEST WAY I'VE SEEN A COP DEAL WITH SOMEONE..."
 - source: @pubity | https://www.instagram.com/reel/DbQcn9Ls47b/
 - lane: general
-- first-seen: 2026-07-27 | status: FRESH
+- first-seen: 2026-07-27 | status: STALE (2026-08-20)
 - stats-at-capture: 240720 likes / 1101 comments (9.5x account median)
 - joke-structure: escalation met with anticlimax — the setup promises a confrontation and the payoff is a completely silent, deadpan counter. The loudest person loses without anyone raising their voice
 - the-beat: taunting 0:00-0:07, the phone comes up 0:08, screen reveal 0:10, the guy deflates 0:12. Cut on the phone at 0:08 and let the reveal land; the deflate at 0:12 is the button
@@ -394,7 +456,7 @@ touched.
 ## DbRF5SgDrB_ — Family around a kitchen island. A woman scratches what she thinks is a lottery ticket, reads "we're having a baby" out loud, and completely fails to understand it: "What the $@#%&" · "Where is that?" · "What does that even mean?" · "I don't have a baby" · "I'm not even joking you guys." Everyone else already knows. It takes her about twenty seconds to land on "Are you having a baby?" and then the whole room erupts. Burned-in captions throughout
 - source: @parents | https://www.instagram.com/reel/DbRF5SgDrB_/
 - lane: family
-- first-seen: 2026-07-27 | status: FRESH
+- first-seen: 2026-07-27 | status: STALE (2026-08-20)
 - stats-at-capture: 1307 likes / 12 comments (9.41x account median)
 - joke-structure: dramatic irony with a long fuse — the audience and the whole family are in on it, one person is not, and the comedy is entirely the length of her confusion. The longer she misreads it, the bigger the payoff
 - the-beat: scratch and misread 0:00-0:06, the oblivious stretch 0:06-0:19 (this is the funny part, not the reveal), the penny drops at 0:22, eruption 0:24-0:32. Cut on "What does that even mean?" at 0:11 for a short beat; keep 0:19-0:26 for the turn alone
@@ -405,7 +467,7 @@ touched.
 ## DbS23kppOgh — Seven-second dev meme: a guy at a desk sits head-in-hands staring at his monitors under the text "That moment when your fix breaks prod", then a hard cut to the Tony Stark close-up meme frame captioned "JARVIS, WHAT IS THIS SHIT...?" with the Claude starburst logo glowing underneath
 - source: #programmerhumor | https://www.instagram.com/reel/DbS23kppOgh/
 - lane: tech
-- first-seen: 2026-07-27 | status: FRESH
+- first-seen: 2026-07-27 | status: STALE (2026-08-20)
 - stats-at-capture: 5 likes / 0 comments (hashtag recent_media, no account baseline)
 - joke-structure: two-panel meme — relatable pain in panel one, blame reassigned to the AI in panel two. The whole joke is the cut, and naming the tool is what makes it land for a build-in-public audience
 - the-beat: setup 0:00-0:03, cut on the turn at 0:04, payoff frame holds 0:04-0:06. The second panel needs its ~2s of reading time or the gag reads as noise
@@ -414,262 +476,42 @@ touched.
 - file: clips/DbS23kppOgh.mp4 (7.0s)
 
 ## DbG8iH0J-Yg — [PRUNED DO-NOT-SPLICE] Morning Brew correspondent walking a supermarket aisle with a bottle of weedkiller for a 2.5-minute sincere piece on the pesticide industry; caption read like a skit, footage was consumer journalism, no bit and no turn · https://www.instagram.com/reel/DbG8iH0J-Yg/ · first-seen 2026-07-27
-## DbG1EzpBH8r — Beach-club crowd at golden hour: Erling Haaland, in a novelty viking helmet with a red cape, dances shoulder-to-shoulder with fans while phones film him. A single static text card sits over the whole 12s: "INSTAGRAM IS COOL BECAUSE WE CAN POST THIS VIDEO OF HAALAND DANCING AND HE'LL JUST COMMENT WHAT HE HAD FOR BREAKFAST THIS MORNING"
-- source: @pubity | https://www.instagram.com/reel/DbG1EzpBH8r/
-- lane: general
-- first-seen: 2026-07-23 | status: STALE (2026-08-17)
-- stats-at-capture: 791059 likes / 4764 comments (52.49x account median)
-- joke-structure: comment-bait prophecy — the text predicts that the famous subject will show up in the comments being wholesome and boring, so the footage is the evidence and the joke is the prediction. The card never changes; the clip is a 12s loop of proof
-- the-beat: no cut-on-turn — the whole thing is one held beat. Use 0:00-0:04 as a text-card setup, or the crowd-dancing action as a payoff cutaway. Text needs ~4s of reading time before anything else happens
-- audio-model: trending sound (add in-app) — the diegetic bed is club music playing at the venue (third-party track); never bake it in, pick a library sound natively when posting
-- pairs-with: any "watch this person turn up in my comments" or "the nicest guy in [X] is about to reply" setup; also a "famous person doing an extremely normal thing" cutaway against a user's own small win. Recreating the TEXT over the user's own footage is the stronger play — see playbook 21
-- file: clips/DbG1EzpBH8r.mp4 (12.6s)
+## DbG1EzpBH8r — [PRUNED STALE] Beach-club crowd at golden hour: Erling Haaland, in a novelty viking helmet with a red cape, dances shoulder-to-shoulder with fans while phones film h · https://www.instagram.com/reel/DbG1EzpBH8r/ · first-seen 2026-07-23
 
-## DbHHPQ5j290 — A girl leans out an apartment window shouting across the neighbourhood under the text "MY SISTER HAS FIGURED OUT HOW TO CHAT WITH THE HORSE THAT LIVES NEAR OUR BUILDING"; the camera pans down and holds on a vacant red-dirt lot across the road where a small dark horse stands alone by a fence, and stays there, apparently answering her
-- source: @ladbible | https://www.instagram.com/reel/DbHHPQ5j290/
-- lane: general
-- first-seen: 2026-07-23 | status: STALE (2026-08-17)
-- stats-at-capture: 388629 likes / 1736 comments (22.09x account median)
-- joke-structure: absurd-claim setup, literal payoff — the text promises something ridiculous, the pan delivers exactly it, and the deadpan length of the hold (the horse just stands there) is what makes it funny. Family-audio bonus: an off-camera mum is yelling in the background the whole time
-- the-beat: setup and text 0:00-0:05, camera search 0:05-0:13, horse reveal lands ~0:14, holds to the end. Cut on the reveal at 0:14 if you only want the payoff; keep 0:00-0:16 for the full setup-to-turn
-- audio-model: diegetic (bakeable) — the shouted call-and-response and the mum yelling in the background ARE the beat; muting it kills the clip
-- pairs-with: a "my kid has made friends with [absurd thing]" beat over a family's own footage, or any "I promise you this is real, look" reveal where the user's own reveal is the payoff. The long deadpan hold is a reusable rhythm for a bambi restaurant-scan bit
-- file: clips/DbHHPQ5j290.mp4 (24.5s)
+## DbHHPQ5j290 — [PRUNED STALE] A girl leans out an apartment window shouting across the neighbourhood under the text "MY SISTER HAS FIGURED OUT HOW TO CHAT WITH THE HORSE THAT LIVES · https://www.instagram.com/reel/DbHHPQ5j290/ · first-seen 2026-07-23
 
-## DbFKJJIN4PQ — Night on a Rio beach field lit orange by streetlights, dozens of kites in a black sky: a guy in a cap runs and duels his kite against the others with absurd precision, camera chasing him. Held text: "Bro is playing in the wrong lobby"
-- source: @houseofhighlights | https://www.instagram.com/reel/DbFKJJIN4PQ/
-- lane: sports
-- first-seen: 2026-07-23 | status: STALE (2026-08-17)
-- stats-at-capture: 1420773 likes / 11163 comments (16.09x account median)
-- joke-structure: gamer-lingo reframe — a piece of online-gaming vocabulary ("wrong lobby" = you are far too good for the people you are playing against) dropped over real-world footage of someone quietly outclassing everyone. The gap between the casual setting and the skill is the joke
-- the-beat: no single punchline; the skill escalates. Best 5s window is 0:07-0:12 where the kite lines cross and he snaps his out of the tangle. Dark, high-contrast footage — reads well as a fast cutaway, poorly as a long hold
-- audio-model: flexible — ambient beach crowd, nothing load-bearing; works muted under a trending sound or kept as texture
-- pairs-with: a "someone doing an ordinary thing at an insane level" cutaway against a user's own modest attempt at the same thing; or the gamer-lingo text template over a user's own footage ("bro is playing in the wrong lobby" over their build, their toddler, their gym set)
-- file: clips/DbFKJJIN4PQ.mp4 (30.4s)
+## DbFKJJIN4PQ — [PRUNED STALE] Night on a Rio beach field lit orange by streetlights, dozens of kites in a black sky: a guy in a cap runs and duels his kite against the others with  · https://www.instagram.com/reel/DbFKJJIN4PQ/ · first-seen 2026-07-23
 
-## DbHFRLzJjuH — Two-hander office skit dramatising a real 404 Media headline (shown as a card up top: "AI Companies Are Buying Tons of Old Books Because They're Free of AI Slop"). One performer wears a floating label "AI" and plays it as a whiny, dopey child; the other wears the label "AI companies". AI: "I need books from pre-2022, the ones after 2022 have a bunch of AI slop." AI companies solves it by buying print books and destroying them "because trading a physical copy maintains 1-for-1 equivalence, not breaking copyright infringement." AI, delighted: "Yay, that sounds like fun and cool and awesome"
-- source: @morningbrew | https://www.instagram.com/reel/DbHFRLzJjuH/
-- lane: tech
-- first-seen: 2026-07-23 | status: STALE (2026-08-17)
-- stats-at-capture: 5695 likes / 28 comments (3.02x account median)
-- joke-structure: role-labelled dramatisation — a real news story is acted out by two labelled characters, one playing the powerful party as a toddler. No punchline is written; the absurdity of the actual facts is the punchline, and the naive-enthusiasm reaction is the button
-- the-beat: two usable turns. The mid turn at ~0:24 ("we will also destroy these books") is the absurd-fact reveal; the closing beat 0:35-0:41 ("yay that sounds like fun and cool and awesome") is the button. Cut on either. Whole clip is dialogue-dense, so it needs to be the spine of a section, not a garnish
-- audio-model: diegetic (bakeable) — the dialogue IS the joke, subtitles alone lose the delivery
-- pairs-with: DEAD-ON for imabgold — an "AI vs. the people building on it" beat, or the AI-slop meta-joke where the user's own real build is the counterpoint ("made by an actual human"). Also a format to steal outright: label yourself and the thing you are fighting, act out the week's real news. See playbook 22
-- file: clips/DbHFRLzJjuH.mp4 (41.1s)
+## DbHFRLzJjuH — [PRUNED STALE] Two-hander office skit dramatising a real 404 Media headline (shown as a card up top: "AI Companies Are Buying Tons of Old Books Because They're Free  · https://www.instagram.com/reel/DbHFRLzJjuH/ · first-seen 2026-07-23
 
-## DbAyGZhDktL — Selfie-cam in a moving car, one mum performing both halves of a toddler refusal loop under the held text "i'm in whatever phase of parenting this is". She asks, in a soft parent voice, "Do you want your blanket?" then snaps into the toddler: "No!" Escalates through "I have mac and cheese and chocolate milk. NO!!!!" and "if you use your words, Bubba, and tell me, I can try to fix it. NO!", her face flipping between weary adult and feral toddler on every line
-- source: @parents | https://www.instagram.com/reel/DbAyGZhDktL/
-- lane: family
-- first-seen: 2026-07-23 | status: STALE (2026-08-17)
-- stats-at-capture: 2301 likes / 72 comments (3.44x account median)
-- joke-structure: one-performer two-hander — the same person plays the reasonable offer and the irrational refusal back to back, and the comedy is in the escalation plus how fast her face switches. Recognition humour: every parent has run this exact loop
-- the-beat: escalating, so the laugh compounds. Strongest single beat is the mac-and-cheese offer at ~0:06-0:09 (best offer, hardest "NO"); the final "I can try to fix it. NO!" at ~0:17 is the button. Cut 0:00-0:09 for a tight setup-payoff
-- audio-model: diegetic (bakeable) — it is a solo vocal performance, both voices are hers; the switch in delivery is the whole mechanism
-- pairs-with: bambi's eating-out-with-a-baby canon — a restaurant meltdown, the highchair refusal, the "we offered everything on the menu" beat. Also any "I made a reasonable offer and got destroyed" setup where the user's own real moment is the payoff. See playbook 23
-- file: clips/DbAyGZhDktL.mp4 (21.4s)
+## DbAyGZhDktL — [PRUNED STALE] Selfie-cam in a moving car, one mum performing both halves of a toddler refusal loop under the held text "i'm in whatever phase of parenting this is". · https://www.instagram.com/reel/DbAyGZhDktL/ · first-seen 2026-07-23
 
 ## DavKOUfvEqI — [PRUNED AD-REJECTED] "Ai vs Umpire" hook that turns into a full Fulltrack AI app walkthrough (install flow, branded ball-tracking overlays); caption carried no ad signal so the slot was spent before the footage could be judged · https://www.instagram.com/reel/DavKOUfvEqI/ · first-seen 2026-07-23
 
-## DXriT7ajsDu — POV meme: text "POV: You decide to take a break after grinding for 8 hours" over a young guy at a desk setup who leans back and picks up his phone to scroll, then HARD-CUTS to a (screen-recorded) David Goggins podcast clip pointing at camera, on-screen text "Get back to work" and captioned "Get back to fucking work"
-- source: @fortisclothing.co | https://www.instagram.com/p/DXriT7ajsDu/
-- lane: tech
-- first-seen: 2026-07-22 | status: STALE (2026-08-17)
-- stats-at-capture: 68000 likes / 317 comments / 2.7k shares (manual add from Marcus's "Viral stuff" saves; caption "David Goggins is a former Navy SEAL... #davidgoggins #reel #instagram"; posted Apr 28, no account baseline)
-- joke-structure: relatable-slack-off setup, drill-sergeant-callout payoff — the calm "I earned a break" moment gets interrupted by Goggins screaming you back to work. Comedy is the guilt-trip hard cut, the gap between permission-to-rest and being yelled at for it
-- the-beat: setup 0:00-0:07 (leans back, picks up phone = the break), hard cut to the Goggins "get back to work" beat ~0:08-0:15. SPLICE: the ~2s Goggins callout is the payoff turn. NOTE: the Goggins half is a screen-recorded repost with a TikTok/@hustlers UI overlay baked into the frame — for a clean cut the architect would want a de-UI'd Goggins source, or keep it small/quick so the overlay doesn't read
-- audio-model: diegetic (bakeable) — Goggins's "get back to fucking work" VO is the whole payoff; muted this clip loses the punchline. (Profanity: fits raw builder-humor, reads slightly off the calm faceless-founder voice — architect's call)
-- pairs-with: an imabgold "when I try to take a break mid-build / step away from Claude for one second" setup over the user's OWN desk/screen, cutting to the Goggins callout as the guilt-trip payoff. Bang-on for the builder-grind lane; the user's real work stays the load-bearing setup, Goggins carries the turn
-- file: clips/DXriT7ajsDu.mp4 (15.3s)
+## DXriT7ajsDu — [PRUNED STALE] POV meme: text "POV: You decide to take a break after grinding for 8 hours" over a young guy at a desk setup who leans back and picks up his phone to  · https://www.instagram.com/p/DXriT7ajsDu/ · first-seen 2026-07-22
 
-## DbEkGfnh5cI — Two-part contrast bit: text "entrepreneurs trying to lock in during the day:" over a guy pacing a hallway barefoot, animatedly talking big on the phone (fake-busy, unfocused), then cuts to "10pm-4am:" over the same guy locked in at a dark triple-monitor battlestation actually deep in work
-- source: @itsjoshboyd | https://www.instagram.com/p/DbEkGfnh5cI/
-- lane: tech
-- first-seen: 2026-07-22 | status: STALE (2026-08-17)
-- stats-at-capture: 145 likes / 11 shares / 0 comments (manual add from Marcus's "Viral stuff" saves; caption "I swear I can never focus.. #emoney #motivation #entrepreneur #ugccreator #ecom"; posted ~22h before capture, no account baseline)
-- joke-structure: relatable day-vs-night contrast — the entrepreneur who cannot focus in daylight but goes full deep-work at 2am. The comedy/recognition is that the "real" grind only happens after everyone else is asleep
-- the-beat: two labeled halves, daytime-distracted 0:00-0:04 then the "10pm-4am" lock-in reveal 0:05-0:08. This is a FORMAT to recreate, not a splice donor — both halves are the creator's own footage of himself; there is no borrowable payoff frame
-- audio-model: flexible — original talking/ambient VO, but the format works fully under a trending sound with the two text cards doing the work
-- pairs-with: imabgold's single strongest proven theme — "my cofounder is a baby, he clocks out at 7pm so I clock in" (taste.md). Recreate the day-cant-focus / night-locked-in contrast with the user's OWN desk and real Claude build on the monitors. The user's footage IS the reel here; this entry is the structural template
-- file: clips/DbEkGfnh5cI.mp4 (8.9s)
+## DbEkGfnh5cI — [PRUNED STALE] Two-part contrast bit: text "entrepreneurs trying to lock in during the day:" over a guy pacing a hallway barefoot, animatedly talking big on the phon · https://www.instagram.com/p/DbEkGfnh5cI/ · first-seen 2026-07-22
 
-## DZu3UJZoMQS — Phone films a monitor showing a Claude chat that just delivered a sharp debugging breakdown (a funnel bug: "28 landing page viewers, 0 form submissions", a chat-widget script silently killing form submits); text overlay "When Claude cooks so hard you genuinely gotta congratulate him:" as the creator types back into the chat box "that was kinda sick bro ngl you..."
-- source: @iambenhollingworth | https://www.instagram.com/p/DZu3UJZoMQS/
-- lane: tech
-- first-seen: 2026-07-22 | status: STALE (2026-08-17)
-- stats-at-capture: 19400 likes / 114 comments / 728 shares (manual add from Marcus's "Viral stuff" saves; caption "Yes it was worth the tokens #fyp #claude #viral #relateable #dubistgutgenug"; posted Jun 18, no account baseline; comments riff on "worth the tokens" / Claude spending 40k tokens on itself)
-- joke-structure: wholesome-absurdity — genuinely praising your AI like a human teammate ("that was kinda sick bro ngl") after it nails a hard debug. The recognition beat for anyone building with Claude: you DO end up congratulating it
-- the-beat: one held shot, phone panning the screen 0:00-0:05 (Claude's answer visible), the payoff is the typed congratulation appearing ~0:05-0:07. FORMAT to recreate, not a splice donor — it's the creator's own filmed screen; the value is the concept, not borrowable frames
-- audio-model: flexible — no essential dialogue; the on-screen text + typed message carry it, drops cleanly under a trending sound
-- pairs-with: imabgold's core "non-technical founder building with Claude" identity. Recreate with the user's OWN Claude Code session actually cooking (a real fix landing), then film the congratulating-the-AI beat. The user's real build is the load-bearing footage; this is the structural template and a proven-viral concept for the exact audience imabgold wants
-- file: clips/DZu3UJZoMQS.mp4 (7.5s)
+## DZu3UJZoMQS — [PRUNED STALE] Phone films a monitor showing a Claude chat that just delivered a sharp debugging breakdown (a funnel bug: "28 landing page viewers, 0 form submission · https://www.instagram.com/p/DZu3UJZoMQS/ · first-seen 2026-07-22
 
-## DbC5egUOiMl — Single deadpan text card held over slowed b-roll of a guy walking toward camera through a loft office: "If she didn't support you during localhost:3000 she doesn't deserve you at .vercel.app" — a dev-loyalty wordplay (stand by me in the struggle/dev phase, stay for the shipped/deployed phase)
-- source: @eugeneanisei | https://www.instagram.com/p/DbC5egUOiMl/
-- lane: tech
-- first-seen: 2026-07-22 | status: STALE (2026-08-17)
-- stats-at-capture: 7700 likes / 74 comments / 290 shares (manual add from Marcus's "Viral stuff" saves; caption "Am I right?"; audio "worry" by riserayss ultra-slowed; posted ~1d before capture; top comment "what about .com" 116 likes)
-- joke-structure: relationship-loyalty template mapped onto dev jargon — "ride or die" romance advice re-skinned as localhost (the grind) vs vercel.app (success). The whole joke is the on-screen text; the b-roll is just a mood bed
-- the-beat: one static text card the entire 6s over a slow dolly-in on the deadpan creator. No second beat. This is a CAPTION/TEXT FORMAT to recreate, not a splice donor
-- audio-model: trending sound (add in-app) — "worry" (riserayss) ultra-slowed is the current bed for this deadpan-wordplay format; pick it natively when posting, don't bake it in
-- pairs-with: an imabgold text-card version over the user's own walk-through-the-workspace or a slow push-in on the laptop: "if she didn't ride with you at localhost:3000 / she doesn't deserve you at [the shipped product]". Pure hook/caption play — drives comments (people quote-tweet the wordplay). The user's own footage is the bed; the text is the asset. Rotate the jargon so it isn't a straight copy (taste.md: recycled hooks decay)
-- file: clips/DbC5egUOiMl.mp4 (6.3s)
+## DbC5egUOiMl — [PRUNED STALE] Single deadpan text card held over slowed b-roll of a guy walking toward camera through a loft office: "If she didn't support you during localhost:300 · https://www.instagram.com/p/DbC5egUOiMl/ · first-seen 2026-07-22
 
 ## DZk9fE1zLP4 — [PRUNED AD-REJECTED] Cinematic entrepreneur-grind montage (guy at a laptop on a night street, a silhouette at a high-rise window at sunset) under motivational text: "On… · no permalink · first-seen 2026-07-22
 
-## DYujHn5B9e8 — Single low-light shot of a guy hunched over a laptop late at night, obsessively typing (energy drink + green glass bottle on the table), text: "No baby I don't want to go out tonight, this AI revolution is bigger than the internet and we need our piece"
-- source: @robthebank | https://www.instagram.com/p/DYujHn5B9e8/
-- lane: tech
-- first-seen: 2026-07-22 | status: STALE (2026-08-17)
-- stats-at-capture: 23200 likes / 429 comments / 1.2k shares (manual add from Marcus's "Viral stuff" saves; caption "Like the money just grew off a tree"; posted May 24; @diplo commented "he gets it" (768 likes), top reply "I haven't left my house in three weeks, bro" (329 likes))
-- joke-structure: obsessed-builder confession — the deranged-conviction bit ("this is bigger than the internet, we need our piece") delivered by someone clearly too deep in the grind to socialize. Comedy is the intensity/relatability, the AI-gold-rush FOMO said out loud
-- the-beat: one held 9s shot (locked-in typing) with the text card up throughout. FORMAT to recreate, not a splice donor — it's the creator's own footage. The transferable asset is the LINE + the never-leave-the-desk visual
-- audio-model: flexible — original audio; the on-screen text carries it, works fine under a trending sound
-- pairs-with: imabgold's proven night-owl-builder theme (taste.md: "clock in when the baby clocks out", the gym/Claude grind reels). Recreate the "no I can't come out, the AI wave is once-in-a-generation and I need my piece" confession over the user's OWN late-night Claude build. Pairs naturally with DbEkGfnh5cI (day-cant-focus / night-locked-in) — same night-grind lane. User's real footage is the hero; the line is the hook
-- file: clips/DYujHn5B9e8.mp4 (9.5s)
+## DYujHn5B9e8 — [PRUNED STALE] Single low-light shot of a guy hunched over a laptop late at night, obsessively typing (energy drink + green glass bottle on the table), text: "No bab · https://www.instagram.com/p/DYujHn5B9e8/ · first-seen 2026-07-22
 
-## DafgEASyykv — Deadpan founder bit: text "Proof hard work can turn your little side hustle into a multi million dollar company..." over a guy hustling/packing orders in a cramped makeshift office buried in shipping boxes, who then walks straight up to the camera and stares deadpan (the "proof" is that nothing has changed — he's still doing it all himself)
-- source: @henry_hyukjin | https://www.instagram.com/p/DafgEASyykv/
-- lane: tech
-- first-seen: 2026-07-22 | status: STALE (2026-08-17)
-- stats-at-capture: 17600 likes / 593 comments / 345 shares (manual add from Marcus's "Viral stuff" saves; caption "Proof hard work pays off. #fyp #korea #entrepreneurship #foryou #startup"; posted Jul 7; @godaddy commented "it's coming though", top reply "I'll wait patiently")
-- joke-structure: aspirational setup, deadpan-anticlimax payoff — the "multi million dollar company" hook cashes out as him still grinding solo in a box-filled room. The trailing "..." and the deadpan stare are the punchline; the gap between the promise and the messy reality IS the joke (self-aware bootstrapped-founder humor)
-- the-beat: setup 0:00-0:06 (packing/hustling amid the boxes, text up), then the deadpan walk-to-camera close-up ~0:07-0:10 as the anticlimax button. Whole clip is the creator's own footage — FORMAT to recreate; the "proof hard work → multimillion company..." card is also a reusable SETUP that can fake-out into the user's own reality
-- audio-model: diegetic/flexible — original audio; the text carries it, drops cleanly under a trending sound
-- pairs-with: imabgold's bootstrapped-solo-founder truth. Recreate the "proof hard work turns your side hustle into a multi-million company..." setup over the user's OWN one-person-doing-everything reality (packing, support, the Claude build at 2am), landing on a deadpan to-camera button. Fits the non-technical-founder-in-the-trenches identity; keep the user's real footage load-bearing. Adjacent to DZk9fE1zLP4 (grind motivation) but funnier/self-aware, which taste.md favors over earnest
-- file: clips/DafgEASyykv.mp4 (10.1s)
+## DafgEASyykv — [PRUNED STALE] Deadpan founder bit: text "Proof hard work can turn your little side hustle into a multi million dollar company..." over a guy hustling/packing orders · https://www.instagram.com/p/DafgEASyykv/ · first-seen 2026-07-22
 
-## DaYdC0iwMI7 — POV single-shot: a guy sits on his bed with a laptop open beside him, glancing distractedly off-camera and back at the screen; text held throughout: "POV: me and my girl are arguing but Claude needs my approval" (torn between the argument and clicking approve on Claude's permission prompt)
-- source: @adanxai | https://www.instagram.com/p/DaYdC0iwMI7/
-- lane: tech
-- first-seen: 2026-07-22 | status: STALE (2026-08-17)
-- stats-at-capture: 7300 likes / 42 comments / 249 shares (manual add from Marcus's "Viral stuff" saves; caption "Priorities am I right #claude #ai #gf #reels"; posted Jul 4; top comment "imagine not bypassing all permissions lmao" (158 likes) — the Claude Code permission-prompt insider joke)
-- joke-structure: misplaced-priorities POV — the builder so locked into his Claude Code session that a real-life argument loses to a tool-use approval prompt. Recognition beat for anyone who's babysat Claude's "allow this action?" prompts mid-agentic-run
-- the-beat: one continuous POV shot (~8s), text card up throughout, the performance is his divided-attention glancing between the off-screen girl and the laptop. FORMAT to recreate; also a strong SPLICE SETUP — the text is a fakeout that can hard-cut to the user's OWN screen with a real Claude permission prompt as the payoff
-- audio-model: flexible — original audio; the on-screen text is the mechanism, works under a trending sound
-- pairs-with: DEAD-ON for imabgold's non-technical-founder-building-with-Claude identity, and the most literally on-brand of this batch (it names Claude and the exact permission-approval UX). Recreate the POV over the user's real desk, or use the text as a setup that cuts to an actual Claude Code approval prompt on the user's screen (user's real build stays load-bearing). Note the insider "permissions" gag lands hardest with a builder audience — keep the hook broad enough that an outsider still parses "obsessed with my AI over my relationship" (ARCHITECT-CORE hook law)
-- file: clips/DaYdC0iwMI7.mp4 (8.1s)
+## DaYdC0iwMI7 — [PRUNED STALE] POV single-shot: a guy sits on his bed with a laptop open beside him, glancing distractedly off-camera and back at the screen; text held throughout: " · https://www.instagram.com/p/DaYdC0iwMI7/ · first-seen 2026-07-22
 
 ## DaSbWVpsGrU — [PRUNED AD-REJECTED] Talking-head sales funnel for a paid "system for creators"; IG tagged the underlying asset INSTAGRAM.AD. NOTE for Marcus: flip back to FRESH if you ever want the "you don't need to go all-in" hook kept as a format · https://www.instagram.com/p/DaSbWVpsGrU/ · first-seen 2026-07-22
 
-## Dannr_EOKAv — POV meme: a guy looks exasperated to camera under text "POV: When ChatGPT keeps giving you a terrible answer and you have to pull this method", then hard-cuts to a phone screen where he types an escalating, profane message to the AI ("fucking dumbass did you even read wtf i said. Read that shit again and get that mf right before i...")
-- source: @nicksavestime | https://www.instagram.com/reel/Dannr_EOKAv/
-- lane: tech
-- first-seen: 2026-07-20 | status: STALE (2026-08-17)
-- stats-at-capture: 229713 likes (manual add from Marcus's saves; caption "This shi pmo #cooked #chatgpt #funny"; 10 days old, no account baseline)
-- joke-structure: relatable-exaggeration — the "pro method" hyped in the setup turns out to be berating the AI like an abusive boss. Comedy is the gap between how calmly people pretend to prompt and how they actually snap at it
-- the-beat: talking-head setup 0:00-0:03, hard cut to the typing screen ~0:03, the payoff is the fully-typed profane message reading out at ~0:08-0:09. SPLICE: extract the ~1-2s "typing the unhinged message" beat as the payoff turn, or the whole 3s cut as a self-contained gag
-- audio-model: flexible — talking-head VO carries the setup, but the typing half drops cleanly under a trending sound; his delivery is not essential to the joke (the on-screen text is)
-- pairs-with: an imabgold "when Claude gives me a garbage answer at 3am" setup over his own screen, cutting to this berating-the-AI beat — the everyone-secretly-does-this angle. TONE NOTE: the message is aggressively profane; it fits a raw builder-humor cut but reads off-brand for the calm faceless-founder voice, so the architect should decide whether imabgold's persona would say it (or keep it as a quick fakeout the user's own reaction undercuts)
-- file: clips/Dannr_EOKAv.mp4 (9.8s)
+## Dannr_EOKAv — [PRUNED STALE] POV meme: a guy looks exasperated to camera under text "POV: When ChatGPT keeps giving you a terrible answer and you have to pull this method", then h · https://www.instagram.com/reel/Dannr_EOKAv/ · first-seen 2026-07-20
 
-## Da-o07aDWD_ — Dad in a floral shirt walks the camera down a driveway saying "'bring the baby' they said", then whip-pans to reveal the entire driveway buried in baby gear: two suitcases, a bouncer, a bassinet, four bags, a stroller, all of it for one infant
-- source: @parents | https://www.instagram.com/reel/Da-o07aDWD_/
-- lane: family
-- first-seen: 2026-07-20 | status: STALE (2026-08-17)
-- stats-at-capture: 2138 likes / 41 comments (6.56x account median)
-- joke-structure: quoted-advice setup, scale-reveal payoff — the throwaway phrase "bring the baby" cashed out as an absurd physical inventory
-- the-beat: talking-head setup 0:00-0:12, the reveal pan lands at ~0:16 and the gear keeps going for another 6s (the laugh grows with the pile). Cut the setup short and keep the full pan; the length of the reveal IS the joke
-- audio-model: diegetic (bakeable) — his delivery to camera carries the setup, though the reveal also works muted under a trending sound since the on-screen text does the work
-- pairs-with: any bambi.map packing/travel-day moment — the stroller-vs-tiny-restaurant beat, or a "what we actually brought to Tokyo" gear dump; also sets up a highchair-scan punchline (you hauled all this and the place still has no highchair)
-- file: clips/Da-o07aDWD_.mp4 (24.7s)
+## Da-o07aDWD_ — [PRUNED STALE] Dad in a floral shirt walks the camera down a driveway saying "'bring the baby' they said", then whip-pans to reveal the entire driveway buried in bab · https://www.instagram.com/reel/Da-o07aDWD_/ · first-seen 2026-07-20
 
-## Da80ChqHDLa — Caption "my dog loves to shake off water right next to my brother": a golden retriever swims in the ocean below a deck, climbs out, sprints up the stairs across the deck straight at the brother waiting by the grill, and unloads the shake on him
-- source: @ladbible | https://www.instagram.com/reel/Da80ChqHDLa/
-- lane: general
-- first-seen: 2026-07-20 | status: STALE (2026-08-17)
-- stats-at-capture: 755028 likes / 964 comments (21.09x account median)
-- joke-structure: telegraphed-doom setup, inevitable-payoff — the text tells you exactly what is coming and the comedy is the wait, not the surprise
-- the-beat: dog in the water 0:00-0:04 (setup + text), the run-up 0:08-0:10, shake lands ~0:11. Cut on the sprint at 0:08 for a fast loop, or run to the shake for the full payoff
-- audio-model: flexible — no dialogue, only ambient water/deck noise; drops cleanly under a trending sound
-- pairs-with: any "I knew this was coming and let it happen anyway" user moment — a toddler winding up to throw food, a laptop parked next to a full glass of water, a build about to break in exactly the predicted way
-- file: clips/Da80ChqHDLa.mp4 (12.4s)
+## Da80ChqHDLa — [PRUNED STALE] Caption "my dog loves to shake off water right next to my brother": a golden retriever swims in the ocean below a deck, climbs out, sprints up the sta · https://www.instagram.com/reel/Da80ChqHDLa/ · first-seen 2026-07-20
 
-## Da_eg50RQ6C — Pubity's own street footage of a packed Times Square crowd erupting as Spain beat Argentina in the World Cup final: phones up, arms up, Barcelona and Argentina shirts shoulder to shoulder under the billboards
-- source: @pubity | https://www.instagram.com/reel/Da_eg50RQ6C/
-- lane: general
-- first-seen: 2026-07-20 | status: STALE (2026-08-17)
-- stats-at-capture: 25195 likes / 274 comments (54.07x account median)
-- joke-structure: not a joke — a pure mass-reaction beat, a crowd losing it in unison. Reaction fuel, not a setup
-- the-beat: no punchline; the usable unit is any 2-3s of peak crowd eruption (strongest around 0:08-0:12). Use it as the REACTION to something the user's own footage sets up
-- audio-model: diegetic (bakeable) — the crowd roar is the whole asset. This clip is worth almost nothing muted
-- pairs-with: a user's own small win cut against disproportionate mass celebration — shipping a feature, a first paying customer, a baby finally sleeping, then Times Square goes up
-- provenance note: this is pubity's own crowd/street footage, not broadcast match footage
-- file: clips/Da_eg50RQ6C.mp4 (14.3s)
+## Da_eg50RQ6C — [PRUNED STALE] Pubity's own street footage of a packed Times Square crowd erupting as Spain beat Argentina in the World Cup final: phones up, arms up, Barcelona and  · https://www.instagram.com/reel/Da_eg50RQ6C/ · first-seen 2026-07-20
 
-## Da050coN-rB — Morningbrew reporter in a suit does a deadpan news package on "Finance Bros to Tech Bros: Don't Mess With My Bloomberg Terminal", standing outside Google, pointing at a Bloomberg terminal, ending on a mock Hinge profile reading "I hype myself up by learning keybinds on my Bloomberg Terminal"
-- source: @morningbrew | https://www.instagram.com/reel/Da050coN-rB/
-- lane: tech
-- first-seen: 2026-07-20 | status: STALE (2026-08-17)
-- stats-at-capture: 8249 likes / 54 comments (3.65x account median)
-- joke-structure: straight-news format as the setup, escalating absurd specifics as the payoff — the joke is the gap between anchor-voice delivery and how petty the subject is
-- the-beat: the strongest self-contained unit is the Hinge-profile gag at ~1:08-1:12 (reads as a standalone punchline with no context). The WSJ-headline cold open at 0:08-0:12 is the best setup fragment. The 72s middle is explainer, not joke — do not splice it whole
-- audio-model: diegetic (bakeable) — the deadpan anchor VO is the mechanism; muted, this clip has no joke left
-- pairs-with: imabgold's non-technical-founder angle — the tribal-identity gag cuts against "I'm an accountant who gave Claude the keys", or any tools-snobbery beat (terminal vs spreadsheet vs Claude Code)
-- file: clips/Da050coN-rB.mp4 (72.6s)
-
-## Da7hu8PETwi — [PRUNED DO-NOT-SPLICE] Sincere piece-to-camera by a teenage boy about his autistic brother's meltdown; real footage, no comedic mechanism, never usable · https://www.instagram.com/reel/Da7hu8PETwi/ · first-seen 2026-07-20
-
-## Da5fOr8jg6L — [PRUNED STALE] Text "When the claude + caffeine + house music hits and you genuinely enter flow state" over a builder hunched at a laptop against a city-skyline s… · no permalink · first-seen 2026-07-19
-
-## Da6N-C-SIxs — [PRUNED STALE] A young guy at a laptop, phone in hand, gives a deadpan/exasperated "here we go again" reaction to on-screen text reading Claude: "Apple all Change… · no permalink · first-seen 2026-07-19
-
-## DawHM0axgHf — [PRUNED STALE] A creator at a MacBook desk (POV text: "what I do when I'm not editing videos but it's lowkey the Mbappé Special") hard-cuts to the viral clip of M… · https://www.instagram.com/reel/DawHM0axgHf/ · first-seen 2026-07-18
-
-## DaDSeU5SJ3E — [PRUNED STALE] A tech creator throws a smug "Chinese Phone ❌ iPhone ✅" trollface superiority pose, then demos an iPhone Headphone-Accommodations audio settings trick · https://www.instagram.com/reel/DaDSeU5SJ3E/ · first-seen 2026-07-18
-
-## Da5z0B7AGC6 — [PRUNED STALE] A shirtless older dad stands at the washing machine while mum, animatedly gesturing, demonstrates the detergent and laundry steps to him · https://www.instagram.com/reel/Da5z0B7AGC6/ · first-seen 2026-07-18
-
-## Da7okL5s7lB — [PRUNED STALE] A grey tabby kitten is wedged and hanging inside a glass table's frame, peers out wide-eyed, then clambers back down to the floor · https://www.instagram.com/reel/Da7okL5s7lB/ · first-seen 2026-07-18
-
-## Da49KfWoLFc — [PRUNED STALE] A brown pitbull in a yellow collar rides in a car, expression melting from happy anticipation into a betrayed, open-mouthed "oh no" as it clocks wh… · https://www.instagram.com/reel/Da49KfWoLFc/ · first-seen 2026-07-18
-
-## Da71IX3tUri — [PRUNED STALE] A silver-haired man in a white shirt goes full-out dancing on a cruise ship deck while the crew and a filming crowd hype him up · https://www.instagram.com/reel/Da71IX3tUri/ · first-seen 2026-07-18
-
-## Da5s9YTDWra — [PRUNED STALE] A tank-topped dad kneels on the floor cuddling and playing with a tuxedo kitten he supposedly "didn't want," visibly smitten · https://www.instagram.com/reel/Da5s9YTDWra/ · first-seen 2026-07-18
-
-## Da6IaNPlcrL — [PRUNED STALE] A golden retriever puppy in a pink harness play-bows, rolls, and flops in front of a life-size bronze wolf statue that will not respond · https://www.instagram.com/reel/Da6IaNPlcrL/ · first-seen 2026-07-18
-
-## Da6yQ0OJXmC — [PRUNED STALE] A firefighter kneels beside a fire engine holding a tiny oxygen mask to a soot-dazed pigeon on the ground; caption cards say it recovered and flew off · https://www.instagram.com/reel/Da6yQ0OJXmC/ · first-seen 2026-07-18
-
-## Da3_H2pE3oE — [PRUNED STALE] A man films a selfie in a hallway with an orange-and-white cat sitting calmly behind him; on cue the cat charges up and bites/attacks him · https://www.instagram.com/reel/Da3_H2pE3oE/ · first-seen 2026-07-18
-
-## Da0_iy_yPMm — [PRUNED STALE] A WWE ring erupts into a massive royal-rumble brawl, dozens of wrestlers fighting at once, captioned as a football rivalry "in a nutshell" · https://www.instagram.com/reel/Da0_iy_yPMm/ · first-seen 2026-07-18
-
-## DacBZYWBUUM — [PRUNED STALE] A convoy of black SUVs speeds down a highway, past aerial checkpoint shots, and blows through a border toll booth (action-movie footage) captioned… · https://www.instagram.com/reel/DacBZYWBUUM/ · first-seen 2026-07-18
-
-## Da6TugBPwwa — [PRUNED STALE] On a Fanatics Fest stage, Tom Brady grabs/smacks Logan Paul's face in a heated confrontation before people move in to separate them · https://www.instagram.com/reel/Da6TugBPwwa/ · first-seen 2026-07-18
-
-## Da6Ro8yzqJl — [PRUNED STALE] Streamer Fanum, in a "campus safety" security uniform, sits at a desk calmly watching a livestreamed fight on his monitor instead of breaking it up · https://www.instagram.com/reel/Da6Ro8yzqJl/ · first-seen 2026-07-18
-
-## Da5cpwBxJqk — [PRUNED STALE] NBA's Jalen Brunson, at a signing table, deadpan refuses to autograph a New York Giants helmet: "I am not signing that. It's against my religion." · https://www.instagram.com/reel/Da5cpwBxJqk/ · first-seen 2026-07-18
-
-## Da4LTcOR9-f — [PRUNED STALE] An NBA Summer League player (Lakers #40) drains a three then walks off with an understated, deadpan celebration/reaction rather than a big party · https://www.instagram.com/reel/Da4LTcOR9-f/ · first-seen 2026-07-18
-
-## Da3iVw7vKvH — [PRUNED STALE] A silver-haired man in a park keeps pulling out progressively tinier bicycles/tricycles and balancing on each, ending crouched atop the rim of a fo… · https://www.instagram.com/reel/Da3iVw7vKvH/ · first-seen 2026-07-18
-
-## Dax-lHxDXpn — [PRUNED STALE] A dad wearing a black crossbody strap frantically sprints around the house grabbing a jar, jewelry, dishes, clothes and shoes, ending at the front… · https://www.instagram.com/reel/Dax-lHxDXpn/ · first-seen 2026-07-18
-
-## DZ4PL1dNUlF — [PRUNED STALE] A young trucker alone in his cab (yellow "CIO 61" plate above the windscreen) deadpan-then-grinning mouths along to a Turkish folk song, using a da… · https://www.instagram.com/reel/DZ4PL1dNUlF/ · first-seen 2026-07-18
-
-## DZwiNBXNqII — [PRUNED STALE] The same "CIO 61" trucker, alone in the cab, holds the coiled cab handset/ornament to his ear like a phone and sing-mouths a Turkish song with wide… · https://www.instagram.com/reel/DZwiNBXNqII/ · first-seen 2026-07-18
-
-## Da1XqUENtuI — [PRUNED STALE] An Argentine radio commentator in a stadium booth completely loses it — welling up, then a full open-mouthed scream with fist-pumps — the moment Ar… · https://www.instagram.com/reel/Da1XqUENtuI/ · first-seen 2026-07-17
-
-## Da3uav_z55p — [PRUNED STALE] Three streamers cosplaying stone-faced security "officers" (vests, badges) sit dead silent in front of a wall of Twitch streams at Kai Cenat's Stre… · https://www.instagram.com/reel/Da3uav_z55p/ · first-seen 2026-07-17
-
-## Da3OzHrz_qr — [PRUNED STALE] LeBron James, deadpan on a Fanatics Fest stage, rattles off his own free-agency rumors ("I heard Warriors, I heard Philly, Miami...") while the cro… · https://www.instagram.com/reel/Da3OzHrz_qr/ · first-seen 2026-07-17
-
-## Da3V4ssTDQx — [PRUNED STALE] On the same Fanatics Fest stage, Tyrese Haliburton pump-fakes a fake announcement of LeBron's next team; the "reveal" goes nowhere · https://www.instagram.com/reel/Da3V4ssTDQx/ · first-seen 2026-07-17
-
-## Da1S0PitXRr — [PRUNED STALE] "Officer" Fanum sprints across a campus lawn and tackle-"arrests" streamer Silky, pinning him with cuffs, in Kai Cenat's Streamer University securi… · https://www.instagram.com/reel/Da1S0PitXRr/ · first-seen 2026-07-17
-
-## Da1BW2LSA26 — [PRUNED STALE] IShowSpeed, in an England kit in a car, melts down and screams "SAVE ME LAMINE YAMAL!" into the lens · https://www.instagram.com/reel/Da1BW2LSA26/ · first-seen 2026-07-17
-
-## DaqIw22E24B — [PRUNED STALE] The Verge subtitled explainer on saving an "obsolete" PC, cold-opening on a laptop being dropped into a trash bin · https://www.instagram.com/reel/DaqIw22E24B/ · first-seen 2026-07-17
-
-## Da3O_zYiXWx — [PRUNED STALE] A hermit crab crawls out of one shell and into a new one on a beach shell-pile, narrated by LADbible caption cards · https://www.instagram.com/reel/Da3O_zYiXWx/ · first-seen 2026-07-17
-
-## Da3jl46jXKa — [PRUNED STALE] A toddler tries a ball-launcher trick shot for a black Labrador; the ball goes astray and both kid and dog stand around confused · https://www.instagram.com/reel/Da3jl46jXKa/ · first-seen 2026-07-17
-
-## Da2YE1ziLiL — [PRUNED STALE] Doorbell-cam POV: a woman walks up with grocery bags, realizes she's at the wrong door as her face fills the fisheye, mouths "SORRY!" and scurries off · https://www.instagram.com/reel/Da2YE1ziLiL/ · first-seen 2026-07-17
+## Da050coN-rB — [PRUNED STALE] Morningbrew reporter in a suit does a deadpan news package on "Finance Bros to Tech Bros: Don't Mess With My Bloomberg Terminal", standing outside Goo · https://www.instagram.com/reel/Da050coN-rB/ · first-seen 2026-07-20
