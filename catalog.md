@@ -1,6 +1,6 @@
 # Viral clip bank — catalog
 
-Architect-facing index of banked clips. Written ONLY by the twice-weekly
+Architect-facing index of banked clips. Written ONLY by the daily
 scan (law: `~/Claude Code/ig-routine-core/BANK.md`); consumed read-only by
 daily routines and reel-app jobs. Splicing a banked clip is an OPTIONAL
 tool (REACH mode) — optimize for the most viral reel, but the account's/
