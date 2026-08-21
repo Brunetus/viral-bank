@@ -75,6 +75,10 @@ Splice: the user's own overreach is both cards. imabgold's is "I shipped a worki
 One line of held text names a group and an exit attempt, and then nothing else is written. Every subsequent beat is another obstacle delivered as generosity, usually with one performer playing both the obstructor and the trapped party, and the joke resolves not by escape but by surrender: the trapped person gives up and accepts what is being pushed at them. The recognition does all the work, so the escalation can be slow.
 Splice: whatever will not let the user go. imabgold's is "my AI when I try to close the laptop" — he reaches for the lid, one more task starts, then another, then he sits back down. bambi's is the toddler when the bill arrives. The user has to play the surrendering party themselves; that final resigned look is the payoff and it cannot be borrowed. (source: https://www.instagram.com/reel/DcJGKfFh6ct/)
 
+**36. One line of self-inflicted defeat, held over somebody who cannot stop laughing** · audio: diegetic (bakeable) · 🔥 LIVE (2026-08-21) ·scan · → clips/ DcPNHpRz6mO
+A single held caption tells a complete story in one sentence, and the sentence always has the same shape: someone gave up X in order to get Y, and then did not get Y. Nothing else is written and nothing is narrated. The entire frame is one person reacting to having just heard it, laughing past the point of composure, and the reaction runs long enough that the viewer rereads the caption while watching it. The rewatch comes from the reread, not from the footage.
+Splice: the user supplies the sentence about themselves and the reaction shot is borrowed. imabgold's is "I rewrote the whole thing so it would be maintainable, then never opened it again" over the laughing friend. bambi's is "we booked the place with the highchairs and he refused to sit in one". Write the sentence first and make sure it is under fifteen words; if it needs a second line it is not this format. (source: https://www.instagram.com/reel/DcPNHpRz6mO/)
+
 
 ## Tech / builder lane (feeds @imabgold)
 
@@ -155,6 +159,10 @@ Splice: the user does the generous thing (joins the game, orders the food, build
 **33. "When your [X] gets too comfortable [doing Y]…" — verbal build, physical punchline** · audio: flexible · 🔥 LIVE (2026-08-17) ·scan · → clips/ DcH2hkzBzKc
 Held text names an overstepping that everybody recognises, then one person delivers an escalating lecture while the offender stands there taking it — and the beat lands physically, not verbally: a flick, a swat, a cap knocked off, arriving before the sentence finishes. Runs 7 seconds and loops back into the lecture, which is where the rewatches come from.
 Splice: the user's own overstepper, and the physical beat has to be theirs. imabgold's is "when your AI gets too comfortable pushing to main" — deliver the lecture to the laptop, land on closing it. bambi's is the toddler who has got too comfortable running the table. Do not write a written punchline; end on the physical beat and keep it under 8 seconds so the loop is invisible. (source: https://www.instagram.com/reel/DcH2hkzBzKc/)
+
+**37. Three labelled plates, and the third label is the whole joke** · audio: trending sound (add in-app) · 🔥 LIVE (2026-08-21) ·scan · → clips/ DcT3PiGMZaO
+An opener promises insider knowledge ("Travelling with a toddler, nobody talks about…"), then three static shots of the same object class arrive in sequence, each with a one-word label. The first two are played completely straight and establish that this is an ordinary comparison. The third is the anticlimax, and it is never commented on — no reaction, no zoom, no added text beyond the label. The format works because the viewer does the arithmetic themselves, and it works with no people in frame at all, which makes it the cheapest thing on this list to shoot.
+Splice: the user's own three objects, shot on their own table. bambi's is exactly the plates. imabgold's is three terminal windows labelled "what I planned", "what the AI built", "what still runs". Give the first two about two seconds each and hold the third for four; the extra hold is the punchline. (source: https://www.instagram.com/reel/DcT3PiGMZaO/)
 
 
 ## Sports (feeds everyone)

@@ -20,6 +20,222 @@ touched.
 
 <!-- entries below, newest first -->
 
+## DcOsj2YxDtM — a lone cheer base repeatedly launches, catches and holds a full-grown flyer overhead by herself, then drops to the mat as the squad erupts
+- source: @sportscenter | https://www.instagram.com/reel/DcOsj2YxDtM/
+- lane: sports
+- first-seen: 2026-08-21 | status: FRESH
+- stats-at-capture: 875633 likes / 22716 comments (16.29x account median)
+- joke-structure: on-screen text does the reacting for you — "Wait for it 👇" opens, then a held card reading "I'm sorry … WHAT?!" sits over eight straight seconds of a feat that keeps escalating past the point you accepted it
+- the-beat: the disbelief card lands the moment the flyer goes fully inverted overhead around 0:04; the strongest single cut is 0:03-0:07 (launch to one-armed hold), and there is a second payoff at 0:22 when the base collapses to the mat, spent
+- audio-model: trending sound (add in-app) — level sits flat at -20dB across the whole clip with almost no variance, which reads as a music bed laid over gym ambience, not the room's own sound
+- pairs-with: a claim the viewer will not believe until they see it ("Claude shipped the whole feature while I slept"), or any "one person carrying the entire thing" beat where the user's own footage is the load the base is holding
+- file: clips/DcOsj2YxDtM.mp4 (31s)
+
+## DcPNHpRz6mO — a man in a restaurant booth folds in half laughing, head thrown back, wiping his eyes with a napkin, for fifteen unbroken seconds
+- source: @houseofhighlights | https://www.instagram.com/reel/DcPNHpRz6mO/
+- lane: sports
+- first-seen: 2026-08-21 | status: FRESH
+- stats-at-capture: 515911 likes / 2250 comments (7.33x account median)
+- joke-structure: the caption carries the entire joke and the footage carries the reaction — a held card reads "My homie broke up with his girl to focus on basketball, then got cut from the team" while the friend simply cannot recover. Self-inflicted defeat, told in one line, reacted to for the full runtime
+- the-beat: any 2-3s slice works because the laugh never breaks; the best is 0:09-0:12 where he sits up, looks at the camera, and immediately goes again — that re-collapse is the payoff
+- audio-model: diegetic (bakeable) — level swings 9dB with peaks at -7.5dB on the laugh bursts; the laughter IS the sound and it is what makes the clip funny
+- pairs-with: any user story that ends in a self-own ("I quit the job to focus on the build, then the build broke"), or as the reaction shot cut against the user's own straight-faced delivery of a bad decision
+- file: clips/DcPNHpRz6mO.mp4 (16s)
+
+## DcPaax_NfyB — a lifter benching heavy dumbbells gets "help" from a spotter who yanks the weights the whole set, until the lifter dumps them and slides off the bench onto the floor
+- source: @houseofhighlights | https://www.instagram.com/reel/DcPaax_NfyB/
+- lane: sports
+- first-seen: 2026-08-21 | status: FRESH
+- stats-at-capture: 385803 likes / 1709 comments (5.48x account median)
+- joke-structure: escalating unwanted assistance — the caption "Gym buddy is rocket raccoon 💀" names the type, then the footage proves it for eleven seconds until the help finally causes the failure it was meant to prevent
+- the-beat: the collapse at 0:08-0:10 when he abandons the lift, drops the dumbbells and rolls off the bench; cut in at 0:06 so the viewer sees two reps of over-help first
+- audio-model: diegetic (bakeable) — sparse and quiet (mean -34dB) with sharp bursts on the clangs and grunts, which is a raw gym recording, not a laid-in track
+- pairs-with: "the tool that was supposed to help", "my co-founder helping", any user beat where an assist makes the task harder than doing it alone
+- file: clips/DcPaax_NfyB.mp4 (12s)
+
+## DcPUbEOtkQQ — a woman sprints across an airport arrivals hall and tackles the person she came to meet, both of them hitting the polished floor hard, then hugging while a crowd films
+- source: @houseofhighlights | https://www.instagram.com/reel/DcPUbEOtkQQ/
+- lane: sports
+- first-seen: 2026-08-21 | status: FRESH
+- stats-at-capture: 262882 likes / 4165 comments (3.78x account median)
+- joke-structure: joy overcommitted into physical violence — the caption "Got off her flight like Myles Garrett" reframes affection as a defensive tackle, and the footage delivers a genuine takedown with a stanchion knocked over
+- the-beat: impact at 0:03; cut 0:01-0:05 so the run-up and the landing both read, and hold one extra second for the pair still tangled on the floor
+- audio-model: diegetic (bakeable) — the thud, the shriek and the terminal ambience carry it; moderate variance (sd 6.8dB) consistent with a live phone capture
+- pairs-with: "when the thing you waited months for finally lands", any user reunion/delivery/launch moment, or as the overreaction cut against a deliberately flat user reaction
+- file: clips/DcPUbEOtkQQ.mp4 (12s)
+
+## DcTqoISNurc — a man proposes on an empty beach while the couple's golden retriever does full-speed zoomie laps around them for the entire proposal
+- source: @pubity | https://www.instagram.com/reel/DcTqoISNurc/
+- lane: general
+- first-seen: 2026-08-21 | status: FRESH
+- stats-at-capture: 71826 likes / 517 comments (3.35x account median)
+- joke-structure: solemn ceremony vs. a chaos agent who refuses to acknowledge it — text card sets it up ("I PROPOSED TO MY GIRLFRIEND AFTER 7 YEARS, AND OUR GOLDEN RETRIEVER GOT THE ZOOMIES") and the dog never once stops moving through the most serious minute of their lives
+- the-beat: best window is 0:05-0:12, kneel plus two full dog laps; note the shot is a locked-off wide filmed over a dark foreground object and Pubity burns a "following" UI badge over the centre of frame around 0:09, so cut before or after that second
+- audio-model: trending sound (add in-app) — very flat level (sd 3.7dB, mean -17.7dB) across 63s, which is a laid-in music bed rather than beach wind
+- pairs-with: any user moment that is supposed to be dignified and is not, "the launch day I planned vs. the launch day I got", a toddler or pet refusing to observe an occasion
+- file: clips/DcTqoISNurc.mp4 (63s)
+
+## DcTZGVRtjBP — hikers on a fog-blasted Portuguese ridge get taken off their feet by a wind gust and slide down the wet grass, ending with a bottle raised to camera
+- source: @pubity | https://www.instagram.com/reel/DcTZGVRtjBP/
+- lane: general
+- first-seen: 2026-08-21 | status: FRESH
+- stats-at-capture: 69897 likes / 526 comments (3.26x account median)
+- joke-structure: the environment overrules the plan, then the deadpan recovery — text reads "NEARLY LOST MY BRO TO A STORM IN PORTUGAL", the friend is physically removed from his own footing, and the clip closes on someone calmly holding up a beer as if none of it happened
+- the-beat: the knockdown at 0:05-0:07 (he is upright, then he is sliding); the second beat is the bottle at 0:11 — using both gives you setup and shrug in one cut
+- audio-model: diegetic (bakeable) — huge level swings (sd 16.7dB, floor at -113dB) which is wind roar clipping in and out; the wind is the joke and it should stay
+- pairs-with: "I had a plan and then reality happened", weather/travel days going wrong, any user beat where an external force flattens the effort
+- file: clips/DcTZGVRtjBP.mp4 (13s)
+
+## DcPZpsHvdPn — a small boy processes into his First Communion with a completely stone face, refusing to smile or look at anyone, while the adults behind him crack up
+- source: @sportscenter | https://www.instagram.com/reel/DcPZpsHvdPn/
+- lane: sports
+- first-seen: 2026-08-21 | status: FRESH
+- stats-at-capture: 171000 likes / 718 comments (3.11x account median)
+- joke-structure: a child performing adult gravity harder than any adult would — the caption "Electric entrance to first communion" plus a sub-line "Put his serious face on" tells you the kid has decided this is a serious occasion and he is going to sell it
+- the-beat: the walk-past at 0:02-0:05 where he holds the face for a full three seconds; the reaction of the grandmother at 0:07 is the optional button
+- audio-model: trending sound (add in-app) — level is steady around -18dB with low variance, consistent with a track laid over a church walk-in ("electric entrance" implies the song is the bit)
+- pairs-with: any beat about taking a small thing extremely seriously, a toddler or kid performing competence, the user's own deadpan-under-pressure moment. Note this is an identifiable child at a family event — a lower-risk use is the reaction shot behind him rather than a close hold on his face
+- file: clips/DcPZpsHvdPn.mp4 (8s)
+
+## DcTuLiwRLAT — an NFL player's chain snaps off his neck at the exact second the broadcast camera cuts to him on the sideline, and he just quietly picks it up
+- source: @sportscenter | https://www.instagram.com/reel/DcTuLiwRLAT/
+- lane: sports
+- first-seen: 2026-08-21 | status: FRESH
+- stats-at-capture: 151738 likes / 4910 comments (2.84x account median) — the highest comment-to-like rate in this batch, roughly 1 comment per 31 likes
+- joke-structure: cosmic timing — the caption "His chain broke right when the cameras cut to him" makes the coincidence the whole joke, and the payoff is his total lack of reaction. He does not flinch, he just handles it
+- the-beat: the break at 0:04-0:06; hold through 0:08 for the deadpan recovery, which is funnier than the break itself
+- audio-model: flexible — the sound is broadcast ambience with no commentary landing on the moment, so nothing is lost by muting it under a track, and nothing is gained by keeping it
+- pairs-with: "the one time someone was watching", a demo breaking on the call, any user beat where the failure picks the worst possible witness
+- file: clips/DcTuLiwRLAT.mp4 (11s)
+
+## DcSiav-hR5k — a cat detonates through a quiet, formal living room, launching off an antique sofa, across a pedestal table and out of frame, twice
+- source: @pubity | https://www.instagram.com/reel/DcSiav-hR5k/
+- lane: general
+- first-seen: 2026-08-21 | status: FRESH
+- stats-at-capture: 44545 likes / 431 comments (2.08x account median)
+- joke-structure: unexplained energy arriving in a room built for calm — text asks "WHY DOES MY CAT GO COWABUNGA MODE?" and never answers, which is the joke. The elegant furniture is the straight man
+- the-beat: the first launch off the sofa arm at 0:03; the wider payoff is the table-to-chair run at 0:10-0:14 where the room's stillness makes the speed read
+- audio-model: diegetic (bakeable) — near-silent room (bursts to -7.6dB from a -109dB floor) where the scrabbling claws on wood are the only sound and they sell the chaos
+- pairs-with: "and then my toddler woke up", a calm process interrupted by one unmanageable variable, any user beat where something small wrecks a carefully arranged frame
+- file: clips/DcSiav-hR5k.mp4 (20s)
+
+## DcOyH6dxYnH — two boys play a backyard golf hole; one misses, throws his club, storms off and ends up doubled over a fence while his friend keeps playing
+- source: @sportscenter | https://www.instagram.com/reel/DcOyH6dxYnH/
+- lane: sports
+- first-seen: 2026-08-21 | status: FRESH
+- stats-at-capture: 101378 likes / 607 comments (1.85x account median)
+- joke-structure: catastrophic emotion attached to a stake worth nothing — "We all have these friends" names the type, then the meltdown arrives at full scale over a missed putt on a homemade green
+- the-beat: the club throw and walk-off at 0:12-0:16, then the fence collapse at 0:19; the friend continuing to line up his shot in the background is what makes it land
+- audio-model: diegetic (bakeable) — quiet yard at -30dB mean with sharp shouted bursts to -7.3dB; the yell is the beat
+- pairs-with: "how I react to a failing test", disproportionate reactions to small setbacks, a user beat where the stakes are trivial and the feelings are not
+- file: clips/DcOyH6dxYnH.mp4 (28s)
+
+## DcRGvqlOANT — a college football team's graduate assistant takes a mic at fall camp and freestyles, and the entire room of players goes up
+- source: @houseofhighlights | https://www.instagram.com/reel/DcRGvqlOANT/
+- lane: sports
+- first-seen: 2026-08-21 | status: FRESH
+- stats-at-capture: 124943 likes / 1448 comments (1.79x account median)
+- joke-structure: unexpected competence from the least likely person in the room — the setup text ("When you get one of your GA's to freestyle for the team during fall camp") frames him as a novelty act, and the room's escalating reaction is the reveal that he is actually good
+- the-beat: the room turning is the payoff, not the rapping — the eruption around 1:15-1:22 where players are on their feet and filming. The clip is 92s, so the architect must cut; take a 3-5s reaction slice, not the performance
+- audio-model: flexible — the performance audio is diegetic and it is the point, but there is a backing beat playing in the room, so baking it in carries the same copyrighted-audio risk as a library track. Safest is to mute it and let a chosen track run under the reaction
+- pairs-with: "the person everyone underestimated", a tool or teammate outperforming expectations, the user's own reveal beat where the room reacts before the viewer understands why
+- file: clips/DcRGvqlOANT.mp4 (92s)
+
+## DcPA-oJv9WA — a kid at his first karate class attempts a spinning kick, gets completely inverted mid-air and lands flat on his back in front of the whole dojo
+- source: @sportscenter | https://www.instagram.com/reel/DcPA-oJv9WA/
+- lane: sports
+- first-seen: 2026-08-21 | status: FRESH
+- stats-at-capture: 96893 likes / 791 comments (1.77x account median)
+- joke-structure: ambition meeting gravity on the first attempt — caption "First time in karate and this happens", then a confident wind-up that is far beyond his actual ability, and a hard flat landing with the instructor already reaching for him
+- the-beat: the whole thing is the beat: wind-up 0:01, air 0:03, floor 0:04. At 7s this is the cleanest drop-in clip in the batch and needs no trimming
+- audio-model: diegetic (bakeable) — very quiet dojo (sd 14.3dB, floor -92dB) with the impact as the loudest event; the thud is the punchline
+- pairs-with: "first time trying it", any user beat about attempting something above your level on day one, or cut against a user's confident claim as the immediate contradiction
+- file: clips/DcPA-oJv9WA.mp4 (7s)
+
+## DcQ7__eRvNv — a field hockey player walks deliberately into a full-force pitch sprinkler, gets blasted off her feet and lands flat on the wet turf
+- source: @sportscenter | https://www.instagram.com/reel/DcQ7__eRvNv/
+- lane: sports
+- first-seen: 2026-08-21 | status: FRESH
+- stats-at-capture: 90649 likes / 819 comments (1.66x account median)
+- joke-structure: deliberate self-sabotage, announced in advance — "(Wait for it)" primes the viewer, "She let her intrusive thoughts win" supplies the motive, and she walks into it knowing exactly what will happen
+- the-beat: impact at 0:04-0:06; the walk-up from 0:02 is needed so the viewer sees it was a choice, not an accident
+- audio-model: diegetic (bakeable) — steady loud sprinkler roar (mean -18.7dB, low variance) that reads as the real thing; the water noise is half the gag
+- pairs-with: "I knew it was a bad idea and I did it anyway", shipping the risky thing on purpose, any user beat where the disaster was volunteered for
+- file: clips/DcQ7__eRvNv.mp4 (7s)
+
+## DcT7YxBNUuR — a cat leans in to smell a sleeping dog's breath, recoils, and then holds a completely frozen, glazed stare into the middle distance for the rest of the clip
+- source: @pubity | https://www.instagram.com/reel/DcT7YxBNUuR/
+- lane: general
+- first-seen: 2026-08-21 | status: FRESH
+- stats-at-capture: 34456 likes / 331 comments (1.61x account median)
+- joke-structure: a reaction held far past the point of comfort — the text sets up the cause ("MY CAT RANDOMLY STARTED SMELLING MY DOG'S BREATH AND DID THIS") and the payoff is fifteen seconds of an animal visibly reconsidering its life
+- the-beat: the recoil at 0:03, then hold — the value here is the stare from 0:05 onward, which loops cleanly and works as a static reaction cutaway
+- audio-model: flexible — the room is near-silent (mean -44dB, the quietest clip in this batch), so there is nothing to preserve and a track can run freely underneath
+- pairs-with: reading a bad error message, opening the analytics, tasting the thing you cooked; any user beat that needs a held "I regret knowing this" face
+- file: clips/DcT7YxBNUuR.mp4 (19s)
+
+## DcS50NqJHGa — a tiny apricot poodle puppy climbs onto a woman mid-yoga-pose, licks her face, then sprints off across the studio floor
+- source: @pubity | https://www.instagram.com/reel/DcS50NqJHGa/
+- lane: general
+- first-seen: 2026-08-21 | status: FRESH
+- stats-at-capture: 33242 likes / 132 comments (1.54x account median)
+- joke-structure: interruption rather than punchline — "SOMEONE BROUGHT THEIR PUPPY TO YOGA" and the class quietly stops being a yoga class. Honest note for the architect: this is a warmth beat, not a joke with a turn, so it will not carry a payoff on its own
+- the-beat: the face-lick at 0:04 breaks the pose; the run-off at 0:10-0:12 is the cleaner cut if you want motion rather than sweetness
+- audio-model: trending sound (add in-app) — steady level around -18.5dB with low variance across a studio, which reads as the room's music rather than a raw capture
+- pairs-with: a serious routine derailed by something small and welcome, "then the baby walked in", a user beat that needs an interruption rather than a joke
+- file: clips/DcS50NqJHGa.mp4 (16s)
+
+## DcT3PiGMZaO — three restaurant plates in a row: a loaded Daddy plate, a huge Mommy salad, then a bare plate holding exactly three potato wedges labelled with a toddler emoji
+- source: #toddlertravel | https://www.instagram.com/reel/DcT3PiGMZaO/
+- lane: family
+- first-seen: 2026-08-21 | status: FRESH
+- stats-at-capture: 23 likes / 1 comments (hashtag recent_media, no account baseline) — honest flag: this tag returned an hourly slice with no popularity signal at all, so this was picked on the strength of the format, not on reach
+- joke-structure: rule of three with the punchline in the label — "Travelling with a toddler nobody talks about…" then Daddy plate, Mommy plate, and a near-empty plate that lands the whole joke without a word of narration
+- the-beat: the third plate at 0:07; give each of the first two plates about 2s so the pattern establishes, then hold the last one longer than feels natural
+- audio-model: trending sound (add in-app) — restaurant ambience with long near-silent gaps (floor -113dB); there is nothing worth keeping and the format needs a track to carry the three-beat rhythm
+- pairs-with: any "here is what nobody tells you about X" comparison, the user's own three-panel setup where the third panel is the anticlimax. No faces in frame, so it is unusually safe to reuse
+- file: clips/DcT3PiGMZaO.mp4 (11s)
+
+## DcRho6BP_y1 — a dad plays pickup basketball at an outdoor court after his 10-year-old challenges him, filmed from so far back that nothing legible happens
+- source: @sportscenter | https://www.instagram.com/reel/DcRho6BP_y1/
+- lane: sports
+- first-seen: 2026-08-21 | status: DO-NOT-SPLICE
+- stats-at-capture: 615378 likes / 654 comments (11.17x account median)
+- reason: frame-sampled at 1fps across the full clip and again at 3fps across the back half. The setup text is strong ("When your 10 year old says take me to the cages") but the promised payoff never becomes visible — the camera stays wide, shaky and 30+ feet from the action, no face or reaction ever reads, and the held "In yo face" caption is doing all the work. There is no cuttable beat, so there is nothing here to lend an architect. Banked as a record only.
+- file: clips/DcRho6BP_y1.mp4 (20s)
+
+## DcS4NreNxi4 — a 45-second high-school football highlight package of a running back, cut over a live ESPN score ticker
+- source: @sportscenter | https://www.instagram.com/reel/DcS4NreNxi4/
+- lane: sports
+- first-seen: 2026-08-21 | status: DO-NOT-SPLICE
+- stats-at-capture: 381900 likes / 3665 comments (6.99x account median)
+- reason: straight athletic highlight with no turn, no anticlimax and no reaction — impressive, not funny, and nothing to set up. Compounded by a broadcast score ticker burned across the lower third of every frame, which makes any slice look like stolen TV. Banked as a record only.
+- file: clips/DcS4NreNxi4.mp4 (45s)
+
+## DcSGF3Ath8u — a screen recording of a Roblox obstacle level with two streamer webcam windows and a six-hour countdown overlay
+- source: @houseofhighlights | https://www.instagram.com/reel/DcSGF3Ath8u/
+- lane: sports
+- first-seen: 2026-08-21 | status: DO-NOT-SPLICE
+- stats-at-capture: 109513 likes / 658 comments (1.56x account median)
+- reason: the whole frame is captured screen content — game IP plus two identifiable celebrity streamers in picture-in-picture plus a timer HUD. There is no physical moment to borrow and no frame that can be cut without carrying someone else's stream branding into the reel. Banked as a record only.
+- file: clips/DcSGF3Ath8u.mp4 (30s)
+
+## DcT964WiGal — a bearded dad in a garden delivers a 26-second talking-head story about his kid dodging chores, over word-by-word karaoke captions
+- source: #parentsofinstagram | https://www.instagram.com/reel/DcT964WiGal/
+- lane: family
+- first-seen: 2026-08-21 | status: DO-NOT-SPLICE
+- stats-at-capture: 92 likes / 1 comments (hashtag recent_media, no account baseline)
+- reason: the joke lives entirely in his spoken narration, so the clip cannot be split from its own audio and there is no visual beat to cut to — the frame is one static medium shot of a man talking for the full runtime. Borrowing it would mean borrowing the whole reel. Banked as a record only.
+- file: clips/DcT964WiGal.mp4 (26s)
+
+## DcT1q27t9QF — a toddler in a pink swimsuit walks into the sea on a British beach
+- source: #toddlertravel | https://www.instagram.com/reel/DcT1q27t9QF/
+- lane: family
+- first-seen: 2026-08-21 | status: DO-NOT-SPLICE
+- stats-at-capture: 19 likes / 0 comments (hashtag recent_media, no account baseline)
+- reason: the caption promises a cold-water recoil ("POV: your toddler discovers the British seaside isn't quite the Mediterranean") but frame-sampling the full 5s shows no visible reaction — she walks in, stands, and crouches. No turn on screen, an identifiable stranger's child, and 19 likes. Banking it would have been padding. Record only.
+- file: clips/DcT1q27t9QF.mp4 (5s)
+
 ## DcPUWj1vU78 — a humanoid robot sprints a full lap of an empty Olympic track, then drives itself straight into the trackside electrical boxes
 - source: @pubity | https://www.instagram.com/reel/DcPUWj1vU78/
 - lane: general
