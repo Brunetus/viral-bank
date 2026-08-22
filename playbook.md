@@ -79,6 +79,10 @@ Splice: whatever will not let the user go. imabgold's is "my AI when I try to cl
 A single held caption tells a complete story in one sentence, and the sentence always has the same shape: someone gave up X in order to get Y, and then did not get Y. Nothing else is written and nothing is narrated. The entire frame is one person reacting to having just heard it, laughing past the point of composure, and the reaction runs long enough that the viewer rereads the caption while watching it. The rewatch comes from the reread, not from the footage.
 Splice: the user supplies the sentence about themselves and the reaction shot is borrowed. imabgold's is "I rewrote the whole thing so it would be maintainable, then never opened it again" over the laughing friend. bambi's is "we booked the place with the highchairs and he refused to sit in one". Write the sentence first and make sure it is under fifteen words; if it needs a second line it is not this format. (source: https://www.instagram.com/reel/DcPNHpRz6mO/)
 
+**38. Flat third-person headline, burned in from frame one, that gives away the ending** · audio: diegetic (bakeable) · 🔥 LIVE (2026-08-22) ·scan · → clips/ DcUeHRpP7dt, DcUQOH9srXf, DcVwWQ4MhZd
+All-caps text sits over the entire clip, never moves, never adds a second card, and states the payoff in flat newsreader third person before it happens: "CLANKER RUNS HEADFIRST INTO WALL AND DIES", "DAMN, HE WAS TRYING SO HARD TO MAKE A GOOD IMPRESSION". It is the inverse of #27 — the text arrives first and spoils everything, and that is exactly why people stay: they are no longer watching to find out what happens, they are watching to verify a claim, which is a much stickier reason. The flatness is doing the comedy; a single exclamation mark or emoji collapses it into a normal caption.
+Splice: write the sentence as if a stranger were describing the user's footage to a third party, in the third person, with no feeling in it. imabgold's is "MAN WHO CANNOT CODE SHIPS APP, STILL CANNOT READ IT" over his own terminal. bambi's is "FATHER BRINGS OWN HIGHCHAIR TO RESTAURANT, IS NOT SORRY". Write it before you pick the clip; if the sentence is not funny in plain text on its own, no footage will save it. (source: @pubity, 3 of today's 6 finds used it)
+
 
 ## Tech / builder lane (feeds @imabgold)
 
@@ -183,3 +187,7 @@ Splice: a "let me formally explain this dumb situation" bit over a user's trivia
 Comment-bait riding Haaland's real habit of leaving wholesome "Nice🔥" comments.
 Post something with on-screen text predicting the nicest guy in football shows up in the comments.
 Splice: a user's wholesome/underdog moment. Drives COMMENTS more than watch-time — a saves/shares play.
+
+**39. Never show the win, only the reaction to it** · audio: diegetic (bakeable) · 🔥 LIVE (2026-08-22) ·scan · → clips/ DcUktOtxSmD
+The achievement gets about half a second of screen time and is barely legible; the remaining three or four seconds are people losing physical control over it — clubs thrown, sprinting out of frame, the camera abandoned mid-swing. The viewer never gets a clean look at the thing that caused it, so the size of the event is inferred entirely from the size of the response, and the response is always too big. Works because the audience fills in a bigger win than actually happened.
+Splice: the user films only their own reaction to something small and real, and never cuts to the thing. imabgold's is the first paying customer notification: you see him leave the desk, not the screen. bambi's is one stranger adding a highchair to the map. Do not label the event in text either — the moment you name it, the gap closes and the joke is gone. (source: https://www.instagram.com/reel/DcUktOtxSmD/)
