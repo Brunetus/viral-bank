@@ -20,6 +20,69 @@ touched.
 
 <!-- entries below, newest first -->
 
+## DcVBZDiNrHF — a reliever pumps himself up on the mound after what he thinks is the last out, and the next batter walks it off over his head; final frame is the outfielder flat on the warning track while the whole park erupts
+- source: @houseofhighlights | https://www.instagram.com/reel/DcVBZDiNrHF/
+- lane: sports
+- first-seen: 2026-08-23 | status: FRESH
+- stats-at-capture: 101232 likes / 2938 comments (2.0x account median)
+- joke-structure: premature celebration, immediate reversal — the clip spends its first half on somebody being certain, and its second half on the exact thing they were certain about happening in reverse. The burned-in headline ("Bro celebrated early then got walked off") spoils it on purpose, so the viewer watches the confidence knowing it is doomed
+- the-beat: the pump-up close-up 0:07-0:10 is the setup and it is the most usable frame in the bank for "I thought I was done"; the ball leaves at 0:14, the crowd goes up 0:15, and the payoff is the body on the warning track 0:18-0:19. Sharpest two-cut splice is 0:08 (certainty) straight to 0:18 (collapse), skipping the baseball entirely
+- audio-model: diegetic (bakeable) — broadcast commentary and the crowd turning over is what sells the reversal; a trending track on top kills the sound of 40,000 people changing their minds
+- pairs-with: the user declaring a thing finished one beat too early — "pushed to main, went to make coffee"; "told her he was fully asleep"; any moment where the user's own footage shows them celebrating and the next shot shows what actually happened. Cut their claim in, then this collapse as the answer
+- file: clips/DcVBZDiNrHF.mp4 (20s)
+
+## DcWZL80RUYY — a woman films her husband on the couch and deliberately feeds him wrong football takes; he spends a full minute correcting her with rising disbelief and finally collapses backwards with his hand over his face
+- source: @sportscenter | https://www.instagram.com/reel/DcWZL80RUYY/
+- lane: sports
+- first-seen: 2026-08-23 | status: FRESH
+- stats-at-capture: 257928 likes / 5397 comments (2.83x account median)
+- joke-structure: stated prank premise, one unbroken shot, victim does all the work — the text card admits the setup up front ("I decided to rage bait my husband"), so every wrong statement is funny twice: once for him and once for the viewer who is in on it. Nothing is edited; the escalation is entirely in one face
+- the-beat: the premise card holds from 0:00; the reactions build through 0:20-0:55 with no visual change; the payoff is physical at 0:58-1:02, hand over the face, head back on the cushion. The only cut worth taking is that last 2-3 seconds — as a donor this clip is a reaction shot, not a bit
+- audio-model: diegetic (bakeable) — the joke is what he says back. Muted this is a man sitting on a sofa. If a trending track is going on the reel, this clip has to keep its own audio under it or be cut to the silent collapse only
+- pairs-with: the user's own "explaining something obvious to someone who refuses to get it" moment — imabgold re-prompting the same instruction for the fourth time; a parent negotiating with a toddler who has already decided. Their footage carries the argument, this collapse is the exhale at the end
+- file: clips/DcWZL80RUYY.mp4 (62s)
+
+## DcV-GoxMZPm — a horse lies completely flat out asleep in a field while two others stand over it; long close-ups of its head on the grass, eye half open, giant lower lip flopping loose as it twitches in its sleep
+- source: @pubity | https://www.instagram.com/reel/DcV-GoxMZPm/
+- lane: general
+- first-seen: 2026-08-23 | status: FRESH
+- stats-at-capture: 289125 likes / 2474 comments (6.44x account median)
+- joke-structure: scale mismatch, total shutdown — a 500kg animal in a posture that reads as dead, with a face doing something completely involuntary. Held text ("my horse recognized my voice while he was asleep and started sleep talking") assigns intention to a body that is plainly offline, and that gap is the whole joke
+- the-beat: the wide at 0:00-0:03 establishes the other horses standing normally, which is what makes the flat one funny; the usable material is the head close-up 0:22-0:32 where the lip flops on its own. Cut 0:25-0:30 for a 5-second cutaway, or 0:00-0:03 plus 0:26 if the reel needs the wide first
+- audio-model: flexible — field ambience only, nothing load-bearing; this clip takes a trending track cleanly, which is rare for the bank
+- pairs-with: the user's own "completely checked out" beat — imabgold's laptop still running at 2am with him face-down; the toddler who went horizontal mid-sentence; anyone answering a question while asleep. Also works as the reaction to the user's own over-ambitious plan
+- file: clips/DcV-GoxMZPm.mp4 (51s)
+
+## DcWgZqvsyBN — a toddler sits stone-faced at a restaurant table ignoring his dad rubbing his shoulders, until a plate of three strawberries lands in front of him and he breaks into a grin and reaches for one
+- source: @pubity | https://www.instagram.com/reel/DcWgZqvsyBN/
+- lane: general
+- first-seen: 2026-08-23 | status: FRESH
+- stats-at-capture: 133234 likes / 487 comments (2.95x account median)
+- joke-structure: sustained bad mood, one small input, total reversal — the dad's effort is shown failing for five straight seconds so that the strawberries can undo it in one. The comedy is the disproportion: everything an adult tried did nothing, and three pieces of fruit did all of it
+- the-beat: sulk held 0:00-0:05 with the shoulder rub visibly not working (do not cut this short, the failure is the setup); plate arrives 0:06; the grin lands 0:07-0:09 and that face is the frame. Cleanest splice is 0:03-0:09
+- audio-model: flexible — restaurant ambience, no line of dialogue carries anything. Works muted under a trending sound, which is the normal way to use it
+- pairs-with: the smallest possible fix for a problem the user made a whole production of — bambi's "we tried everything, the highchair arrived"; imabgold's "three hours of debugging, it was one missing character". This is currently the bank's closest thing to a chain-reaction donor: small input, everything changes
+- file: clips/DcWgZqvsyBN.mp4 (10s)
+
+## DcW1AFxMmzg — a kitten play-wrestles a hand held above it, then falls asleep mid-fight with both front paws still up in the air, and stays like that for the rest of the clip
+- source: @pubity | https://www.instagram.com/reel/DcW1AFxMmzg/
+- lane: general
+- first-seen: 2026-08-23 | status: FRESH
+- stats-at-capture: 101721 likes / 442 comments (2.26x account median)
+- joke-structure: mid-action shutdown — the pose does not change when consciousness does, so the body stays committed to a fight that has already ended. Held text ("precious kitten falls fast asleep while playing") tells you what is about to happen and then makes you wait for the exact frame it does
+- the-beat: active play 0:00-0:07, the eyes go 0:08-0:11, and from 0:12 onward it is a still life of a cat asleep with its guard up. Cut 0:05-0:14 to get both halves; 0:12-0:16 alone is the reaction shot
+- audio-model: flexible — soft ambient bed, nothing diegetic to protect
+- pairs-with: the user stopping dead in the middle of their own task — imabgold falling asleep with the terminal still running; a toddler out cold holding a snack. Pair the user's own "I'm fine, I can keep going" footage with this as the cut-to
+- file: clips/DcW1AFxMmzg.mp4 (28s)
+
+## DcX0I1rMz3N — a 5-second static black card of coloured Python-styled text comparing lists to tuples as a metaphor for people who leave, ending in a fake `ValueError: Immutable memories cannot be modified`; another creator's handle is watermarked in the corner
+- source: #programmerhumor | https://www.instagram.com/reel/DcX0I1rMz3N/
+- lane: tech
+- first-seen: 2026-08-23 | status: DO-NOT-SPLICE (2026-08-23)
+- stats-at-capture: 50 likes / 1 comments (hashtag recent_media, no account baseline)
+- joke-structure: none as footage — it is a still image with no motion, no subject and no turn, and it carries a visible @vishalrajvicky_9525 watermark, so there is nothing here to cut to and nothing that could be used without carrying someone else's handle into frame. The FORMAT is real and was captured as playbook #40; the file is catalogued only so a later scan does not re-spend a download slot on it
+- file: clips/DcX0I1rMz3N.mp4 (5s)
+
 ## DcUeHRpP7dt — a humanoid robot sprints down an empty stadium track, runs straight off the end of its lane into the padded barrier wall, and collapses face-down on the blue surface
 - source: @pubity | https://www.instagram.com/reel/DcUeHRpP7dt/
 - lane: general
@@ -696,70 +759,21 @@ touched.
 - pairs-with: a bambi "we asked our kid and immediately regretted it" beat; any "watching someone represent you badly with no way to intervene" moment
 - file: clips/DbO74yghLkl.mp4 (44.3s)
 
-## DbRGKvJz6bL — Suburban driveway hoop after rain: a middle-aged dad in floral shorts plays his two teenage sons, backs the shirtless one down, and buries a turnaround over him. Held text the whole clip: "DAD'S BAG WAS DEEPER THAN EXPECTED 😭😭". The other son doubles over screaming with his hands on his head, then the game just carries on
-- source: @houseofhighlights | https://www.instagram.com/reel/DbRGKvJz6bL/
-- lane: sports
-- first-seen: 2026-07-27 | status: STALE (2026-08-20)
-- stats-at-capture: 1240220 likes / 4192 comments (18.43x account median)
-- joke-structure: underestimated-elder reversal — the setup is a dad who looks like he is about to be embarrassed, the payoff is that he has moves, and the real laugh is the son's disbelief, not the bucket itself. Reaction carries it, not the skill
-- the-beat: milling and posting up 0:00-0:13, dad's move and score 0:14-0:17, the screaming reaction lands 0:18-0:21. Cut on the turn at 0:17 and hold the reaction to 0:21; everything after is filler
-- audio-model: diegetic (bakeable) — the shouting, the ball on wet concrete and the scream are the beat
-- pairs-with: a "the old man still has it" beat over a parent/partner's own footage (dad beating the kid at anything), or an "I underestimated this person" turn where the user's own moment is the reveal and this is the reaction cutaway
-- file: clips/DbRGKvJz6bL.mp4 (37.5s)
+## DbRGKvJz6bL — [PRUNED STALE] Suburban driveway hoop after rain: a middle-aged dad in floral shorts plays his two teenage sons, backs the shirtless one down, and buries a... · https://www.instagram.com/reel/DbRGKvJz6bL · first-seen 2026-07-27
 
-## DbMNX2lE4hm — An armadillo trots across a tiled lobby floor, past a lounging iguana, straight to a big leather massage chair, then climbs the arm and settles into the seat like it owns the place. Text cards: "THIS ARMADILLO ABSOLUTELY LOVES HIS MASSAGE CHAIR 😭" → "HE KNOWS EXACTLY WHERE IT IS!" → "AND HOW TO GET INTO HIS FAVOURITE SPOT"
-- source: @ladbible | https://www.instagram.com/reel/DbMNX2lE4hm/
-- lane: general
-- first-seen: 2026-07-27 | status: STALE (2026-08-20)
-- stats-at-capture: 118756 likes / 573 comments (10.52x account median)
-- joke-structure: animal-with-a-routine — the comedy is competence, not chaos. The armadillo walks a known route with intent, and the text narrates it as a habit, so the payoff is how ordinary the absurd thing looks
-- the-beat: the walk 0:00-0:05, the climb 0:06-0:10, settled-in payoff 0:11-0:13. Cut on the climb at 0:06 if you want a short beat; the seated hold at 0:12 is the loop point
-- audio-model: flexible — nothing in the audio is the joke, so it ducks cleanly under a library track or plays as-is
-- pairs-with: any "he has a spot and that is HIS spot" beat over a user's own kid/pet/partner claiming a chair, or a "walks in like he owns the place" cutaway against a user's own arrival shot
-- file: clips/DbMNX2lE4hm.mp4 (16.3s)
+## DbMNX2lE4hm — [PRUNED STALE] An armadillo trots across a tiled lobby floor, past a lounging iguana, straight to a big leather massage chair, then climbs the arm and settles... · https://www.instagram.com/reel/DbMNX2lE4hm · first-seen 2026-07-27
 
-## DbQcn9Ls47b — Night on a bar strip: a young guy stands safely behind a glass door taunting a police officer on the other side, sticking his tongue out at him. The officer never engages. He calmly lifts his phone, presses the screen flat against the glass so the guy has to read it, and the guy immediately folds and turns away. Text: "THAT'S THE SMARTEST WAY I'VE SEEN A COP DEAL WITH SOMEONE..."
-- source: @pubity | https://www.instagram.com/reel/DbQcn9Ls47b/
-- lane: general
-- first-seen: 2026-07-27 | status: STALE (2026-08-20)
-- stats-at-capture: 240720 likes / 1101 comments (9.5x account median)
-- joke-structure: escalation met with anticlimax — the setup promises a confrontation and the payoff is a completely silent, deadpan counter. The loudest person loses without anyone raising their voice
-- the-beat: taunting 0:00-0:07, the phone comes up 0:08, screen reveal 0:10, the guy deflates 0:12. Cut on the phone at 0:08 and let the reveal land; the deflate at 0:12 is the button
-- audio-model: diegetic (bakeable) — street noise and the taunting are the setup, and the silence on the payoff is doing work
-- pairs-with: a "said nothing and won" beat over a user's own footage (showing someone a screenshot instead of arguing), or any "I had the receipts" turn where the user's own reveal is the payoff
-- file: clips/DbQcn9Ls47b.mp4 (13.1s)
+## DbQcn9Ls47b — [PRUNED STALE] Night on a bar strip: a young guy stands safely behind a glass door taunting a police officer on the other side, sticking his tongue out at him.... · https://www.instagram.com/reel/DbQcn9Ls47b · first-seen 2026-07-27
 
-## DbRF5SgDrB_ — Family around a kitchen island. A woman scratches what she thinks is a lottery ticket, reads "we're having a baby" out loud, and completely fails to understand it: "What the $@#%&" · "Where is that?" · "What does that even mean?" · "I don't have a baby" · "I'm not even joking you guys." Everyone else already knows. It takes her about twenty seconds to land on "Are you having a baby?" and then the whole room erupts. Burned-in captions throughout
-- source: @parents | https://www.instagram.com/reel/DbRF5SgDrB_/
-- lane: family
-- first-seen: 2026-07-27 | status: STALE (2026-08-20)
-- stats-at-capture: 1307 likes / 12 comments (9.41x account median)
-- joke-structure: dramatic irony with a long fuse — the audience and the whole family are in on it, one person is not, and the comedy is entirely the length of her confusion. The longer she misreads it, the bigger the payoff
-- the-beat: scratch and misread 0:00-0:06, the oblivious stretch 0:06-0:19 (this is the funny part, not the reveal), the penny drops at 0:22, eruption 0:24-0:32. Cut on "What does that even mean?" at 0:11 for a short beat; keep 0:19-0:26 for the turn alone
-- audio-model: diegetic (bakeable) — the overlapping voices and the scream are the beat, and the captions are burned in, so it plays muted too
-- pairs-with: a "took them way too long to get it" beat over a user's own reveal footage (a surprise, a name drop, a gift), or a bambi-style bit where a parent misreads an obvious situation while everyone watches
-- file: clips/DbRF5SgDrB_.mp4 (42.4s)
+## DbRF5SgDrB_ — [PRUNED STALE] Family around a kitchen island. A woman scratches what she thinks is a lottery ticket, reads "we're having a baby" out loud, and completely fails... · https://www.instagram.com/reel/DbRF5SgDrB_ · first-seen 2026-07-27
 
-## DbS23kppOgh — Seven-second dev meme: a guy at a desk sits head-in-hands staring at his monitors under the text "That moment when your fix breaks prod", then a hard cut to the Tony Stark close-up meme frame captioned "JARVIS, WHAT IS THIS SHIT...?" with the Claude starburst logo glowing underneath
-- source: #programmerhumor | https://www.instagram.com/reel/DbS23kppOgh/
-- lane: tech
-- first-seen: 2026-07-27 | status: STALE (2026-08-20)
-- stats-at-capture: 5 likes / 0 comments (hashtag recent_media, no account baseline)
-- joke-structure: two-panel meme — relatable pain in panel one, blame reassigned to the AI in panel two. The whole joke is the cut, and naming the tool is what makes it land for a build-in-public audience
-- the-beat: setup 0:00-0:03, cut on the turn at 0:04, payoff frame holds 0:04-0:06. The second panel needs its ~2s of reading time or the gag reads as noise
-- audio-model: trending sound (add in-app) — it is a short meme edit riding a licensed track; never bake this audio into a delivered MP4, pick the library sound natively in the app when posting
-- pairs-with: a user's own "the fix broke something else" moment as the setup, with this as the payoff panel; or any beat where the user blames their AI tool out loud. Only lend the second panel if the user's own footage carries panel one
-- file: clips/DbS23kppOgh.mp4 (7.0s)
+## DbS23kppOgh — [PRUNED STALE] Seven-second dev meme: a guy at a desk sits head-in-hands staring at his monitors under the text "That moment when your fix breaks prod", then a... · https://www.instagram.com/reel/DbS23kppOgh · first-seen 2026-07-27
 
 ## DbG8iH0J-Yg — [PRUNED DO-NOT-SPLICE] Morning Brew correspondent walking a supermarket aisle with a bottle of weedkiller for a 2.5-minute sincere piece on the pesticide industry; caption read like a skit, footage was consumer journalism, no bit and no turn · https://www.instagram.com/reel/DbG8iH0J-Yg/ · first-seen 2026-07-27
-## DbG1EzpBH8r — [PRUNED STALE] Beach-club crowd at golden hour: Erling Haaland, in a novelty viking helmet with a red cape, dances shoulder-to-shoulder with fans while phones film h · https://www.instagram.com/reel/DbG1EzpBH8r/ · first-seen 2026-07-23
 
-## DbHHPQ5j290 — [PRUNED STALE] A girl leans out an apartment window shouting across the neighbourhood under the text "MY SISTER HAS FIGURED OUT HOW TO CHAT WITH THE HORSE THAT LIVES · https://www.instagram.com/reel/DbHHPQ5j290/ · first-seen 2026-07-23
 
-## DbFKJJIN4PQ — [PRUNED STALE] Night on a Rio beach field lit orange by streetlights, dozens of kites in a black sky: a guy in a cap runs and duels his kite against the others with  · https://www.instagram.com/reel/DbFKJJIN4PQ/ · first-seen 2026-07-23
 
 ## DbHFRLzJjuH — [PRUNED STALE] Two-hander office skit dramatising a real 404 Media headline (shown as a card up top: "AI Companies Are Buying Tons of Old Books Because They're Free  · https://www.instagram.com/reel/DbHFRLzJjuH/ · first-seen 2026-07-23
 
 ## DbAyGZhDktL — [PRUNED STALE] Selfie-cam in a moving car, one mum performing both halves of a toddler refusal loop under the held text "i'm in whatever phase of parenting this is". · https://www.instagram.com/reel/DbAyGZhDktL/ · first-seen 2026-07-23
 
-## DavKOUfvEqI — [PRUNED AD-REJECTED] "Ai vs Umpire" hook that turns into a full Fulltrack AI app walkthrough (install flow, branded ball-tracking overlays); caption carried no ad signal so the slot was spent before the footage could be judged · https://www.instagram.com/reel/DavKOUfvEqI/ · first-seen 2026-07-23
