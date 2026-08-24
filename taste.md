@@ -1,11 +1,12 @@
 # taste.md — what the audiences actually reward (derived, rewritten every scan)
 
-Refreshed 2026-08-23 from live insights. Read alongside catalog.md.
+Refreshed 2026-08-24 from live insights. Read alongside catalog.md.
 Account routines read the whole file. CUSTOMER jobs read ONLY `## universal`.
 
 ## universal
-- Identity-confession hooks beat announcements. "I was CFO and I left" outruns
-  "here is my title" or "here is my product" on both accounts, every refresh.
+- Identity-confession hooks beat announcements. A line that costs the speaker
+  something outruns "here is my title" or "here is my product" on both
+  accounts, every refresh.
 - Put the artifact on screen. Reels where a real thing is visible (a terminal
   session, a cup of noodles in a pool, a highchair) hold; reels that only
   narrate the thing lose half the audience by second three.
@@ -16,77 +17,78 @@ Account routines read the whole file. CUSTOMER jobs read ONLY `## universal`.
   or moment in frame one produces the lowest skip rates on record (24%).
 - Never make the account itself the subject. Milestone and how-to-use-it posts
   hold the two worst skip rates on record (67%, 86%) on two unrelated accounts.
-- Fallibility forwards better than competence. The reel where the machine
-  catches its OWN mistake out-shares every reel where it simply works.
+- Shares follow a stake stated as a live countdown, not a finished story. The
+  best-forwarded reel this refresh is an open-ended "let's see how long this
+  lasts" — the viewer forwards it to watch the outcome with someone.
 - Comments come from an unfinished sentence, not a question tag. The only reel
-  this refresh to break single-digit comments left the outcome unnamed ("you
+  on either feed to break single-digit comments left the outcome unnamed ("you
   change something small and then...") and let viewers supply their own.
 
-steering: Marcus's recent in-app hashtag searches (28) — #eatingoutwithbaby,
+steering: Marcus's recent in-app hashtag searches (21) — #eatingoutwithbaby,
 #travelwithbaby, #babytravel, #highchair, #artificialintelligence, #aitools,
 #anthropic, #claudeai, #buildinpublic, #nontechnicalfounder, #claudecode,
 #vibecoding, #familytraveltips, #familytravel, #toddlertravel, #travelwithkids,
 #familyadventures, #eatlikealocal, #familyvacation, #kidfriendlytravel,
-#dadlife, #humor, #reelsviral, #memes, #toddlermom, #parentsofinstagram,
-#programmerhumor, #techtok — 4 NEW baby-dining tags today (#eatingoutwithbaby,
-#travelwithbaby, #babytravel, #highchair), all bambi-side.
+#dadlife. No NEW tags today; the seven generic meme/tech tags (#humor, #memes,
+#reelsviral, #toddlermom, #parentsofinstagram, #programmerhumor, #techtok)
+aged out of the 7-day window, so the live intent is now purely baby-dining
+travel + AI-founder.
 
-## @imabgold (tech) — 25 reels
+## @imabgold (tech) — 25 reels (08-10 to 08-24)
 
 Top 3 by avg watch time
-- 8.7s · https://www.instagram.com/reel/DcXa2oZBV7A/ · 74 views, skip 37%
+- 7.3s · https://www.instagram.com/reel/DcXa2oZBV7A/ · 96 views, skip 43%
   "I have looked the same thing up four times this month." Admitting a habit
-  he has not fixed. Two hours old, so the view count is not the signal — the
-  hold is.
-- 8.4s · https://www.instagram.com/reel/DbiywNLhhLJ/ · 4521 views, 4 sv
-  "$35M in sales. I left anyway." Highest-stakes hook on the feed, and the
-  visual (instant noodles in a Bali pool) contradicts the number.
-- 6.9s · https://www.instagram.com/reel/DcCDfMOp83c/ · 3284 views, skip 32%
-  "I have a CTO. We have never spoken." Machine-as-employee, still the shape.
+  he has not fixed. Second refresh at the top; the hold is the signal, not reach.
+- 7.0s · https://www.instagram.com/reel/DcZkF72B6GG/ · 2808 views, skip 28%
+  "It fixed three things I did not ask it to fix. Two of them were not broken."
+  Lowest skip on the account. Unrequested help framed as damage.
+- 6.9s · https://www.instagram.com/reel/DcU_w_Th8uD/ · 690 views, skip 37%
+  "I thought launching an app would feel like something. It is a cup of instant
+  noodles." Anticlimax with the object in frame.
 
 Top 3 by saves+shares
-- 19 · https://www.instagram.com/reel/Dbsq6MEOeZW/ · 2656 views, 3 sv / 16 sh
-  "Claude codes while I sleep. I cannot read any of it." Still the share record
-  by more than 2x, seventeen days on.
-- 8 · https://www.instagram.com/reel/Dbvr8tChQeO/ · 1842 views, 8 sv
-  "I said an hour. I was there three." Saves follow the honest correction.
-- 6 · https://www.instagram.com/reel/DcYECcjBTyd/ · 2659 views, 1 sv / 5 sh
-  Posted this morning and already the best-forwarded reel since 08-06. The AI
-  deleted the one part he was proud of. Loss, not error.
+- 11 · https://www.instagram.com/reel/DcZ1urOtaGr/ · 1410 views, 3 sv / 8 sh
+  "Let's see how long my limit lasts." Best-forwarded reel since 08-06 and the
+  only one framed as an unresolved bet rather than a finished anecdote.
+- 8 · https://www.instagram.com/reel/DcYECcjBTyd/ · 2883 views, 1 sv / 7 sh
+  The AI deleted the one part he was proud of. Loss, not error. Held its
+  forwarding for a second day.
+- 6 · https://www.instagram.com/reel/Db5_IVZCy7T/ · 2665 views, 4 sv / 2 sh
+  The machine catches its own mistake before he does. Saves, not shares.
 
 Bottom 3 by avg watch time
-- 4.6s · https://www.instagram.com/reel/Db8iybhAYLX/ · 533 views, skip 53%
+- 4.1s · https://www.instagram.com/reel/DcaEzeFBo3c/ · 199 views, skip 57%
+  "Larping Claude." Three hashtags and an in-joke; no stake and nothing to look
+  at. The whole larp batch sits in the bottom quartile.
+- 4.6s · https://www.instagram.com/reel/Db8iybhAYLX/ · 536 views, skip 53%
   Proof is file timestamps, which is a claim, not a visual.
-- 4.7s · https://www.instagram.com/reel/DcRJGp8BV9S/ · 432 views, skip 45%
-  Opens on the old CFO credential, not on the loss. Reads as a résumé line.
-- 5.0s · https://www.instagram.com/reel/DcXq1UDhXRQ/ · 1288 views, skip 45%
-  "I shipped something I could not explain line by line." The confession is
-  real but nothing is on screen to look at while he makes it.
+- 4.6s · https://www.instagram.com/reel/Dca5-JABtqU/ · 174 views, skip 37%
+  "I give my credits one hour." Same countdown idea as the top-shared reel but
+  stated as a fact instead of a bet, and it lost 7 of the 8 shares.
 
 Bottom 3 by saves+shares (all zero)
-- https://www.instagram.com/reel/DcUyhbqhRA3/ — 2385 views. "Answer is in the
-  video" withholds the hook instead of spending it. Second refresh in a row here.
-- https://www.instagram.com/reel/Dbn9kt1htVV/ — 1769 views. Feature note about
-  his own tooling; no stake.
-- https://www.instagram.com/reel/DcMIxQ4tZ_-/ — skip 67%, worst on the account.
-  "104 people follow me. This is post 51." The account is the subject.
+- https://www.instagram.com/reel/DcaEzeFBo3c/ — 199 views. Larp caption, no stake.
+- https://www.instagram.com/reel/DcUyhbqhRA3/ — 2391 views. "Answer is in the
+  video" withholds the hook instead of spending it. Third refresh in a row here.
+- https://www.instagram.com/reel/DcUXE2FBZr3/ — 689 views. "I said I was done
+  for the day." True, but the machine does nothing on screen.
 
 What works / what dies — @imabgold
-- Confession first, credential second. $35M and CFO only land as the thing he
-  walked away from; led with, they are the account's two worst holds.
-- The loss beats the win beats the feature. This week's best-shared reel is the
-  machine destroying work he cared about — one rung above "it caught its own
-  mistake", two above "it worked".
-- Real footage on screen is the proof. Timestamps and file dates are not, and
-  DcXq1UDhXRQ shows a good confession still dies without something to watch.
-- Comments are the graded criterion and the feed is starved of them: 22 of 25
-  reels are at 0-2. The exception, DcUk4ORBQWx (9 comments), names a small
-  input and refuses to name the consequence. That is the comment engine.
-- Volume is holding: 5 reels today, 4 yesterday, floor 74–3372 views. Skip rates
-  on today's batch (30-45%) are at or better than the feed average, so cadence
-  is not costing hold. Saves are what thinned — give each post one keepable thing.
+- Confession first, credential second. Every credential-led open is bottom-half.
+- Unresolved beats resolved for shares. DcZ1urOtaGr (bet, 8 shares) vs
+  Dca5-JABtqU (same premise stated flat, 1 share) is the cleanest A/B the feed
+  has produced. Leave the outcome hanging.
+- The loss beats the win beats the feature. The machine destroying work he cared
+  about still out-forwards the machine simply working.
+- Comments are the graded criterion and the feed is starved: 24 of 25 reels sit
+  at 0-2. The exception, DcUk4ORBQWx (9), names a small input and refuses to name
+  the consequence. That is the comment engine, still unreplicated.
+- Cadence is up (3 today, 6 yesterday, 5 the day before) and hold is not paying
+  for it — median skip 37%, better than the last refresh. But the filler is
+  visible: the four "larp" one-liners are the four worst holds of the batch.
 
-## @bambi.map (family) — 19 reels (dark 8 days, no new posts since 08-15)
+## @bambi.map (family) — 19 reels (dark 9 days, no new posts since 08-15)
 
 Top 3 by avg watch time
 - 8.8s · https://www.instagram.com/reel/Da_U2OGBlOD/ · 1670 views, 3 sv / 2 sh
@@ -115,11 +117,10 @@ Bottom 3 by avg watch time
   Pretty-restaurant brag. The place is the subject and the viewer isn't in it.
 
 Bottom 3 by saves+shares (all zero)
-- https://www.instagram.com/reel/DcEZ5HoOwet/ — skip 63%, newest reel. Good hook,
-  then turns into an App Store pitch.
+- https://www.instagram.com/reel/Dbg2aEKy1CH/ — the app walkthrough, skip 86%.
+- https://www.instagram.com/reel/DY1gvtXx_hm/ — map-feature announcement, skip 73%.
 - https://www.instagram.com/reel/DbeqIlAubE7/ — skip 76%. Breakfast listicle with
   no visual anchor for the tips.
-- https://www.instagram.com/reel/Dbg2aEKy1CH/ — the app walkthrough again.
 
 What works / what dies — @bambi.map
 - Recognition beats information. The chair everyone has already met outperforms
@@ -130,6 +131,8 @@ What works / what dies — @bambi.map
 - Ask the parent's real question in the first line, then answer it.
 - App walkthroughs are the reliable failure mode: the three worst skip rates on
   the feed are all product explainers.
-- Eight days dark. Marcus searched four NEW baby-dining tags today
-  (#eatingoutwithbaby, #travelwithbaby, #babytravel, #highchair) — intent is
-  there. The recognition-hook shape was working when it stopped.
+- Comments are effectively zero (max 1, on a reel from May). Nothing on this feed
+  asks the viewer to supply anything, and the imabgold comment engine
+  (unfinished sentence, unnamed consequence) has never been tried here.
+- Nine days dark, and the four baby-dining tags Marcus searched are still the
+  freshest steering signal. The recognition-hook shape was working when it stopped.

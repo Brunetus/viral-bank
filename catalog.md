@@ -20,6 +20,69 @@ touched.
 
 <!-- entries below, newest first -->
 
+## DcYoFWAR1o_ — Erling Haaland walks into a bathroom to show his girlfriend a fresh buzzcut; she gets one look, both hands go over her mouth and she laughs for twenty seconds while he stands there holding a completely straight face
+- source: @sportscenter | https://www.instagram.com/reel/DcYoFWAR1o_/
+- lane: sports
+- first-seen: 2026-08-24 | status: FRESH
+- stats-at-capture: 960815 likes / 4286 comments (7.83x account median)
+- joke-structure: self-inflicted change, and the whole payoff is one other person's reaction to it. He never defends the haircut, never asks what she thinks, never breaks — the comedy is entirely the gap between how much she is laughing and how little he is doing. A sentence-case headline ("Erling Haaland reveals his new haircut to his girlfriend 😂") is burned in from frame one and gives away the ending on purpose
+- the-beat: he comes in and she sees it at 0:02-0:04; hands over the mouth at 0:05, and the reaction runs unbroken to about 0:10; from 0:11 the clip is his deadpan hold, camera close, eyes level, doing nothing at all through 0:23. Two clean donors here — the 0:05-0:09 reaction on its own, or the 0:12-0:18 deadpan stare as a reaction shot to somebody else's line
+- audio-model: diegetic (bakeable) — her laughing and the "you look really tough" line are the beat, and the audio is dynamic (sd 4.4 dB) rather than a music bed. Do not put a track over the laugh
+- pairs-with: the user showing someone a decision they already made and refusing to justify it — imabgold turning the laptop around to show what the AI shipped while a friend loses it; a parent revealing the haircut they gave the toddler themselves. Their footage makes the claim, this face absorbs the verdict
+- file: clips/DcYoFWAR1o_.mp4 (29s)
+
+## DcWah9DuSnM — a screen-recorded tweet is pinned across the top of an ESPN Finals broadcast while the footage underneath delivers exactly what the tweet claims: Steph gives the ball up, Jordan Poole hits a three, then hits another at the buzzer, and the arena comes apart
+- source: @houseofhighlights | https://www.instagram.com/reel/DcWah9DuSnM/
+- lane: sports
+- first-seen: 2026-08-24 | status: DO-NOT-SPLICE (2026-08-24)
+- stats-at-capture: 434253 likes / 3194 comments (5.34x account median)
+- reason: the FORMAT is the asset, the footage is not. Same shape this bank has already rejected twice — DcS4NreNxi4 (DO-NOT-SPLICE 2026-08-22, "straight athletic highlight with no turn, no anticlimax and no reaction... a broadcast score ticker burned across the lower third of every frame, which makes any slice look like stolen TV") and a caption-level taste-reject of this exact shortcode on 2026-08-23. Frame-sampling confirmed it rather than overturning it: full ESPN Finals broadcast with the score bug on every frame, speed-ramped through the middle, and the only non-basketball beat is a two-second smile at 0:34. There is no turn to cut on. The tweet-card-as-receipt structure sitting over it IS worth having, and it was captured as playbook #43 instead. Banked as a record only
+- file: clips/DcWah9DuSnM.mp4 (36s)
+
+## DcZFHoVNkmC — a locked-off hallway camera watches a cat flap for five seconds under the text "TODAY I FOUND OUT WHY THERE'S ALWAYS MUDDY MARKS ON THE WALL…", then a cat wedges itself halfway through, braces both back feet flat against the door and walks itself up the wall to get free
+- source: @pubity | https://www.instagram.com/reel/DcZFHoVNkmC/
+- lane: general
+- first-seen: 2026-08-24 | status: FRESH
+- stats-at-capture: 252849 likes / 1445 comments (4.47x account median)
+- joke-structure: standing mystery, mundane answer, no narration. The text poses a question the viewer has effectively already had ("why is there always a mark there") and then withholds; the footage answers it without a single word, and the answer is funnier than any explanation because the animal is plainly not aware it is doing anything unusual
+- the-beat: text card holds 0:00-0:04 with nothing happening, which is what buys the payoff; the stuck-and-climbing struggle runs 0:05-0:13 and the wall-walk at 0:07-0:11 is the actual reveal; it drops through at about 0:13 and struts straight at the lens 0:15-0:19. Best short donor is 0:06-0:12; keep the text card on the front if the reel needs the setup
+- audio-model: trending sound (add in-app) — the clip's own audio is room tone at -31 dB, there is nothing to bake. This one takes a library track cleanly and needs one
+- pairs-with: the user's own recurring unexplained side effect finally caught in the act — imabgold finding out why the same file keeps changing overnight; a parent finding out how the handprints get on the ceiling. Their footage states the mystery, this is the culprit doing it on camera
+- file: clips/DcZFHoVNkmC.mp4 (20s)
+
+## DcWaRKKRIz9 — a fan filming from the stands at Austin FC heckles the referees walking off after the final whistle with "I LOVE RULES!", and one of the refs walks over, reaches up and formally shows him a yellow card
+- source: @sportscenter | https://www.instagram.com/reel/DcWaRKKRIz9/
+- lane: sports
+- first-seen: 2026-08-24 | status: FRESH
+- stats-at-capture: 425573 likes / 618 comments (3.46x account median)
+- joke-structure: absurd compliment, and the authority figure plays it completely straight back. The heckle is not an insult, which is what makes it work — the ref cannot punish it, so he escalates into the one gesture he has, and the bit lands because he commits to the rules of a game that already ended
+- the-beat: the shout and the refs ignoring it runs 0:00-0:09; the ref looks up at the camera at about 0:11; the card comes up into frame at 0:12-0:13 and that is the whole payoff; 0:14-0:19 is unusable camera chaos. Cut it as 0:00-0:03 for the heckle plus 0:11-0:14 for the booking, or take 0:11-0:14 alone as a pure punishment beat
+- audio-model: diegetic (bakeable) — the shouted line and the crowd around it are the joke; sd 7.2 dB, this is live sound, not a bed. Muted, this clip is a shaky phone pointed at a stairwell
+- pairs-with: the user getting formally penalised for something harmless — imabgold's rate limit landing the second he says he is being reasonable with it; a parent being told off by their own toddler for breaking a rule the toddler invented. Their footage is the offence, this is the sentence
+- file: clips/DcWaRKKRIz9.mp4 (20s)
+
+## DcaPS-HuaA6 — a 68-second numbered listicle of six paid Singapore attractions to do with a toddler (oceanarium, Universal Studios, Cloud Forest, zoo, waterpark, Museum of Ice Cream), closing on a "SAVE THE REEL / FOLLOW ME" card
+- source: #toddlertravel | https://www.instagram.com/reel/DcaPS-HuaA6/
+- lane: family
+- first-seen: 2026-08-24 | status: DO-NOT-SPLICE (2026-08-24)
+- stats-at-capture: 2658 likes / 43 comments (hashtag recent_media, no account baseline)
+- joke-structure: none. It is a save-bait itinerary — numbered title cards over holiday footage of one identifiable family, with no turn, no reversal and no payoff beat anywhere in 68 seconds. Frame-sampled to confirm; the only structural move is the follow CTA at the end. Catalogued so a later scan does not re-spend a download slot on it
+- the-beat: n/a
+- audio-model: n/a (steady music bed, -17 dB, sd 2.7 — a licensed track, never bakeable)
+- pairs-with: nothing. taste.md is explicit that the listicle/announcement shape is @bambi.map's most reliable failure mode
+- file: clips/DcaPS-HuaA6.mp4 (68s)
+
+## DcamR_lumeo — an AI-generated stickman "Windows vs Linux" explainer: a static logo card, a cartoon narrator and advancing subtitles, with a red "Follow TryPitch.co for more!" watermark on every single frame and a "Follow TryPitch." card at the end
+- source: #programmerhumor | https://www.instagram.com/reel/DcamR_lumeo/
+- lane: tech
+- first-seen: 2026-08-24 | status: AD-REJECTED (2026-08-24)
+- stats-at-capture: 73 likes / 1 comment (hashtag recent_media, no account baseline)
+- joke-structure: n/a — promotional. The caption cleared the ad gate, the footage did not: the whole reel is a persistent-watermark funnel for TryPitch.co, which is exactly the guard-7 case of an account promoting its own service. Caught at frame-sample, after the download slot was already spent. Not banked; catalogued as the dedup record
+- the-beat: n/a
+- audio-model: n/a
+- pairs-with: nothing — promotional material is never usable
+- file: clips/DcamR_lumeo.mp4 (57s)
+
 ## DcVBZDiNrHF — a reliever pumps himself up on the mound after what he thinks is the last out, and the next batter walks it off over his head; final frame is the outfielder flat on the warning track while the whole park erupts
 - source: @houseofhighlights | https://www.instagram.com/reel/DcVBZDiNrHF/
 - lane: sports
