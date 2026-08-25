@@ -20,6 +20,69 @@ touched.
 
 <!-- entries below, newest first -->
 
+## Dcb-qSBMPs- — a mother walks into a daycare room to collect her baby after the baby's first full day there; the baby is sitting calmly on the mat playing, spots her mother in the doorway, and instantly folds into a full open-mouth sob and crawls to her
+- source: @pubity | https://www.instagram.com/reel/Dcb-qSBMPs-/
+- lane: general
+- first-seen: 2026-08-25 | status: FRESH
+- stats-at-capture: 170526 likes / 2651 comments (17.96x account median)
+- joke-structure: not a joke, a delayed collapse. The composure holds for the entire ordeal and breaks the instant the safe person is in frame, which retroactively tells you the composure was work the whole time. A flat held headline ("PICKING UP MY BABY AFTER HER FIRST DAY AT CHILD CARE") is burned in from frame one so the viewer is watching for the break, not the setup. Highest ratio this bank has recorded from any account
+- the-beat: 0:00-0:10 is the walk in through the door and the baby playing, unbothered, with a teacher beside her. The turn is 0:11-0:13 — the baby registers the mother, the face goes, and she starts crawling. Full cry 0:14-0:22. Payoff is the last second: at 0:35-0:36 the baby is in her mother's arms and the cry flips to a wide grin. Two donors: the 0:11-0:16 break alone, or the break-to-grin pair as an open-and-close. Note a "Pubity ✓ following" profile card is baked over the frame around 0:21-0:23, so cut before it or crop
+- audio-model: flexible — there is a music bed under it (RMS -21.8 dB, sd 6.6 dB, too even to be room sound), but the cry itself is the beat and survives being ducked. Either duck the bed under a trending track or keep the cry dry
+- pairs-with: the user holding it together through the thing and only breaking when someone asks — imabgold's "I was fine right up until my wife asked how the launch went"; a parent's "she was perfect at daycare, and then she saw me". Their footage is the ordeal, this face is the break
+- file: clips/Dcb-qSBMPs-.mp4 (37s)
+
+## DcbrenYTLvn — a mother waits in a parked car outside a school with the camera running; her daughter comes out, gets in, beams, and then immediately breaks down in tears saying she made the volleyball team, and holds up her phone with the roster on it
+- source: @houseofhighlights | https://www.instagram.com/reel/DcbrenYTLvn/
+- lane: sports
+- first-seen: 2026-08-25 | status: FRESH
+- stats-at-capture: 513510 likes / 6463 comments (6.92x account median)
+- joke-structure: no joke — a pure reaction reveal, and the format is the reason it works: the result is never shown, only the person receiving it, and the quote she is about to say ("I made it... I tried so hard") is burned in as held text from frame one. The viewer waits for a line they have already read. This is playbook #39 (never show the win, only the reaction) with the quote-ahead text layered on top
+- the-beat: 0:00-0:07 is an empty parking lot through a car window, which is dead air and should be trimmed to about two seconds. She opens the door and gets in at 0:08 grinning; the break is 0:09-0:12; the phone with the roster comes up at 0:28. Cut is the 0:08-0:13 window — arrival, grin, collapse
+- audio-model: diegetic (bakeable) — RMS -44.3 dB with sd 15.9 dB, i.e. quiet car ambience with her voice as the only event, no music bed. Her line IS the payoff, so do not put a track over it
+- pairs-with: the user's own "I actually got it" moment where the artifact is deliberately withheld — imabgold reading an approval email off-screen; a parent's reaction to a first word. Caution for the architect: an identifiable minor is the entire subject of this clip, so it is a shape reference for accounts that need to keep a real person off camera, and a direct donor only where reposting a stranger's child is acceptable
+- file: clips/DcbrenYTLvn.mp4 (29s)
+
+## DcZYwxNPtgR — an older man in a golf cap stands at a convenience-store ice machine holding a plastic bag open under the chute, patiently waiting for ice that is never coming, adjusting his grip and his stance for twenty-four seconds while whoever is filming keeps quiet
+- source: @sportscenter | https://www.instagram.com/reel/DcZYwxNPtgR/
+- lane: sports
+- first-seen: 2026-08-25 | status: FRESH
+- stats-at-capture: 423095 likes / 568 comments (3.27x account median)
+- joke-structure: the joke is duration. Nothing happens and the clip refuses to end, so the comedy accrues from how long a dignified man will commit to a task that is not working. Held text ("Got unc with the ice machine prank 😭") admits the setup at frame one, which is what makes the waiting funny instead of sad, then the payoff is him turning to the camera at the very end and realising
+- the-beat: 0:00-0:23 is one unbroken hold — he re-grips the bag, shifts his feet, leans in to read the machine, never gives up. The turn is 0:24-0:26 when he straightens up, looks straight into the lens and cracks. Two donors: a 3-4s slice of the patient waiting as a cutaway, or the full hold into the turn if the reel can spend the runtime
+- audio-model: diegetic (bakeable) — RMS -24.8 dB, sd 11.4 dB, parking-lot ambience with off-camera reactions, no bed. Nothing to protect and nothing to add
+- pairs-with: the user waiting on something that was never going to work — imabgold watching a build bar that has not moved in ten minutes; a parent holding a bowl under a toddler who has decided not to eat. Their footage names the wait, this man performs it
+- file: clips/DcZYwxNPtgR.mp4 (27s)
+
+## Dcc2HXlBkp8 — a baby in pink footed pyjamas toddles across a living room rug, stops dead halfway, does a short bouncing wiggle dance in place, then carries on walking as if the dance was always part of the route; her dad sits on the floor behind her watching
+- source: @pubity | https://www.instagram.com/reel/Dcc2HXlBkp8/
+- lane: general
+- first-seen: 2026-08-25 | status: FRESH
+- stats-at-capture: 22384 likes / 88 comments (2.33x account median)
+- joke-structure: interruption as commitment. The gag is that the detour is treated as non-negotiable and completely unremarkable by the person taking it, and the dad in frame does nothing, which leaves the viewer as the only one reacting. Held text ("MY BABY HAD TO STOP REAL QUICK AND BUST A MOVE") gives the ending away at frame one
+- the-beat: 0:00-0:03 is the walk with the text up. She drops to the rug and gets back up 0:03-0:05, and the dance is 0:05-0:08, then she walks off and turns to camera at 0:09. Cut on the stop at 0:05 — the whole donor is three seconds long
+- audio-model: trending sound (add in-app) — RMS -18.5 dB at sd 5.8 dB is a constant music bed, and the dance is timed to it. Never bake this in; pick the track natively in the app so the beat lands on the stop
+- pairs-with: the user interrupting their own task for something non-negotiable — imabgold's "I said one more fix and then made coffee for eleven minutes"; a parent's "we were leaving, and then this". Short enough to sit inside a longer reel without spending runtime
+- file: clips/Dcc2HXlBkp8.mp4 (11s)
+
+## DcdbMbPzkk2 — the Charlie Day "Pepe Silvia" scene from It's Always Sunny: a man in a shirt and tie rants in front of a wall of pinned papers and red string, gesturing wildly, under held text reading "POV: Me explaining that it works on my machine"
+- source: #programmerhumor | https://www.instagram.com/reel/DcdbMbPzkk2/
+- lane: tech
+- first-seen: 2026-08-25 | status: FRESH
+- stats-at-capture: 1004 likes / 0 comments (hashtag recent_media, no account baseline)
+- joke-structure: borrowed-intensity mismatch. A famous scene of a man coming apart over a conspiracy nobody else can see is relabelled as a mundane developer excuse, and the joke is the size of the gap between the delivery and the stake. The clip is six seconds and the text does all of the specifying, which is exactly what makes the shape reusable
+- the-beat: there is no turn inside it — the whole 0:00-0:05 is one continuous escalation, so it works as a reaction cutaway rather than a setup. Cut it in whole against the user's own line and let it end on its own
+- audio-model: trending sound (add in-app) — RMS -17.0 dB at sd 4.8 dB is a laid-over bed, not the scene's dialogue, and the underlying footage is licensed television either way. Treat the audio as unusable and add the track in-app
+- pairs-with: the user defending something indefensible with total conviction — imabgold's "it ran fine when I tested it" over a screen recording of it not running fine; the founder explaining why the thing that broke was not the thing they changed. Their footage states the claim, this face is the defence. Note: recognisable copyrighted TV footage, so it lends energy but never provenance
+- file: clips/DcdbMbPzkk2.mp4 (6s)
+
+## Dccs_hJIyZr — a static text card ("POV :- Only CS people know" over "There is no place like 127.0.0.1") sitting on a generic loop of scrolling code b-roll, with a third-party "@Code.Script.Lab" watermark burned across the middle of every frame
+- source: #programmerhumor | https://www.instagram.com/reel/Dccs_hJIyZr/
+- lane: tech
+- first-seen: 2026-08-25 | status: DO-NOT-SPLICE (2026-08-25)
+- stats-at-capture: 17 likes / 18 comments (hashtag recent_media, no account baseline)
+- reason: banked on a comment-rate signal rather than likes (18 comments on 17 likes, the only better-than-1:1 ratio in either pool today, which is the axis OPEN GAP #4 asks about), and frame-sampling settled it: the ratio is real but it belongs to the caption, not the footage. There is no action, no turn and no subject — nine seconds of stock code loop under a fixed pun, with someone else's watermark on every frame. Nothing here can be cut to. The "follow code.script.lab for more" plug in the caption was weighed against guard 7 and judged not an ad (no product, no link, no code — a meme page asking for a follow), so this is DO-NOT-SPLICE, not AD-REJECTED. Recorded so a later scan does not re-spend a slot on it
+- file: clips/Dccs_hJIyZr.mp4 (9s)
+
 ## DcYoFWAR1o_ — Erling Haaland walks into a bathroom to show his girlfriend a fresh buzzcut; she gets one look, both hands go over her mouth and she laughs for twenty seconds while he stands there holding a completely straight face
 - source: @sportscenter | https://www.instagram.com/reel/DcYoFWAR1o_/
 - lane: sports
@@ -190,21 +253,9 @@ touched.
 - pairs-with: any small win the user wants to treat as enormous (first paying customer, a green test suite, one comment on a post); also works inverted, as the reaction to something the viewer already knows was trivial
 - file: clips/DcUktOtxSmD.mp4 (13.3s)
 
-## DcUuVmZpMHi — 35 seconds of a shaky phone aimed at a gap under a stadium bleacher wall, strewn with peanut shells, while a fan pokes a hot dog toward the hole
-- source: @pubity | https://www.instagram.com/reel/DcUuVmZpMHi/
-- lane: general
-- first-seen: 2026-08-22 | status: DO-NOT-SPLICE (2026-08-22)
-- stats-at-capture: 49467 likes / 439 comments (15.56x account median)
-- reason: the raccoon is never visible. The burned-in headline promises "RACCOON GRABS FOOD THROUGH HOLE AT METS GAME" and the footage delivers a dark gap, litter and a hand — at no point in 35 seconds is there a readable animal or a readable grab. It banked 49k likes on the headline and the curiosity, not on anything on screen. Same failure mode as Dbi8hsFxMD9 (the fall obscured behind the stair rail): there is no frame to cut to. Record only, so a later scan does not re-spend a slot rediscovering it
-- file: clips/DcUuVmZpMHi.mp4 (35.1s) — clip retained until the 3-day prune delay clears
+## DcUuVmZpMHi — [PRUNED DO-NOT-SPLICE 2026-08-22] 35 seconds of a shaky phone aimed at a gap under a stadium bleacher wall, strewn with peanut shells, while a fan pokes a hot dog toward the hole · https://www.instagram.com/reel/DcUuVmZpMHi/ · first-seen 2026-08-22
 
-## DcVHvZjhSoB — POV on a rocky shoreline: a hand lifts a shell, opens it in front of a young woman, and the beach-find turns into a marriage proposal she reacts to in close-up
-- source: @pubity | https://www.instagram.com/reel/DcVHvZjhSoB/
-- lane: general
-- first-seen: 2026-08-22 | status: DO-NOT-SPLICE (2026-08-22)
-- stats-at-capture: 83654 likes / 195 comments (26.15x account median)
-- reason: real, sincere and not an ad, but there is no joke to lend and the entire clip is one identifiable private couple's face at the most personal moment of their lives. Splicing a stranger's proposal into somebody else's reel for a beat is a reputational cost with no comedic return. The FORMAT (ellipsis-promise headline, withhold the object, hold on the reaction before the reveal) was the transferable part and is logged in the scan notes rather than banked
-- file: clips/DcVHvZjhSoB.mp4 (27.3s) — clip retained until the 3-day prune delay clears
+## DcVHvZjhSoB — [PRUNED DO-NOT-SPLICE 2026-08-22] POV on a rocky shoreline: a hand lifts a shell, opens it in front of a young woman · https://www.instagram.com/reel/DcVHvZjhSoB/ · first-seen 2026-08-22
 
 ## DcOsj2YxDtM — a lone cheer base repeatedly launches, catches and holds a full-grown flyer overhead by herself, then drops to the mat as the squad erupts
 - source: @sportscenter | https://www.instagram.com/reel/DcOsj2YxDtM/
@@ -382,45 +433,15 @@ touched.
 - pairs-with: any "here is what nobody tells you about X" comparison, the user's own three-panel setup where the third panel is the anticlimax. No faces in frame, so it is unusually safe to reuse
 - file: clips/DcT3PiGMZaO.mp4 (11s)
 
-## DcRho6BP_y1 — a dad plays pickup basketball at an outdoor court after his 10-year-old challenges him, filmed from so far back that nothing legible happens
-- source: @sportscenter | https://www.instagram.com/reel/DcRho6BP_y1/
-- lane: sports
-- first-seen: 2026-08-21 | status: DO-NOT-SPLICE (2026-08-22)
-- stats-at-capture: 615378 likes / 654 comments (11.17x account median)
-- reason: frame-sampled at 1fps across the full clip and again at 3fps across the back half. The setup text is strong ("When your 10 year old says take me to the cages") but the promised payoff never becomes visible — the camera stays wide, shaky and 30+ feet from the action, no face or reaction ever reads, and the held "In yo face" caption is doing all the work. There is no cuttable beat, so there is nothing here to lend an architect. Banked as a record only.
-- file: clips/DcRho6BP_y1.mp4 (20s)
+## DcRho6BP_y1 — [PRUNED DO-NOT-SPLICE 2026-08-22] a dad plays pickup basketball at an outdoor court after his 10-year-old challenges him, filmed from so far back that nothing legible happens · https://www.instagram.com/reel/DcRho6BP_y1/ · first-seen 2026-08-21
 
-## DcS4NreNxi4 — a 45-second high-school football highlight package of a running back, cut over a live ESPN score ticker
-- source: @sportscenter | https://www.instagram.com/reel/DcS4NreNxi4/
-- lane: sports
-- first-seen: 2026-08-21 | status: DO-NOT-SPLICE (2026-08-22)
-- stats-at-capture: 381900 likes / 3665 comments (6.99x account median)
-- reason: straight athletic highlight with no turn, no anticlimax and no reaction — impressive, not funny, and nothing to set up. Compounded by a broadcast score ticker burned across the lower third of every frame, which makes any slice look like stolen TV. Banked as a record only.
-- file: clips/DcS4NreNxi4.mp4 (45s)
+## DcS4NreNxi4 — [PRUNED DO-NOT-SPLICE 2026-08-22] a 45-second high-school football highlight package of a running back, cut over a live ESPN score ticker · https://www.instagram.com/reel/DcS4NreNxi4/ · first-seen 2026-08-21
 
-## DcSGF3Ath8u — a screen recording of a Roblox obstacle level with two streamer webcam windows and a six-hour countdown overlay
-- source: @houseofhighlights | https://www.instagram.com/reel/DcSGF3Ath8u/
-- lane: sports
-- first-seen: 2026-08-21 | status: DO-NOT-SPLICE (2026-08-22)
-- stats-at-capture: 109513 likes / 658 comments (1.56x account median)
-- reason: the whole frame is captured screen content — game IP plus two identifiable celebrity streamers in picture-in-picture plus a timer HUD. There is no physical moment to borrow and no frame that can be cut without carrying someone else's stream branding into the reel. Banked as a record only.
-- file: clips/DcSGF3Ath8u.mp4 (30s)
+## DcSGF3Ath8u — [PRUNED DO-NOT-SPLICE 2026-08-22] a screen recording of a Roblox obstacle level with two streamer webcam windows and a six-hour countdown overlay · https://www.instagram.com/reel/DcSGF3Ath8u/ · first-seen 2026-08-21
 
-## DcT964WiGal — a bearded dad in a garden delivers a 26-second talking-head story about his kid dodging chores, over word-by-word karaoke captions
-- source: #parentsofinstagram | https://www.instagram.com/reel/DcT964WiGal/
-- lane: family
-- first-seen: 2026-08-21 | status: DO-NOT-SPLICE (2026-08-22)
-- stats-at-capture: 92 likes / 1 comments (hashtag recent_media, no account baseline)
-- reason: the joke lives entirely in his spoken narration, so the clip cannot be split from its own audio and there is no visual beat to cut to — the frame is one static medium shot of a man talking for the full runtime. Borrowing it would mean borrowing the whole reel. Banked as a record only.
-- file: clips/DcT964WiGal.mp4 (26s)
+## DcT964WiGal — [PRUNED DO-NOT-SPLICE 2026-08-22] a bearded dad in a garden delivers a 26-second talking-head story about his kid dodging chores, over word-by-word karaoke captions · https://www.instagram.com/reel/DcT964WiGal/ · first-seen 2026-08-21
 
-## DcT1q27t9QF — a toddler in a pink swimsuit walks into the sea on a British beach
-- source: #toddlertravel | https://www.instagram.com/reel/DcT1q27t9QF/
-- lane: family
-- first-seen: 2026-08-21 | status: DO-NOT-SPLICE (2026-08-22)
-- stats-at-capture: 19 likes / 0 comments (hashtag recent_media, no account baseline)
-- reason: the caption promises a cold-water recoil ("POV: your toddler discovers the British seaside isn't quite the Mediterranean") but frame-sampling the full 5s shows no visible reaction — she walks in, stands, and crouches. No turn on screen, an identifiable stranger's child, and 19 likes. Banking it would have been padding. Record only.
-- file: clips/DcT1q27t9QF.mp4 (5s)
+## DcT1q27t9QF — [PRUNED DO-NOT-SPLICE 2026-08-22] a toddler in a pink swimsuit walks into the sea on a British beach · https://www.instagram.com/reel/DcT1q27t9QF/ · first-seen 2026-08-21
 
 ## DcPUWj1vU78 — a humanoid robot sprints a full lap of an empty Olympic track, then drives itself straight into the trackside electrical boxes
 - source: @pubity | https://www.instagram.com/reel/DcPUWj1vU78/
@@ -478,16 +499,7 @@ touched.
 - file: clips/DcOyHDVsWu_.mp4 (25s)
 - note: two identifiable strangers' children fill the entire frame and the format (the "honest version" card) is more portable than the footage. Prefer rebuilding it with the user's own kids.
 
-## DcPfwhLzL93 — Mark Wahlberg, in a gym on a Kick stream, tells a streamer about catching his son sneaking out at 3 AM
-- source: #dadlife | https://www.instagram.com/reel/DcPfwhLzL93/
-- lane: family
-- first-seen: 2026-08-20 | status: DO-NOT-SPLICE (2026-08-22)
-- stats-at-capture: 74 likes / 0 comments (hashtag recent_media, no account baseline)
-- joke-structure: none in frame. It is a verbal celebrity anecdote delivered by two men standing still in a gym; there is no visual turn, no reaction beat and no punchline you can cut to
-- the-beat: n/a — 31 seconds of talking heads under a third-party headline banner, a Kick.com watermark and burned-in karaoke captions that cannot be removed
-- audio-model: diegetic (bakeable), but irrelevant — the clip is not usable
-- pairs-with: nothing. Catalogued only so a later scan does not re-spend a download slot on it
-- file: clips/DcPfwhLzL93.mp4 (31s)
+## DcPfwhLzL93 — [PRUNED DO-NOT-SPLICE 2026-08-22] Mark Wahlberg, in a gym on a Kick stream, tells a streamer about catching his son sneaking out at 3 AM · https://www.instagram.com/reel/DcPfwhLzL93/ · first-seen 2026-08-20
 
 ## DcH2hkzBzKc — Kitchen, mom in a pink tee lecturing her preteen son (white tee, backwards-ish tan ball cap) who stands with his back to camera taking it; held text reads "When your preteen gets too comfortable running they mouth…" and on the last beat she flicks the cap clean off his head mid-sentence
 - source: #parentsofinstagram | https://www.instagram.com/reel/DcH2hkzBzKc/
@@ -720,7 +732,7 @@ touched.
 ## DbjAfeTsSCh — On-screen text introduces "my cat Elsa, she is very stealthy" while Elsa sits in plain sight in a cardboard wall-cube; the owner ducks behind a wall to hide, the frame goes blank, and Elsa's enormous face slides into the lens from two inches away
 - source: @pubity | https://www.instagram.com/reel/DbjAfeTsSCh/
 - lane: general
-- first-seen: 2026-08-03 | status: FRESH
+- first-seen: 2026-08-03 | status: STALE (2026-08-25)
 - stats-at-capture: 106644 likes / 463 comments (27.65x account median)
 - joke-structure: confident claim, footage immediately contradicts it, then the contradiction escalates into a jumpscare-scale close-up payoff
 - the-beat: claim + visible-cat contradiction 0:00-0:09, the hide-behind-the-wall dead air 0:09-0:19 (holdable or trimmable), face-in-lens payoff at 0:20-0:22 — cut on the reveal
@@ -731,7 +743,7 @@ touched.
 ## DbkOasfBRTc — A Yorkie blocks its owner from the laundry, and when he keeps reaching for it the dog escalates by climbing bodily into the dryer and sitting in the clothes, staring him down from inside the drum
 - source: @pubity | https://www.instagram.com/reel/DbkOasfBRTc/
 - lane: general
-- first-seen: 2026-08-03 | status: FRESH
+- first-seen: 2026-08-03 | status: STALE (2026-08-25)
 - stats-at-capture: 28793 likes / 410 comments (7.54x account median)
 - joke-structure: escalating protest, then a commitment-beyond-reason payoff — the deadpan stare from inside the machine is the punchline
 - the-beat: blocking/protest 0:00-0:06, the climb-in at 0:06-0:08 is the turn, stare-down holds 0:10-0:25 — cut on the climb-in and hold two beats of the stare
@@ -742,7 +754,7 @@ touched.
 ## Dbi8hsFxMD9 — Caption says a real estate agent fell down the stairs during a house viewing; the agent steps back onto the top stair mid-sentence and goes down the whole flight, landing in a heap at the bottom while the camera keeps filming
 - source: @sportscenter | https://www.instagram.com/reel/Dbi8hsFxMD9/
 - lane: sports
-- first-seen: 2026-08-03 | status: FRESH
+- first-seen: 2026-08-03 | status: STALE (2026-08-25)
 - stats-at-capture: 426837 likes / 19356 comments (4.58x account median)
 - joke-structure: mundane setup, physical anticlimax — an authority figure loses all composure in one unbroken shot
 - the-beat: normal walkthrough 0:00-0:02, the fall at 0:02-0:04 is the entire payoff, 6.5s total — usable nearly whole
@@ -756,71 +768,17 @@ touched.
 
 ## DbZD_IcxCMy — [PRUNED DO-NOT-SPLICE] 1:44 talking-head news explainer on a $50B Louisiana data center approved under a secret codename; straight journalism, no joke and no clean beat to cut on · https://www.instagram.com/reel/DbZD_IcxCMy/ · first-seen 2026-08-03
 
-## DbZYl9oJ9Cj — Helmet-cam rider pulls level with a car that had been driving hard, asks the driver why he was in such a rush, and the man deadpans "I'm dying" — he means he desperately needs a bathroom — then just drives off
-- source: @pubity | https://www.instagram.com/reel/DbZYl9oJ9Cj/
-- lane: general
-- first-seen: 2026-07-30 | status: STALE (2026-08-22)
-- stats-at-capture: 129409 likes / 1619 comments (26.75x account median)
-- joke-structure: confrontation setup, deadpan anticlimax payoff — a build that promises road rage collapses into the most mundane possible reason
-- the-beat: confrontation build 0:00-0:20, the turn on "I'm dying" ~0:24, cut as he pulls away ~0:27
-- audio-model: diegetic (bakeable) — the exchange IS the joke and it is subtitled on screen
-- pairs-with: any "why is this suddenly so urgent" beat — a founder sprinting to fix a one-line bug, a parent speed-walking a stroller to the table before the hunger window closes
-- file: clips/DbZYl9oJ9Cj.mp4 (35.7s)
+## DbZYl9oJ9Cj — [PRUNED STALE 2026-08-22] Helmet-cam rider pulls level with a car that had been driving hard, asks the driver why he was in such a rush · https://www.instagram.com/reel/DbZYl9oJ9Cj/ · first-seen 2026-07-30
 
-## DbZkdaWJeb2 — A baby in a restaurant highchair gets his first bite of steak, goes wide-eyed feral and gnaws it two-handed while dad tries to hold it steady; held text "THAT FIRST BITE OF STEAK CHANGED MY SON'S LIFE"
-- source: @pubity | https://www.instagram.com/reel/DbZkdaWJeb2/
-- lane: general
-- first-seen: 2026-07-30 | status: STALE (2026-08-22)
-- stats-at-capture: 86578 likes / 897 comments (17.86x account median)
-- joke-structure: intensity mismatch — a tiny person discovering an adult pleasure and refusing to hand it back; escalates rather than turning
-- the-beat: first bite ~0:02, the eyes go wide 0:08-0:14 (the reusable beat), two-handed refusal to let go 0:14-0:20
-- audio-model: flexible — no dialogue, restaurant ambience only; the beat is entirely visual
-- pairs-with: a bambi restaurant-with-a-baby moment (a highchair strap is visible in frame, so it cuts straight against real highchair footage); any "we let him try X and lost him" first-taste beat
-- file: clips/DbZkdaWJeb2.mp4 (22.3s)
+## DbZkdaWJeb2 — [PRUNED STALE 2026-08-22] A baby in a restaurant highchair gets his first bite of steak, goes wide-eyed feral and gnaws it two-handed while dad tries to hold it steady · https://www.instagram.com/reel/DbZkdaWJeb2/ · first-seen 2026-07-30
 
-## DbWT85WBm0a — A small boy in a full Spider-Man suit slowly peels the mask off to "reveal his secret identity" to his parent and lands on a huge proud grin; held text "My son revealed his secret identity to me after the Spider-Man movie 😂"
-- source: @sportscenter | https://www.instagram.com/reel/DbWT85WBm0a/
-- lane: sports
-- first-seen: 2026-07-30 | status: STALE (2026-08-22)
-- stats-at-capture: 927674 likes / 10291 comments (17.21x account median)
-- joke-structure: ceremonial reveal of something everyone already knows — total sincerity from the kid, and the "secret" is just his own face
-- the-beat: the slow mask peel 0:04-0:10, cut on the grin ~0:11
-- audio-model: trending sound (add in-app) — no dialogue, the reveal rides a music bed; do not bake it in
-- pairs-with: any "big dramatic unveiling of something obvious" beat — a founder revealing the feature that turned out to be one button, a toddler presenting a drawing as a masterwork
-- file: clips/DbWT85WBm0a.mp4 (15.1s)
+## DbWT85WBm0a — [PRUNED STALE 2026-08-22] A small boy in a full Spider-Man suit slowly peels the mask off to "reveal his secret identity" to his parent and lands on a huge proud grin · https://www.instagram.com/reel/DbWT85WBm0a/ · first-seen 2026-07-30
 
-## DbTsR5LR5W3 — Office skit in a real conference room: five people wearing paper badges reading OpenAI, Microsoft, Nvidia and Google pass the same handful of cash and cards around the table in a closed loop, under a pinned Bloomberg chyron "Nvidia's $750 Billion in Deals Reignite Circular AI Fears"
-- source: @morningbrew | https://www.instagram.com/reel/DbTsR5LR5W3/
-- lane: tech
-- first-seen: 2026-07-30 | status: STALE (2026-08-22)
-- stats-at-capture: 9312 likes / 100 comments (3.17x account median)
-- joke-structure: literal enactment of an abstract financial mechanic — the headline is the setup, watching the same money go in a circle is the payoff, no punchline is written
-- the-beat: headline card lands 0:00-0:03, money starts circulating ~0:05, cut once the loop is legible ~0:12
-- audio-model: trending sound (add in-app) — edited skit over a music bed; do not bake it in
-- pairs-with: an imabgold take on this week's AI headline with his own build as the thing being funded; any "the industry is just paying itself" bit
-- file: clips/DbTsR5LR5W3.mp4 (17.5s)
+## DbTsR5LR5W3 — [PRUNED STALE 2026-08-22] Office skit in a real conference room: five people wearing paper badges reading OpenAI, Microsoft, Nvidia and Google pass the same handful of cash... · https://www.instagram.com/reel/DbTsR5LR5W3/ · first-seen 2026-07-30
 
-## DbTc4IRhNDT — A woman sits inside a dryer drum wrapped in bedding and tumbles with it, playing the fitted sheet through its whole cycle, then the shot cuts to the real balled-up sheet alone in the drum; held text "POV: The fitted sheet in the dryer"
-- source: @9gag | https://www.instagram.com/reel/DbTc4IRhNDT/
-- lane: general
-- first-seen: 2026-07-30 | status: STALE (2026-08-22)
-- stats-at-capture: 171867 likes / 1146 comments (2.73x account median)
-- joke-structure: inanimate-object personification — a human plays the object, then a reality-cut to the actual object is the button
-- the-beat: personified tumble 0:00-0:10, cut to the real balled sheet ~0:12 (the button)
-- audio-model: trending sound (add in-app) — no dialogue, performed to a track
-- pairs-with: any "the thing that quietly suffers while you do X" bit — the laptop during a 3am build, the stroller in an airport, the one toy that survives a day out
-- file: clips/DbTc4IRhNDT.mp4 (15.9s)
+## DbTc4IRhNDT — [PRUNED STALE 2026-08-22] A woman sits inside a dryer drum wrapped in bedding and tumbles with it, playing the fitted sheet through its whole cycle, then the shot cuts to... · https://www.instagram.com/reel/DbTc4IRhNDT/ · first-seen 2026-07-30
 
-## DbO74yghLkl — ITV game-show clip ("What Would Your Kid Do?"): a small girl calmly lectures the host that Dubai has a tropical desert climate while her parents watch from a booth visibly bracing, pleading "Please don't go for the giraffe"; overlaid text "My parents would disown me ASAP 🤣"
-- source: @daquan | https://www.instagram.com/reel/DbO74yghLkl/
-- lane: general
-- first-seen: 2026-07-30 | status: STALE (2026-08-22)
-- stats-at-capture: 116585 likes / 1381 comments (2.22x account median)
-- joke-structure: tiny-adult confidence against parental helplessness — two-level comedy, the kid's deadpan expertise plus the powerless reaction shot
-- the-beat: the kid's lecture ~0:10-0:16, cut to the parents' plea ~0:29 (the reaction is the payoff, not the kid)
-- audio-model: diegetic (bakeable) — the subtitled dialogue is the joke
-- pairs-with: a bambi "we asked our kid and immediately regretted it" beat; any "watching someone represent you badly with no way to intervene" moment
-- file: clips/DbO74yghLkl.mp4 (44.3s)
+## DbO74yghLkl — [PRUNED STALE 2026-08-22] ITV game-show clip ("What Would Your Kid Do?"): a small girl calmly lectures the host that Dubai has a tropical desert climate while her parents... · https://www.instagram.com/reel/DbO74yghLkl/ · first-seen 2026-07-30
 
 ## DbRGKvJz6bL — [PRUNED STALE] Suburban driveway hoop after rain: a middle-aged dad in floral shorts plays his two teenage sons, backs the shirtless one down, and buries a... · https://www.instagram.com/reel/DbRGKvJz6bL · first-seen 2026-07-27
 
