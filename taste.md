@@ -1,6 +1,6 @@
 # taste.md — what the audiences actually reward (derived, rewritten every scan)
 
-Refreshed 2026-08-25 from live insights. Read alongside catalog.md.
+Refreshed 2026-08-26 from live insights. Read alongside catalog.md.
 Account routines read the whole file. CUSTOMER jobs read ONLY `## universal`.
 
 ## universal
@@ -8,12 +8,15 @@ Account routines read the whole file. CUSTOMER jobs read ONLY `## universal`.
   something outruns "here is my title" or "here is my product" on both
   accounts, every refresh.
 - Hold and forwarding are two different products. The reels people watch
-  longest and the reels people send are not the same reels: this refresh the
-  three most-forwarded posts are also three of the shortest holds. Decide which
-  one a cut is for before writing the hook.
+  longest and the reels people send are not the same reels: the top of the
+  share table has never once been the top of the watch-time table. Decide
+  which one a cut is for before writing the hook.
 - A live countdown is the forwarding engine. "Let's see how long this lasts"
-  and "I give this one hour" outsend every finished anecdote by 10x. The viewer
-  forwards it to watch the outcome with someone.
+  and "I give this one hour" outsend every finished anecdote by roughly 5x.
+  The viewer forwards it to watch the outcome with someone.
+- A stake, not a label. The same in-joke shape with a visible clock is the
+  most-forwarded post on record; without the clock it is the worst hold. The
+  format is not the asset, the unresolved outcome is.
 - Put the artifact on screen. Reels where a real thing is visible (a terminal
   session, a cup of noodles, a highchair) hold; reels that only narrate the
   thing lose half the audience by second three.
@@ -25,67 +28,74 @@ Account routines read the whole file. CUSTOMER jobs read ONLY `## universal`.
   on either feed to break single-digit comments left the outcome unnamed ("you
   change something small and then...") and let viewers supply their own.
 
-steering: Marcus's recent in-app hashtag searches (28) — the full baby-dining
-travel set (#eatingoutwithbaby, #travelwithbaby, #babytravel, #highchair,
-#familytraveltips, #familytravel, #toddlertravel, #travelwithkids,
-#familyadventures, #eatlikealocal, #familyvacation, #kidfriendlytravel), the
-AI-founder set (#artificialintelligence, #aitools, #anthropic, #claudeai,
-#buildinpublic, #nontechnicalfounder, #claudecode, #vibecoding) and the seven
-generic meme/tech tags (#humor, #memes, #reelsviral, #toddlermom,
-#parentsofinstagram, #programmerhumor, #techtok) plus #dadlife, all back in the
-7-day window. Widest steering list recorded; intent unchanged, just re-searched.
+steering: Marcus's recent in-app hashtag searches (23) — the baby-dining travel
+set (#travelwithkids, #familytravel, #kidfriendlytravel, #eatingoutwithbaby,
+#travelwithbaby, #babytravel, #highchair), the AI-founder set
+(#artificialintelligence, #aitools, #anthropic, #claudeai, #buildinpublic,
+#nontechnicalfounder, #claudecode, #vibecoding) and the generic meme/tech tags
+(#humor, #memes, #reelsviral, #toddlermom, #parentsofinstagram,
+#programmerhumor, #techtok, #dadlife). Five of yesterday's 28 aged out
+(#familytraveltips, #toddlertravel, #familyadventures, #eatlikealocal,
+#familyvacation) — the travel set narrowing, intent otherwise unchanged.
 
-## @imabgold (tech) — 25 reels (08-15 to 08-25)
+## @imabgold (tech) — 25 reels (08-16 to 08-26)
 
-Top 3 by avg watch time (reels with >50 views; the two posted this morning
-show 8.4s and 12.8s on 8 and 21 views, which is noise, not a hold)
-- 8.3s · https://www.instagram.com/reel/DccEK1pp_mj/ · 965 views, skip 25%
+Top 3 by avg watch time (reels with >50 views)
+- 8.4s · https://www.instagram.com/reel/DccEK1pp_mj/ · 991 views, skip 25%
   "He asked what I use. I said the name, then just showed him my screen."
-  Lowest skip on the account. A second person in the story, and a screen.
-- 7.1s · https://www.instagram.com/reel/DcXa2oZBV7A/ · 98 views, skip 46%
-  "I have looked the same thing up four times this month." Third refresh at the
-  top. Admitting a habit he has not fixed holds regardless of reach.
-- 6.9s · https://www.instagram.com/reel/DcZkF72B6GG/ · 3031 views, skip 29%
-  Unrequested help framed as damage. Best hold-plus-reach pair on the feed.
+  Lowest skip on the account, second refresh at the top. A second person in
+  the story, and a screen.
+- 7.8s · https://www.instagram.com/reel/DceMeeENs7m/ · 258 views, skip 63%
+  "I rode to the top of the street and the reel was already made." Holds the
+  people who stay and loses everyone else — the highest skip in the top ten.
+- 6.9s · https://www.instagram.com/reel/DcZkF72B6GG/ · 3042 views, skip 29%
+  Unrequested help framed as damage. Best hold-plus-reach pair on the feed,
+  third refresh running.
 
-Top 3 by saves+shares — all three are the short "larp" captions
-- 42 · https://www.instagram.com/reel/DccaGaKBNEO/ · 2016 views, 7 sv / 35 sh
-  "Larping vibecode." Most-forwarded reel on record by 45%.
-- 29 · https://www.instagram.com/reel/DcZ1urOtaGr/ · 2235 views, 4 sv / 25 sh
+Top 3 by saves+shares — still the short "larp" captions
+- 47 · https://www.instagram.com/reel/DccaGaKBNEO/ · 2230 views, 9 sv / 38 sh
+  "Larping vibecode." Most-forwarded reel on record, and it kept climbing
+  overnight (+5 after the 08-25 read).
+- 29 · https://www.instagram.com/reel/DcZ1urOtaGr/ · 2272 views, 4 sv / 25 sh
   "Let's see how long my limit lasts." An unresolved bet, not an anecdote.
-- 18 · https://www.instagram.com/reel/Dca5-JABtqU/ · 1782 views, 1 sv / 17 sh
-  "I give my credits one hour." Same countdown shape, shares tripled overnight.
+- 19 · https://www.instagram.com/reel/Dca5-JABtqU/ · 1816 views, 1 sv / 18 sh
+  "I give my credits one hour." Same countdown shape.
 
 Bottom 3 by avg watch time
-- 4.7s · https://www.instagram.com/reel/DcaEzeFBo3c/ · 249 views, skip 54%
-  "Larping Claude." The in-joke with no countdown and no clock. The larp shape
-  needs a stake; this one has only the label.
-- 4.7s · https://www.instagram.com/reel/DcRJGp8BV9S/ · 438 views, skip 45%
+- 4.9s · https://www.instagram.com/reel/Dca5-JABtqU/ · 1816 views, skip 40%
+  The countdown that gets forwarded and not watched. The share table and the
+  watch table disagree about this post more than any other.
+- 4.9s · https://www.instagram.com/reel/DcaEzeFBo3c/ · 262 views, skip 53%
+  "Larping Claude." The in-joke with no countdown and no clock.
+- 5.0s · https://www.instagram.com/reel/DcRJGp8BV9S/ · 443 views, skip 44%
   The $35M credential open. Every credential-led hook is bottom-half.
-- 4.8s · https://www.instagram.com/reel/Dca5-JABtqU/ · 1782 views, skip 40%
 
 Bottom 3 by saves+shares (all zero)
-- https://www.instagram.com/reel/DcUyhbqhRA3/ — 2393 views. "Answer is in the
-  video" withholds the hook instead of spending it. Fourth refresh in a row here.
-- https://www.instagram.com/reel/DcUXE2FBZr3/ — 698 views. The machine does
-  nothing on screen.
+- https://www.instagram.com/reel/DceMeeENs7m/ — 258 views. The best new hold
+  on the feed and nobody sent it.
+- https://www.instagram.com/reel/DcUyhbqhRA3/ — 2394 views. "Answer is in the
+  video" withholds the hook instead of spending it. Fifth refresh in a row here.
 - https://www.instagram.com/reel/DcU_w_Th8uD/ — 691 views. Held 6.9s and still
   sent by nobody: the clearest proof hold and forwarding are separate.
 
 What works / what dies — @imabgold
-- The larp batch flipped. Last refresh it was the four worst holds; today it is
-  the entire top of the share table (42/29/18 vs 8 for the best long-form post).
-  Short caption + visible clock = forwarding. Short caption alone = DcaEzeFBo3c.
+- Short caption + visible clock = forwarding. Short caption alone = DcaEzeFBo3c.
+  The three-post larp countdown batch is now 95 of the feed's 118 total
+  saves+shares. Nothing else on the account is close.
 - Confession first, credential second. DcRJGp8BV9S is the control.
-- Show a second person reacting. The best hold on the feed is the only reel
-  where someone else is in the story.
+- Show a second person reacting. The best hold on the feed is still the only
+  reel where someone else is in the story, two refreshes running.
+- This morning's post (Dce4DyGBLQc, "I pay for the expensive one so I never
+  have to know the answer") did 3528 views and 5 saves inside a few hours, the
+  fastest opening on the feed. A confession that admits paying to stay ignorant
+  is reading as both a joke and a save.
 - Comments remain the graded criterion and the feed is still starved: 24 of 25
   reels sit at 0-2. DcUk4ORBQWx (9) is still the only comment engine, still
-  unreplicated after four refreshes.
-- Cadence 3-6/day is holding skip at a 37% median, but reach is flat around
-  2-3k. Shares are where the movement is.
+  unreplicated after five refreshes.
+- Cadence 3-6/day is holding skip at a 40% median, reach flat around 2-3k.
+  Shares are where the movement is.
 
-## @bambi.map (family) — 19 reels, dark 10 days (last post 08-15)
+## @bambi.map (family) — 19 reels, dark 11 days (last post 08-15)
 
 Top 3 by avg watch time
 - 8.8s · https://www.instagram.com/reel/Da_U2OGBlOD/ · 1670 views, 3 sv / 2 sh
@@ -126,6 +136,7 @@ What works / what dies — @bambi.map
   only shape here that has ever produced shares.
 - App walkthroughs are the reliable failure mode: the three worst skip rates on
   the feed are all product explainers.
-- The countdown/stake shape that just tripled imabgold's shares has never been
-  tried here, and "will there be a highchair" is already a live countdown.
-- Ten days dark. The recognition hook was working when it stopped.
+- The countdown/stake shape carrying imabgold's entire share table has never
+  been tried here, and "will there be a highchair" is already a live countdown.
+- Eleven days dark. Marcus's steering searches are still overwhelmingly this
+  account's territory, so the intent to feed it has not lapsed.

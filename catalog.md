@@ -20,6 +20,72 @@ touched.
 
 <!-- entries below, newest first -->
 
+## Dceg78QTZrw — a young man sits alone on an Alaskan riverbank filming himself, and a full-grown brown bear comes out of the water and runs past him at close range to chase a salmon; he does not move, does not stand, and just keeps sitting there
+- source: @houseofhighlights | https://www.instagram.com/reel/Dceg78QTZrw/
+- lane: sports
+- first-seen: 2026-08-26 | status: FRESH
+- stats-at-capture: 437531 likes / 1867 comments (6.24x account median)
+- joke-structure: stillness against catastrophe. The comedy is entirely in what does NOT happen — the bear is the event, and the subject's total lack of reaction is the punchline. A tweet card is burned across the top third for the whole runtime ("Adapt was fearing for his life after a wild brown bear ran directly infront of him in order to catch a salmon"), so the viewer has been told the stakes and is watching a man decline to act on them
+- the-beat: 0:00-0:11 is the sit — subject in frame left, empty river, a bear tiny in the far distance. The turn is 0:12-0:20, the bear charging through the shallows toward frame and past him, water everywhere. 0:21-0:32 is the bear catching and eating the salmon a few metres out. Payoff at 0:33-0:38: cut back to him still sitting, glancing sideways, saying nothing. Best donor cut is 0:11-0:20 (charge) or the 0:33-0:38 non-reaction on its own. The tweet card sits in the top ~25% of frame — crop it out or it reads as someone else's post
+- audio-model: diegetic (bakeable) — river and the bear hitting water carry the whole beat, and the absence of a voice is the joke. Adding a track over this actively costs you the gag
+- pairs-with: the user carrying on flatly while something enormous goes past — imabgold's "the agent rewrote three files I never asked it to touch and I kept typing"; a parent's "the toddler emptied the entire cupboard and I finished my coffee". Their footage is the ordinary task, this is the thing going by
+- file: clips/Dceg78QTZrw.mp4 (39s)
+
+## Dce-56EPoI9 — a humanoid robot at a competition squats, cleans a tiny barbell over its head, holds it for a beat, then overbalances backwards and slams flat on the floor; red-shirted staff run in and carry the body off
+- source: @pubity | https://www.instagram.com/reel/Dce-56EPoI9/
+- lane: general
+- first-seen: 2026-08-26 | status: FRESH
+- stats-at-capture: 197843 likes / 4607 comments (4.02x account median)
+- joke-structure: success then immediate structural collapse. It gets the lift — that is the trap. The failure arrives one second AFTER the win, which is a different and better shape than a straightforward fail; a burned-in headline ("CLANKER LIFTS WORLD'S SMALLEST WEIGHT AND DIES") pre-announces the ending so the whole lift is dread. Also the closest thing in the bank to OPEN GAP #3's chain reaction: one small overbalance and the entire machine goes down, then a crew has to come collect it
+- the-beat: 0:00-0:07 setup, robot crouches to the bar in an arena with judges at a table behind it. 0:08-0:12 the clean and the hold, arms locked out. Turn at 0:13 — it tips backwards and hits the deck hard. 0:14-0:23 the aftermath: the countdown clock still running at 00:00, staff crossing frame, the robot being lifted like a stretcher case. Cut on the turn at 0:13; the aftermath from 0:16 is a second, separate donor (the cleanup crew) if you want the cascade rather than the fall
+- audio-model: flexible — arena PA and the impact are present and the clank of the landing is a real sting, but it survives being muted under a trending track because the visual turn is unambiguous
+- pairs-with: the user winning the small thing and immediately paying for it — imabgold's "it compiled, and then everything else stopped working"; the ship-it-then-watch-it-fall beat. Their footage is the attempt and the win, this is the second after
+- file: clips/Dce-56EPoI9.mp4 (23s)
+
+## DcejaQYskRm — a garden owl on the lawn spreads its wings and puffs itself to roughly twice its size to intimidate a house cat standing a metre away; the cat looks at it, does nothing, and simply walks off
+- source: @pubity | https://www.instagram.com/reel/DcejaQYskRm/
+- lane: general
+- first-seen: 2026-08-26 | status: FRESH
+- stats-at-capture: 135925 likes / 1328 comments (2.73x account median)
+- joke-structure: maximum threat display, zero effect. A bluff performed at full commitment against an audience that will not even register it. One locked wide shot, no cuts, no camera move — the whole thing plays in one continuous take, which is the shape @rghoss1 gets comments with (OPEN GAP #4)
+- the-beat: the display is already up at 0:00 and holds — there is no build, the clip opens on the peak. The turn is 0:05-0:06 when the cat crosses the frame and leaves, unimpressed. 0:07-0:08 the owl is still puffed with nobody left to threaten, which is the actual payoff. At 8 seconds it needs no trimming; loops cleanly
+- audio-model: flexible — quiet garden ambience (RMS -21.9 dB, the lowest of today's six), no dialogue, nothing load-bearing in the sound. This is the one clip today that is genuinely improved by a trending track laid over it
+- pairs-with: the user's biggest, most elaborate effort landing on someone completely indifferent — imabgold's "I wrote a 400-line spec and it did whatever it wanted"; a parent's full performance for a toddler who walks away. Their footage is the effort, this is the reception
+- file: clips/DcejaQYskRm.mp4 (8s)
+
+## Dcd_FfvP96F — a tech creator unboxes the HONOR "Robot Phone", a handset with a motorised gimbal camera that swivels out of the back, and works through big shocked reaction faces as he handles it
+- source: @techburner | https://www.instagram.com/reel/Dcd_FfvP96F/
+- lane: tech
+- first-seen: 2026-08-26 | status: AD-REJECTED (2026-08-26)
+- stats-at-capture: 123162 likes / 523 comments (14.83x account median)
+- joke-structure: none — it is a launch-day product reveal. The caption ("Robot Phone🤯") carries no promo markers, which is why it cleared the pre-download gate; frame-sampling settled it. The HONOR ring logo is centred in frame at 0:02, the whole runtime is retail box, tray, sleeve, and the device being demonstrated feature by feature, and the reaction faces exist to sell the hardware. Splicing this lends HONOR's marketing, which is exactly what guard 7 exists to stop. Banked as a record only; never usable
+- the-beat: n/a
+- audio-model: n/a
+- pairs-with: nothing — do not use
+- file: clips/Dcd_FfvP96F.mp4 (52s)
+
+## Dcftx2KsFQg — a group of young men in a neon-lit club dance to a track, one in a long curly wig, with a Hinglish caption burned over every frame reading "This is my serious account funny wala Linkden pe banaya he"
+- source: #programmerhumor | https://www.instagram.com/reel/Dcftx2KsFQg/
+- lane: tech
+- first-seen: 2026-08-26 | status: DO-NOT-SPLICE (2026-08-26)
+- stats-at-capture: 71 likes / 15 comments (hashtag recent_media, no account baseline)
+- joke-structure: the joke is real but it lives entirely in the burned-in text — the inversion that the unhinged account is the "serious" one and LinkedIn got the comedy. The footage underneath is generic party b-roll of identifiable strangers with no turn, no payoff and nothing to cut on, and the caption cannot be removed, so any splice would import someone else's on-screen text into the reel. Picked deliberately as the highest-comment-rate hashtag candidate (15 comments on 71 likes) to keep testing OPEN GAP #4; second scan running where comment rate found a caption rather than footage. Never usable
+- the-beat: n/a
+- audio-model: n/a
+- pairs-with: nothing — do not use
+- file: clips/Dcftx2KsFQg.mp4 (7s)
+
+## DcfjdBSzEAm — a timestamped travel montage of a couple flying Dubai to Delhi to Srinagar with a 20-month-old: check-in kiosk, a mother crouched on the terminal floor repacking a case at 20:20, escalators, the cabin, a family selfie, the baggage belt, and a Kashmir road at dawn
+- source: #toddlertravel | https://www.instagram.com/reel/DcfjdBSzEAm/
+- lane: family
+- first-seen: 2026-08-26 | status: DO-NOT-SPLICE (2026-08-26)
+- stats-at-capture: 57 likes / 0 comments (hashtag recent_media, no account baseline)
+- joke-structure: none in the footage. The caption does the comedy ("Approximately 50 snacks, zero personal space, one tiny boss running the entire trip") but what is on screen is a sincere, well-shot vlog with running clock stamps and no turn anywhere in 24 seconds. The one recognisable beat, the mother repacking on the floor in the queue, is three seconds long and shows an identifiable stranger's face. Real footage, no mechanism to lend. Never usable
+- the-beat: n/a
+- audio-model: n/a
+- pairs-with: nothing — do not use
+- file: clips/DcfjdBSzEAm.mp4 (24s)
+
 ## Dcb-qSBMPs- — a mother walks into a daycare room to collect her baby after the baby's first full day there; the baby is sitting calmly on the mat playing, spots her mother in the doorway, and instantly folds into a full open-mouth sob and crawls to her
 - source: @pubity | https://www.instagram.com/reel/Dcb-qSBMPs-/
 - lane: general
@@ -201,13 +267,7 @@ touched.
 - pairs-with: the user stopping dead in the middle of their own task — imabgold falling asleep with the terminal still running; a toddler out cold holding a snack. Pair the user's own "I'm fine, I can keep going" footage with this as the cut-to
 - file: clips/DcW1AFxMmzg.mp4 (28s)
 
-## DcX0I1rMz3N — a 5-second static black card of coloured Python-styled text comparing lists to tuples as a metaphor for people who leave, ending in a fake `ValueError: Immutable memories cannot be modified`; another creator's handle is watermarked in the corner
-- source: #programmerhumor | https://www.instagram.com/reel/DcX0I1rMz3N/
-- lane: tech
-- first-seen: 2026-08-23 | status: DO-NOT-SPLICE (2026-08-23)
-- stats-at-capture: 50 likes / 1 comments (hashtag recent_media, no account baseline)
-- joke-structure: none as footage — it is a still image with no motion, no subject and no turn, and it carries a visible @vishalrajvicky_9525 watermark, so there is nothing here to cut to and nothing that could be used without carrying someone else's handle into frame. The FORMAT is real and was captured as playbook #40; the file is catalogued only so a later scan does not re-spend a download slot on it
-- file: clips/DcX0I1rMz3N.mp4 (5s)
+## DcX0I1rMz3N — [PRUNED DO-NOT-SPLICE] a 5-second static watermarked text card comparing Python lists to tuples as a metaphor for people who leave, closing on a fake ValueError; format captured as playbook #40 · https://www.instagram.com/reel/DcX0I1rMz3N/ · first-seen 2026-08-23
 
 ## DcUeHRpP7dt — a humanoid robot sprints down an empty stadium track, runs straight off the end of its lane into the padded barrier wall, and collapses face-down on the blue surface
 - source: @pubity | https://www.instagram.com/reel/DcUeHRpP7dt/
