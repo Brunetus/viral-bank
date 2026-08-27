@@ -20,6 +20,66 @@ touched.
 
 <!-- entries below, newest first -->
 
+## DchxQobpYeD — a man dressed for an office (navy sweater, white collar, chinos) walks up to a storm-felled tree blocking a wet forest road at dusk, comes back with a full-size petrol chainsaw, and cuts the entire trunk out of the road; one line of held text the whole way: "BRO WAITED HIS WHOLE LIFE FOR THIS MOMENT"
+- source: @pubity | https://www.instagram.com/reel/DchxQobpYeD/
+- lane: general
+- first-seen: 2026-08-27 | status: FRESH
+- stats-at-capture: 147974 likes / 3383 comments (202.48x account median)
+- joke-structure: absurd over-preparedness, crowned by a narrator. The gap is between how he is dressed (commute clothes, glasses, good shoes in a soaking ditch) and the fact that a professional chainsaw was in the boot and he knows exactly how to swing it. He never mugs for camera, never acknowledges the joke — the held text does all the winking, he just works. Highest comment rate in today's whole candidate pool (1 per 44 likes): people argue in the comments about whether carrying a chainsaw is normal
+- the-beat: 0:00-0:03 he stands at the tree empty-handed, nothing funny yet, pure setup. Reveal 0:03-0:05, he strides back in with the saw already running. 0:06-0:40 is the work — cutting the trunk, hauling branches. 0:41-0:53 the road is clear and he walks back past camera carrying the saw. Shortest usable donor is 0:00-0:05 (the reveal is the whole joke); 0:03-0:12 if you want the saw to bite on screen
+- audio-model: diegetic (bakeable) — the chainsaw firing is the sting and the rain-hiss is the texture. A trending track over this deletes the gag
+- pairs-with: user footage that states an ordinary problem, then cuts to the user's weirdly specific preparation for it — imabgold saying "I have a script for that" after describing a manual chore; a parent producing the exact snack/wipe/toy from a bag at a restaurant meltdown
+- file: clips/DchxQobpYeD.mp4 (53s)
+
+## Dch_JVZJUqV — sofa POV (filmer's bare legs in frame): a small cream dog has been sent to time out, stands nose-jammed into the crack of a closed white door and audibly complains at it without stopping, then turns and stalks off; held text for the first 3 seconds reads "MY DOG MADE IT VERY CLEAR HE WASN'T HAPPY ABOUT TIME OUT"
+- source: @pubity | https://www.instagram.com/reel/Dch_JVZJUqV/
+- lane: general
+- first-seen: 2026-08-27 | status: FRESH
+- stats-at-capture: 16538 likes / 194 comments (22.38x account median)
+- joke-structure: the sulk that argues back. The punished party does not accept the punishment and litigates it out loud at the door, which is funny because it is exactly how a person sulks and exactly what a dog cannot actually be doing. The filmer stays put on the sofa the whole time — the refusal to get up is half the joke
+- the-beat: 0:00-0:03 text card + the dog at the door with its nose in the gap, already complaining. 0:03-0:07 the text drops and the grumbling continues uninterrupted over a static, boring frame. 0:07-0:10 the dog gives up, turns and walks off past camera. Cut anywhere in 0:00-0:07; the payoff is a sound, not an image, so do not cut on a visual
+- audio-model: diegetic (bakeable) — the dog's grumbling IS the clip. Muted or covered by a track it is ten seconds of a door. Never bake a trending sound over this one
+- pairs-with: any moment where the user is told no and keeps arguing anyway — imabgold hitting a usage limit and continuing to type at it; a toddler negotiating from the naughty step. Their footage is the ruling, this is the appeal
+- file: clips/Dch_JVZJUqV.mp4 (10s)
+
+## DcgPzrwP7YO — a creator in a bright orange tee holds up two phones side by side, an ordinary iPhone and one wearing a motorised gimbal head ("Robot Phone"), shoots the same panorama of the same room on both, and reacts to the results with a full open-mouthed stare down the lens; huge on-screen labels ("Panorama", "iphone", "Robot Phone") mark each round
+- source: @techburner | https://www.instagram.com/reel/DcgPzrwP7YO/
+- lane: tech
+- first-seen: 2026-08-27 | status: FRESH
+- stats-at-capture: 104441 likes / 185 comments (12.19x account median)
+- joke-structure: side-by-side comparison with a reaction-face payoff. There is no verbal punchline — the mechanism is a two-column test where the second column does the work by itself and the presenter's face supplies the laugh. Cleared the ad gate on intent: no code, no link, no "buy", the gadget is the bit, not the offer. Be honest with an architect: the comedic load here is thin and the value is the SHAPE (two things, same task, one absurd result), not the punchline
+- the-beat: 0:02 he raises both phones to camera, label "Panorama". 0:06-0:20 the two screens run side by side in hand and the gimbal head visibly pans itself while the iPhone sits still. 0:22 label "Robot Phone" over the result. 0:34-0:37 the shocked-face close-up, saw-eyes and open mouth, holding the gimbal phone at his temple. Best donor cuts are the 0:06-0:20 two-screens shot (as a comparison bed under your own text) or the 0:34-0:37 face on its own as a reaction beat
+- audio-model: flexible — the presenter's Hindi-English voiceover is not load-bearing, so this ducks cleanly under a trending track; the shocked-face beat also works silent under a text card
+- pairs-with: any "my old way vs the new way" cut where the user's own screen is one of the two columns — imabgold's manual spreadsheet next to the agent doing it; a parent's pre-kid packing next to post-kid packing. Their material is column one and the payoff face
+- file: clips/DcgPzrwP7YO.mp4 (37s)
+
+## DciiHyLJ0ab — a blonde toddler on a Southeast Asia trip gets treated as a minor celebrity by the staff wherever the family eats: a woman leans across a lounge to take his hands, restaurant staff come to the table to hold and hug him mid-service, a member of staff kneels to feed the koi pond with him; one held text line the whole clip: "Nobody warns you about THIS when you take a blonde toddler to Southeast Asia..."
+- source: #toddlertravel | https://www.instagram.com/reel/DciiHyLJ0ab/
+- lane: family
+- first-seen: 2026-08-27 | status: FRESH
+- stats-at-capture: 12 likes / 1 comment (hashtag recent_media, no account baseline)
+- joke-structure: recognition, not a gag — the "nobody warns you about" complaint frame applied to something that is obviously lovely, so the joke is the pretend grievance. Structurally it is a montage against a single held claim: every shot is another piece of evidence for the same line, and it never resolves or escalates, it just accumulates
+- the-beat: 0:00-0:04 the text card lands over the first grab (lounge, two women crowding him). 0:04-0:10 the koi pond with a staff member kneeling beside him. 0:10-0:15 restaurant floor at night, staff reaching over the table to take his hand. 0:15-0:18 a hug he does not consent to and does not mind. There is no single payoff beat — take any 3-4 second grab as an illustration under your own line. Best single donor is 0:10-0:15 (the dining-room reach-in)
+- audio-model: flexible — room noise and a bit of chat, nothing load-bearing. This is a montage, so it takes a trending track cleanly; add it in-app, do not bake one
+- pairs-with: the family-travel version of "the thing you did not plan for" — bambi.map's eating-out-with-a-baby setups, where the user's own footage is the table/highchair problem and this is what actually happens instead. Also any "the locals adopted my kid" beat in a customer's travel cut
+- file: clips/DciiHyLJ0ab.mp4 (18s)
+
+## DcT5FflAnMc — one unbroken car-selfie monologue, 2:20 long: a woman in a denim jacket in the driver's seat talks straight to camera about children not being taught to greet people, answer a phone or ask a stranger a question back, under one banner held from frame one to the last frame: "Baseline interpersonal skills are not getting taught"
+- source: @parents | https://www.instagram.com/reel/DcT5FflAnMc/
+- lane: family
+- first-seen: 2026-08-27 | status: DO-NOT-SPLICE (2026-08-27)
+- stats-at-capture: 2535 likes / 83 comments (16.36x account median)
+- reason: sincere, non-comedic talking-head. No joke, no turn, no visual event — an identifiable stranger arguing a parenting position for two and a half minutes. There is nothing here to lend a splice, and lifting a stranger's opinion into someone else's reel borrows a stance, not a setup. Banked as a record so a later scan does not re-spend a download slot on it. The FORMAT was worth the slot and is captured as playbook #46 — the reel carries the best comment rate in the entire candidate pool (1 comment per 30 likes, against a bank median nearer 1 per 200)
+- file: clips/DcT5FflAnMc.mp4 (141s) — out of canon, prunable from 2026-08-30
+
+## DcUOFLpBUD5 — a 2:11 studio talking-head in a hand-knit sweater breaks down what clothing actually costs to make, cutting to a split screen that pins a real $16 Walmart cardigan listing against a $540 designer version and states the manufacturing cost out loud ("probably cost $4 or less to make"); on-screen title: "what should clothing actually cost?"
+- source: @morningbrew | https://www.instagram.com/reel/DcUOFLpBUD5/
+- lane: tech
+- first-seen: 2026-08-27 | status: DO-NOT-SPLICE (2026-08-27)
+- stats-at-capture: 13628 likes / 118 comments (2.40x account median)
+- reason: sincere explainer, no comedic mechanism and no liftable beat. The only visually strong moment is the split screen, and it is welded to this specific creator's face, this specific $16/$540 claim and morningbrew's burned-in caption styling — you cannot put it under someone else's voice without borrowing their argument. Banked as a record so a later scan does not re-spend a slot. The FORMAT is the asset and is captured as playbook #47; it is the "here is what this actually costs" authority shape OPEN GAP 2 names as missing from the bank
+- file: clips/DcUOFLpBUD5.mp4 (131s) — out of canon, prunable from 2026-08-30
+
 ## Dceg78QTZrw — a young man sits alone on an Alaskan riverbank filming himself, and a full-grown brown bear comes out of the water and runs past him at close range to chase a salmon; he does not move, does not stand, and just keeps sitting there
 - source: @houseofhighlights | https://www.instagram.com/reel/Dceg78QTZrw/
 - lane: sports
@@ -41,6 +101,17 @@ touched.
 - audio-model: flexible — arena PA and the impact are present and the clank of the landing is a real sting, but it survives being muted under a trending track because the visual turn is unambiguous
 - pairs-with: the user winning the small thing and immediately paying for it — imabgold's "it compiled, and then everything else stopped working"; the ship-it-then-watch-it-fall beat. Their footage is the attempt and the win, this is the second after
 - file: clips/Dce-56EPoI9.mp4 (23s)
+
+## DcesVmGyLIu — Selfie POV: held text "startup founders once the product is live and now it's time to start the content humiliation ritual" over a founder staring deadpan into his phone's front camera at an office desk; ~1.5s in his hands rise and he buries his face in them, and holds there to the end
+- source: @gauravbuild | https://www.instagram.com/reel/DcesVmGyLIu/
+- lane: tech
+- first-seen: 2026-08-26 | status: FRESH
+- stats-at-capture: 104 likes / 2 comments at 17h (manual add from Marcus's pointer; small account, format-value not stats-value)
+- joke-structure: the ritual named, then performed — the text frames making founder content as a humiliation rite, and the payoff is the shame gesture (face buried in both hands) played completely straight to the camera he is supposed to perform for
+- the-beat: deadpan stare 0:00-0:01.5, hands rise ~0:01.5-0:02, face buried 0:02-0:06.3. One selfie shot, 6.3s, loops cleanly (the buried face releases back into the opening stare)
+- audio-model: unknown at capture (logged-out embed hid the attribution; audio track present, 39kbps) — treat as trending sound, add in-app
+- pairs-with: any "the building was the easy part" confession — imabgold's own 08-26 replica swapped the stare-to-camera for iMac-desk despair (hand to forehead → head in hand). The face-bury beat is the splice-worthy atom: it closes any "I have to promote this now" setup
+- file: clips/DcesVmGyLIu.mp4 (6.3s)
 
 ## DcejaQYskRm — a garden owl on the lawn spreads its wings and puffs itself to roughly twice its size to intimidate a house cat standing a metre away; the cat looks at it, does nothing, and simply walks off
 - source: @pubity | https://www.instagram.com/reel/DcejaQYskRm/
@@ -160,13 +231,8 @@ touched.
 - pairs-with: the user showing someone a decision they already made and refusing to justify it — imabgold turning the laptop around to show what the AI shipped while a friend loses it; a parent revealing the haircut they gave the toddler themselves. Their footage makes the claim, this face absorbs the verdict
 - file: clips/DcYoFWAR1o_.mp4 (29s)
 
-## DcWah9DuSnM — a screen-recorded tweet is pinned across the top of an ESPN Finals broadcast while the footage underneath delivers exactly what the tweet claims: Steph gives the ball up, Jordan Poole hits a three, then hits another at the buzzer, and the arena comes apart
-- source: @houseofhighlights | https://www.instagram.com/reel/DcWah9DuSnM/
-- lane: sports
-- first-seen: 2026-08-24 | status: DO-NOT-SPLICE (2026-08-24)
-- stats-at-capture: 434253 likes / 3194 comments (5.34x account median)
-- reason: the FORMAT is the asset, the footage is not. Same shape this bank has already rejected twice — DcS4NreNxi4 (DO-NOT-SPLICE 2026-08-22, "straight athletic highlight with no turn, no anticlimax and no reaction... a broadcast score ticker burned across the lower third of every frame, which makes any slice look like stolen TV") and a caption-level taste-reject of this exact shortcode on 2026-08-23. Frame-sampling confirmed it rather than overturning it: full ESPN Finals broadcast with the score bug on every frame, speed-ramped through the middle, and the only non-basketball beat is a two-second smile at 0:34. There is no turn to cut on. The tweet-card-as-receipt structure sitting over it IS worth having, and it was captured as playbook #43 instead. Banked as a record only
-- file: clips/DcWah9DuSnM.mp4 (36s)
+## DcWah9DuSnM — [PRUNED DO-NOT-SPLICE] a pinned tweet card over a full ESPN Finals broadcast; format kept as playbook #43, footage unusable (score bug on every frame, no turn to cut on) · https://www.instagram.com/reel/DcWah9DuSnM/ · first-seen 2026-08-24
+
 
 ## DcZFHoVNkmC — a locked-off hallway camera watches a cat flap for five seconds under the text "TODAY I FOUND OUT WHY THERE'S ALWAYS MUDDY MARKS ON THE WALL…", then a cat wedges itself halfway through, braces both back feet flat against the door and walks itself up the wall to get free
 - source: @pubity | https://www.instagram.com/reel/DcZFHoVNkmC/
@@ -190,27 +256,11 @@ touched.
 - pairs-with: the user getting formally penalised for something harmless — imabgold's rate limit landing the second he says he is being reasonable with it; a parent being told off by their own toddler for breaking a rule the toddler invented. Their footage is the offence, this is the sentence
 - file: clips/DcWaRKKRIz9.mp4 (20s)
 
-## DcaPS-HuaA6 — a 68-second numbered listicle of six paid Singapore attractions to do with a toddler (oceanarium, Universal Studios, Cloud Forest, zoo, waterpark, Museum of Ice Cream), closing on a "SAVE THE REEL / FOLLOW ME" card
-- source: #toddlertravel | https://www.instagram.com/reel/DcaPS-HuaA6/
-- lane: family
-- first-seen: 2026-08-24 | status: DO-NOT-SPLICE (2026-08-24)
-- stats-at-capture: 2658 likes / 43 comments (hashtag recent_media, no account baseline)
-- joke-structure: none. It is a save-bait itinerary — numbered title cards over holiday footage of one identifiable family, with no turn, no reversal and no payoff beat anywhere in 68 seconds. Frame-sampled to confirm; the only structural move is the follow CTA at the end. Catalogued so a later scan does not re-spend a download slot on it
-- the-beat: n/a
-- audio-model: n/a (steady music bed, -17 dB, sd 2.7 — a licensed track, never bakeable)
-- pairs-with: nothing. taste.md is explicit that the listicle/announcement shape is @bambi.map's most reliable failure mode
-- file: clips/DcaPS-HuaA6.mp4 (68s)
+## DcaPS-HuaA6 — [PRUNED DO-NOT-SPLICE] a 68s save-bait listicle of six paid Singapore toddler attractions over one identifiable family's holiday footage; no turn, no payoff, follow CTA at the end · https://www.instagram.com/reel/DcaPS-HuaA6/ · first-seen 2026-08-24
 
-## DcamR_lumeo — an AI-generated stickman "Windows vs Linux" explainer: a static logo card, a cartoon narrator and advancing subtitles, with a red "Follow TryPitch.co for more!" watermark on every single frame and a "Follow TryPitch." card at the end
-- source: #programmerhumor | https://www.instagram.com/reel/DcamR_lumeo/
-- lane: tech
-- first-seen: 2026-08-24 | status: AD-REJECTED (2026-08-24)
-- stats-at-capture: 73 likes / 1 comment (hashtag recent_media, no account baseline)
-- joke-structure: n/a — promotional. The caption cleared the ad gate, the footage did not: the whole reel is a persistent-watermark funnel for TryPitch.co, which is exactly the guard-7 case of an account promoting its own service. Caught at frame-sample, after the download slot was already spent. Not banked; catalogued as the dedup record
-- the-beat: n/a
-- audio-model: n/a
-- pairs-with: nothing — promotional material is never usable
-- file: clips/DcamR_lumeo.mp4 (57s)
+
+## DcamR_lumeo — [PRUNED AD-REJECTED] an AI stickman "Windows vs Linux" explainer carrying a "Follow TryPitch.co" watermark on every frame; promotional funnel caught at frame-sample · https://www.instagram.com/reel/DcamR_lumeo/ · first-seen 2026-08-24
+
 
 ## DcVBZDiNrHF — a reliever pumps himself up on the mound after what he thinks is the last out, and the next batter walks it off over his head; final frame is the outfielder flat on the warning track while the whole park erupts
 - source: @houseofhighlights | https://www.instagram.com/reel/DcVBZDiNrHF/
