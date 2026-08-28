@@ -20,6 +20,64 @@ touched.
 
 <!-- entries below, newest first -->
 
+## DcjD2G_BO6p — a mom packs her kid's school lunchbox, walks to the pantry, comes back with a family-size Oreo pack, and loads an entire unbroken sleeve of cookies into the box next to four grapes
+- source: @parents | https://www.instagram.com/reel/DcjD2G_BO6p/
+- lane: family
+- first-seen: 2026-08-28 | status: FRESH
+- stats-at-capture: 5759 likes / 356 comments (53.88x account median)
+- joke-structure: malicious compliance with a news cycle. One line of held text, "POV: Moms Packing Lunchboxes After Oreo-Gate", frames everything, and then the reel simply performs the overreaction at full length with a completely straight face. She never mugs, never speaks, never acknowledges the joke — the escalation is entirely in the quantity, and the four sad grapes left in the other compartment are what makes it land. Comment rate is the highest in today's pool by a distance: 1 comment per 16 likes, where the bank's comedy canon runs about 1 per 200, because the caption ("be honest, are you packing a little differently or no?") turns a joke into a question the viewer answers about their own kitchen
+- the-beat: 0:00-0:02 she sets an empty blue bento on the counter, nothing funny yet. 0:03-0:04 she crosses to the pantry, and the cut back is the turn: a full Oreo family pack fills the frame. 0:05-0:09 she opens it and pulls out a whole intact sleeve. 0:10-0:14 the sleeve goes into the box, grapes shoved aside. 0:15-0:16 lid closes on the logo. Shortest usable donor is 0:03-0:06 (pantry-to-reveal is the whole joke); 0:10-0:15 if you want the loading to be the punchline
+- audio-model: trending sound (add in-app) — no dialogue and no diegetic beat, the footage is cut to a bed. Nothing is lost by replacing it
+- pairs-with: any "I heard the warning and did the opposite" beat. imabgold's is being told to keep the context window small and pasting the entire repo in; bambi's is being told the toddler needs a balanced lunch. Also the general shape of over-supplying something after being told to ration it
+- CAVEAT: on-screen branding is unavoidable — the Oreo pack fills five seconds of frame and the final shot is a close-up of the OMIE lid. Kept under guard 7 as a meme-with-a-logo (made to be funny about a news cycle, not to sell cookies), but a customer channel that cannot show third-party brands should skip it
+- file: clips/DcjD2G_BO6p.mp4 (17s)
+
+## DckQiZXhN_F — two parents start slow-dancing alone in their kitchen and are progressively invaded by their own children until four kids are wedged between them and the dance is over
+- source: #parentsofinstagram | https://www.instagram.com/reel/DckQiZXhN_F/
+- lane: family
+- first-seen: 2026-08-28 | status: FRESH
+- stats-at-capture: 1000 likes / 27 comments (hashtag recent_media, no account baseline)
+- joke-structure: escalating interruption, played entirely by arrivals. One line of held text, "POV: you are married with children…", sits over the whole thing and is never added to. The camera never moves. The joke is a countdown nobody announced: the couple gets roughly four seconds alone, then a kid enters frame, then another, then two more, and the parents keep dancing through it because they have no choice. Nobody reacts to the camera and nobody says the joke out loud
+- the-beat: 0:00-0:04 the two of them dancing, alone, genuinely enjoying it — the setup only works if you let this run. 0:05 the first child enters frame left, which is the turn. 0:06-0:12 the pile-on, one arrival at a time. 0:13-0:17 fully engulfed, still swaying. Shortest usable donor is 0:03-0:08 (alone → first invader); the full 0:00-0:17 if you want the whole escalation
+- audio-model: trending sound (add in-app) — they are dancing to a licensed track and the clip is cut to its beat. Never bake this audio in; pick the library sound natively when posting
+- pairs-with: any "we got exactly four seconds of it" beat. bambi's is the parents' dinner, the coffee, the conversation, the highchair moment that lasts until the food arrives; imabgold's is the ten minutes of focus before the notifications land. The user's own footage supplies who does the invading
+- file: clips/DckQiZXhN_F.mp4 (18s)
+
+## DcjrEHSNT02 — filmed from inside a parked car: a woman leans into the open passenger window and lectures a teenage boy in a tracksuit who refuses to look at her, stares dead ahead, and finally turns away
+- source: @pubity | https://www.instagram.com/reel/DcjrEHSNT02/
+- lane: general
+- first-seen: 2026-08-28 | status: FRESH
+- stats-at-capture: 146070 likes / 247 comments (10.40x account median)
+- joke-structure: one party completely unbothered, the other completely mortified, in the same frame the whole time. Held text for the first five seconds: "MOM SHOWED UP TO HER SON'S SECOND DAY OF HIGH SCHOOL…" and then nothing more is written. She talks continuously and cheerfully; he does not respond once. The comedy is the asymmetry, and it is carried entirely by his face — there is no punchline event, the reel just holds on someone enduring
+- the-beat: 0:00-0:05 held text over her arriving at the window, hand gesturing. 0:06-0:11 she is in full flow and he has locked his eyes forward. 0:12-0:14 he glances into the lens, which is the biggest single beat. 0:15-0:17 he turns fully away. Shortest usable donor is 0:12-0:15 (the look into camera on its own is a reaction cutaway); 0:00-0:08 if you want the setup
+- audio-model: diegetic (bakeable) — her talking is the texture, though nothing she says is the joke. Works muted under a track too, because the gag is visual
+- pairs-with: any "someone would not stop and I could not leave" beat. imabgold's is being talked at about the app by someone who does not use it; bambi's is any grandparent-at-the-car-window goodbye. The endured-face reaction shot is the reusable part
+- CAVEAT: the subject is an identifiable minor and the joke is at his expense. Fine as a canon reference, but a credibility or customer channel should not make a stranger's kid the butt of a cut
+- file: clips/DcjrEHSNT02.mp4 (17s)
+
+## Dcjs-mosR_f — static security-cam wide of a living room: one dog wanders in, and within three seconds a second dog, a cat and the man asleep on the couch have all bolted upright in a single cascade
+- source: @pubity | https://www.instagram.com/reel/Dcjs-mosR_f/
+- lane: general
+- first-seen: 2026-08-28 | status: FRESH
+- stats-at-capture: 62827 likes / 322 comments (4.49x account median)
+- joke-structure: chain reaction, named in advance and then delivered. Held text over the first half, with two words highlighted yellow: "MY DOG WALKED IN AND STARTED A **CHAIN REACTION** OF UNINTENTIONAL SURPRISES". The camera is a fixed ceiling-corner security cam and never moves, so every reaction happens inside one unbroken frame and you can watch the cause travel across the room. The small input is a dog walking in; the disproportionate output is four bodies airborne at once
+- the-beat: 0:00-0:02 the room at rest — a man sprawled on a low couch, a cream dog behind him, a cat in the foreground. 0:03 the input: the second dog enters frame left. 0:04-0:06 the cascade — the man bolts up, the couch dog stands, the cat wheels and flees, a black-and-white dog charges in. 0:07-0:11 everyone converged, milling, over. Shortest usable donor is 0:02-0:06, and it is the whole asset: input, cascade, aftermath
+- audio-model: diegetic (bakeable) — security-cam room tone and scrabbling claws, which sells that nobody staged it. A polished track fights the surveillance texture; if you must add one, duck it hard
+- pairs-with: THE chain-reaction picture the bank has been missing (OPEN GAP 3). imabgold's most repeatable true story is "I changed one thing and it moved everything" and this is the first FRESH entry that can literally picture it — one small approved change, then the cascade. bambi's is one toddler noise setting the whole restaurant table off
+- file: clips/Dcjs-mosR_f.mp4 (11s)
+
+## DcjkZ-JMFJk — an office ensemble stands around a styrofoam tray of raw ground beef on a conference table and interrogates it into the ground, with real news headlines popping in as receipts under every claim
+- source: @morningbrew | https://www.instagram.com/reel/DcjkZ-JMFJk/
+- lane: tech
+- first-seen: 2026-08-28 | status: FRESH
+- stats-at-capture: 21254 likes / 526 comments (4.55x account median)
+- joke-structure: escalating Q&A where every answer makes it worse, receipted the whole way. A CNBC card opens it ("Trump to allow import of 300,000 metric tons of ground beef without tariff") and one colleague announces "good news, guys, barge meat just dropped." Each follow-up question gets an answer that removes a reason to feel good — where is it from, "we don't know, because they won't tell us"; is it poisonous, "everything's poisonous these days"; will it help ranchers, "no, it's actually something they're pretty pissed about" — and a real headline screenshot lands as proof under each one. Best gag is a whiteboard hard cut: "no, no, that's 30%, which is communism" → "25% is patriotism." The button is a guy carrying the tray through the office announcing there is mystery meat in the kitchen that is toxic and smells bad, but it is 25% below market price. Comment rate 1 per 40 likes, five times the comedy canon's
+- the-beat: 0:00-0:04 headline card + "barge meat just dropped", the cleanest cold open. 0:05-0:18 the question ladder with receipts. 0:19-0:24 the communism/patriotism whiteboard cut, the sharpest single beat in the clip. 0:25-0:38 the ranchers answer and "okay, then who the hell is this for?" 0:39-0:45 the office announcement button. Shortest usable donor is 0:19-0:24; 0:00-0:05 if you only want the absurd-good-news open
+- audio-model: diegetic (bakeable) — it is a dialogue skit with burned-in subtitles. There is no version of this with a track over it
+- pairs-with: any "I asked the obvious follow-up questions and every answer was worse" beat — imabgold's is reading what the model actually changed, one question at a time. Also the template shape: a claim on screen, a receipt pinned under it, and a final "who is this for?"
+- CAVEAT: explicitly political (tariffs, a named president, a communism/patriotism punchline). Usable as a structure reference for any account; the footage itself should not go near a customer channel that has to stay neutral, and @imabgold's brand.md bans news-pegged cuts outright
+- file: clips/DcjkZ-JMFJk.mp4 (45s)
+
 ## DchxQobpYeD — a man dressed for an office (navy sweater, white collar, chinos) walks up to a storm-felled tree blocking a wet forest road at dusk, comes back with a full-size petrol chainsaw, and cuts the entire trunk out of the road; one line of held text the whole way: "BRO WAITED HIS WHOLE LIFE FOR THIS MOMENT"
 - source: @pubity | https://www.instagram.com/reel/DchxQobpYeD/
 - lane: general
@@ -119,7 +177,7 @@ touched.
 - first-seen: 2026-08-26 | status: FRESH
 - stats-at-capture: 135925 likes / 1328 comments (2.73x account median)
 - joke-structure: maximum threat display, zero effect. A bluff performed at full commitment against an audience that will not even register it. One locked wide shot, no cuts, no camera move — the whole thing plays in one continuous take, which is the shape @rghoss1 gets comments with (OPEN GAP #4)
-- the-beat: the display is already up at 0:00 and holds — there is no build, the clip opens on the peak. The turn is 0:05-0:06 when the cat crosses the frame and leaves, unimpressed. 0:07-0:08 the owl is still puffed with nobody left to threaten, which is the actual payoff. At 8 seconds it needs no trimming; loops cleanly
+- the-beat: CORRECTED 2026-08-27 after frame-stepping the file. The previous line here claimed "the turn is 0:05-0:06 when the cat crosses the frame and leaves, unimpressed". THAT IS NOT IN THE CLIP — the cat's centroid moves x=627 to x=665 across all 8.26s and it never leaves frame. A beat was designed, built and killed at QA on that invented sentence (job 8a0fc66a). What the clip ACTUALLY offers: the owl's display is at full spread from 0:00 and simply holds, with the cat standing near it, side-on and plainly indifferent, for the whole run. There is NO turn and NO exit. It lends a static tableau of "maximum display, zero reaction", nothing more. Caption clears at ~5.0s so only 5.15-8.26s is usable, and both subjects need a punch-in (crop 450:800:153:140) to read at reel speed 0:07-0:08 the owl is still puffed with nobody left to threaten, which is the actual payoff. At 8 seconds it needs no trimming; loops cleanly
 - audio-model: flexible — quiet garden ambience (RMS -21.9 dB, the lowest of today's six), no dialogue, nothing load-bearing in the sound. This is the one clip today that is genuinely improved by a trending track laid over it
 - pairs-with: the user's biggest, most elaborate effort landing on someone completely indifferent — imabgold's "I wrote a 400-line spec and it did whatever it wanted"; a parent's full performance for a toddler who walks away. Their footage is the effort, this is the reception
 - file: clips/DcejaQYskRm.mp4 (8s)
@@ -212,14 +270,7 @@ touched.
 - pairs-with: the user defending something indefensible with total conviction — imabgold's "it ran fine when I tested it" over a screen recording of it not running fine; the founder explaining why the thing that broke was not the thing they changed. Their footage states the claim, this face is the defence. Note: recognisable copyrighted TV footage, so it lends energy but never provenance
 - file: clips/DcdbMbPzkk2.mp4 (6s)
 
-## Dccs_hJIyZr — a static text card ("POV :- Only CS people know" over "There is no place like 127.0.0.1") sitting on a generic loop of scrolling code b-roll, with a third-party "@Code.Script.Lab" watermark burned across the middle of every frame
-- source: #programmerhumor | https://www.instagram.com/reel/Dccs_hJIyZr/
-- lane: tech
-- first-seen: 2026-08-25 | status: DO-NOT-SPLICE (2026-08-25)
-- stats-at-capture: 17 likes / 18 comments (hashtag recent_media, no account baseline)
-- reason: banked on a comment-rate signal rather than likes (18 comments on 17 likes, the only better-than-1:1 ratio in either pool today, which is the axis OPEN GAP #4 asks about), and frame-sampling settled it: the ratio is real but it belongs to the caption, not the footage. There is no action, no turn and no subject — nine seconds of stock code loop under a fixed pun, with someone else's watermark on every frame. Nothing here can be cut to. The "follow code.script.lab for more" plug in the caption was weighed against guard 7 and judged not an ad (no product, no link, no code — a meme page asking for a follow), so this is DO-NOT-SPLICE, not AD-REJECTED. Recorded so a later scan does not re-spend a slot on it
-- file: clips/Dccs_hJIyZr.mp4 (9s)
-
+## Dccs_hJIyZr — [PRUNED DO-NOT-SPLICE] a static "POV :- Only CS people know / There is no place like 127.0.0.1" text card over generic scrolling-code b-roll, with a third-party @Code.Script.Lab watermark burned across every frame · https://www.instagram.com/reel/Dccs_hJIyZr/ · first-seen 2026-08-25
 ## DcYoFWAR1o_ — Erling Haaland walks into a bathroom to show his girlfriend a fresh buzzcut; she gets one look, both hands go over her mouth and she laughs for twenty seconds while he stands there holding a completely straight face
 - source: @sportscenter | https://www.instagram.com/reel/DcYoFWAR1o_/
 - lane: sports
@@ -367,13 +418,29 @@ touched.
 
 ## DcVHvZjhSoB — [PRUNED DO-NOT-SPLICE 2026-08-22] POV on a rocky shoreline: a hand lifts a shell, opens it in front of a young woman · https://www.instagram.com/reel/DcVHvZjhSoB/ · first-seen 2026-08-22
 
-## DcOsj2YxDtM — a lone cheer base repeatedly launches, catches and holds a full-grown flyer overhead by herself, then drops to the mat as the squad erupts
+## DcOsj2YxDtM — a lone cheer base repeatedly launches, catches and holds a full-grown flyer overhead by herself, then sinks to the mat spent while the camera whip-pans to a different squad with arms up
 - source: @sportscenter | https://www.instagram.com/reel/DcOsj2YxDtM/
 - lane: sports
 - first-seen: 2026-08-21 | status: FRESH
 - stats-at-capture: 875633 likes / 22716 comments (16.29x account median)
 - joke-structure: on-screen text does the reacting for you — "Wait for it 👇" opens, then a held card reading "I'm sorry … WHAT?!" sits over eight straight seconds of a feat that keeps escalating past the point you accepted it
 - the-beat: the disbelief card lands the moment the flyer goes fully inverted overhead around 0:04; the strongest single cut is 0:03-0:07 (launch to one-armed hold), and there is a second payoff at 0:22 when the base collapses to the mat, spent
+- **CORRECTED 2026-08-27 (re-verified frame by frame against the local file).** The old
+  headline read "then drops to the mat as the squad erupts". That is misleading and it cost a
+  real donor pass. What actually happens: the base sinks to the mat and stays there in the
+  splits from ~0:22; at **~0:29.5 the camera WHIP-PANS away** to a DIFFERENT group across the
+  gym, arms up, for the final ~1.3s, over a burned-in "MORGAN" team graphic. Nobody is shown
+  reacting to her in her own frame. Do NOT match this entry to a beat that needs a crowd
+  reacting to the subject — it does not contain one.
+  A job log on 2026-08-27 swung the other way and recorded "there is no squad eruption in it,
+  it is one continuous stunt sequence ending on the same hold". That is also wrong: the
+  arms-up shot exists and the clip does not end on the hold. Trust this line, not either of them.
+- **DONOR-LEGIBILITY: UNUSABLE AS A SPLICE, and the reason is not the description.** A third
+  party's caption **"I'm sorry … WHAT?!"** is burned in on **every one of the 31.3s**, sitting
+  ~68% down the frame — too low to crop from the top, too high to crop from the bottom without
+  losing the stunt. "Wait for it (down-arrow)" also sits top-left for the first ~3s, and the
+  MORGAN graphic covers the last ~1.3s. There is no window of this clip that can be cropped
+  clean. It is fine as a SHAPE reference; it cannot ship inside anyone's reel.
 - audio-model: trending sound (add in-app) — level sits flat at -20dB across the whole clip with almost no variance, which reads as a music bed laid over gym ambience, not the room's own sound
 - pairs-with: a claim the viewer will not believe until they see it ("Claude shipped the whole feature while I slept"), or any "one person carrying the entire thing" beat where the user's own footage is the load the base is holding
 - file: clips/DcOsj2YxDtM.mp4 (31s)
@@ -785,7 +852,7 @@ touched.
 ## DbrDhZ4suSs — Held text says "these puppies hide so well their owner put bells on them", the camera hunts an empty bedroom, floor and baseboard finding nothing, then a tiny dachshund with a bright pink bell on its collar is discovered wedged against the skirting board staring up at the lens, and a second one is found in the next gap
 - source: @pubity | https://www.instagram.com/reel/DbrDhZ4suSs/
 - lane: general
-- first-seen: 2026-08-06 | status: FRESH
+- first-seen: 2026-08-06 | status: STALE (2026-08-28)
 - stats-at-capture: 210778 likes / 585 comments (53.78x account median)
 - joke-structure: absurd-but-logical coping hack stated up front, then a POV hunt that pays off in a reveal — the bell explains the search and the search makes the reveal land
 - the-beat: text + empty-room hunt 0:00-0:04 (nothing in frame, this is the tension), first puppy reveal at 0:05, second find at ~0:13 — cut on the 0:05 reveal, or run both finds for a double payoff
@@ -796,7 +863,7 @@ touched.
 ## DbmQH7CtNX- — IShowSpeed's brother, blindfolded and in a Buc-ee's beaver onesie, bites unmarked fast-food burgers and names the chain each time; Speed pulls the next one from a bag, holds the Sonic/McDonald's packaging up to camera to confirm the call, and gets progressively more wrecked, ending with both hands on his own head
 - source: @sportscenter | https://www.instagram.com/reel/DbmQH7CtNX-/
 - lane: sports
-- first-seen: 2026-08-06 | status: FRESH
+- first-seen: 2026-08-06 | status: STALE (2026-08-28)
 - stats-at-capture: 2404356 likes / 12774 comments (30.22x account median)
 - joke-structure: repeating challenge cycle — impossible claim, blind attempt, brand-reveal confirmation, escalating disbelief from the witness. The witness's reaction is the joke, not the feat
 - the-beat: 111s of repeated cycles, so lift ONE. Cleanest single cycle is 0:28-0:45 (burger out of the bag → blind bite → the Sonic bag held to camera as proof); peak reaction is the head-grab at ~1:28. Cut on a reveal-then-react pair, never run the whole thing
@@ -807,7 +874,7 @@ touched.
 ## Dbr6mRMJewR — Held text reads "POV: your dad said he didn't want a puppy" over a man on a sofa working at a laptop in pyjama pants, with an apricot cockapoo puppy draped asleep across his shoulder and neck the entire time; he never acknowledges it and quietly smiles at the camera
 - source: @pubity | https://www.instagram.com/reel/Dbr6mRMJewR/
 - lane: general
-- first-seen: 2026-08-06 | status: FRESH
+- first-seen: 2026-08-06 | status: STALE (2026-08-28)
 - stats-at-capture: 41643 likes / 170 comments (10.64x account median)
 - joke-structure: reported past refusal versus present visible evidence — the subject is caught in the contradiction and refuses to comment on it, which is the whole gag
 - the-beat: text over the wide 0:00-0:02, puppy readable on the shoulder from 0:03, his knowing look ~0:05-0:08 — cut on the moment the puppy registers, hold for the smile
@@ -818,7 +885,7 @@ touched.
 ## DbsPBsrB6hm — Held text says "he hit that backflip and the monkeys were hyped"; a man at a zoo enclosure lands a standing backflip on the path, and the macaques behind the glass erupt, launching themselves off the wall and bouncing around the enclosure while he watches
 - source: @pubity | https://www.instagram.com/reel/DbsPBsrB6hm/
 - lane: general
-- first-seen: 2026-08-06 | status: FRESH
+- first-seen: 2026-08-06 | status: STALE (2026-08-28)
 - stats-at-capture: 39489 likes / 292 comments (10.12x account median)
 - joke-structure: the human does the impressive thing, but the payoff is entirely the audience's reaction — the joke is that the crowd is monkeys and they are genuinely losing it
 - the-beat: approach + text 0:00-0:03, backflip lands ~0:04, monkeys erupt 0:05-0:14 (this is the payoff, hold it), the guys wander off 0:16-0:18 — cut on the eruption at 0:05
@@ -831,7 +898,7 @@ touched.
 ## Dbnyi4guiod — Held text reads "whole squad pulled up to the movie"; a full-size Hulk and two Spider-Men in complete costume are crammed into a cinema row, climbing over the seat backs and squeezing past the actual paying audience, whose view is now entirely a green bodybuilder
 - source: @houseofhighlights | https://www.instagram.com/reel/Dbnyi4guiod/
 - lane: sports
-- first-seen: 2026-08-06 | status: FRESH
+- first-seen: 2026-08-06 | status: STALE (2026-08-28)
 - stats-at-capture: 211955 likes / 828 comments (2.5x account median)
 - joke-structure: total over-commitment played straight in a setting that punishes it — nobody breaks character, and the comedy is the innocent bystanders behind them
 - the-beat: whole 13s is one sustained bit; the strongest window is the Spider-Man clamber over the seats at 0:04-0:08 — cut there and let the person behind them be visible in frame
@@ -839,39 +906,9 @@ touched.
 - pairs-with: any "we massively overdid it for a normal occasion" beat — arriving at a casual dinner with the full baby setup, a two-week build for a one-button feature, the stroller-plus-bags entrance into a small restaurant
 - file: clips/Dbnyi4guiod.mp4 (13.1s)
 
-## DbjAfeTsSCh — On-screen text introduces "my cat Elsa, she is very stealthy" while Elsa sits in plain sight in a cardboard wall-cube; the owner ducks behind a wall to hide, the frame goes blank, and Elsa's enormous face slides into the lens from two inches away
-- source: @pubity | https://www.instagram.com/reel/DbjAfeTsSCh/
-- lane: general
-- first-seen: 2026-08-03 | status: STALE (2026-08-25)
-- stats-at-capture: 106644 likes / 463 comments (27.65x account median)
-- joke-structure: confident claim, footage immediately contradicts it, then the contradiction escalates into a jumpscare-scale close-up payoff
-- the-beat: claim + visible-cat contradiction 0:00-0:09, the hide-behind-the-wall dead air 0:09-0:19 (holdable or trimmable), face-in-lens payoff at 0:20-0:22 — cut on the reveal
-- audio-model: diegetic (bakeable) — the whole clip is room tone and the reveal is visual, so nothing is lost muting it under a trending track either
-- pairs-with: any "I am very sneaky/subtle about X" claim that the user's own footage instantly disproves — a "I only checked the analytics once today" beat, a toddler who has been spotted from across the restaurant, a founder claiming he is taking a day off
-- file: clips/DbjAfeTsSCh.mp4 (23s)
-
-## DbkOasfBRTc — A Yorkie blocks its owner from the laundry, and when he keeps reaching for it the dog escalates by climbing bodily into the dryer and sitting in the clothes, staring him down from inside the drum
-- source: @pubity | https://www.instagram.com/reel/DbkOasfBRTc/
-- lane: general
-- first-seen: 2026-08-03 | status: STALE (2026-08-25)
-- stats-at-capture: 28793 likes / 410 comments (7.54x account median)
-- joke-structure: escalating protest, then a commitment-beyond-reason payoff — the deadpan stare from inside the machine is the punchline
-- the-beat: blocking/protest 0:00-0:06, the climb-in at 0:06-0:08 is the turn, stare-down holds 0:10-0:25 — cut on the climb-in and hold two beats of the stare
-- audio-model: diegetic (bakeable) — handheld room audio, no music; carries fine on its own or ducks under a track
-- pairs-with: any "I said no and it did it anyway" beat — a build that ignored the spec, a toddler reclaiming the thing you just took away, a laptop refusing to close a job
-- file: clips/DbkOasfBRTc.mp4 (25s)
-
-## Dbi8hsFxMD9 — Caption says a real estate agent fell down the stairs during a house viewing; the agent steps back onto the top stair mid-sentence and goes down the whole flight, landing in a heap at the bottom while the camera keeps filming
-- source: @sportscenter | https://www.instagram.com/reel/Dbi8hsFxMD9/
-- lane: sports
-- first-seen: 2026-08-03 | status: STALE (2026-08-25)
-- stats-at-capture: 426837 likes / 19356 comments (4.58x account median)
-- joke-structure: mundane setup, physical anticlimax — an authority figure loses all composure in one unbroken shot
-- the-beat: normal walkthrough 0:00-0:02, the fall at 0:02-0:04 is the entire payoff, 6.5s total — usable nearly whole
-- audio-model: diegetic (bakeable) — the thumps and the off-camera reaction are the beat; a trending track can replace it without losing the visual gag
-- pairs-with: any "the professional handling it confidently" setup that collapses — a demo that dies on stage, a parent executing a plan flawlessly right up until it fails, a tool that worked until someone watched
-- file: clips/Dbi8hsFxMD9.mp4 (6.5s)
-
+## DbjAfeTsSCh — [PRUNED STALE] "my cat Elsa, she is very stealthy" held over Elsa sitting in plain sight, paid off by her enormous face sliding into the lens · https://www.instagram.com/reel/DbjAfeTsSCh/ · first-seen 2026-08-03
+## DbkOasfBRTc — [PRUNED STALE] a Yorkie blocks the laundry, then escalates by climbing bodily into the dryer and staring its owner down from inside the drum · https://www.instagram.com/reel/DbkOasfBRTc/ · first-seen 2026-08-03
+## Dbi8hsFxMD9 — [PRUNED STALE] a real estate agent steps back off the top stair mid-sentence and goes down the whole flight during a house viewing · https://www.instagram.com/reel/Dbi8hsFxMD9/ · first-seen 2026-08-03
 ## DbjVJzxMvly — [PRUNED DO-NOT-SPLICE] Static close hold on newborn twins, one asleep with her thumb in her crying brother's mouth, recontextualised by one line of held text; no comedic mechanism and identifiable strangers' newborns — format kept as playbook 27 · https://www.instagram.com/reel/DbjVJzxMvly/ · first-seen 2026-08-03
 
 ## DbkuBBRKD4T — [PRUNED DO-NOT-SPLICE] "My tech leader to me & my colleagues" selfie hook cut to a Bollywood film clip; neither half lendable (identifiable stranger + copyrighted film footage) · https://www.instagram.com/reel/DbkuBBRKD4T/ · first-seen 2026-08-03
