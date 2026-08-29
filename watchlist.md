@@ -30,3 +30,27 @@ live watchlist handle, so a dropped account must never lead a prose line.)
 @sportscenter [sports] — viral sports moments
 @mom.uncharted [family] — parenting reels, very active (bambi-adjacent)
 @parents [family] — family/parenting moments, near-daily reels
+@corporate.bro [tech] — corporate/sales/office humour, 1.5M, 13/25 serving media_url (added 2026-08-28, Marcus). The closest surface the bank has to imabgold's own working life; sponsored posts appear (#RampPartner etc) so lean on the guard-7 ad filter
+@rghoss1 [general] — relatable/observational joke reels, 6.9k, 7/25 serving (added 2026-08-28, Marcus). Thin on volume but strategically load-bearing: this is the SOURCE of the held-line format that ARCHITECT-CORE carries as UNPROVEN claim #2 and that performance.md rule 76 calls the account's comment engine
+@julianomass [general] — sales/hustle motivation, 927k, 24/24 serving (added 2026-08-28, Marcus). Best serve rate on the whole watchlist. Content is heavily self-promotional (YouTube plugs), so most posts will fail guard 7 or have no joke to lend; its value is the confident-talking-head archetype and format capture
+@kofibelizaire [tech] — corporate / job-interview skit comedy, 50.7k followers, 24/24 serving media_url (added 2026-08-28, Marcus). ⭐ THE HIGHEST-LEVERAGE HANDLE ON THIS LIST: its reels run 298k / 296k / 180k / 152k likes against a 50.7k follower base — roughly 6x its own following, which is the breakout signature step 3 ranks for, and every single video serves a media_url. Same corporate/office lane as @corporate.bro but with an order of magnitude more engagement per follower. Tagged tech because office-and-interview humour is the surface closest to imabgold's own working life, not because it is about technology.
+@noah.rolette [general] — fashion/lifestyle, 657k, 17/23 serving (added 2026-08-28, Marcus). ⚠ HEAVILY SPONSORED (#KEENpartner, #uopartner) — expect guard 7 to reject most of it; watched for aesthetic b-roll rather than jokes
+
+Tested 2026-08-28 and NOT added, all measured via business_discovery:
+cormacbuilds — HTTP 400, not a business/creator account, so business_discovery cannot read it at
+all. Marcus asked for this handle; it can only be watched if the account converts to a
+business/creator profile. failarmy, unilad, newsflare — each returned 25 media and ZERO media_url
+(licensed audio on every reel), so they cannot feed the donor bank and would burn ig-fetch slots.
+viralhog, caters_news — HTTP 400, same reason as cormacbuilds.
+
+Donor-serving audit 2026-08-28 (VIDEO posts carrying a media_url, out of the last 25 media).
+Recorded because a zero-serving account can still be a first-class FORMAT source under BANK.md
+step 5b, but must never be given a download slot:
+  healthy — techcrunch 25/25, mkbhd 20/20, houseofhighlights 21/21, sportscenter 23/24,
+            techburner 23/24, mrwhosetheboss 18/19, pubity 16/16, morningbrew 12/12
+  thin    — ladbible 2/8, parents 2/6, 9gag 1/11
+  ZERO, format-capture only — verge 0/20, openai 0/11, daquan 0/23, browncardigan 0/18,
+            mom.uncharted 0/25
+The family lane (mom.uncharted, parents) STAYS: Marcus confirmed 2026-08-28 that the bambi daily
+routine is still live and still cutting reels off this bank (it cut `best-seat` on playbook #37
+that same day), so the lane is not removed despite serving almost nothing.
