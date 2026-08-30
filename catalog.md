@@ -20,6 +20,130 @@ touched.
 
 <!-- entries below, newest first -->
 
+## DcjakFTpcvO — a guy at a dining table mimes an increasingly frantic explanation to camera, hands flying, ending with both hands clamped on his own head, while a burned text card names the absurd thing he is supposedly explaining
+- source: @adanxai | https://www.instagram.com/reel/DcjakFTpcvO/
+- lane: tech
+- first-seen: 2026-08-30 | status: FRESH
+- stats-at-capture: 8790 likes / 46 comments (121.04x account median)
+- joke-structure: the effort and the payoff are wildly mismatched, and the performer does not know it. Card reads "AWS solution architects explaining how to cut $0.06 off your monthly bill by sending S3 traffic through 7 Lambda functions, 3 NAT Gateways, and a custom cross-VPC peering setup." The recognition trigger is the number: a scroller clocks "$0.06" against seven Lambda functions before reading anything else, and the escalating hand-waving underneath is the punchline
+- the-beat: there is no internal turn — the card lands in frame one and the body language escalates against it for 7.4s. The single best beat is 0:04-0:05, both hands on his head. Cut INTO this clip on the card, cut OUT on the head-clutch
+- audio-model: trending sound (add in-app) — the footage carries no dialogue that matters and rides a library track. Never bake it
+- pairs-with: imabgold's whole overengineering register. "Me explaining why I rebuilt the thing that already worked." Also any moment where the user's own effort was hilariously out of proportion to the result
+- clean-window: n/a — OPENER-ONLY donor (caption is the setup). The card sits dead-centre and never fades, so the best payoff-role band is y0-570 of 1280 -> 321x570 crop, 3.37x upscale: a hard FAIL. Use it whole and full-bleed as the FIRST frames, then cut to the channel's own footage for the payoff. Do NOT cut into this as a payoff beat and do NOT put our own card over it
+- file: clips/DcjakFTpcvO.mp4 (7.4s)
+
+## DcmbAO-BtKv — night-time swagger b-roll at a hotel pool: a man surfaces from the water, walks out, struts past the camera and back along the deck, all shot handheld in the dark, under a burned text card
+- source: @adanxai | https://www.instagram.com/reel/DcmbAO-BtKv/
+- lane: tech
+- first-seen: 2026-08-30 | status: FRESH
+- stats-at-capture: 7492 likes / 24 comments (102.96x account median)
+- joke-structure: a word from work has quietly overwritten its ordinary meaning, and the confession is played as a flex. Card reads "You've gone too far when hearing 'commit' makes you think of Git and not relationships." The recognition trigger is the double meaning landing on the second word — the viewer supplies the other definition themselves, which is why it reads as self-diagnosis rather than a joke told at them
+- the-beat: no internal turn. It is 6.2s of confident b-roll under a static line. Best exit is 0:04-0:05, the walk back toward camera. Cut INTO it on the card
+- audio-model: trending sound (add in-app) — library track, nothing diegetic worth keeping
+- pairs-with: imabgold's jargon-displacement beats. "I said 'ship it' at dinner." Any moment where the user's own life vocabulary has been colonised by the build
+- clean-window: n/a — OPENER-ONLY donor (caption is the setup). Card is centred and held the whole 6.2s; top band y0-550 -> 309x550, 3.49x upscale, FAIL, and the bottom band is identical. Bank whole, full-bleed, as an opener only
+- file: clips/DcmbAO-BtKv.mp4 (6.2s)
+
+## Dco2nODsjOd — a ginger cat outside a snowy patio door stands bolt upright on its hind legs like a person, paws flat against the glass, then drops and sits staring dead into the camera while the indoor cat watches from the rug
+- source: @pubity | https://www.instagram.com/reel/Dco2nODsjOd/
+- lane: general
+- first-seen: 2026-08-30 | status: FRESH
+- stats-at-capture: 100677 likes / 694 comments (6.03x account median)
+- joke-structure: an animal doing a human posture with total commitment and zero self-awareness. The recognition trigger is the silhouette — a cat standing FULL HEIGHT against a glass door reads as a person in under a second, and the joke is that it keeps doing it. The second cat, sitting inside watching and doing nothing, is a free reaction shot inside the same frame
+- the-beat: setup 0:00-0:04 (the cat rears up and paws the glass), the turn is 0:05-0:09 when it gives up standing, sits, and stares straight through the glass without blinking. Cut ON the sit. 0:11-0:15 is a slow push into a close-up of the stare — the best single hold in the clip and a clean deadpan payoff frame
+- audio-model: flexible — the diegetic track is just room tone and a faint scratch at the glass, so it survives being ducked under a trending sound, and the visual reads with no audio at all
+- pairs-with: any "I am waiting and you know exactly why" beat. imabgold: waiting on a build, a limit reset, a reply. bambi: a one-year-old at the kitchen gate at the exact moment food appears
+- clean-window: burned caption "MY CAT, SONIC, HAS THE FUNNIEST WAY OF ASKING TO BE LET INSIDE" is up 0:00-0:04.5 and is GONE from 0:05.0 to the end — measured second by second (bright share in the caption zone 16.0% -> 0.00% at 5.0s, never returns). 0:05.0-0:15.1 is a 10.1s fully clean stretch, NO CROP NEEDED, full-bleed, and the sit-and-stare payoff is entirely inside it
+- file: clips/Dco2nODsjOd.mp4 (15.1s)
+
+## Dcp1gpSBw4H — a toddler is dead asleep in a rear-facing car seat with a bottle propped in her mouth, then sits bolt upright wide awake and starts drinking and looking around like nothing happened
+- source: @pubity | https://www.instagram.com/reel/Dcp1gpSBw4H/
+- lane: general
+- first-seen: 2026-08-30 | status: FRESH
+- stats-at-capture: 68814 likes / 522 comments (4.13x account median)
+- joke-structure: a switch flips in a body that was completely gone one second earlier. The recognition trigger is the before-state — a limp sleeping baby with a bottle hanging out of her mouth is instantly readable, so the wake-up reads as a hard cut in behaviour rather than a gradual thing. Textbook reversal shape
+- the-beat: setup 0:00-0:04 (asleep, head lolled, bottle propped), the turn is 0:05-0:07 when her eyes open and she comes upright in one move. Cut ON the eyes opening. 0:08-0:18 is her awake and drinking, usable as a tail
+- audio-model: trending sound (add in-app) — the premise is a song change, so the clip rides a licensed track; the visual works fully muted, which is what makes it safe to use under a different sound
+- pairs-with: bambi's core beat, the baby who was fine until he was not, or the reverse. "He slept through the whole restaurant. He woke up when the food arrived." imabgold: anything that was idle and then instantly was not
+- clean-window: burned caption "SHE WAS ASLEEP UNTIL HER FAVORITE SONG CAME ON" is up 0:00-0:04.5 and is GONE from 0:05.0 (bright share 16.7% -> 0.00% at 5.0s, held to the end). 0:05.0-0:18.1 is a 13.1s fully clean stretch, NO CROP NEEDED, full-bleed. The wake-up turn is inside the clean stretch by a fraction of a second, so cut at 0:05.0 or later, not earlier
+- file: clips/Dcp1gpSBw4H.mp4 (18.1s)
+
+## DcpDN87p5v1 — a woman driving in sunglasses reacts to the music she loved at her kid's age, cycling through wincing, a flat hand held up to make it stop, and covering her own mouth
+- source: #parentsofinstagram | https://www.instagram.com/reel/DcpDN87p5v1/
+- lane: family
+- first-seen: 2026-08-30 | status: FRESH
+- stats-at-capture: 28 likes / 0 comments (hashtag recent_media, no account baseline)
+- joke-structure: the same input, re-heard through a role you did not have last time, and the verdict flips. Card reads "when you listen to the music you listened to at your kids' age through parent ears 💀". The recognition trigger is the face doing the work, not the card — she is not performing shock, she is performing a person recalculating in real time
+- the-beat: the whole 21.4s is one escalating reaction with no single turn, which makes it an unusually flexible PAYOFF asset: pick any 2s. The three best are 0:04 (hand up, stop), 0:09 (open-mouthed, no words) and 0:14 (fingers to lips). Cut in on whichever matches the setup you are landing
+- audio-model: trending sound (add in-app) — she is reacting TO a track, so the audio is licensed and the joke survives without it. The faces are the asset
+- pairs-with: any "I used to think this was fine" reversal. bambi: re-reading your own pre-baby restaurant standards. imabgold: opening code you shipped three months ago. A reaction face that lands after almost any setup card
+- clean-window: caption sits in the TOP third and never fades, so this passes on the BAND, not a stretch. `crop=433:770 at x=143,y=510` -> 2.49x upscale — RENDERED AT FULL SIZE AND LOOKED AT, not row-scanned: the crop is clean of text and emoji at 0:04, 0:09 and 0:14, and her face and both reacting hands sit fully inside it. Softness is visible on close inspection and is well inside tolerance
+- file: clips/DcpDN87p5v1.mp4 (21.4s)
+
+## DcpuomFhSYK — a man on a cruise deck films himself in what he takes to be a mirrored door, keeps closing in on it, and a stranger's face resolves out of the glass a foot from his own before the camera flies off in every direction
+- source: @pubity | https://www.instagram.com/reel/DcpuomFhSYK/
+- lane: general
+- first-seen: 2026-08-30 | status: FRESH
+- stats-at-capture: 47777 likes / 458 comments (2.87x account median)
+- joke-structure: you were looking at yourself and something looked back. The recognition trigger is the mirrored-glass selfie, an action every viewer has performed, which is what makes the reveal land as a violation rather than a surprise. The reaction is not acted — the camera work does the screaming
+- the-beat: setup 0:00-0:05 (approaching the glass, filming himself), the turn is 0:06-0:07 when a woman's face resolves behind the tint, inches away and looking straight out. Cut ON the face. 0:07.5-0:13.6 is the flail — railing, ceiling, sky, deck — which is genuinely usable as a reaction tail because the incoherence IS the reaction
+- audio-model: diegetic (bakeable) — deck wind and his own reaction noise; there is no music and nothing licensed
+- pairs-with: anything that was supposed to be a private moment with your own reflection. imabgold: talking to the AI and getting a person's answer back. Any "I thought I was alone in this" beat
+- clean-window: burned caption "THE LAST THING HE EXPECTED TO SEE" is up 0:00-0:04.5 and is GONE from 0:05.0 (bright share 10.2% -> 0.00%, held to the end). 0:05.0-0:13.6 is an 8.6s fully clean stretch, NO CROP NEEDED, full-bleed, and both the reveal and the flail sit inside it
+- file: clips/DcpuomFhSYK.mp4 (13.6s)
+
+## DcpWZ-WsK3M — a woman in a headscarf dances around her kitchen with a water bottle, pointing at the ceiling and mouthing along, celebrating on her own
+- source: #parentsofinstagram | https://www.instagram.com/reel/DcpWZ-WsK3M/
+- lane: family
+- first-seen: 2026-08-30 | status: FRESH
+- stats-at-capture: 1046 likes / 2 comments (hashtag recent_media, no account baseline)
+- joke-structure: a victory lap for a thing only the people in the club understand. Card reads "POV: You put your baby on a sleep schedule as a newborn, and now she's 1 and be knocked out before 9 PM every night." The recognition trigger is the private celebration — no audience in frame, nobody to explain it to, which is what makes it read as earned rather than a brag
+- the-beat: no internal turn, it is a held celebration for 12.6s. Best 2s is 0:02-0:04, the point at the ceiling. Cut INTO the clip on the card, cut OUT before the loop repeats
+- audio-model: trending sound (add in-app) — she is dancing to a library track and lip-syncing to it. Never bake it
+- pairs-with: bambi's parenting-win beats, the thing that only lands if you have lived it. "The highchair was there." "He ate the whole thing." Read the floor before using: this is an identifiable stranger, so the account's own footage has to carry the reel
+- clean-window: n/a — OPENER-ONLY donor (caption is the setup). Card is centred and held the whole clip; top band y0-610 of 1280 -> 343x610, 3.15x upscale, FAIL, bottom band is worse. Bank whole, full-bleed, as the FIRST frames only
+- file: clips/DcpWZ-WsK3M.mp4 (12.6s)
+
+## DchI9Dth_NS — a man in a kitchen delivers an unbroken 27-second reply to camera, opening on a screen-grab of somebody else's post about why men fall for toxic partners
+- source: @rghoss1 | https://www.instagram.com/reel/DchI9Dth_NS/
+- lane: general
+- first-seen: 2026-08-30 | status: DO-NOT-SPLICE (2026-08-30)
+- stats-at-capture: 11043 likes / 177 comments (101.08x account median)
+- reason: the joke is entirely verbal and the frame is one identifiable stranger talking in his own kitchen for 27 straight seconds. There is no visual beat to cut on and nothing to lend a splice. The clean window is excellent (no burned text at all after 0:03) and it does not help — a clean window on footage with no gag in it is still nothing. Its FORMAT is the asset and is captured as playbook #54; the record is kept here so a later scan does not re-spend a download slot on it
+- file: clips/DchI9Dth_NS.mp4 (30.3s)
+
+## DcmT6fuvO8p — a shirtless man sprints through near-total darkness and jumps, filmed handheld at night, under a static caption
+- source: @sportscenter | https://www.instagram.com/reel/DcmT6fuvO8p/
+- lane: sports
+- first-seen: 2026-08-30 | status: DO-NOT-SPLICE (2026-08-30)
+- stats-at-capture: 376529 likes / 760 comments (4.59x account median)
+- reason: fails the clean-window gate twice over and has no opener value. 576x720 source, so even a text-free full-height crop is 405x720 -> 2.67x, already past the 2.6x ceiling before any caption is considered; the caption "Bro screamed in lowercase 😂" is centred and never fades, leaving a top band of 455px -> 4.2x. And the footage is unusable regardless: the frame is near-black and the action is not legible
+- file: clips/DcmT6fuvO8p.mp4 (11.8s)
+
+## DcmYthcyPyC — a man barbell-squats in a home gym on a livestream, with a subathon countdown timer and a chat overlay burned across the top of every frame
+- source: @houseofhighlights | https://www.instagram.com/reel/DcmYthcyPyC/
+- lane: sports
+- first-seen: 2026-08-30 | status: DO-NOT-SPLICE (2026-08-30)
+- stats-at-capture: 312052 likes / 2727 comments (4.41x account median)
+- reason: the same failure class as DcVBZDiNrHF on 2026-08-28 — permanent broadcast furniture on every frame. A "23 HOURS 11 MINUTES" subathon timer sits across the top, a caption box across the bottom, chat overlays in the middle third. On a 720x900 source the only text-free band is y130-670 -> 304x540 -> 3.55x upscale. No opener value either: the timer is a competing element that means nothing to our audience
+- file: clips/DcmYthcyPyC.mp4 (21.2s)
+
+## Dclu1YpOmMa — a softball runner beats the catcher's tag at home plate, filmed from the stands through a chain-link backstop
+- source: @houseofhighlights | https://www.instagram.com/reel/Dclu1YpOmMa/
+- lane: sports
+- first-seen: 2026-08-30 | status: DO-NOT-SPLICE (2026-08-30)
+- stats-at-capture: 245533 likes / 1725 comments (3.46x account median)
+- reason: the band measurement PASSED and the visual check failed it, which is the whole reason §4b makes looking mandatory. `crop=489:870 at x=116,y=0` measures 2.21x and the payoff does sit inside it, but rendered at full size the tops of the "SLIDE OF THE YEAR 🤯🤯" text and emoji still leak into the bottom edge — the emoji-are-graphics false negative again. Tightening further does not rescue it: a chain-link mesh covers 100% of every frame, the players are small, and the runner slides partly out of the cropped frame. No opener value ("SLIDE OF THE YEAR" is a hype label, not a setup)
+- file: clips/Dclu1YpOmMa.mp4 (13.5s)
+
+## DcezzvJQRen — an 82-second review of a small wheeled camera robot: it drives down office corridors, is picked up and turned over on a table, and is demonstrated from a phone app
+- source: @mkbhd | https://www.instagram.com/reel/DcezzvJQRen/
+- lane: tech
+- first-seen: 2026-08-30 | status: DO-NOT-SPLICE (2026-08-30)
+- stats-at-capture: 222573 likes / 1713 comments (2.47x account median)
+- reason: the caption "Do a flip" reads like a visual gag and the footage is a straight gadget review. No comedic mechanism anywhere in 82 seconds, burned word-by-word auto-captions on literally every frame with no gap, and it closes on a plug for the full video on his channel. A download slot spent to learn this; the record is kept so no later scan spends another
+- file: clips/DcezzvJQRen.mp4 (82.2s)
+
 ## DcnI979pgnR — a security camera watches a landscaper stop his truck, walk onto a stranger's lawn, crouch, then lie flat on his stomach to inspect the grass at eye level before getting up and driving away
 - source: @pubity | https://www.instagram.com/reel/DcnI979pgnR/
 - lane: general
@@ -93,6 +217,7 @@ touched.
 - clean-window: **n/a — OPENER-ONLY DONOR (its caption IS the setup).** Its burned `Claude: / Which plan do you prefer?` label occupies rows 372-672 for the whole first scene and is the asset, not a defect. ⚠ **Do NOT cut this clip into a PAYOFF beat** — under BANK.md 4b the no-surviving-caption test binds there and this clip cannot pass it. Opener or setup only. 720x1280, natively 9:16, so 1080x1920 is a pure 1.5x scale with no crop
 - file: clips/DcbaubeBRrc.mp4 (12.35s)
 - spliced: 2026-08-29 `press_1_splice` — beats 1-2 whole (0.000-10.600), Marcus's own reaction replacing the anime button. First splice of this clip
+- spliced: 2026-08-29 `press_1_refilm` (v3) — the FINAL beat (10.600-end) whole, as the reel's payoff, plus the glyph matted from frame 0 onto the re-filmed opener card. **Marcus's explicit order overrode this entry's opener-only/payoff-beat warning for this reel** ("The last frame: we're gonna splice it from his video"); the warning stands for unattended runs
 
 ## Dcmc8tbNFCX — a carpenter crouched on open floor joists loses his balance and folds face-down across them in about a second, legs up, while his workmate just stands there watching; he picks himself up after
 - source: @pubity | https://www.instagram.com/reel/Dcmc8tbNFCX/
@@ -232,21 +357,9 @@ touched.
 - pairs-with: the family-travel version of "the thing you did not plan for" — bambi.map's eating-out-with-a-baby setups, where the user's own footage is the table/highchair problem and this is what actually happens instead. Also any "the locals adopted my kid" beat in a customer's travel cut
 - file: clips/DciiHyLJ0ab.mp4 (18s)
 
-## DcT5FflAnMc — one unbroken car-selfie monologue, 2:20 long: a woman in a denim jacket in the driver's seat talks straight to camera about children not being taught to greet people, answer a phone or ask a stranger a question back, under one banner held from frame one to the last frame: "Baseline interpersonal skills are not getting taught"
-- source: @parents | https://www.instagram.com/reel/DcT5FflAnMc/
-- lane: family
-- first-seen: 2026-08-27 | status: DO-NOT-SPLICE (2026-08-27)
-- stats-at-capture: 2535 likes / 83 comments (16.36x account median)
-- reason: sincere, non-comedic talking-head. No joke, no turn, no visual event — an identifiable stranger arguing a parenting position for two and a half minutes. There is nothing here to lend a splice, and lifting a stranger's opinion into someone else's reel borrows a stance, not a setup. Banked as a record so a later scan does not re-spend a download slot on it. The FORMAT was worth the slot and is captured as playbook #46 — the reel carries the best comment rate in the entire candidate pool (1 comment per 30 likes, against a bank median nearer 1 per 200)
-- file: clips/DcT5FflAnMc.mp4 (141s) — out of canon, prunable from 2026-08-30
+## DcT5FflAnMc — [PRUNED DO-NOT-SPLICE] a 2:20 unbroken car-selfie monologue under one held banner, "Baseline interpersonal skills are not getting taught" — sincere, no joke, identifiable stranger; format kept as playbook #46 · https://www.instagram.com/reel/DcT5FflAnMc/ · first-seen 2026-08-27
 
-## DcUOFLpBUD5 — a 2:11 studio talking-head in a hand-knit sweater breaks down what clothing actually costs to make, cutting to a split screen that pins a real $16 Walmart cardigan listing against a $540 designer version and states the manufacturing cost out loud ("probably cost $4 or less to make"); on-screen title: "what should clothing actually cost?"
-- source: @morningbrew | https://www.instagram.com/reel/DcUOFLpBUD5/
-- lane: tech
-- first-seen: 2026-08-27 | status: DO-NOT-SPLICE (2026-08-27)
-- stats-at-capture: 13628 likes / 118 comments (2.40x account median)
-- reason: sincere explainer, no comedic mechanism and no liftable beat. The only visually strong moment is the split screen, and it is welded to this specific creator's face, this specific $16/$540 claim and morningbrew's burned-in caption styling — you cannot put it under someone else's voice without borrowing their argument. Banked as a record so a later scan does not re-spend a slot. The FORMAT is the asset and is captured as playbook #47; it is the "here is what this actually costs" authority shape OPEN GAP 2 names as missing from the bank
-- file: clips/DcUOFLpBUD5.mp4 (131s) — out of canon, prunable from 2026-08-30
+## DcUOFLpBUD5 — [PRUNED DO-NOT-SPLICE] a 2:11 studio explainer pinning a real $16 listing against a $540 one to state what clothing actually costs — sincere, welded to that creator and that claim; format kept as playbook #47 · https://www.instagram.com/reel/DcUOFLpBUD5/ · first-seen 2026-08-27
 
 ## Dceg78QTZrw — a young man sits alone on an Alaskan riverbank filming himself, and a full-grown brown bear comes out of the water and runs past him at close range to chase a salmon; he does not move, does not stand, and just keeps sitting there
 - source: @houseofhighlights | https://www.instagram.com/reel/Dceg78QTZrw/
@@ -998,15 +1111,15 @@ touched.
 
 ## DbZD_IcxCMy — [PRUNED DO-NOT-SPLICE] 1:44 talking-head news explainer on a $50B Louisiana data center approved under a secret codename; straight journalism, no joke and no clean beat to cut on · https://www.instagram.com/reel/DbZD_IcxCMy/ · first-seen 2026-08-03
 
-## DbZYl9oJ9Cj — [PRUNED STALE 2026-08-22] Helmet-cam rider pulls level with a car that had been driving hard, asks the driver why he was in such a rush · https://www.instagram.com/reel/DbZYl9oJ9Cj/ · first-seen 2026-07-30
-
-## DbZkdaWJeb2 — [PRUNED STALE 2026-08-22] A baby in a restaurant highchair gets his first bite of steak, goes wide-eyed feral and gnaws it two-handed while dad tries to hold it steady · https://www.instagram.com/reel/DbZkdaWJeb2/ · first-seen 2026-07-30
-
-## DbWT85WBm0a — [PRUNED STALE 2026-08-22] A small boy in a full Spider-Man suit slowly peels the mask off to "reveal his secret identity" to his parent and lands on a huge proud grin · https://www.instagram.com/reel/DbWT85WBm0a/ · first-seen 2026-07-30
-
-## DbTsR5LR5W3 — [PRUNED STALE 2026-08-22] Office skit in a real conference room: five people wearing paper badges reading OpenAI, Microsoft, Nvidia and Google pass the same handful of cash... · https://www.instagram.com/reel/DbTsR5LR5W3/ · first-seen 2026-07-30
-
-## DbTc4IRhNDT — [PRUNED STALE 2026-08-22] A woman sits inside a dryer drum wrapped in bedding and tumbles with it, playing the fitted sheet through its whole cycle, then the shot cuts to... · https://www.instagram.com/reel/DbTc4IRhNDT/ · first-seen 2026-07-30
-
-## DbO74yghLkl — [PRUNED STALE 2026-08-22] ITV game-show clip ("What Would Your Kid Do?"): a small girl calmly lectures the host that Dubai has a tropical desert climate while her parents... · https://www.instagram.com/reel/DbO74yghLkl/ · first-seen 2026-07-30
-
+## DckzWjZTiC1 — a man knocks at an office door under a "POV: You visit the software developers department" card, hard cut to a letterboxed club scene where a guy in a gold medallion turns to camera, then he tumbles down a stairwell
+- source: Marcus's own pick (2026-08-29 order, permalink https://www.instagram.com/p/DckzWjZTiC1/) | fetched via ig-fetch.sh (dormant account, 2/5 cap)
+- lane: tech
+- first-seen: 2026-08-29 | status: FRESH
+- stats-at-capture: — (direct order, not a scan find)
+- joke-structure: POV label + a mundane knock, answered by the least plausible "software developer" imaginable; the stairs fall is the button (the department collapses)
+- the-beat: 3 scenes — 0.000-2.667 (knocking at the door, back to camera), 2.667-8.267 (THE GUY: letterboxed club scene, medallion man turns to camera, the long featured hold), 8.267-9.08 (he tumbles down a stairwell). 9.08s total, 30fps, 1440x2560 natively 9:16 (1080x1920 = pure 0.75x)
+- audio-model: the club scene's own music in the original — NOT captured with rights; never bake. Replicas ride a trending club/hip-hop bed
+- pairs-with: any "I went looking for the professionals and found this" beat; the club-guy segment is the strongest "who answered the door" reveal in the bank
+- clean-window: **its burned 3-line card (ink y294-692 at 1080 scale) is on screen the WHOLE reel — it is the setup asset, not a defect. Legal on setup/mid beats under BANK.md 4b; the fall tail 8.267+ is its own button — do not carry it into a replica that supplies a different payoff.** Donor frames ≤247 are club; f248+ are the fall
+- file: clips/DckzWjZTiC1.mp4 (9.08s)
+- spliced: 2026-08-29 `devs_department` — frames 81-247 (the club-guy beat) whole as the reel's setup/reveal; the fall tail dropped on Marcus's order; his POV door footage opens and closes the reel
