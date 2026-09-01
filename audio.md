@@ -9,9 +9,25 @@
 
      Target size: >= 5x the weekly post count of the accounts drawing on it.
      At 3-4 posts/day on one account alone that means 100+, not 20. Current
-     pool: 148 (deadpan-hold 25, escalation 21, comparison 26,
-     quiet-confession 33, momentum 43) as of 2026-08-31. The pool is over
+     pool: 151 (deadpan-hold 25, escalation 21, comparison 27,
+     quiet-confession 35, momentum 43) as of 2026-09-01. The pool is over
      target, so the +5-per-scan floor no longer binds.
+     2026-09-01: SECOND SATURATED SCAN, but not a repeat of the last one.
+     Three searches. The two aimed at the trend surface returned nothing new
+     (Bangladesh/Ian McConnell, Freaked Out/Fat Papi, "that wasn't very
+     nonchalant" — all three already here, as were Petal, Loser, august, End
+     of August, She Wolf, oh yeah?, Cherry on the Edge, EoO, Sometimes and
+     Diva). The third, aimed at this week's RANKED list rather than at a
+     shape, produced four names not in the pool, of which three were added.
+     The fourth, "American Girls" — Harry Styles, was DEFERRED, not dropped:
+     6c's sourcing rule wants a real title AND artist and that attribution
+     could not be stood behind on the evidence in hand. Add it if it appears
+     again with a verifiable credit. Read together with 08-31, this sharpens
+     rather than repeats the finding: the weekly SHAPE queries are exhausted
+     (100% re-confirmations two scans running) and the weekly RANKED list is
+     NOT. That is a cheaper conclusion than retiring the step — keep one
+     ranked-list query per scan, drop the shape queries. Thin shapes to aim
+     any future source at: escalation (21) and deadpan-hold (25).
      2026-08-31: THE FIRST FULLY SATURATED SCAN. Three searches, eleven
      tracks named, ALL ELEVEN already in this pool — zero additions, and
      zero drops (no entry's `confirmed:` is older than 21 days, so nothing
@@ -263,6 +279,8 @@
 
 ## comparison
 
+"Golden Embers" — Oldies Playing | shape: comparison | lane-fit: any | why: named #2 on the 2026-08-28 weekly list — a warm vintage-sounding bed the ear reads as THEN, so a hard cut to the present lands against it without any text doing the work. Artist is the uploading account, which is how Instagram credits this one | start: from the top, cut to now on the first bar change | confirmed: 2026-09-01
+
 "End of August" — Noah Kahan | shape: comparison | lane-fit: any (comedy/format) | why: ~671K reels driving the "and for the lady…" format, where the track names its target audience out loud — a rare sound that does audience-selection work for you and sets one group against another | start: on the named line | confirmed: 2026-08-31
 
 "That wasn't very nonchalant" — original sound | shape: comparison | lane-fit: any | why: two-part by construction — composure, then the audio names the exact moment it breaks. Built for anyone who claims to be unbothered on camera and visibly is not, which is the shape half the bank's held-text formats already run | start: land the line on the break, not before it | confirmed: 2026-08-28
@@ -316,6 +334,10 @@
 "Material Lover" — Sienna Spiro | shape: comparison | lane-fit: any | why: 6.4K posts on project/product/menu showcases, cutting between what was wanted and what was made. Re-added 2026-08-21 on fresh evidence after an unjustified 08-20 drop | start: on the beat | confirmed: 2026-08-22
 
 ## quiet-confession
+
+"Roslyn" — Rishab Rikhiram Sharma | shape: quiet-confession | lane-fit: any | why: named the #1 trending Instagram audio the week of 2026-08-28 — a solo sitar cover with no percussion and no vocal, the sparsest bed in this group and the only one that leaves a whole frame free for a written line | start: from the top, let the first phrase sit under the card | confirmed: 2026-09-01
+
+"Lucky" — Britney Spears | shape: quiet-confession | lane-fit: any | why: back on the weekly lists — the canonical have-everything-and-still-empty needle drop ("she's so lucky, she's a star" against "she cry, cry, cries"), so the track states the contradiction and the footage only has to show the surface of it | start: on "she's so lucky", land the real state on the cry line | confirmed: 2026-09-01
 
 "Cruel Summer" — Taylor Swift | shape: quiet-confession | lane-fit: any | why: named again this week as the go-to bed when a personal-journey cut needs cinematic weight; the bridge is a pre-marked high-stakes turn, so an admission dropped on it lands without any edit work | start: on the bridge, put the admission there | confirmed: 2026-08-30
 
