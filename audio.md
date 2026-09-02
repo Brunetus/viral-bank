@@ -9,9 +9,23 @@
 
      Target size: >= 5x the weekly post count of the accounts drawing on it.
      At 3-4 posts/day on one account alone that means 100+, not 20. Current
-     pool: 151 (deadpan-hold 25, escalation 21, comparison 27,
-     quiet-confession 35, momentum 43) as of 2026-09-01. The pool is over
+     pool: 152 (deadpan-hold 25, escalation 21, comparison 28,
+     quiet-confession 35, momentum 43) as of 2026-09-02. The pool is over
      target, so the +5-per-scan floor no longer binds.
+     2026-09-02: THIRD SATURATED SCAN, and the ranked-list query has now saturated too.
+     Two searches, both aimed at this week's ranked lists per the 09-01 recommendation.
+     They returned the SAME thirteen-name list as each other, and twelve of those
+     names were already here (Less Than a Lover, Ring My Bell, Yummy Little Day,
+     petal, Timber, Cherry on the Edge, plus six creator "original audio" entries
+     that carry no title-and-artist and so cannot be banked under 6c's sourcing
+     rule). Espresso and Cruel Summer, surfaced as separate callouts, were already
+     here too. Net +1: "The Fate of Ophelia" — Taylor Swift. 6 re-confirmed, 0
+     dropped (oldest stamp in the file is 2026-08-21, 12 days, so nothing is
+     drop-eligible). Recommendation for Marcus, unchanged in direction and
+     stronger in evidence: 6c is now a MAINTENANCE step, not a discovery step —
+     one query is the right budget, and the pool at 152 is well past its target,
+     so the honest question is whether this step should run daily at all rather
+     than weekly.
      2026-09-01: SECOND SATURATED SCAN, but not a repeat of the last one.
      Three searches. The two aimed at the trend surface returned nothing new
      (Bangladesh/Ian McConnell, Freaked Out/Fat Papi, "that wasn't very
@@ -185,7 +199,7 @@
 
 "I don't like being nonchalant. Why would I hide the joy God gave me?" — @trace.young (original sound) | shape: deadpan-hold | lane-fit: any | why: the origin clip is one person going full-out in Times Square while the line is delivered completely straight, and the format that spread from it holds the deadpan while the visual does something unreasonably enthusiastic — a flat line over a held shot with no cut needed | start: on the "I don't like being nonchalant" line | confirmed: 2026-08-28
 
-"Less Than a Lover" — JENNIE | shape: deadpan-hold | lane-fit: any | why: dreamy backdrop currently carrying reflective and travel content; sparse and even enough to sit under a held text card without competing with it, which is what most of this bank's formats need | start: from the top, let the first bar run under the text | confirmed: 2026-08-28
+"Less Than a Lover" — JENNIE | shape: deadpan-hold | lane-fit: any | why: dreamy backdrop currently carrying reflective and travel content; sparse and even enough to sit under a held text card without competing with it, which is what most of this bank's formats need | start: from the top, let the first bar run under the text | confirmed: 2026-09-02
 
 "A Thousand Miles" — Vanessa Carlton | shape: deadpan-hold | lane-fit: tech/business | why: the current corporate-frustration bed — creators run it under adult-responsibility and workplace-humour cuts, and the earnest piano refusing to acknowledge the complaint is what makes it deadpan | start: on the piano intro, let the complaint sit over it | confirmed: 2026-08-28
 
@@ -278,6 +292,8 @@
 "Let Him Cook" — XNIMXS | shape: escalation | lane-fit: any | why: top of the Snaplytics daily chart on 08-20 — a permission-to-continue bit that gets more emphatic each pass, so a process that keeps going past reason plays as a build rather than a slog | start: on the first "let him" | confirmed: 2026-08-21
 
 ## comparison
+
+"The Fate of Ophelia" — Taylor Swift | shape: comparison | lane-fit: any | why: the bed under the "What Did My Husband Pray For?" format (1.2M reels), which is an opposites-attract bait-and-switch — the track is already trained on a hard turn between two framings of the same subject, so the cut can be flat and the audio supplies the reveal | start: on the turn, put the second framing there | confirmed: 2026-09-02
 
 "Golden Embers" — Oldies Playing | shape: comparison | lane-fit: any | why: named #2 on the 2026-08-28 weekly list — a warm vintage-sounding bed the ear reads as THEN, so a hard cut to the present lands against it without any text doing the work. Artist is the uploading account, which is how Instagram credits this one | start: from the top, cut to now on the first bar change | confirmed: 2026-09-01
 
@@ -397,7 +413,7 @@
 
 "My Inner Voice" — @yourstrulypriyaa | shape: quiet-confession | lane-fit: any | why: 17K posts — the audio voices the thought you didn't say out loud, so the footage only has to show the face that was thinking it | start: on the inner-voice line | confirmed: 2026-08-22
 
-"Yummy Little Day" — @emilogue | shape: quiet-confession | lane-fit: family/food | why: 59K posts — sweet playful bed made for makers, bakers and small handmade moments; the warmest option on the current lists | start: from the top | confirmed: 2026-08-22
+"Yummy Little Day" — @emilogue | shape: quiet-confession | lane-fit: family/food | why: 59K posts — sweet playful bed made for makers, bakers and small handmade moments; the warmest option on the current lists | start: from the top | confirmed: 2026-09-02
 
 "Wait this looks so cool" — @Chris Rainbow | shape: quiet-confession | lane-fit: any | why: 72K posts on the camera-roll showcase, where the audio supplies the reaction to your own footage so you don't have to narrate it | start: from the top, one photo per phrase | confirmed: 2026-08-22
 
@@ -408,7 +424,7 @@
 ## momentum
 
 "Espresso" — Sabrina Carpenter | shape: momentum | lane-fit: general | why: named again this week as a sound that never left the app — sun-drenched, confident, upbeat production that lifts ordinary footage without demanding a joke on the beat; the safe default when a cut needs energy and nothing newer fits | start: on the "that's that me espresso" hook | confirmed: 2026-08-30
-"petal" — Ariana Grande | shape: momentum | lane-fit: general | why: 90K posts, dreamy synth-heavy bed for aesthetic and reveal content; note the lyric contains an expletive, so check the section you cut before committing | start: on the synth line, avoid the explicit bar | confirmed: 2026-08-31
+"petal" — Ariana Grande | shape: momentum | lane-fit: general | why: 90K posts, dreamy synth-heavy bed for aesthetic and reveal content; note the lyric contains an expletive, so check the section you cut before committing | start: on the synth line, avoid the explicit bar | confirmed: 2026-09-02
 
 "oh yeah?" — Steve Lacy | shape: momentum | lane-fit: general | why: rising on multiple lists this week — new-day, city-walk and progress cuts; a loose confident groove that suits a "here we go again" opener | start: on the hook | confirmed: 2026-08-31
 
@@ -416,11 +432,11 @@
 
 "EoO" — Bad Bunny | shape: momentum | lane-fit: general/sports | why: rising off the Spider-Man: Brand New Day release — high-energy hype bed for action cuts and anything that needs to feel like a trailer | start: on the drop | confirmed: 2026-08-31
 
-"Ring My Bell" — Anita Ward | shape: momentum | lane-fit: any | why: disco drive listed this week for outfit videos, GRWMs and vacation cuts; steady enough to carry a montage of small wins without needing a punchline at the end | start: from the top | confirmed: 2026-08-28
+"Ring My Bell" — Anita Ward | shape: momentum | lane-fit: any | why: disco drive listed this week for outfit videos, GRWMs and vacation cuts; steady enough to carry a montage of small wins without needing a punchline at the end | start: from the top | confirmed: 2026-09-02
 
 "White Xmas" — Sabrina Carpenter | shape: momentum | lane-fit: any | why: listed as trending this week for decorating, baking and cosy-setup content. Banked for completeness and honesty about the source, but it is a December track surfacing in August — do not reach for it until the season turns | start: from the top | confirmed: 2026-08-28
 
-"Cherry on the Edge" — miss rany | shape: momentum | lane-fit: general | why: 109K posts, girl-power confidence energy running under gym, outfit and travel reveals; a strong stamp on any "here it is" turn | start: on the drop, land it on the reveal | confirmed: 2026-08-31
+"Cherry on the Edge" — miss rany | shape: momentum | lane-fit: general | why: 109K posts, girl-power confidence energy running under gym, outfit and travel reveals; a strong stamp on any "here it is" turn | start: on the drop, land it on the reveal | confirmed: 2026-09-02
 
 "We Are The People (me n ü Remix)" — Empire of the Sun, me n ü | shape: momentum | lane-fit: general/travel | why: called "peak" again this week — the current go-to cinematic travel and arrival bed; big enough to carry a montage that has no single punch moment | start: from the build, land the drop on the widest shot | confirmed: 2026-08-31
 
@@ -436,7 +452,7 @@
 
 "Break My Stride" — Matthew Wilder | shape: momentum | lane-fit: tech/business | why: named this week for feel-good progress and small wins — relentlessly upbeat under something that is still not finished, which is the honest version of a build montage | start: on the beat | confirmed: 2026-08-28
 
-"Timber" — Pitbull ft. Kesha | shape: momentum | lane-fit: general/sports | why: fast-cut sports, fitness and night-out edits — relentless tempo that makes ordinary footage feel like a highlight reel. Re-sighted 2026-08-22 on SocialBee, caveat cleared | start: on the whistle hook | confirmed: 2026-08-30
+"Timber" — Pitbull ft. Kesha | shape: momentum | lane-fit: general/sports | why: fast-cut sports, fitness and night-out edits — relentless tempo that makes ordinary footage feel like a highlight reel. Re-sighted 2026-08-22 on SocialBee, caveat cleared | start: on the whistle hook | confirmed: 2026-09-02
 
 "Dai Dai" — Shakira & Burna Boy | shape: momentum | lane-fit: general/sports | why: the official 2026 FIFA World Cup song, on the Hot 100 and everywhere on social right now — the broadest-reach celebration bed available while the tournament is live | start: on the "dai, dai" chant | confirmed: 2026-08-30
 
