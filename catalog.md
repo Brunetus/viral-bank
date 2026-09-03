@@ -20,6 +20,151 @@ touched.
 
 <!-- entries below, newest first -->
 
+## DczJvnLsdnd — a teenage boy swings out on a rope under a Norwegian bridge, loses his grip at the top of the arc, falls flat into the water and comes up dead centre inside his friend's inflatable dinghy; the friend already in the boat scrambles clear and the two of them end up standing in the raft with their hands on their heads
+- source: @pubity | https://www.instagram.com/reel/DczJvnLsdnd/
+- lane: general
+- first-seen: 2026-09-03 | status: FRESH
+- stats-at-capture: 110504 likes / 992 comments (423.94x account median)
+- joke-structure: catastrophe setup, impossible-luck payoff — the fall reads as a wipeout for a full second before you register where he landed
+- the-beat: swing and fall 0:00-0:07, the landing is at 0:09-0:10 and the REAL payoff is the reaction at 0:13-0:16.6 (both boys upright in the dinghy, hands on heads, no words). Cut in at 0:07 and out at 0:16.6 and you get the whole turn with no borrowed text on screen
+- audio-model: flexible — the splash and the shouting carry it if the source audio survives, but nothing is lost muting it under a track
+- pairs-with: any "this should not have worked" moment — a build that shipped on the first try, a booking that landed, a plan nobody expected to hold
+- clean-window: caption "HE FELL OFF THE ROPE SWING…" occupies y180-260 for the first ~6s only and fades by 0:07; 0:07-0:16.6 is FULLY CLEAN at the native 720x1280, no crop needed, and the entire payoff lives inside that window
+- file: clips/DczJvnLsdnd.mp4 (16.6s)
+
+## DczYMdjvbkY — two mice on a London Underground platform run at each other across the tactile paving, rear up on their hind legs face to face like boxers, tangle, break apart and go again while commuters' feet stay out of frame entirely
+- source: @pubity | https://www.instagram.com/reel/DczYMdjvbkY/
+- lane: general
+- first-seen: 2026-09-03 | status: FRESH
+- stats-at-capture: 46714 likes / 677 comments (180.19x account median)
+- joke-structure: tiny subjects performing a human ritual completely straight — the anthropomorphic read is the whole joke and it needs no caption
+- the-beat: the square-up is at 0:29-0:31 (both mice upright, facing each other). Everything before it is hunting and framing. Cut a 2-3s window on 0:29 and the beat lands cold
+- audio-model: flexible — station ambience is atmospheric but not the beat; this is the rare donor that works silently under a trending track
+- pairs-with: two processes fighting over the same thing (two agents editing one file, two toddlers over one toy, a debate that is technically a standoff between two very small parties)
+- clean-window: caption clears by 0:05; 0:05-0:49 is FULLY CLEAN, no burned text anywhere, no crop needed. ⚠ CAVEAT for the architect: the mice are small in a wide 720x1280 frame — a full-bleed cut is clean but a punch-in tight enough to read them as boxers is roughly a 300px-wide region, ~3.6x upscale. Use it wide, or accept softness
+- file: clips/DczYMdjvbkY.mp4 (49.1s)
+
+## DcwCSJVxwWc — a MapQuest employee in a patterned shirt gets a phone call, grabs his own head, tells someone "we are stinkin' rich", hands his car keys to a colleague, cancels her birthday party, walks out of an emptying open-plan office and ends up alone at a monitor telling a map of Canada "I support you, and you support me"
+- source: @morningbrew | https://www.instagram.com/reel/DcwCSJVxwWc/
+- lane: tech
+- first-seen: 2026-09-03 | status: FRESH
+- stats-at-capture: 20565 likes / 292 comments (9.5x account median)
+- joke-structure: total-sincerity-toward-a-dead-brand — a man treating one news cycle as generational wealth, escalating until he is emotionally committed to software
+- the-beat: the turn is the LAST shot, 0:34-0:38, alone with the monitor. The mid-clip beats (keys at 0:11, cancelling the party at 0:23) are each usable as standalone one-second inserts
+- audio-model: diegetic (bakeable) — every line is scripted dialogue and the burned subtitles exist because the words are the joke
+- pairs-with: over-committing to your own tool; treating a small win as a life change; talking to software like a colleague
+- clean-window: rolling yellow subtitles sit at y1035-1105 for the whole clip, and a "MapQuest HQ right now" card sits at y117-171 for the first ~2s. Band y0-1030 is clean from 0:02 onward -> 579x1030 crop, 1.87x upscale, and the face and the hand-on-head beat are both inside it. ⚠ Cutting BELOW the subtitle line does not work; crop from the top
+- file: clips/DcwCSJVxwWc.mp4 (38.0s)
+
+## DcjbW_PpOay — a man in a grey suit and a call-centre headset sits alone at a white laptop against a painted geometric wall and plays a pre-meeting trivia game he is visibly losing, reacting to questions the viewer never hears: leaning in, smiling, wincing, tapping the mic boom, then sitting back defeated
+- source: @kofibelizaire | https://www.instagram.com/reel/DcjbW_PpOay/
+- lane: tech
+- first-seen: 2026-09-03 | status: FRESH
+- stats-at-capture: 19151 likes / 2138 comments (2.93x account median) — 1 comment per 9 likes, the highest comment RATE the scan has surfaced from the watchlist
+- joke-structure: one-sided call, the unheard half is the punchline — the viewer writes the other side of the conversation, which is exactly why it farms comments
+- the-beat: reaction beats are spread the whole 75s and each is independently cuttable; the strongest single insert is the defeated sit-back at 0:67-0:74. There is no one turn, which is the point: this is a REACTION LIBRARY, not a single gag
+- audio-model: diegetic (bakeable) — his half of the dialogue is the entire mechanism, and muting it destroys the clip
+- pairs-with: any moment where you are visibly losing to something trivial while pretending it is fine — a build failing during a demo, a toddler winning a negotiation, an AI confidently giving the wrong answer
+- clean-window: "POV: The trivia game before the work meeting starts" is burned at y234-414 for all 75s. Band y420-1280 is clean the whole way -> 483x860 crop, 2.24x upscale, and his face sits inside it. ⚠ The donor_probe reported a 32px band here (33.75x) — a FALSE POSITIVE: the flat bright wall behind him is static, so the bright-and-frozen test reads the whole background as caption. The visual check governs
+- file: clips/DcjbW_PpOay.mp4 (75.2s)
+
+## Dc0CRR4s9nn — filmed from a toddler's eye line looking straight up, a mom in a brown hoodie and hiking harness leans over the camera against open sky and delivers an escalating pep talk to her child, cycling through captions that reframe the threat she grew up with into encouragement, ending laughing into the lens under a canopy of pine
+- source: #parentsofinstagram | https://www.instagram.com/reel/Dc0CRR4s9nn/
+- lane: family
+- first-seen: 2026-09-03 | status: FRESH
+- stats-at-capture: 61 likes / 0 comments (hashtag recent_media, no account baseline)
+- joke-structure: generational reframe — the remembered threat is quoted, then swapped for the version she actually says, with the child's POV making the viewer the one being talked to
+- the-beat: the turn is the caption swap from the quoted threat to "HER 'I CAN DO IT!'" around 0:08-0:10; the face beat that carries it is the laugh at 0:12-0:16.8
+- audio-model: diegetic (bakeable) — she is speaking to camera and the delivery is the performance
+- pairs-with: being talked to from above by someone much bigger; a parent's voice as the setup for a payoff that undercuts it; anything shot from a child's or a pet's eye line
+- clean-window: a single line of small burned text sits at the very top, y90-250 across the clip (position shifts slightly between beats). Band y300-1280 is clean throughout -> 551x980 crop, 1.96x upscale, and her whole face is inside it. Full-bleed also works if you accept the top line
+- file: clips/Dc0CRR4s9nn.mp4 (16.8s)
+
+## Dc0G-9ABOdd — OPENER-ONLY. A backyard security camera watches a man sunbathing on a lounger beside an above-ground pool; a dust devil tears through the yard, rips the pool cover into the air and throws floats and furniture past him, and he does not get up
+- source: @pubity | https://www.instagram.com/reel/Dc0G-9ABOdd/
+- lane: general
+- first-seen: 2026-09-03 | status: FRESH
+- stats-at-capture: 96069 likes / 851 comments (368.52x account median)
+- joke-structure: total-destruction setup, zero-reaction payoff — the comedy is entirely the absence of a response
+- the-beat: the dust devil hits at 0:06-0:08; the payoff is that nothing changes about the man's posture at 0:10 and again at 0:20
+- audio-model: trending sound (add in-app) — security-cam footage with no useful diegetic track
+- pairs-with: refusing to react to chaos you caused; a system on fire while you keep working; "everything is fine"
+- clean-window: n/a — OPENER-ONLY donor (the caption IS the setup). "SUNBATHER BARELY REACTS AS DUST DEVIL DESTROYS HIS YARD" is a permanent headline bar under a letterboxed 16:9 security-cam strip. The footage strip is y230-787 of 1280, so a 9:16 payoff crop needs 313px width = 3.45x upscale, which FAILS the gate. Bank it whole, full-bleed, no crop, as the FIRST frame only. Do not cut it into a payoff beat
+- file: clips/Dc0G-9ABOdd.mp4 (23.1s)
+
+## DczlQ5Gpqem — OPENER-ONLY. At a deer park in Zhengzhou, a young man in a maroon polo holds a bottle of his baby's juice; a deer approaches, works its head in, and after a few polite attempts kicks him and takes the drink, and he stumbles back with his arms up while the rest of the herd wanders the pavilion
+- source: @pubity | https://www.instagram.com/reel/DczlQ5Gpqem/
+- lane: general
+- first-seen: 2026-09-03 | status: FRESH
+- stats-at-capture: 25123 likes / 257 comments (96.5x account median)
+- joke-structure: escalating politeness, then violence — the animal negotiates first, which is what makes the kick funny instead of alarming
+- the-beat: the kick and the stumble at 0:13-0:16
+- audio-model: trending sound (add in-app) — the pubity template already rides one and there is no diegetic beat worth keeping
+- pairs-with: a polite request escalating to a taking; being out-negotiated by something that does not talk; a toddler taking what they asked for anyway
+- clean-window: n/a — OPENER-ONLY donor (the caption IS the setup). "DEER KICKS MAN AND STEALS HIS BABY'S JUICE" is a permanent bar under a letterboxed footage strip at y270-786 of 1280; a 9:16 payoff crop off that strip needs 290px = 3.72x upscale, FAILS the gate. Bank whole, full-bleed, as the FIRST frame only
+- file: clips/DczlQ5Gpqem.mp4 (22.5s)
+
+## Dctc0LtRp4R — OPENER-ONLY. On a lake dock, a full-scale wrestling match breaks out — three or four adults hoisting each other toward the water — while one older man in a navy shirt and cap stays seated in a folding chair with his metal tumbler, never standing up, and the last person is thrown in behind him
+- source: @sportscenter | https://www.instagram.com/reel/Dctc0LtRp4R/
+- lane: sports
+- first-seen: 2026-09-03 | status: FRESH
+- stats-at-capture: 235978 likes / 407 comments (2.51x account median)
+- joke-structure: chaos around one immovable person — the stillness at the centre is the joke, and "(Wait for it)" tells you to watch for it
+- the-beat: the throw-in splash at 0:17-0:20, with Unc still seated in frame
+- audio-model: diegetic (bakeable) — the shouting, the scrape of the chair and the splash are the beat
+- pairs-with: staying seated while everything around you comes apart; the one person who did not get pulled into the emergency
+- clean-window: n/a — OPENER-ONLY donor (the caption IS the setup). "Unc was strategic 😭🔥" is burned across the vertical middle (y545-580 of 900) for all 20s, so every full-height 9:16 crop contains it; the band above gives 303px = 3.56x and the band below 174px = 6.2x, both FAIL. Source is 720x900 (4:5), not 9:16. Bank whole as the FIRST frame only
+- file: clips/Dctc0LtRp4R.mp4 (20.1s)
+
+## Dcw1DWNtGI4 — OPENER-ONLY. In an airport gate area a man in an orange Miami tee films himself feeding a single french fry into the open mouth of a woman asleep in her seat with headphones on; she chews it without waking, and the people in the row behind lose it
+- source: @houseofhighlights | https://www.instagram.com/reel/Dcw1DWNtGI4/
+- lane: sports
+- first-seen: 2026-09-03 | status: FRESH
+- stats-at-capture: 195521 likes / 962 comments (2.32x account median)
+- joke-structure: sleeping-target prank where the target completes the action — the payoff is that she chews, not that she wakes
+- the-beat: the chew at 0:04-0:06, then the bystanders' reaction at 0:07-0:08
+- audio-model: diegetic (bakeable) — the laughing behind the camera is the beat
+- pairs-with: something accepting input while completely unconscious; a process that keeps running after you stopped watching it
+- clean-window: n/a — OPENER-ONLY donor (the caption IS the setup). "GOT CAUGHT LACKING 😂" sits in a white box at y598 of 720 for all 9.5s; the band above is 559px = 3.44x upscale, FAILS. ⚠ Also note the source is only 576x720 — even banked whole it is soft, and filling 1080x1920 from it costs 2.67x. Use it as a short opener, not a hero shot
+- file: clips/Dcw1DWNtGI4.mp4 (9.5s)
+
+## DcusbAcNuRs — a montage of Carmelo Anthony isolation possessions across four different NBA broadcasts, cut under a screenshot of a @KobeBryantAlert tweet reading "Never forget when Carmelo Anthony had the entire league in ISO HELL"
+- source: @houseofhighlights | https://www.instagram.com/reel/DcusbAcNuRs/
+- lane: sports
+- first-seen: 2026-09-03 | status: DO-NOT-SPLICE (2026-09-03)
+- stats-at-capture: 285445 likes / 1962 comments (3.39x account median)
+- joke-structure: none — this is a sincere appreciation montage, not a gag; there is no turn and nothing to lend
+- the-beat: n/a
+- audio-model: trending sound (add in-app)
+- pairs-with: nothing — catalogued only so a later scan does not re-spend a download slot on it
+- clean-window: FAILS twice over. The tweet card is burned at y0-200 for all 31.8s AND every one of the four source broadcasts carries a permanent network scorebug across the lower frame — the same failure class as DcVBZDiNrHF/DcTuLiwRLAT (2026-08-28). Largest genuinely clean band is 324px = 3.33x upscale
+- file: clips/DcusbAcNuRs.mp4 (31.8s)
+
+## Dc0NT2bTfSh — a white text card reading "POV: You're already behind on the deadline and the PM adds 'just a few small things' to the PRD at the last minute" sits above a borrowed bar scene from The Departed, which stays calm for eight seconds and then erupts into a full brawl
+- source: #programmerhumor | https://www.instagram.com/reel/Dc0NT2bTfSh/
+- lane: tech
+- first-seen: 2026-09-03 | status: DO-NOT-SPLICE (2026-09-03)
+- stats-at-capture: 19 likes / 0 comments (hashtag recent_media, no account baseline)
+- joke-structure: labelled-borrowed-scene — a work situation named in text, then a recognisable film beat plays it out at ten times the real emotional scale
+- the-beat: the eruption at 0:08-0:11
+- audio-model: trending sound (add in-app)
+- pairs-with: n/a as a donor — the FORMAT was captured instead (playbook #45 refreshed 2026-09-03). Catalogued so a later scan does not re-download it
+- clean-window: the picture itself carries no burned text (card is above it, y0-95), but the clean strip is only 705px tall on a 720x800 source -> 396px 9:16 crop = 2.73x upscale, over the 2.6x gate. Separately, the footage is studio-owned feature film, not ours to lend. No clip file kept
+- file: none — format captured, footage unusable
+
+## Dcz5gcSxaPI — a woman in a tank top and leggings walks steadily toward the camera down a dry hillside trail at golden hour while an eight-line text block sits across the middle of the frame telling a story about her daughter tearing the house apart looking for a phone that is in the dishwasher she was asked to unload
+- source: #parentsofinstagram | https://www.instagram.com/reel/Dcz5gcSxaPI/
+- lane: family
+- first-seen: 2026-09-03 | status: DO-NOT-SPLICE (2026-09-03)
+- stats-at-capture: 24 likes / 6 comments (hashtag recent_media, no account baseline)
+- joke-structure: withheld-information deadpan — the parent knows the answer, says nothing, and closes on a one-line law ("Parenting is a long game")
+- the-beat: the kicker line, held for the last third
+- audio-model: trending sound (add in-app)
+- pairs-with: n/a as a donor — the FORMAT was captured instead (playbook #62). Catalogued so a later scan does not re-download it
+- clean-window: FAILS. The text block occupies y385-895 of 1274 for the entire 12.2s, straddling the exact middle; the band above is 380px = 5.05x and the band below 374px = 5.1x. There is no clean stretch at any point. No clip file kept
+- file: none — format captured, footage unusable
+
+
 ## Dcwk7_RMpJ1 — a small boy in a Spider-Man crocs-and-black-tee outfit loads an aerosol Cheez Whiz can into his toy Spider-Man web launcher, fires it across the kitchen at his aunt, and coats her face, hair and chest in yellow cheese while the rest of the family folds up laughing
 - source: @pubity | https://www.instagram.com/reel/Dcwk7_RMpJ1/
 - lane: general
@@ -326,21 +471,9 @@ touched.
 - clean-window: band y1727-2560 of 2560 -> 468x833 crop, 2.31x upscale on paper, but that band is only his legs and the rug. The gag needs the full frame and the text. Treat as OPENER-ONLY / full-bleed, no crop
 - file: clips/DcUqJKfuJk6.mp4 (14.6s)
 
-## DcpcdkiMbLo — FORMAT ONLY, no clip banked. Slow-mo night-pool b-roll of a stranger climbing out of a hot tub and walking, under a three-beat text stack ending "You're cooked. Follow"
-- source: @adanxai | https://www.instagram.com/reel/DcpcdkiMbLo/
-- lane: tech
-- first-seen: 2026-08-31 | status: DO-NOT-SPLICE (2026-08-31)
-- stats-at-capture: 1053 likes / 19 comments (14.89x account median)
-- reason: the footage is a disposable identifiable stranger and the SAME b-roll is reused under a different text overlay on DcpOAyrNR_C, which proves the format is the asset, not the picture. Burned text covers y624-1824 of 2560 permanently; the only clean band is wet pavement. Captured as playbook #58 instead. Do not re-download
-- file: none (deleted after frame-sampling)
+## DcpcdkiMbLo — [PRUNED DO-NOT-SPLICE] FORMAT ONLY, no clip banked. Slow-mo night-pool b-roll of a stranger climbing out of a hot tub and walking, under a three-beat text stack ending "You' · https://www.instagram.com/reel/DcpcdkiMbLo/ · first-seen 2026-08-31
 
-## DcpOAyrNR_C — FORMAT ONLY, no clip banked. Identical night-pool b-roll to DcpcdkiMbLo under a single-line callout: "You've cooked if when hearing 'commit' makes you think of Git and not relationships"
-- source: @adanxai | https://www.instagram.com/reel/DcpOAyrNR_C/
-- lane: tech
-- first-seen: 2026-08-31 | status: DO-NOT-SPLICE (2026-08-31)
-- stats-at-capture: 471 likes / 4 comments (6.6x account median)
-- reason: same disposable stranger footage as DcpcdkiMbLo, same permanent centre-frame caption (y530-695 of 1280, clean bands 3.3x and 3.7x, both fail). Same format, weaker text. Folded into playbook #58. Do not re-download
-- file: none (deleted after frame-sampling)
+## DcpOAyrNR_C — [PRUNED DO-NOT-SPLICE] FORMAT ONLY, no clip banked. Identical night-pool b-roll to DcpcdkiMbLo under a single-line callout: "You've cooked if when hearing 'commit' makes you · https://www.instagram.com/reel/DcpOAyrNR_C/ · first-seen 2026-08-31
 
 ## Dcs9OYPKgGV — a barefoot man runs at a granite plaza wall, kicks off it, lands badly, then hops on one leg and turns the camera on the sole of his foot, which is torn open and bleeding
 - source: #fail | https://www.instagram.com/reel/Dcs9OYPKgGV/
@@ -366,13 +499,7 @@ touched.
 - clean-window: band y0-888 of 1280 -> 500x888 crop, 2.16x upscale. The burned line "Can't take bro anywhere 😭" sits on a dark bar at y888-936 and everything above it is picture, including the entire jump and fall. The bottom pane below the bar is a blurred duplicate, discard it
 - file: clips/Dcrs7mSNoN_.mp4 (7.3s)
 
-## DceIJ25PWh- — one unbroken 108-second shot of a man in a tan suit sitting in a chair, playing an interviewer to an off-screen candidate, under a permanent card reading "POV: If job interviews were like Pop the Balloon 🎈"
-- source: @kofibelizaire | https://www.instagram.com/reel/DceIJ25PWh-/
-- lane: tech
-- first-seen: 2026-08-31 | status: DO-NOT-SPLICE (2026-08-31)
-- stats-at-capture: 57908 likes / 4175 comments (4.97x account median)
-- reason: no splice mechanism. Frame-sampled densely across all 108 seconds and it is ONE unbroken take of one identifiable stranger, one slow push-in, no cuts, no second person in frame and no visual turn anywhere — every laugh is verbal. The clean-window measurement passes (band y390-1280 of 1280 -> 500x890, 2.16x) and is irrelevant, because there is nothing in the band worth cutting to. Its value is the FORMAT, already held as playbook #51 (refreshed today). ⚠ This entry exists only as the dedup key: the 2026-08-29 scan reached the same verdict, wrote #51, and never wrote a catalog record, so this reel re-qualified as a top candidate and cost a second download slot today. Do not re-download
-- file: none (deleted after frame-sampling)
+## DceIJ25PWh- — [PRUNED DO-NOT-SPLICE] one unbroken 108-second shot of a man in a tan suit sitting in a chair, playing an interviewer to an off-screen candidate, under a permanent card read · https://www.instagram.com/reel/DceIJ25PWh-/ · first-seen 2026-08-31
 
 ## DcsJo-XtAn7 — a grizzly cub walks right up to a wildlife photographer lying on an Alaskan riverbank, sniffs and nibbles his boot while he holds still, then wanders back to its mother and sibling crossing the shallows
 - source: @pubity | https://www.instagram.com/reel/DcsJo-XtAn7/
