@@ -20,6 +20,114 @@ touched.
 
 <!-- entries below, newest first -->
 
+## Dc3cZiQMCif — a boy opens a frosted glass cabinet in a Japanese toy shop and the Toy Story figures inside, whose shadows had been standing up against the glass, drop flat the instant the door moves; he closes it and the shadows climb back up, then he opens it fully on Buzz and Rex standing frozen mid-pose
+- source: @pubity | https://www.instagram.com/reel/Dc3cZiQMCif/
+- lane: general
+- first-seen: 2026-09-05 | status: FRESH
+- stats-at-capture: 161050 likes / 312 comments (68.43x account median)
+- joke-structure: the rule is obeyed literally — a world that plays its own fiction straight. The recognition trigger is the shadow COLLAPSING the moment the door cracks, before you have read a single word
+- the-beat: setup and first drop 0:00-0:05 (under the creator's caption), the clean run starts at 0:05, shadows climb back 0:08-0:11, and the payoff is the full open on Buzz at 0:12-0:14. Cut in at 0:05 and land on 0:13
+- audio-model: flexible — shop ambience under a soft bed; nothing is lost muting it, the beat is entirely visual
+- pairs-with: any "it behaves itself the second you look at it" moment — a build that only breaks when you are not watching, a toddler who freezes mid-mischief the instant the door opens, a test suite that passes only while you stare at it
+- clean-window: caption occupies y718-979 of 1280 and CLEARS AT 0:05 — 0:05-0:18.3 (13.3s) is fully clean, no crop, no upscale beyond the flat 1.5x to 1080p. The payoff sits inside the clean stretch. The Japanese sign taped to the cabinet is in-world set dressing, not a burned caption
+- file: clips/Dc3cZiQMCif.mp4 (18.3s)
+
+## Dc4TbaSMuzg — a toddler in a nappy pushes up off a tiny blue plastic chair on a concrete patio and lets out a full grown-man grunt doing it, exactly the way the grandpa he spent the weekend with does; he then toddles off, picks up a water bottle and wanders back
+- source: @pubity | https://www.instagram.com/reel/Dc4TbaSMuzg/
+- lane: general
+- first-seen: 2026-09-05 | status: FRESH
+- stats-at-capture: 154371 likes / 2153 comments (66.38x account median)
+- joke-structure: inherited-mannerism reveal — a small body producing an old man's sound effect. The recognition trigger is auditory and lands in under a second: the grunt arrives before you have worked out why it is funny
+- the-beat: the grunt is the whole joke and it fires at 0:02-0:04 under the creator's caption; he stands and toddles 0:05-0:07 clean; he grabs the bottle 0:07-0:09 under a low second caption. Cut on the grunt if you can bake the audio, otherwise cut 0:05-0:07 and let your own line carry it
+- audio-model: diegetic (bakeable) — the grunt IS the payoff. Muting this clip destroys it; do not put a trending track over the beat
+- pairs-with: any "I have become the person who raised me" beat — sighing when you sit down, the noise you now make getting off the couch, a habit you only noticed after someone filmed you
+- clean-window: TWO captions. The four-line hook occupies y769-979 and clears at 0:04.8; a low two-line caption at y1037-1104 runs 0:07.4-0:09.3. Clean STRETCH 0:04.8-0:07.2 (2.4s of real action) plus a 0:09.5-0:10.4 tail. During the second caption a band y0-1030 of 1280 -> 579x1030 crop, 1.86x upscale clears it. Verified by eye at 0:05.2, 0:06.0 and 0:06.9
+- file: clips/Dc4TbaSMuzg.mp4 (10.4s)
+
+## Dc3tliFsjdt — a man carries his girlfriend piggyback through a knee-deep flooded street while a crowd watches from the dry step behind them; he wades the whole way to camera and never puts her down
+- source: @pubity | https://www.instagram.com/reel/Dc3tliFsjdt/
+- lane: general
+- first-seen: 2026-09-05 | status: FRESH
+- stats-at-capture: 61590 likes / 965 comments (26.53x account median)
+- joke-structure: a demand put to the viewer — the source captions it "Would your boyfriend do this?" and the comment count (1 per 64 likes) is the whole point. This is a COMMENT ENGINE, not a laugh: the footage is a standard the viewer is invited to measure someone against
+- the-beat: the wade runs the full clip; the turn is the tightening — wide crowd shot 0:00-0:05, then he walks straight into camera 0:08-0:12.7 and fills the frame. Cut in at 0:05 and land on the walk-up at 0:11
+- audio-model: flexible — splashing and street noise, atmospheric; a track sits over it fine
+- pairs-with: any "would yours do this" framing where your own footage is the answer — carrying the gear, the laptop, the kid, the thing nobody else would carry. Also works as the standard your own beat then undercuts
+- clean-window: caption occupies y786-979 of 1280 and CLEARS AT 0:04.5 — 0:04.5-0:12.7 (8.2s) is fully clean, no crop. Verified by eye at 0:05.5, 0:08.5 and 0:11.5
+- file: clips/Dc3tliFsjdt.mp4 (12.7s)
+
+## Dc32SuKxGNE — a man in a suit works two laptops at one desk while an on-screen heart-rate counter climbs 68 to 166; meeting-join notifications from two different companies stack up on his screen, then the counter vanishes, he drinks from a mason jar, and puts his head in his hand
+- source: @kofibelizaire | https://www.instagram.com/reel/Dc32SuKxGNE/
+- lane: tech
+- first-seen: 2026-09-05 | status: FRESH
+- stats-at-capture: 53683 likes / 2147 comments (7.54x account median)
+- joke-structure: escalation by counter — a number on screen does all the rising while the face stays composed, and the gap between the two IS the joke. The recognition trigger is the counter, not the performance. THE HIGHEST COMMENT RATE THE SCAN HAS EVER BANKED: 1 comment per 25 likes, against a bank norm nearer 1 per 200 (this is the comment-engine shape OPEN GAP #4 says the bank cannot picture)
+- the-beat: escalation 0:00-1:20 as the rate climbs; the counter disappears and the composure breaks 1:35-1:45 — the drink at 1:37 and the head-in-hand at 1:44 are the two cuttable payoffs. The clip is 105s: take 8-10s of it, never the whole thing
+- audio-model: flexible — a music bed under a silent performance; the joke is entirely on screen, so muting costs nothing
+- pairs-with: any "holding it together while the number goes up" beat — a token counter, a build timer, a bill, an inbox. For @imabgold this is the same register as the usage-limit posts taste.md flags as proven forwarders
+- clean-window: band y478-1280 of 1280 -> 451x802 crop, 2.39x upscale (clears both the permanent two-line POV caption at y273-351 AND the heart-rate ticker at y443-472). After ~1:30 the ticker clears on its own and the band opens to y357-1280 -> 2.08x. VERIFIED on the cropped drink beat at 1:28: clean, face and action fully in frame. NOTE the ticker IS the joke — crop it out and you keep the performance but lose the mechanism, so cut the payoff beat, not the escalation
+- file: clips/Dc32SuKxGNE.mp4 (104.9s)
+
+## Dc522EcIoDg — a first-person walk through a towboat after a collision: rope and chain flung across the deck grating, then the galley with every single thing that was on a counter now on the floor, the crew mess swept onto the table, down the stairwell, and out onto the deck at night beside the barge
+- source: #fail | https://www.instagram.com/reel/Dc522EcIoDg/
+- lane: general
+- first-seen: 2026-09-05 | status: FRESH
+- stats-at-capture: 16 likes / 0 comments (hashtag recent_media, no account baseline)
+- joke-structure: CHAIN REACTION — one impact you never see, and every interior surface emptied onto the floor. The recognition trigger is the galley at 0:19: you understand the size of the hit entirely from what is lying on the ground. This is the shape OPEN GAP #3 has been asking for since 2026-08-21 and no FRESH entry has ever pictured
+- the-beat: deck and rope 0:00-0:14 (the setup, still ambiguous), the galley reveal 0:19-0:24 is the turn, the crew mess 0:24-0:29 doubles it, stairwell and night deck 0:29-0:40 are the walk-away. Cut in at 0:14 and land on 0:22, or run 0:19-0:29 for the full cascade
+- audio-model: flexible — handheld ambience and engine noise, no dialogue; a track sits over it cleanly
+- pairs-with: "I changed one thing and it moved everything" — the single config edit that emptied the database, the one dependency bump that broke the build, the toddler who pulled one drawer. It also inverts: your own small tidy input against this as the consequence
+- clean-window: NONE — full frame clean. No burned text anywhere in 40.5s, verified across ten samples; the only genuinely text-free clip in today's batch. Native 720x1280, so a flat 1.5x to 1080x1920 with no crop at all
+- file: clips/Dc522EcIoDg.mp4 (40.5s)
+
+## Dc5zvFgO-JF — a slow handheld pan across a gaming desk: a phone on the wood, a hand pulling a mouse across a big anime mousepad, then the RGB keyboard, a monitor running an anime wallpaper, and finally the glass-sided PC tower with a plant on top
+- source: #techtok | https://www.instagram.com/reel/Dc5zvFgO-JF/
+- lane: tech
+- first-seen: 2026-09-05 | status: FRESH
+- stats-at-capture: 137 likes / 18 comments (hashtag recent_media, no account baseline)
+- joke-structure: NO LAUGH — say this plainly. It is a past-tense longing line held over an object that outlived the moment ("the days we played PUBG with my cousin until morning during the pandemic"). The mechanism is nostalgia, and the recognition trigger is the desk itself, which every viewer in this lane owns a version of
+- the-beat: there is no turn; the value is a continuous 14.5s of clean, well-lit, moving desk b-roll. The strongest single grab is the pan onto the monitor and tower at 0:07-0:12
+- audio-model: trending sound (add in-app) — this is a nostalgia edit and it almost certainly rides a licensed library track; do not bake its audio, pick the sound natively in the app
+- pairs-with: the setup you built and now barely use; "this is where it all happened" cutaways; any tech-lane reel needing 2-3s of real desk motion instead of a static screenshot. Do NOT expect it to carry a joke — it carries a mood
+- clean-window: band y0-792 of 1280 -> 445x792 crop, 2.42x upscale. The three-line Turkish caption sits at y798-965 for the entire clip and never fades, so the band is the only route. VERIFIED on the cropped beat at 0:03, 0:07 and 0:12: clean, composition holds in 9:16
+- file: clips/Dc5zvFgO-JF.mp4 (14.5s)
+
+## Dc1bGIVxFmi — OPENER-ONLY. A man sits alone on a folding chair beside a blue sports car on a waterfront promenade at night, city towers behind him, barely moving, under a centre-frame line reading "I'd share my last Claude tokens with you, even if it costs me my max plan"
+- source: @adanxai | https://www.instagram.com/reel/Dc1bGIVxFmi/
+- lane: tech
+- first-seen: 2026-09-05 | status: FRESH
+- stats-at-capture: 273 likes / 7 comments (5.19x account median)
+- joke-structure: devotion oath with a scarcity punchline — the grammar of "I'd give you my last X" applied to something absurdly small and specific. The recognition trigger is the mismatch between the romantic register and the resource being sacrificed. In-group tag: taste.md records this exact register as @imabgold's proven forwarder (DccaGaKBNEO, 48 saves+shares on a three-word in-joke)
+- the-beat: the caption IS the beat and it is on screen from frame one. Take 1.5-2.5s off the front and cut away on your own footage; there is no internal turn to wait for
+- audio-model: trending sound (add in-app) — static shot carried by a library track; nothing here is worth baking
+- pairs-with: opens any reel whose payoff is your own screen, your own usage bar, your own bill. The borrowed line sets the oath, your footage delivers what it actually cost
+- clean-window: FAILS the payoff test and is banked as an OPENER-ONLY donor. The caption sits dead centre for all 7.2s; the band above is 3.37x upscale and the band below 3.30x, both past the 2.6x limit. Bank whole, full-bleed, no crop, no upscale. Never cut this into a payoff beat — its caption will collide with your own card
+- file: clips/Dc1bGIVxFmi.mp4 (7.2s)
+
+## Dc2EgkgJ7BF — OPENER-ONLY. A man lies fully reclined across two teal armchairs with his feet up on the back of one, arms folded behind his head, doing absolutely nothing, under a line reading "POV: Bro waiting for his Claude usage limit to reset"
+- source: @adanxai | https://www.instagram.com/reel/Dc2EgkgJ7BF/
+- lane: tech
+- first-seen: 2026-09-05 | status: FRESH
+- stats-at-capture: 115 likes / 1 comments (2.15x account median)
+- joke-structure: enforced idleness as a posture — the joke is a body that has run out of things it is allowed to do. The recognition trigger is the pose, readable in well under a second with the sound off
+- the-beat: no turn; the whole clip is one held image. Take 1.5-2s off the front as a cold open and cut to your own footage
+- audio-model: trending sound (add in-app) — a held static shot under a library track
+- pairs-with: opens any reel about waiting on something you cannot hurry — a limit reset, a build, a review, a deploy. taste.md records the countdown-with-a-stake as a proven @imabgold forwarder (Dca5-JABtqU, 18 shares)
+- clean-window: FAILS the payoff test and is banked as an OPENER-ONLY donor. The caption sits permanently in the top third; the band below it is 3.37x upscale, past the 2.6x limit. Bank whole, full-bleed, no crop. ⚠ ALSO WARN: motion score 0.005 — this is a near-frozen shot with essentially no movement in it (the DcejaQYskRm failure class). Fine as a 1-2s cold open, USELESS as an action beat; do not plan a moving cut out of it
+- file: clips/Dc2EgkgJ7BF.mp4 (7.3s)
+
+## DczyqhKtH1s — OPENER-ONLY. A wide phone shot from the stands of a youth football match: a boy in red takes the ball past a defender in black and leaves him standing, the move happening small and far away in a big green frame, under a line reading "He cooked him"
+- source: @houseofhighlights | https://www.instagram.com/reel/DczyqhKtH1s/
+- lane: sports
+- first-seen: 2026-09-05 | status: FRESH
+- stats-at-capture: 207367 likes / 1054 comments (2.34x account median)
+- joke-structure: a taunt applied to a small person — the verdict is delivered in adult trash-talk grammar over a kids' match, and the size mismatch is the joke. The recognition trigger is the line, not the skill; the skill is too far away to read fast
+- the-beat: the beat is the line landing over the move at 0:02-0:05. Take 1.5-2s off the front as the setup and cut away
+- audio-model: flexible — stand ambience and a probable track; nothing to bake
+- pairs-with: opens any reel where your own footage is the person getting cooked — the tool that outpaced you, the toddler who out-argued you, the junior who shipped it first
+- clean-window: FAILS the payoff test and is banked as an OPENER-ONLY donor. Frame is 720x900 (4:5, not 9:16). The caption occupies y651-703 for the entire clip; the clean band above is 645px -> 363x645 crop, 2.98x upscale, which misses the 2.6x limit by measurement, not by taste. Bank whole, full-bleed, no crop. ⚠ ALSO NOTE the action is small in frame — a boy at maybe 8% of frame height. Do not plan on the football move reading as a payoff; the LINE is what this donor lends
+- file: clips/DczyqhKtH1s.mp4 (15.3s)
+
 ## Dc2XQwRJvP6 — three men haul a full-grown stag out of a flooded ditch by its antlers after freeing it from a wire fence; it lies flat on the bank for several seconds, then gets up, bolts into the scrub, and stops on the ridge to turn and look back at them before it goes
 - source: @pubity | https://www.instagram.com/reel/Dc2XQwRJvP6/
 - lane: general
@@ -437,41 +545,11 @@ touched.
 - clean-window: FAILS the payoff test, banked OPENER-ONLY. "I state your full name." 🎤😂 sits at y470-510 of 900 on every frame; the largest clean band is y0-465, which crops to 262x465 and needs 4.1x. Bank whole, no crop (the full frame is 2.13x from 720x900)
 - file: clips/DcwBFC-RA8r.mp4 (11.0s)
 
-## DcyFHCMsg8K — a man rides a scooter loaded with a large tub of dry dog food along a Philippine street, stops for a stray, feeds it out of his hand, then crouches on the kerb and gives it a second portion while it waits
-- source: @pubity | https://www.instagram.com/reel/DcyFHCMsg8K/
-- lane: general
-- first-seen: 2026-09-02 | status: DO-NOT-SPLICE (2026-09-02)
-- stats-at-capture: 7236 likes / 116 comments (15.54x account median)
-- joke-structure: no usable mechanism. There is a thin idea in the caption (the stray has trained the human, not the other way round) but the footage never turns — it is sincere rescue content
-- the-beat: none
-- audio-model: n/a
-- pairs-with: n/a
-- clean-window: FAILS IN BOTH ROLES, which is why this is not banked. The original creator's watermark ("@PawsByGerald · I don't have YT") is burned on EVERY frame and MOVES between top-centre, bottom-left and bottom-right, so there is no fixed clean band and no 1.5s stretch that is text-free anywhere; a pubity "following" card is also composited over the picture around 0:27
-- file: clips/DcyFHCMsg8K.mp4 (82.8s)
+## DcyFHCMsg8K — [PRUNED DO-NOT-SPLICE] a man rides a scooter loaded with a large tub of dry dog food along a Philippine street · https://www.instagram.com/reel/DcyFHCMsg8K/ · first-seen 2026-09-02
 
-## DcuE8X7Sdhu — a 2:54 compilation of late-2000s Reebok NFL commercials (Laurence Maroney, Chris Chambers, Marques Colston, Braylon Edwards), each carrying its own broadcast name-card, under one fixed header
-- source: @sportscenter | https://www.instagram.com/reel/DcuE8X7Sdhu/
-- lane: sports
-- first-seen: 2026-09-02 | status: DO-NOT-SPLICE (2026-09-02)
-- stats-at-capture: 529911 likes / 1435 comments (8.26x account median)
-- joke-structure: nostalgia compilation. Not an ad in intent — sportscenter is not selling Reebok in 2026 — but the footage IS somebody else's advertising, which is exactly the material guard 7 exists to keep out of a splice
-- the-beat: none; it is a reel of separate commercials
-- audio-model: n/a
-- pairs-with: n/a
-- clean-window: FAILS badly. The source is letterboxed into 720x900 with a blur fill, the real picture is a strip of roughly 340 rows, and the header "Peak fantasy football commercials 🔥" sits on the blur band above it on every frame. A 9:16 crop out of the picture strip needs about 5.6x. Named players' broadcast name-cards run throughout as well
-- file: clips/DcuE8X7Sdhu.mp4 (174.1s)
+## DcuE8X7Sdhu — [PRUNED DO-NOT-SPLICE] a 2:54 compilation of late-2000s Reebok NFL commercials (Laurence Maroney · https://www.instagram.com/reel/DcuE8X7Sdhu/ · first-seen 2026-09-02
 
-## DcxwkJIB_WB — phone footage shot over the rail of a moving boat in Raritan Bay: a line of tall ships heeling under a bruised sky in 80mph winds, heavy chop breaking white under the camera
-- source: @pubity | https://www.instagram.com/reel/DcxwkJIB_WB/
-- lane: general
-- first-seen: 2026-09-02 | status: DO-NOT-SPLICE (2026-09-02)
-- stats-at-capture: 37813 likes / 366 comments (80.72x account median)
-- joke-structure: none. Spectacle b-roll with no turn and no mechanism to lend
-- the-beat: none
-- audio-model: n/a
-- pairs-with: n/a
-- clean-window: passes the caption test and fails on everything else, which is the whole reason for this record. The burned headline clears by 0:07, but from 0:08 onward the filmer's THUMB crosses the top of the lens in most of the remaining frames (checked at 5/7/9/11/13/15/17/19s — clean only at roughly 0:06-0:08 and 0:10-0:12), and the source is letterboxed top and bottom. Ranked 2nd in the entire scan on numbers alone and banked nothing; recorded so no later scan re-spends a slot rediscovering it
-- file: clips/DcxwkJIB_WB.mp4 (19.3s)
+## DcxwkJIB_WB — [PRUNED DO-NOT-SPLICE] phone footage shot over the rail of a moving boat in Raritan Bay: a line of tall ships heeling under a bruised sky in 80mph winds · https://www.instagram.com/reel/DcxwkJIB_WB/ · first-seen 2026-09-02
 
 ## DcuAX-CSB13 — a woman sits cross-legged on a couch and keeps lifting a dachshund puppy in a floral dress off her lap onto the cushion beside her; every single time, within a second, the puppy is back on her lap, and by the end it has given up on subtlety and just lies flat across her thigh looking at the camera
 - source: @pubity | https://www.instagram.com/reel/DcuAX-CSB13/
