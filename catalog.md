@@ -20,6 +20,102 @@ touched.
 
 <!-- entries below, newest first -->
 
+## Dc8YSdEO5lv — two people crouch behind a row of fence posts in a field watching something offscreen; the man points at it and grins, then claps a hand over his mouth, while the woman leans across him and just stares, deadpan and unimpressed
+- source: #instantregret | https://www.instagram.com/reel/Dc8YSdEO5lv/
+- lane: general
+- first-seen: 2026-09-06 | status: FRESH
+- stats-at-capture: 34 likes / 6 comments (hashtag recent_media, no account baseline)
+- joke-structure: two-hander reaction to an offscreen event, delight and contempt in the SAME frame. The recognition trigger is one hand hitting one mouth while the other person does not move at all
+- the-beat: point at 0:02-0:04, hand-over-mouth at 0:06, her flat stare 0:07-0:10. Cut on the hand hitting the mouth at 0:06 and hold her face
+- audio-model: flexible — outdoor ambience, nothing said that carries the beat
+- pairs-with: any offscreen disaster the user wants reacted to; a reaction cutaway to the user's own screen, result or mistake
+- clean-window: NONE — full frame clean. 720x1280, no burned text at any point in 10.8s, confirmed by reading frames. Usable in BOTH roles at native size, no crop, no upscale. The only unrestricted donor banked today
+- file: clips/Dc8YSdEO5lv.mp4 (10.8s)
+
+## Dc6BNXRMra1 — a hand tilts a baby monitor lying on a carpet; the screen shows a nightvision crib, then the family cat's face fills the entire monitor and stays there, so every check on the baby is a close-up of the cat instead
+- source: @pubity | https://www.instagram.com/reel/Dc6BNXRMra1/
+- lane: general
+- first-seen: 2026-09-06 | status: FRESH
+- stats-at-capture: 71051 likes / 385 comments (2.86x account median)
+- joke-structure: surveillance hijack — the device you installed to watch one subject returns a different subject, and the wrong subject is completely unbothered. Clocked in under a second from the cat's face filling a screen inside a screen
+- the-beat: setup 0:00-0:05 under the creator's caption; the caption fades around 0:05-0:06 and the payoff is the cat owning the monitor 0:06-0:09. Cut in at 0:06
+- audio-model: flexible — room tone only, nothing is lost muting it
+- pairs-with: family-lane "the thing we bought to watch the baby" moments; any "I set up a system and something else took it over" beat
+- clean-window: the creator caption sits roughly rows 300-540 of 1280 and FADES OUT around 0:05-0:06; 0:06-0:09 is fully clean, no crop needed. ⚠ the row-scan reported this clip text-free on all 10 sampled frames and it is NOT — the fade defeats it, exactly the known false-negative class. Verdict is from reading frames
+- file: clips/Dc6BNXRMra1.mp4 (9.0s)
+
+## Dc6SbNBMZf4 — a woman at a dinner table barks back at her dog; the camera whips down the hallway and finds the dog standing in a doorway, and for the last four seconds the dog simply stares into the lens in tighter and tighter close-up without blinking
+- source: @pubity | https://www.instagram.com/reel/Dc6SbNBMZf4/
+- lane: general
+- first-seen: 2026-09-06 | status: FRESH
+- stats-at-capture: 80895 likes / 481 comments (3.26x account median)
+- joke-structure: escalation answered by total stillness. The recognition trigger is the cut from a human making noise to an animal saying absolutely nothing back and refusing to break eye contact
+- the-beat: setup and barking 0:00-0:05 under the creator's caption; caption clears at 0:05 and the payoff is the unbroken stare 0:05-0:09. Cut in at 0:05, land on the tightest frame at 0:08
+- audio-model: diegetic (bakeable) — the barking IS the setup; muting it costs the first half
+- pairs-with: any moment where the user escalates and gets a flat non-response; a deadpan reaction to the user's own outburst
+- clean-window: caption rows 309-426 of 1280 clear at 0:05, so 0:05-0:09 is fully clean with no crop needed. A band crop also works if the whole clip is wanted: 853px below the caption -> 480x853 crop, 2.25x upscale. Passes in both roles
+- file: clips/Dc6SbNBMZf4.mp4 (9.8s)
+
+## Dc4kghEt2rq — a TV camera operator sprints flat out on a gym treadmill with a full broadcast shoulder camera still mounted on him, filmed through a doorway, under the caption "WHAT IS BRO TRAINING FOR"
+- source: @houseofhighlights | https://www.instagram.com/reel/Dc4kghEt2rq/
+- lane: sports
+- first-seen: 2026-09-06 | status: FRESH
+- stats-at-capture: 185494 likes / 5667 comments (3.68x account median) — 1 comment per 32 likes, the strongest comment rate in today's watchlist pool
+- joke-structure: absurd over-preparation played completely straight. Nobody in frame acknowledges that the camera does not need to be there
+- the-beat: the caption is the setup and the visual gag is legible in frame one; it does not develop, it just continues, which is the joke. Use the first 1-2s
+- audio-model: trending sound (add in-app) — the clip rides a library track, never bake it
+- pairs-with: any "training for a problem nobody has" beat; over-engineering a tool before using it
+- clean-window: n/a — OPENER-ONLY donor (caption is the setup). Caption occupies roughly rows 619-734 of 860 for the full 9.1s; the clean band above is 619px -> 348x619 crop -> 3.10x upscale, fails the 2.6x limit. ⚠ the row-scan called this 10/10 clean and it is not — thin outlined type over dark gym footage defeats it. Bank whole, full-bleed, no crop; never cut this into a payoff beat
+- file: clips/Dc4kghEt2rq.mp4 (9.1s)
+
+## Dc6vMMmuj2x — a kid in a blue shirt holds a phone up on FaceTime in a living room and gestures at the screen, under the caption "when bros vibecoded app is doing a little too well so I facetime Claude and tell them he's under 18"
+- source: @adanxai | https://www.instagram.com/reel/Dc6vMMmuj2x/
+- lane: tech
+- first-seen: 2026-09-06 | status: FRESH
+- stats-at-capture: 139 likes / 0 comments (3.16x account median)
+- joke-structure: snitch on your own tool — you sabotage the thing that is working for you because it is working too well. The exact in-group register taste.md records as a proven forwarder on this lane (DccaGaKBNEO, 48 saves+shares on a three-word in-joke)
+- the-beat: the caption IS the beat and it is legible in the first frame; the gesturing is filler behind it. Use 1-2s off the top
+- audio-model: trending sound (add in-app) — lip-sync to a library track
+- pairs-with: any "my own build outran me" moment; handing off to the user's own screen showing the thing working
+- clean-window: n/a — OPENER-ONLY donor (caption is the setup). Caption rows 550-625 of 1024 for all 7.2s, zero clean frames; bands measure 3.49x above and 4.82x below, both fail. Bank whole, full-bleed, no crop; never cut this into a payoff beat
+- file: clips/Dc6vMMmuj2x.mp4 (7.2s)
+
+## Dc7K8KQPeY4 — a toddler in a red shirt at an airport gate climbs the seat backs to watch a Delta jet, then shoves a luggage cart down the concourse and sprints away from the camera, under the caption "The audacity of a gate agent announcing a 'quick 15-minute delay' to parents of a toddler"
+- source: #toddlertravel | https://www.instagram.com/reel/Dc7K8KQPeY4/
+- lane: family
+- first-seen: 2026-09-06 | status: FRESH
+- stats-at-capture: 6 likes / 0 comments (hashtag recent_media, no account baseline)
+- joke-structure: an institution's small inconvenience repriced in the currency of one specific parent's afternoon. "The audacity of" is a portable outrage frame that takes any second half
+- the-beat: caption is the setup; the sprint away from camera at 0:04 is the visual button. Use 0:00-0:02 as the opener
+- audio-model: trending sound (add in-app)
+- pairs-with: family-lane travel-with-a-toddler moments; any "they said fifteen minutes" wait the user actually lived through
+- clean-window: n/a — OPENER-ONLY donor (caption is the setup). Caption rows 651-786 of 1280 from 0:00 to 0:03.9; bands measure 2.95x above and 3.89x below, both fail. Only the final 0.2s is text-free, far under the 1.5s stretch minimum. Bank whole, full-bleed; never cut this into a payoff beat
+- file: clips/Dc7K8KQPeY4.mp4 (4.5s)
+
+## Dco1PVoRGXB — a couple in a hotel bathroom lip-sync to camera while passing a golden retriever puppy back and forth, flopping it upside down and holding it up to the lens
+- source: @julianomass | https://www.instagram.com/reel/Dco1PVoRGXB/
+- lane: general
+- first-seen: 2026-09-06 | status: DO-NOT-SPLICE (2026-09-06)
+- stats-at-capture: 6055 likes / 130 comments (2.17x account median)
+- why not usable: fully clean 576x1024 frame for all 19.5s, which is rare and is why the slot was spent looking. But there is no mechanism: it is a trending-audio dance, not a joke, and nothing turns. Two identifiable strangers dominate every frame and the puppy is a prop, not a payoff. Banked as a record only so a later scan does not re-spend a slot rediscovering it
+- file: clips/Dco1PVoRGXB.mp4 (19.5s)
+
+## Dc8cxfWuFoH — a woman rides a mechanical bull in a bar and stays on it, inside a reposter's frame carrying a "sabiasque" avatar and the Spanish setup "he said it was her first time on the bull"
+- source: #fail | https://www.instagram.com/reel/Dc8cxfWuFoH/
+- lane: general
+- first-seen: 2026-09-06 | status: DO-NOT-SPLICE (2026-09-06)
+- stats-at-capture: 26 likes / 1 comment (hashtag recent_media, no account baseline)
+- why not usable: the reversal (claimed inexperience, then competence) is a real mechanism and the letterboxed picture strip technically clears the gate at 2.58x. It is rejected on the asset, not the measurement: this is second-hand footage inside another account's branded template, and the subject is a bar clip of a stranger's body that no channel this bank serves can post without it reading as leering. Recorded so the slot is not spent again
+- file: clips/Dc8cxfWuFoH.mp4 (60.7s)
+
+## Dc8YREtyp95 — a "POV: when someone offers me curd and calls it HEALTHY" meme, built as an inset box of an Indian TV talk show composited over an unrelated stock photo of a woman looking at mountains
+- source: #memes | https://www.instagram.com/reel/Dc8YREtyp95/
+- lane: general
+- first-seen: 2026-09-06 | status: DO-NOT-SPLICE (2026-09-06)
+- stats-at-capture: 54 likes / 9 comments (hashtag recent_media, no account baseline)
+- why not usable: there is no frame here that can be cut. The "footage" is third-party broadcast at second hand, playing inside a visible rectangle over a background it has nothing to do with, and the POV caption runs across the top the whole time. The format (POV caption + reaction inset) is generic and already covered in the playbook. Recorded so the slot is not spent again
+- file: clips/Dc8YREtyp95.mp4 (13.1s)
+
 ## Dc3cZiQMCif — a boy opens a frosted glass cabinet in a Japanese toy shop and the Toy Story figures inside, whose shadows had been standing up against the glass, drop flat the instant the door moves; he closes it and the shadows climb back up, then he opens it fully on Buzz and Rex standing frozen mid-pose
 - source: @pubity | https://www.instagram.com/reel/Dc3cZiQMCif/
 - lane: general
@@ -374,42 +470,11 @@ touched.
 - clean-window: n/a — OPENER-ONLY donor (the caption IS the setup). "GOT CAUGHT LACKING 😂" sits in a white box at y598 of 720 for all 9.5s; the band above is 559px = 3.44x upscale, FAILS. ⚠ Also note the source is only 576x720 — even banked whole it is soft, and filling 1080x1920 from it costs 2.67x. Use it as a short opener, not a hero shot
 - file: clips/Dcw1DWNtGI4.mp4 (9.5s)
 
-## DcusbAcNuRs — a montage of Carmelo Anthony isolation possessions across four different NBA broadcasts, cut under a screenshot of a @KobeBryantAlert tweet reading "Never forget when Carmelo Anthony had the entire league in ISO HELL"
-- source: @houseofhighlights | https://www.instagram.com/reel/DcusbAcNuRs/
-- lane: sports
-- first-seen: 2026-09-03 | status: DO-NOT-SPLICE (2026-09-03)
-- stats-at-capture: 285445 likes / 1962 comments (3.39x account median)
-- joke-structure: none — this is a sincere appreciation montage, not a gag; there is no turn and nothing to lend
-- the-beat: n/a
-- audio-model: trending sound (add in-app)
-- pairs-with: nothing — catalogued only so a later scan does not re-spend a download slot on it
-- clean-window: FAILS twice over. The tweet card is burned at y0-200 for all 31.8s AND every one of the four source broadcasts carries a permanent network scorebug across the lower frame — the same failure class as DcVBZDiNrHF/DcTuLiwRLAT (2026-08-28). Largest genuinely clean band is 324px = 3.33x upscale
-- file: clips/DcusbAcNuRs.mp4 (31.8s)
+## DcusbAcNuRs — [PRUNED DO-NOT-SPLICE] a montage of Carmelo Anthony isolation possessions across four different NBA broadcasts, cut under a screenshot of a @KobeBryantAlert tweet reading "N · https://www.instagram.com/reel/DcusbAcNuRs/ · first-seen 2026-09-03
 
-## Dc0NT2bTfSh — a white text card reading "POV: You're already behind on the deadline and the PM adds 'just a few small things' to the PRD at the last minute" sits above a borrowed bar scene from The Departed, which stays calm for eight seconds and then erupts into a full brawl
-- source: #programmerhumor | https://www.instagram.com/reel/Dc0NT2bTfSh/
-- lane: tech
-- first-seen: 2026-09-03 | status: DO-NOT-SPLICE (2026-09-03)
-- stats-at-capture: 19 likes / 0 comments (hashtag recent_media, no account baseline)
-- joke-structure: labelled-borrowed-scene — a work situation named in text, then a recognisable film beat plays it out at ten times the real emotional scale
-- the-beat: the eruption at 0:08-0:11
-- audio-model: trending sound (add in-app)
-- pairs-with: n/a as a donor — the FORMAT was captured instead (playbook #45 refreshed 2026-09-03). Catalogued so a later scan does not re-download it
-- clean-window: the picture itself carries no burned text (card is above it, y0-95), but the clean strip is only 705px tall on a 720x800 source -> 396px 9:16 crop = 2.73x upscale, over the 2.6x gate. Separately, the footage is studio-owned feature film, not ours to lend. No clip file kept
-- file: none — format captured, footage unusable
+## Dc0NT2bTfSh — [PRUNED DO-NOT-SPLICE] a white text card reading "POV: You're already behind on the deadline and the PM adds 'just a few small things' to the PRD at the last minute" sits ab · https://www.instagram.com/reel/Dc0NT2bTfSh/ · first-seen 2026-09-03
 
-## Dcz5gcSxaPI — a woman in a tank top and leggings walks steadily toward the camera down a dry hillside trail at golden hour while an eight-line text block sits across the middle of the frame telling a story about her daughter tearing the house apart looking for a phone that is in the dishwasher she was asked to unload
-- source: #parentsofinstagram | https://www.instagram.com/reel/Dcz5gcSxaPI/
-- lane: family
-- first-seen: 2026-09-03 | status: DO-NOT-SPLICE (2026-09-03)
-- stats-at-capture: 24 likes / 6 comments (hashtag recent_media, no account baseline)
-- joke-structure: withheld-information deadpan — the parent knows the answer, says nothing, and closes on a one-line law ("Parenting is a long game")
-- the-beat: the kicker line, held for the last third
-- audio-model: trending sound (add in-app)
-- pairs-with: n/a as a donor — the FORMAT was captured instead (playbook #62). Catalogued so a later scan does not re-download it
-- clean-window: FAILS. The text block occupies y385-895 of 1274 for the entire 12.2s, straddling the exact middle; the band above is 380px = 5.05x and the band below 374px = 5.1x. There is no clean stretch at any point. No clip file kept
-- file: none — format captured, footage unusable
-
+## Dcz5gcSxaPI — [PRUNED DO-NOT-SPLICE] a woman in a tank top and leggings walks steadily toward the camera down a dry hillside trail at golden hour while an eight-line text block sits acros · https://www.instagram.com/reel/Dcz5gcSxaPI/ · first-seen 2026-09-03
 
 ## Dcwk7_RMpJ1 — a small boy in a Spider-Man crocs-and-black-tee outfit loads an aerosol Cheez Whiz can into his toy Spider-Man web launcher, fires it across the kitchen at his aunt, and coats her face, hair and chest in yellow cheese while the rest of the family folds up laughing
 - source: @pubity | https://www.instagram.com/reel/Dcwk7_RMpJ1/
@@ -1663,7 +1728,7 @@ touched.
 ## DaW57QKigDK — Text "Bad news for claude / I just got home" over a hand jangling car keys walking in the door, cut to the Claude desktop app greeting him by name ("Yooo Bartu, what's good? What are we working on today?"), cut to a Claude Code terminal where he types "make me a millon dollars." and it just starts Swirling…
 - source: @bartubuilds | https://www.instagram.com/reel/DaW57QKigDK/
 - lane: tech
-- first-seen: 2026-08-15 | status: FRESH
+- first-seen: 2026-08-15 | status: STALE (2026-09-06)
 - stats-at-capture: 9133 likes / 48 comments (manual add from Marcus's saves; caption "Hey claude, make me a million dollars. No mistakes. #claude #startup #ai"; posted Jul 3, no account baseline)
 - joke-structure: pet-owner framing of an AI — "bad news for claude" casts the model as the one whose day just got worse, then the absurd-delegation payoff (typing "make me a million dollars" like a chore) plays the fantasy completely straight
 - the-beat: keys/arrival setup 0:00-0:03, Claude greeting beat ~0:04-0:07, terminal "make me a millon dollars." + Swirling… payoff ~0:08-0:11. Cut on the Swirling… line — the machine dutifully getting to work IS the laugh
@@ -1674,7 +1739,7 @@ touched.
 ## DbXGmRlN_J9 — Text "POV: you try to take a break as an entrepreneur" over a man closing his laptop at a dim kitchen table; he picks up his phone and every reel he scrolls is hustle content (a Hormozi-style podcast desk, "Do so much work it would be unreasonable...") until he gives up and goes back to the laptop
 - source: @gurr_505 | https://www.instagram.com/reel/DbXGmRlN_J9/
 - lane: tech
-- first-seen: 2026-08-15 | status: FRESH
+- first-seen: 2026-08-15 | status: STALE (2026-09-06)
 - stats-at-capture: 20892 likes / 262 comments (manual add from Marcus's saves; caption "😂😂"; posted Jul 28, no account baseline)
 - joke-structure: escape-that-loops-back — the "break" is scrolling, but the algorithm serves only grind content, so rest turns back into work; payoff is the resigned return to the laptop
 - the-beat: laptop-close + phone pickup setup 0:00-0:05, the scrolled hustle-reels escalate ~0:06-0:15, back-to-the-laptop payoff ~0:16-0:19. Cut on the return to the keyboard. NOTE: the phone UI is in Chinese and the scrolled reels are screen-recorded reposts with IG chrome baked in — keep those beats quick or crop tight so the overlay doesn't read
@@ -1685,7 +1750,7 @@ touched.
 ## DaytndsJOv2 — Text held the whole clip: "\"you got lucky\" / the luck:" over a cinematic night montage of a guy alone at a laptop in a glass high-rise apartment — dusk to full dark, headphones on, typing while the city lights up behind him
 - source: @realchasko | https://www.instagram.com/reel/DaytndsJOv2/
 - lane: tech
-- first-seen: 2026-08-15 | status: FRESH
+- first-seen: 2026-08-15 | status: STALE (2026-09-06)
 - stats-at-capture: 39868 likes / 157 comments (manual add from Marcus's saves; caption "Quit the 9-5 to do a 9-9"; posted Jul 14, no account baseline)
 - joke-structure: quote-vs-receipts template — a dismissive quote up top, then "the luck:" reveals the unglamorous grind behind the outcome. Same skeleton as the classic "the luck:" meme, played aesthetic instead of bitter
 - the-beat: no turn — the whole clip is one held contrast; any 3-5s window works as a montage bed. The text template IS the joke; the footage just has to look like work
@@ -1696,7 +1761,7 @@ touched.
 ## DZu9rl2RtDy — Skit: text "CTO watching CEO sell clients features that don't exist 😭🥀" — two teens on a family-room couch, the CEO pitching with animated hands while the CTO stares dead-eyed at the laptop, escalating reaction shots, then a hard cut to a movie close-up (bald man gripping a steering wheel, thousand-yard stare) as the CTO's inner state
 - source: @travelink.app | https://www.instagram.com/reel/DZu9rl2RtDy/
 - lane: tech
-- first-seen: 2026-08-15 | status: FRESH
+- first-seen: 2026-08-15 | status: STALE (2026-09-06)
 - stats-at-capture: 83000 likes / 680 comments (manual add from Marcus's saves; caption "Tag your CTO and apologize in advance 😭 #startup #founder #tech #foundersbuilding #app"; posted Jun 18, no account baseline)
 - joke-structure: role-pair tension template — one role makes promises, the other has to build them; the comedy is the CTO's silent suffering escalating into a movie-clip reaction payoff. NOTE the source is itself an app company's account, but the skit is made to be funny, not to sell (no product shown, no CTA) — judged intent per guard 7
 - the-beat: couch pitch + dead stare 0:00-0:06, reaction close-ups ~0:06-0:08, movie-clip inner-state payoff ~0:09-0:10. The steering-wheel cut is the splice beat — 2s of borrowed despair that closes any "I promised something I can't build" setup
@@ -1707,7 +1772,7 @@ touched.
 ## DZ7ArcGIBBU — Desk POV: text "Yeah running a business is hard but there's no way I'm letting another man tell me when i can eat lunch." — a hand closes the MacBook at 14:31 on the desk clock, beat, then reopens it at 14:32 to a to-do list wallpaper
 - source: @iambenhollingworth | https://www.instagram.com/reel/DZ7ArcGIBBU/
 - lane: tech
-- first-seen: 2026-08-15 | status: FRESH
+- first-seen: 2026-08-15 | status: STALE (2026-09-06)
 - stats-at-capture: 15566 likes / 83 comments (manual add from Marcus's saves; caption "Fr #onlinebusiness #fyp #hustle #laptop #viral"; posted Jun 23, no account baseline)
 - joke-structure: freedom-flex anticlimax — the grand declaration of independence ("no man tells me when to eat lunch") buys exactly one minute of freedom; the 14:31→14:32 clock is the whole punchline
 - the-beat: declaration + laptop close 0:00-0:04, the reopen at 14:32 payoff ~0:05-0:07. Cut on the reopened screen; the clock must stay readable in both shots or the joke dies
@@ -1718,7 +1783,7 @@ touched.
 ## DYSOi-KRQlc — Cafe POV: text "Okay guys I brought my macbook to a coffee shop now how do I make $10k a month" — a hand rests on a closed MacBook beside a latte in a gorgeous bookstore cafe (chandeliers, floor-to-ceiling shelves), camera pans the room, laptop never opens
 - source: @itsmarcosphilip | https://www.instagram.com/reel/DYSOi-KRQlc/
 - lane: tech
-- first-seen: 2026-08-15 | status: FRESH
+- first-seen: 2026-08-15 | status: STALE (2026-09-06)
 - stats-at-capture: 19400 likes / 241 comments (manual add from Marcus's saves; caption "What's the next step @tjr ?"; posted May 13, no account baseline)
 - joke-structure: aesthetic-equals-income fallacy played straight — the laptop-in-a-cafe LOOK is treated as the entire business plan, and the sincere "now what" question is the punchline. The laptop staying closed is the tell
 - the-beat: one held joke, no turn — text + setting land in the first 2s, the pan just sustains it. Any 3-4s window splices; keep the closed laptop + latte in frame

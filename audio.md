@@ -9,9 +9,29 @@
 
      Target size: >= 5x the weekly post count of the accounts drawing on it.
      At 3-4 posts/day on one account alone that means 100+, not 20. Current
-     pool: 157 (deadpan-hold 25, escalation 22, comparison 28,
-     quiet-confession 36, momentum 46) as of 2026-09-05. The pool is over
+     pool: 158 (deadpan-hold 25, escalation 22, comparison 28,
+     quiet-confession 37, momentum 46) as of 2026-09-06. The pool is over
      target, so the +5-per-scan floor no longer binds.
+     2026-09-06: +1 added, 2 re-confirmed, 0 dropped. Took the 09-05 instruction
+     and spent all three queries catalogue-aimed (a 2000s-throwback era query, an
+     old-soul/Motown genre query, and a mood query for slow-build piano). Result
+     splits cleanly and is worth recording: the two ERA/GENRE queries returned
+     ZERO usable entries between them — the throwback query named no titles at
+     all (only descriptions: "an early 2000s anthem", "a throwback party
+     anthem"), and the Motown query named plenty (My Girl, Show and Tell, Do You
+     Love Me, Shotgun, Ain't No Mountain High Enough) but every one came off an
+     evergreen "greatest of all time" list, not evidence of anything trending
+     now. Unsourced-for-trend is the same failure as unsourced, so none were
+     added. The MOOD query was the one that produced: "august" (Ophelia Wilde),
+     a piano roll named as creeping back into this week's top ten, plus
+     re-sightings of Prayer Instrumental and A Sprinkle of Happiness.
+     REFINEMENT to the 09-04 standing read: "catalogue-aimed" is too broad a
+     description of what works. A query aimed at an ERA or a GENRE returns
+     canon, which is timeless and therefore useless here. A query aimed at a
+     MOOD or a CUT SHAPE (slow build, piano intro, deadpan) returns what is
+     being used this week, because that is how the roundups actually index.
+     NEXT SCAN: query by shape/mood, not by decade or genre. url: backfill
+     remains the higher-value alternative (85 of 158, 54%, still have no link).
      2026-09-05: ZERO new tracks, and it CONFIRMS the 09-04 read rather than
      contradicting it. Today spent all three queries on GENERIC roundup shapes
      ("trending reels audio September 2026", a title+artist list variant, and a
@@ -310,7 +330,7 @@
 
 "Don't Tell Your Dreams" — STOSLIV | shape: escalation | lane-fit: tech/business | why: the motivational/cinematic bed creators pair with gym progress, business milestones and build arcs — the swell is engineered to land on a result | start: from the top, land the swell on the result | confirmed: 2026-09-05
 
-"Prayer Instrumental" — VOIDKRUZER | shape: escalation | lane-fit: tech/business | why: named this week for dramatic edits and transformation cuts — an instrumental that swells with no vocal to argue with, so it can sit under a build without dating the reel | start: from the top, land the swell on the result | url: https://www.instagram.com/reels/audio/1442181804116085/ | confirmed: 2026-08-28
+"Prayer Instrumental" — VOIDKRUZER | shape: escalation | lane-fit: tech/business | why: named this week for dramatic edits and transformation cuts — an instrumental that swells with no vocal to argue with, so it can sit under a build without dating the reel | start: from the top, land the swell on the result | url: https://www.instagram.com/reels/audio/1442181804116085/ | confirmed: 2026-09-06
 
 "House" — Charli XCX ft. John Cale | shape: escalation | lane-fit: any | why: named this week for exaggerating minor everyday problems into crises — the track keeps raising the stakes so each stacked beat reads as worse than the last | start: on the first line, one problem per phrase | confirmed: 2026-08-28
 
@@ -403,6 +423,7 @@
 "Material Lover" — Sienna Spiro | shape: comparison | lane-fit: any | why: 6.4K posts on project/product/menu showcases, cutting between what was wanted and what was made. Re-added 2026-08-21 on fresh evidence after an unjustified 08-20 drop | start: on the beat | confirmed: 2026-08-22
 
 ## quiet-confession
+"august" — Ophelia Wilde | shape: quiet-confession | lane-fit: any | why: a light piano roll that has been circulating for months and is creeping back into the top ten this week — calming rather than sad, so it sits under an admission without instructing the viewer to feel sorry | start: from the top, let the first phrase clear before the text lands | url: https://www.instagram.com/reels/audio/1048195903485641/ | confirmed: 2026-09-06
 
 "Kiss of Life" — Sade | shape: quiet-confession | lane-fit: any | why: named this week as the bed under aesthetic cuts — unhurried, warm and almost entirely without an attack, so it never fights a written line for attention; the closest thing in this pool to a track that makes an ordinary frame feel deliberate | start: from the top, let the first bar breathe under the card | url: https://www.instagram.com/reels/audio/413064942781211/ | confirmed: 2026-09-04
 
@@ -421,7 +442,7 @@
 
 "Piano Man x Silver Springs" — mashup | shape: quiet-confession | lane-fit: any | why: named this week for nostalgic reflection and for "showing yourself doing something outside your comfort zone" — dramatic enough to carry an admission that would sound thin spoken flat, without tipping into scored | start: on the mashup turn, put the admission there | confirmed: 2026-08-28
 
-"A Sprinkle of Happiness" — asa palette cafe | shape: quiet-confession | lane-fit: family/food | why: the current feel-good bed for cozy morning routines, cooking, pets and home moments — warm without being saccharine, and quiet enough to leave room for text | start: from the top | url: https://www.instagram.com/reels/audio/4296056680610923/ | confirmed: 2026-09-05
+"A Sprinkle of Happiness" — asa palette cafe | shape: quiet-confession | lane-fit: family/food | why: the current feel-good bed for cozy morning routines, cooking, pets and home moments — warm without being saccharine, and quiet enough to leave room for text | start: from the top | url: https://www.instagram.com/reels/audio/4296056680610923/ | confirmed: 2026-09-06
 
 "Young and Beautiful" — Lana Del Rey | shape: quiet-confession | lane-fit: any | why: back on this month's list for nostalgia and reflective cuts — slow, sparse and sad enough that a dry admission over it reads as honest rather than staged | start: on the first vocal line | url: https://www.instagram.com/reels/audio/1850093231958659/ | confirmed: 2026-08-28
 
