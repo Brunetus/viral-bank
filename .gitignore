@@ -5,3 +5,11 @@ frames/
 TEST-MODE
 last-scan.txt
 .DS_Store
+
+# Hand-built client/reference folders and catalog backups — working material,
+# never bank output. BANK.md step 7 commits with `git add -A`, so without these
+# rules every scan re-commits ~40MB of mp4s into the repo (caught 2026-09-09).
+em__robinson/
+rghoss1/
+sahilchawla.md/
+catalog.md.bak-*

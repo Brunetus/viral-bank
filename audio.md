@@ -10,8 +10,46 @@
      Target size: >= 5x the weekly post count of the accounts drawing on it.
      At 3-4 posts/day on one account alone that means 100+, not 20. Current
      pool: 158 (deadpan-hold 25, escalation 22, comparison 28,
-     quiet-confession 37, momentum 46) as of 2026-09-07. The pool is over
+     quiet-confession 37, momentum 46) as of 2026-09-09. The pool is over
      target, so the +5-per-scan floor no longer binds.
+     2026-09-09: 0 added, 2 RE-CONFIRMED ("9 to 5" Dolly Parton, "Less Than a
+     Lover" JENNIE), 0 dropped, 0 urls backfilled. Followed the 09-07 instruction
+     exactly — ONE discovery query, the rest of the budget into url: backfill —
+     and BOTH halves came back empty, which is itself the finding.
+     Discovery (one generic weekly-roundup query): named five things, and only two
+     were picks at all. "9 to 5" and "Less Than a Lover" were already here. The
+     other three repeated the 09-06/09-07 failure mode exactly — a 1979 disco
+     track described only by an "abundance frequency" claim, "a banjo-driven track
+     from Sabrina Carpenter's Man's Best Friend rollout" (the SAME unnamed track
+     that could not be added on 09-07), and "the Devil Wears Prada 2 soundtrack",
+     which is a soundtrack, not a pick. A description is not a title and a pick is
+     a title AND an artist, so none were added. That is now FOUR consecutive scans
+     netting 0, +1, 0, 0.
+     url: backfill returned nothing either, and the TITLE-MATCH GUARD is why —
+     it worked exactly as written and should not be loosened. Query 2 ("They Want
+     You", Village People) returned only that artist's OTHER audio pages, Y.M.C.A.
+     and Macho Man, which is precisely the failure the guard exists to catch; a
+     looser rule would have written a Y.M.C.A. id under an escalation track and
+     sent the human to the wrong sound at post time. Query 3 ("I Knew It, I Knew
+     You", Taylor Swift) returned plenty of reels USING the song but not one URL
+     of the /reels/audio/<id>/ shape, so there was no id to take. Neither track
+     got a url and neither should have.
+     Drop sweep: 0 due, and cleanly — ALL 158 tracks carry a confirmed: date
+     inside the 21-day window, so no track is even eligible on evidence. The pool
+     is fully current.
+     STANDING READ, sharpened: the roundup surface is exhausted for DISCOVERY and
+     is now also weak for BACKFILL, because a track that no longer trends hard
+     enough to be named is also a track whose audio page a general search will not
+     surface. The 71 remaining url-less entries are disproportionately the older,
+     quieter picks — exactly the ones a search cannot resolve. FOR MARCUS: the
+     only two paths left with real yield are (a) reading ids out of the IG app by
+     hand for the url-less tracks that matter, or (b) accepting that a stable,
+     over-target, fully-current pool of 158 does not need to grow and cutting 6c
+     back to a re-confirm-and-drop pass. This file is not the binding constraint
+     any more; OPEN GAP 1 in BANK.md is arguably closed and worth re-reading.
+     NEXT SCAN: one discovery query only, and do not spend the other two on
+     backfill searches until Marcus rules on the above — they are now the
+     lowest-yield calls in the whole scan.
      2026-09-07: 0 added, 8 RE-CONFIRMED, 0 dropped — the largest re-sighting
      day this file has had, and the read is that the pool has caught up with the
      roundups. Followed the 09-06 instruction exactly and aimed all three queries
@@ -289,7 +327,7 @@
 
 "Behind These Hazel Eyes" — Kelly Clarkson | shape: deadpan-hold | lane-fit: any | why: running under funny, relatable situations people keep finding themselves in — an enormous breakup bed spent on a minor recurring annoyance | start: on the chorus, land the text on the first line | url: https://www.instagram.com/reels/audio/807045879485457/ | confirmed: 2026-09-07
 
-"Less Than a Lover" — JENNIE | shape: deadpan-hold | lane-fit: any | why: dreamy backdrop currently carrying reflective and travel content; sparse and even enough to sit under a held text card without competing with it, which is what most of this bank's formats need | start: from the top, let the first bar run under the text | url: https://www.instagram.com/reels/audio/1041427958369976/ | confirmed: 2026-09-05
+"Less Than a Lover" — JENNIE | shape: deadpan-hold | lane-fit: any | why: dreamy backdrop currently carrying reflective and travel content; sparse and even enough to sit under a held text card without competing with it, which is what most of this bank's formats need | start: from the top, let the first bar run under the text | url: https://www.instagram.com/reels/audio/1041427958369976/ | confirmed: 2026-09-09
 
 "Hopelessly Devoted To You" — Olivia Newton-John (from Grease) | shape: deadpan-hold | lane-fit: any | why: the current bed for being emotionally attached to a routine or an object; the devotion is played completely straight and the object is always too small to deserve it | start: on the vocal entry | confirmed: 2026-09-04
 
@@ -527,7 +565,7 @@
 
 "Timber" — Pitbull ft. Kesha | shape: momentum | lane-fit: general/sports | why: fast-cut sports, fitness and night-out edits — relentless tempo that makes ordinary footage feel like a highlight reel. Re-sighted 2026-08-22 on SocialBee, caveat cleared | start: on the whistle hook | url: https://www.instagram.com/reels/audio/261927184528157/ | confirmed: 2026-09-07
 
-"9 to 5" — Dolly Parton | shape: momentum | lane-fit: tech | why: having another moment on Reels (4.2M reels on the tag) — the relentless typewriter-shuffle rhythm reads as WORK before a single word lands, so it plays straight under a grind cut and ironic under anyone whose work looks nothing like a 9-to-5; the sharpest lane fit in this pool for office and building content | start: on the piano intro, land the first beat on the first task | url: https://www.instagram.com/reels/audio/352308938707037/ | confirmed: 2026-09-05
+"9 to 5" — Dolly Parton | shape: momentum | lane-fit: tech | why: having another moment on Reels (4.2M reels on the tag) — the relentless typewriter-shuffle rhythm reads as WORK before a single word lands, so it plays straight under a grind cut and ironic under anyone whose work looks nothing like a 9-to-5; the sharpest lane fit in this pool for office and building content | start: on the piano intro, land the first beat on the first task | url: https://www.instagram.com/reels/audio/352308938707037/ | confirmed: 2026-09-09
 
 "petal" — Ariana Grande | shape: momentum | lane-fit: general | why: 90K posts, dreamy synth-heavy bed for aesthetic and reveal content; note the lyric contains an expletive, so check the section you cut before committing | start: on the synth line, avoid the explicit bar | confirmed: 2026-09-05
 
