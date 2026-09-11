@@ -2013,7 +2013,7 @@ touched.
 ## DcPUWj1vU78 — a humanoid robot sprints a full lap of an empty Olympic track, then drives itself straight into the trackside electrical boxes
 - source: @pubity | https://www.instagram.com/reel/DcPUWj1vU78/
 - lane: general
-- first-seen: 2026-08-20 | status: FRESH
+- first-seen: 2026-08-20 | status: STALE (2026-09-11)
 - stats-at-capture: 167404 likes / 8835 comments (173.55x account median)
 - joke-structure: two-card bait and switch — card one is a flat record-breaking boast ("A ROBOT BROKE USAIN BOLT'S SPEED RECORD"), card two arrives mid-run and retroactively demolishes it ("THEN CRASHED STRAIGHT INTO AN ELECTRICAL BOX"), and the crash lands right as you finish reading it
 - the-beat: setup card 0:00-0:05 over the sprint; card flips at 0:05 as the robot rounds the bend; impact at 0:10-0:12 and it is left face-down in the cabling. Cut on the card flip at 0:05, or take 0:08-0:13 as a pure payoff beat
@@ -2024,7 +2024,7 @@ touched.
 ## DcJGKfFh6ct — one man plays every member of a Middle Eastern household and physically prevents a guest from leaving by burying him in tea, nuts and hand-fed fruit
 - source: @9gag | https://www.instagram.com/reel/DcJGKfFh6ct/
 - lane: general
-- first-seen: 2026-08-20 | status: FRESH
+- first-seen: 2026-08-20 | status: STALE (2026-09-11)
 - stats-at-capture: 176131 likes / 2235 comments (5.42x account median)
 - joke-structure: escalating obstruction — the guest announces he is leaving and every attempt to stand up summons more hospitality, played by the same performer switching between a headscarfed auntie and the trapped guest in a cap. The joke is that the exit never happens and the guest stops resisting
 - the-beat: premise card 0:00-0:06; tea appears at 0:07; the table fills 0:12-0:25; the payoff run is 0:30-0:42, close-ups of fruit being pushed directly into his mouth while he chews in defeat. Cut on the tea pour at 0:07 for the turn, or lift 0:33-0:40 as a standalone "I am not getting out of here" payoff
@@ -2035,7 +2035,7 @@ touched.
 ## DcQSJ10hrBL — a four-year-old in a pink helmet bails hard off her skateboard, says "ouchy", and carries on singing the Australian national anthem without missing a word
 - source: @pubity | https://www.instagram.com/reel/DcQSJ10hrBL/
 - lane: general
-- first-seen: 2026-08-20 | status: FRESH
+- first-seen: 2026-08-20 | status: STALE (2026-09-11)
 - stats-at-capture: 14496 likes / 302 comments (14.57x account median)
 - joke-structure: undercut by indifference — the pain beat arrives and is given exactly one word before the performance resumes. She is singing "Advance Australia Fair" to herself the entire time and treats a full-body slam as a minor interruption to the recital
 - the-beat: setup card 0:00-0:03; the bail at 0:04; she is sitting on the concrete at 0:11 with "Ouchy" and is back on the lyric a second later. The whole usable beat is 0:03-0:13; the remaining 45s is filler park footage
@@ -2046,7 +2046,7 @@ touched.
 ## DcQmzUTsBPA — camera creeps into a silent bedroom and finds the toddler has dressed both family dogs in tiaras and jewellery, and they are just lying there taking it
 - source: @pubity | https://www.instagram.com/reel/DcQmzUTsBPA/
 - lane: general
-- first-seen: 2026-08-20 | status: FRESH
+- first-seen: 2026-08-20 | status: STALE (2026-09-11)
 - stats-at-capture: 14044 likes / 112 comments (13.94x account median)
 - joke-structure: stated suspicion, empty hunt, reveal — one held line ("MY DAUGHTER'S ROOM WAS SUSPICIOUSLY QUIET. I THEN FOUND THIS INSIDE HER ROOM") licenses two seconds of nothing, and the payoff is not the crime but the victims' total compliance
 - the-beat: push-in through the doorway 0:00-0:02 on an empty frame; the dogs land at 0:03; the girl turns and grins into the lens at 0:05. Cut on the reveal at 0:03 — the whole thing is 6 seconds and needs no trimming
@@ -2057,7 +2057,7 @@ touched.
 ## DcOyHDVsWu_ — 25 unbroken seconds of twin toddlers squabbling around a bed frame, promised as "the honest version" of twins, that ends with the two of them hugging
 - source: @pubity | https://www.instagram.com/reel/DcOyHDVsWu_/
 - lane: general
-- first-seen: 2026-08-20 | status: FRESH
+- first-seen: 2026-08-20 | status: STALE (2026-09-11)
 - stats-at-capture: 58781 likes / 708 comments (58.58x account median)
 - joke-structure: bait and switch to wholesome — the card promises the unflattering truth about twins, delivers twenty seconds of low-grade shoving, and then pays off with affection instead of a punchline
 - the-beat: card 0:00-0:05; the chaos is one continuous handheld take with no internal beat, which is the limitation here; the only clean cut is the hug at 0:22-0:25. Use it as a closing beat, not as a setup
@@ -2182,3 +2182,15 @@ touched.
 - clean-window: **its burned 3-line card (ink y294-692 at 1080 scale) is on screen the WHOLE reel — it is the setup asset, not a defect. Legal on setup/mid beats under BANK.md 4b; the fall tail 8.267+ is its own button — do not carry it into a replica that supplies a different payoff.** Donor frames ≤247 are club; f248+ are the fall
 - file: clips/DckzWjZTiC1.mp4 (9.08s)
 - spliced: 2026-08-29 `devs_department` — frames 81-247 (the club-guy beat) whole as the reel's setup/reveal; the fall tail dropped on Marcus's order; his POV door footage opens and closes the reel
+
+## yt-ez6UG1VURmU — I, Robot (2004): the NS-5 robots pour out of a delivery truck in rows, red chests glowing, and march down the city street toward the camera while a robot voice announces "Please return to your homes. A curfew is in effect"
+- source: YouTube clip of the film, fetched 2026-09-10 on Marcus's instruction | https://www.youtube.com/watch?v=ez6UG1VURmU (banked segment = source 3:40-4:10)
+- lane: tech (the "AI takes over" payoff)
+- first-seen: 2026-09-10 | status: FRESH
+- stats-at-capture: n/a (film clip, not a creator's reel) — ⚠ studio footage: a post using it can draw a copyright claim; Marcus's call.
+- joke-structure: the thing you switched on does not stop when you ask. The moment the machines stop obeying, played straight and enormous.
+- the-beat (times in the banked file): 5.0-12.5 rows of robots on the truck racks, red chests; 12.5-19.5 robots lined up and starting to march down the street; 19.75-22.25 the crowd staring (the line "Please return to your homes" starts at 19.8); 22.25-24.75 the robots advancing straight at the lens, red chests, "a curfew is in effect" under it; 24.75-26 crowd again. Best silent payoff: 22.25-24.75. Best payoff WITH the line: 19.5-23.0 (movie's own cuts inside, that is fine).
+- audio-model: the robot voice line is the joke's audio; keep natural audio on this beat if the cut carries audio, otherwise silent with the card.
+- pairs-with: "I approved it without reading it" → this; any "I let the machine run" confession; the payoff after a ladder of shrinking credit.
+- clean-window: no burned text anywhere. 16:9 1080p source: a 9:16 crop is 607x1080 = 1.78x upscale (inside the 2.6x law); centre the crop on the lead robot in 22.25-24.75. Full-bleed, never letterbox.
+- file: clips/yt-ez6UG1VURmU.mp4 (30.0s, 1080p, 30fps, with audio)
