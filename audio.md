@@ -9,9 +9,34 @@
 
      Target size: >= 5x the weekly post count of the accounts drawing on it.
      At 3-4 posts/day on one account alone that means 100+, not 20. Current
-     pool: 158 (deadpan-hold 25, escalation 22, comparison 28,
-     quiet-confession 37, momentum 46) as of 2026-09-10. The pool is over
+     pool: 156 (deadpan-hold 25, escalation 22, comparison 28,
+     quiet-confession 37, momentum 44) as of 2026-09-12. The pool is over
      target, so the +5-per-scan floor no longer binds.
+     2026-09-12: +1 added ("Whimsymaxxing" caitbcontent), 7 RE-CONFIRMED ("petal"
+     Ariana Grande, "Ring My Bell" Anita Ward, "Less Than a Lover" JENNIE, "We Are
+     The People (me n ü Remix)", "oh yeah?" Steve Lacy, "(When You Gonna) Give It
+     Up to Me" Sean Paul ft. Keyshia Cole, "Cherry on the Edge" miss rany),
+     3 DROPPED on the 21-day rule. Two discovery searches, one url: search.
+     THE DROPS ARE THE NEWS. "Let Him Cook" (XNIMXS), "Seduce" (d33p.14) and
+     "Shake Your Money Maker" (Ludacris) all carried confirmed: 2026-08-21, hit 22
+     days today, and neither of today's roundups mentioned any of them — both
+     conditions of the drop rule met, so they went. All three entered on 2026-08-21
+     from the same source, a Snaplytics DAILY chart, and two of the three say so in
+     their own `why:` line. A daily-chart entry is a fast-riser, and a fast-riser
+     that no weekly editorial list has picked up in three weeks did not convert.
+     Worth watching whether daily-chart adds have a systematically shorter life
+     here than editorial-roundup adds; if they do, they should be stamped as bets.
+     "Whimsymaxxing" is added WITHOUT a url and with the reason written into the
+     entry: the title-match guard was not satisfiable (the instagram.com search
+     returned the trend and its hashtag, not that creator or an audio page), and
+     the guard is not loosened for it. "That wasn't very nonchalant", "Going
+     Crazy", "Potential-Maxxing", "Flop-Core" and "10/10 Habits" were all named
+     today with NO creator attached, so they are trend names, not picks, and none
+     were added. The "banjo-driven Sabrina Carpenter track" appeared for the third
+     scan running, today captioned as if "Man's Best Friend" were the title — that
+     is her ALBUM, and writing an album name into a track field would send the
+     human to the wrong sound, so it is still refused. Five consecutive scans now:
+     0, +1, 0, 0, +1.
      2026-09-10: 0 added, 6 RE-CONFIRMED ("Ring My Bell" Anita Ward, "Kiss of Life" Sade,
      "Goodies" Ciara, "Only You" The Platters, "We Are The People (me n ü Remix)",
      "Less Than a Lover" JENNIE), 0 dropped. Two roundup searches; every named pick was
@@ -333,7 +358,7 @@
 ## deadpan-hold
 
 "Only You" — The Platters | shape: deadpan-hold | lane-fit: any | why: listed for romantic moments and for totally funny ones in the same breath; the doo-wop sincerity is the straight face when the subject is an object, a habit or a tool | start: on the opening vocal | url: https://www.instagram.com/reels/audio/545598138431091/ | confirmed: 2026-09-10
-"Less Than a Lover" — JENNIE | shape: deadpan-hold | lane-fit: any | why: dreamy backdrop currently carrying reflective and travel content; sparse and even enough to sit under a held text card without competing with it, which is what most of this bank's formats need | start: from the top, let the first bar run under the text | url: https://www.instagram.com/reels/audio/1041427958369976/ | confirmed: 2026-09-10
+"Less Than a Lover" — JENNIE | shape: deadpan-hold | lane-fit: any | why: dreamy backdrop currently carrying reflective and travel content; sparse and even enough to sit under a held text card without competing with it, which is what most of this bank's formats need | start: from the top, let the first bar run under the text | url: https://www.instagram.com/reels/audio/1041427958369976/ | confirmed: 2026-09-12
 "Behind These Hazel Eyes" — Kelly Clarkson | shape: deadpan-hold | lane-fit: any | why: running under funny, relatable situations people keep finding themselves in — an enormous breakup bed spent on a minor recurring annoyance | start: on the chorus, land the text on the first line | url: https://www.instagram.com/reels/audio/807045879485457/ | confirmed: 2026-09-07
 
 
@@ -384,6 +409,8 @@
 
 ## escalation
 
+"Whimsymaxxing" — caitbcontent | shape: escalation | lane-fit: general/family | why: the bed under the Y2K maximalism trend — it rewards a cut that keeps ADDING (one more bow, one more sticker, one more tab), so a stack that gets sillier each pass plays as delight rather than mess | start: from the top, add one thing per bar | confirmed: 2026-09-12 | NOTE: named by one roundup as an original audio from caitbcontent; a site-scoped instagram.com search confirmed the whimsymaxxing TREND but not that creator handle or an audio page, so no url: here and the human should search the title in-app before committing to it
+
 "Goodies" — Ciara | shape: escalation | lane-fit: general | why: listed for workouts and for funny skits at once — a confident bed that rewards a stack of increasingly absurd claims | start: on the beat drop | url: https://www.instagram.com/reels/audio/842729495915487/ | confirmed: 2026-09-10
 "Freakin' Out" — Dexter and the Moonrocks | shape: escalation | lane-fit: any | why: driving the "remember who you are" trend and adventure cuts; it builds hard enough that a montage can escalate under it without needing a hard edit | start: from the top, save the biggest frame for the build | url: https://www.instagram.com/reels/audio/1392969992841787/ | confirmed: 2026-09-07
 
@@ -426,7 +453,6 @@
 
 "DANCE…" — Slayyyter | shape: escalation | lane-fit: general | why: 17K posts on a "when you need something" reveal-on-beat format where each beat raises the ask before the reveal answers it | start: from the build, land the reveal on the drop | url: https://www.instagram.com/reels/audio/1648322256423011/ | confirmed: 2026-08-22
 
-"Let Him Cook" — XNIMXS | shape: escalation | lane-fit: any | why: top of the Snaplytics daily chart on 08-20 — a permission-to-continue bit that gets more emphatic each pass, so a process that keeps going past reason plays as a build rather than a slog | start: on the first "let him" | url: https://www.instagram.com/reels/audio/1167054977842190/ | confirmed: 2026-08-21
 
 ## comparison
 
@@ -564,26 +590,26 @@
 
 ## momentum
 
-"We Are The People (me n ü Remix)" — Empire of the Sun, me n ü | shape: momentum | lane-fit: general/travel | why: called "peak" again this week — the current go-to cinematic travel and arrival bed; big enough to carry a montage that has no single punch moment | start: from the build, land the drop on the widest shot | confirmed: 2026-09-10
-"Ring My Bell" — Anita Ward | shape: momentum | lane-fit: any | why: disco drive listed this week for outfit videos, GRWMs and vacation cuts; steady enough to carry a montage of small wins without needing a punchline at the end | start: from the top | url: https://www.instagram.com/reels/audio/323182991668129/ | confirmed: 2026-09-10
-"oh yeah?" — Steve Lacy | shape: momentum | lane-fit: general | why: rising on multiple lists this week — new-day, city-walk and progress cuts; a loose confident groove that suits a "here we go again" opener | start: on the hook | url: https://www.instagram.com/reels/audio/712456295295826/ | confirmed: 2026-09-07
+"We Are The People (me n ü Remix)" — Empire of the Sun, me n ü | shape: momentum | lane-fit: general/travel | why: called "peak" again this week — the current go-to cinematic travel and arrival bed; big enough to carry a montage that has no single punch moment | start: from the build, land the drop on the widest shot | confirmed: 2026-09-12
+"Ring My Bell" — Anita Ward | shape: momentum | lane-fit: any | why: disco drive listed this week for outfit videos, GRWMs and vacation cuts; steady enough to carry a montage of small wins without needing a punchline at the end | start: from the top | url: https://www.instagram.com/reels/audio/323182991668129/ | confirmed: 2026-09-12
+"oh yeah?" — Steve Lacy | shape: momentum | lane-fit: general | why: rising on multiple lists this week — new-day, city-walk and progress cuts; a loose confident groove that suits a "here we go again" opener | start: on the hook | url: https://www.instagram.com/reels/audio/712456295295826/ | confirmed: 2026-09-12
 
 "In & Out" — Ravyn Lenae | shape: momentum | lane-fit: any | why: on every list from 08-14 through 08-19 — upbeat pop that carries transitions, fit checks and quick showcases without demanding attention | start: on the beat | confirmed: 2026-09-07
 
-"Cherry on the Edge" — miss rany | shape: momentum | lane-fit: general | why: 109K posts, girl-power confidence energy running under gym, outfit and travel reveals; a strong stamp on any "here it is" turn | start: on the drop, land it on the reveal | url: https://www.instagram.com/reels/audio/1492753392644819/ | confirmed: 2026-09-07
+"Cherry on the Edge" — miss rany | shape: momentum | lane-fit: general | why: 109K posts, girl-power confidence energy running under gym, outfit and travel reveals; a strong stamp on any "here it is" turn | start: on the drop, land it on the reveal | url: https://www.instagram.com/reels/audio/1492753392644819/ | confirmed: 2026-09-12
 
 "Timber" — Pitbull ft. Kesha | shape: momentum | lane-fit: general/sports | why: fast-cut sports, fitness and night-out edits — relentless tempo that makes ordinary footage feel like a highlight reel. Re-sighted 2026-08-22 on SocialBee, caveat cleared | start: on the whistle hook | url: https://www.instagram.com/reels/audio/261927184528157/ | confirmed: 2026-09-07
 
 "9 to 5" — Dolly Parton | shape: momentum | lane-fit: tech | why: having another moment on Reels (4.2M reels on the tag) — the relentless typewriter-shuffle rhythm reads as WORK before a single word lands, so it plays straight under a grind cut and ironic under anyone whose work looks nothing like a 9-to-5; the sharpest lane fit in this pool for office and building content | start: on the piano intro, land the first beat on the first task | url: https://www.instagram.com/reels/audio/352308938707037/ | confirmed: 2026-09-09
 
-"petal" — Ariana Grande | shape: momentum | lane-fit: general | why: 90K posts, dreamy synth-heavy bed for aesthetic and reveal content; note the lyric contains an expletive, so check the section you cut before committing | start: on the synth line, avoid the explicit bar | confirmed: 2026-09-05
+"petal" — Ariana Grande | shape: momentum | lane-fit: general | why: 90K posts, dreamy synth-heavy bed for aesthetic and reveal content; note the lyric contains an expletive, so check the section you cut before committing | start: on the synth line, avoid the explicit bar | confirmed: 2026-09-12
 
 
 "Paper Planes" — M.I.A. | shape: momentum | lane-fit: general | why: named this week as a genuine comeback (2008 track) for punchy transitions, city montages and meme cuts — the "ka-ching" hits are hard, evenly spaced markers, so a cut can land a beat on each one without any of them having to be a joke; the most cut-friendly track added to this pool in a week | start: on the first ka-ching, one shot per hit | url: https://www.instagram.com/reels/audio/774416679604396/ | confirmed: 2026-09-04
 
 "Someone New" — Hozier | shape: momentum | lane-fit: any | why: listed this week for feel-good montages of happy moments — a warm mid-tempo bed with a rolling rhythm that carries a run of small unrelated shots without needing any of them to be a punchline | start: on the chorus | url: https://www.instagram.com/reels/audio/666720837023576/ | confirmed: 2026-09-04
 
-"(When You Gonna) Give It Up to Me" — Sean Paul ft. Keyshia Cole | shape: momentum | lane-fit: any | why: still driving slick fast-paced detail edits this week — close-ups of outfits, food, objects cut tight to the beat | start: on the beat, one detail per bar | url: https://www.instagram.com/reels/audio/2072951260136266/ | confirmed: 2026-09-04
+"(When You Gonna) Give It Up to Me" — Sean Paul ft. Keyshia Cole | shape: momentum | lane-fit: any | why: still driving slick fast-paced detail edits this week — close-ups of outfits, food, objects cut tight to the beat | start: on the beat, one detail per bar | url: https://www.instagram.com/reels/audio/2072951260136266/ | confirmed: 2026-09-12
 
 "EoO" — Bad Bunny | shape: momentum | lane-fit: general/sports | why: rising off the Spider-Man: Brand New Day release — high-energy hype bed for action cuts and anything that needs to feel like a trailer | start: on the drop | url: https://www.instagram.com/reels/audio/559505360249889/ | confirmed: 2026-08-31
 
@@ -652,6 +678,4 @@
 
 "Dracula (JENNIE Remix)" — Tame Impala | shape: momentum | lane-fit: any | why: 307K posts, the biggest count on this week's Scott Social list — a walk-forward/inventory showcase bed with a hard forward pull. Re-added 2026-08-21 on fresh evidence after an unjustified 08-20 drop | start: on the walk, one item per bar | url: https://www.instagram.com/reels/audio/1887907191828006/ | confirmed: 2026-08-22
 
-"Seduce" — d33p.14 | shape: momentum | lane-fit: general | why: top of the Snaplytics daily chart on 08-20 — a current fast-riser rather than an established list entry, so treat it as an early bet | start: on the beat | confirmed: 2026-08-21
 
-"Shake Your Money Maker" — Ludacris | shape: momentum | lane-fit: general | why: 5.2K posts on celebration beats — the payoff bed for a win that deserves a physical reaction | start: on the hook, land it on the win | confirmed: 2026-08-21
