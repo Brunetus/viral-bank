@@ -23,7 +23,7 @@ touched.
 ## Cq5pmBFgT3f — young man to camera on a red wall, card "4 THINGS THAT GIRLS FIND ATTRACTIVE", then acts out accessories / all-black outfit / perfume / posture
 - source: @nikhil__anand___ (browsed, throwaway tag page #attractivemen) | https://www.instagram.com/reel/Cq5pmBFgT3f/
 - lane: premise
-- first-seen: 2026-09-18 | status: FRESH
+- first-seen: 2026-09-18 | status: DO-NOT-SPLICE (2026-09-18) — Marcus, same evening: man-to-camera donor, "girl donors are proven to work"; gate test 1 restored to girl-to-camera. Record kept as the dedup tombstone; file prunable by a later scan.
 - stats-at-capture: 60,189 likes / 405 comments / 2,126,141 plays (IG tag-page top post; no account baseline). Posted 2023-04-11 — old, and the card still reads instantly
 - joke-structure: n/a — opener donor
 - the-beat: cut at ~6.0s, the last frame of the title card before "ACCESSORIES" appears — his list never starts, Marcus's does
@@ -42,7 +42,7 @@ touched.
 ## DbJXggSBK8g — Scott Galloway on the Lewis Howes podcast, card "The 3 things women find most attractive in men", names kindness, intelligence, humor
 - source: @lewishowes (browsed, throwaway tag page #greenflags) | https://www.instagram.com/reel/DbJXggSBK8g/
 - lane: premise
-- first-seen: 2026-09-18 | status: FRESH
+- first-seen: 2026-09-18 | status: DO-NOT-SPLICE (2026-09-18) — Marcus, same evening: man-to-camera donor, "girl donors are proven to work"; gate test 1 restored to girl-to-camera. Record kept as the dedup tombstone; file prunable by a later scan.
 - stats-at-capture: 134,231 likes / 3,098 comments / 4,768,410 plays (IG tag-page top post; no account baseline)
 - joke-structure: n/a — opener donor
 - the-beat: cut at ~5.0s, on "The third is" and before he says "kindness" — his sentence hangs open for Marcus's third thing
