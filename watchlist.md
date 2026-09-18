@@ -24,6 +24,10 @@ A creator is dropped from this lane only by Marcus. A creator whose last 25 reel
 produce zero gate passes across 14 days is reported in the log as
 `premise-quiet: @handle`, never removed by the scan.
 
+@uldouz [premise] — added 2026-09-18 via Marcus's own `texting` donor DZsOX8fxFtc (proven creator, not a hashtag lead); 4.5M followers, 6/24 serving media_url; one format: "Keep two / Pick one / Choose two / Pick 3" named-choice premises to camera (top: DW-Ik-2EfFR 48.6k likes / 15.9k comments, 93x her median). Most spikes are media-withheld — ig-fetch, highest-ranked first. Her "Is this a red flag" posts fail gate test 2 by caption.
+@makayla.tonn [premise] — added 2026-09-18 via Marcus's own `other_woman` donor DdKyR60pldh (the ordinary-band reel, NOT a hit; attribution corrected same day); 34.8k followers, 22/25 serving. Woman to camera, on-audience, but she talks about Claude herself ("Claude is the other woman"), so most of her posts fail gate test 8, and her 09-18 spikes (kids rant, girls skit) fail test 1. Low hit rate expected; kept because she is readable, served, and inside the tribe.
+@the_prosperityplan [premise] — added 2026-09-18 via Marcus's own `one_thing` donor DcRZppCMir8 (THE 532k reel; attribution corrected same day); 23.9k followers, 24/24 serving. ⚠ Feed is mostly finance-advice reposts ("send this to a friend", cashflow), so most posts fail gate test 4; watched for the occasional woman-to-camera desire premise it reposts. Repost account: gate test 7 applies, name the original when you can.
+
 Known but NOT added: @thexcelguy — repost aggregator; its 2.0-2.4s cuts produced both
 floor reels (`kiss_you`, `texting`). Gate test 7 rejects everything it posts.
 
