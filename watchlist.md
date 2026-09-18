@@ -1,5 +1,34 @@
 # Viral bank watchlist — accounts the scan watches for spiking clips
 
+**EXCLUSIVE MODE (Marcus, 2026-09-17): only the `[premise]` lane below produces
+donors.** Every other lane on this list is format-capture only — the scan may still
+read those accounts for a playbook entry, but never spends a download slot or writes
+a catalog entry on them. See `ig-routine-core/BANK.md` → EXCLUSIVE MODE and THE GATE.
+
+## [premise] lane — anything that sets up a man in a positive way, with a slot
+
+The lane that feeds the donor-opener template (performance.md rules 90-93). It starts
+EMPTY on purpose: no account on the old list makes this shape, and the four donors
+behind the account's hits (@uldouz, @abb.davv, the originals @thexcelguy reposted)
+were all hand-picked. The scan fills this lane from the hashtag sweep (BANK.md step
+2b): a gate-passing hashtag find is a HANDLE LEAD, resolved through ig-fetch.sh and
+probed with ONE business_discovery call first (a personal account returns HTTP 400 and
+is logged `premise-unreadable`, never appended), then appended here with the date, the
+shortcode that led to it, and its serve rate. From the next scan on, the creator is read
+directly.
+
+Line shape, same as the rest of the file (the scan reads any line starting with @):
+`@handle [premise] — added <date> via #<tag> <shortcode>; <N>/<25> serving media_url; <one line on what she does>`
+
+A creator is dropped from this lane only by Marcus. A creator whose last 25 reels
+produce zero gate passes across 14 days is reported in the log as
+`premise-quiet: @handle`, never removed by the scan.
+
+Known but NOT added: @thexcelguy — repost aggregator; its 2.0-2.4s cuts produced both
+floor reels (`kiss_you`, `texting`). Gate test 7 rejects everything it posts.
+
+## Old lanes (tech / general / sports / family) — format-capture only since 2026-09-17
+
 One account per line: `@handle [lane] — why it's watched`. The lane tag
 (tech / general / sports / family) is carried into each catalog entry so an
 architect can filter for relevance — tech feeds @imabgold (building with
