@@ -20,6 +20,44 @@ touched.
 
 <!-- entries below, newest first -->
 
+## Cq5pmBFgT3f — young man to camera on a red wall, card "4 THINGS THAT GIRLS FIND ATTRACTIVE", then acts out accessories / all-black outfit / perfume / posture
+- source: @nikhil__anand___ (browsed, throwaway tag page #attractivemen) | https://www.instagram.com/reel/Cq5pmBFgT3f/
+- lane: premise
+- first-seen: 2026-09-18 | status: FRESH
+- stats-at-capture: 60,189 likes / 405 comments / 2,126,141 plays (IG tag-page top post; no account baseline). Posted 2023-04-11 — old, and the card still reads instantly
+- joke-structure: n/a — opener donor
+- the-beat: cut at ~6.0s, the last frame of the title card before "ACCESSORIES" appears — his list never starts, Marcus's does
+- audio-model: original sound (attach in-app, NEVER bake — rule 92)
+- her-audio: original sound (his voice + track) — attachable in-app
+- pairs-with: Marcus's own four in his own card grammar: "1. a Claude 20x Max plan 2. ships before she wakes up 3. tokens reset at midnight 4. CLAUDE.md" · or a single hard cut to him at the desk with "1. Claude Max" and nothing else
+- premise: "4 things that girls find attractive [in men]" (card; spoken hook under it)
+- slot: a numbered list of four that the card promises and the cut withholds -> the tribe objects as the things girls find attractive
+- setup-length: ~6.0s of title card (card readable muted from frame 1; finishes the premise: yes — the card IS the whole premise, the list starts at ~6s)
+- hero-test: the man is the HERO — a young man showing what makes men attractive; no negative frame. Audience fit: young Indian creator, India is 13% of reach
+- addresses: men (a men's-glowup account) / recognises: men — same person
+- original: yes — creator's own upload (uploader @nikhil__anand___)
+- clean-window: n/a — OPENER donor (his setup card IS the hook)
+- file: clips/Cq5pmBFgT3f.mp4 (56.3s; only the first ~6s are the donor beat)
+
+## DbJXggSBK8g — Scott Galloway on the Lewis Howes podcast, card "The 3 things women find most attractive in men", names kindness, intelligence, humor
+- source: @lewishowes (browsed, throwaway tag page #greenflags) | https://www.instagram.com/reel/DbJXggSBK8g/
+- lane: premise
+- first-seen: 2026-09-18 | status: FRESH
+- stats-at-capture: 134,231 likes / 3,098 comments / 4,768,410 plays (IG tag-page top post; no account baseline)
+- joke-structure: n/a — opener donor
+- the-beat: cut at ~5.0s, on "The third is" and before he says "kindness" — his sentence hangs open for Marcus's third thing
+- audio-model: original sound (attach in-app, NEVER bake — rule 92)
+- her-audio: original sound (Galloway's voice, podcast room) — attachable in-app
+- pairs-with: Marcus at the desk / on the trail: "3. a Claude 20x Max plan" · "3. his usage limit resets at midnight" · "3. he ships an app before she wakes up"
+- premise: "The 3 things women find most attractive in men... three reasons. The third is [kindness]."
+- slot: a numbered list of three, spoken one at a time, so the cut can land on ANY of the three (cleanest on the third, ~5.0s) -> the tribe object as the thing women find most attractive: a Claude 20x Max plan / building with Claude / tokens
+- setup-length: ~5.0s to the open "The third is" (card on screen from frame 1; spoken hook "The 3 things women find most attractive in men, three reasons" ~4.5s) (finishes the premise: yes, then continues for 45s that we never use)
+- hero-test: the man is the HERO — the whole clip is what women are drawn to in men, said by a man to men; no negative frame
+- addresses: men (it is advice to men, on a men's podcast) / recognises: men — same person. Speaker is an older man but the SUBJECT is men in general, so the 09-18 audience-fit rule does not trigger
+- original: yes — creator's own upload (@lewishowes is the show; Galloway is the guest)
+- clean-window: n/a — OPENER donor (his setup card IS the hook)
+- file: clips/DbJXggSBK8g.mp4 (49.8s; only the first ~5s are the donor beat)
+
 ## DdYaMbjRr8T — [NOT BANKED — DO-NOT-SPLICE] @nextelligencee AI-news brief card: an abstract generated "neural spectrum" render looping in a letterboxed pane (y160-515 of 1280, their logo watermarked top-left) over ~110 words of burned tech-news copy about the real Claude Code source-map leak, unchanged in every frame of 13.33s, closing "Follow @nextelligencee for more content like this" · #claudecode | https://www.instagram.com/reel/DdYaMbjRr8T/ · first-seen 2026-09-17 · 398.6 likes/hr, accel x3.86, 4,687 likes / 26 comments at capture (pulse job 20260917-181105) · **no clip file: clean-window gate fails both tests** — burned text y550-1125 present in every sampled frame so there is NO text-free stretch, and the only band with picture in it is the 356-row video pane → 200x356 full-bleed crop = **5.40x** upscale vs the 2.6x ceiling; zero cuts, no subject, no action, nothing to cut on. **No opener-only value either**: its burned text is a news brief that ends by advertising another account, over a foreign logo. Format captured instead as **playbook #84, flagged NOT ADOPTABLE** (static unbroken shot + 43-88% frame-height text + authorless = fails ARCHITECT-CORE §3 and the accounts' Marcus-leads guard). The leak itself is REAL and Anthropic-confirmed; the story is the asset, the shell never was
 
 ## DdYXpUepZv7 — a five-room tour of the same 3D fly world under one held "I'm jealous" sticker: a BALENCIAGA-liveried fruit fly at a desk of monitors running a red SHORT signal, a mini-golf hole where the ball is struck and arcs into a crowd of flies, the FLYEGAS casino stage with a live-ticking JACKPOTS counter, then the reel switches to a phone filming a laptop and settles on a poker room where two cigar-smoking flies with glowing red eyes sit behind chip stacks, with the app's own control row and a live PAPER ACCOUNT P&L readable on screen
