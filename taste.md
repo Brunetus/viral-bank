@@ -1,17 +1,17 @@
 # taste.md — what the audiences actually reward (derived, rewritten every scan)
 
-Refreshed 2026-09-21 from live insights (@imabgold 25 reels 09-06..09-21, @bambi.map
+Refreshed 2026-09-22 from live insights (@imabgold 25 reels 09-07..09-22, @bambi.map
 23 reels). Read alongside catalog.md.
 Account routines read the whole file. CUSTOMER jobs read ONLY `## universal`.
 
 ## universal
 - **Borrow a premise that is already circulating, as real footage, and answer it with
-  your own.** The ceiling post is still compounding a week on: **625,787 views,
-  26,002 shares, 1,871 saves** (+10k views since 09-20). A stranger's
+  your own.** The ceiling post is still compounding a week on: **643,444 views,
+  26,575 shares, 1,937 saves** (+18k views since 09-21). A stranger's
   clip states the claim, a hard cut to the poster's own material answers it.
 - **This is now four for four, not one lucky post.** Every reel built on a borrowed
   premise has cleared 29k views and 690 shares; nothing else on the account has passed
-  7k. The newest (09-19) is at **53,305 views / 1,361 shares after two days**. The pattern is
+  7k. The newest (09-19) is at **61,016 views / 1,661 shares after three days**. The pattern is
   the most reliable thing either account has ever measured.
 - **The template is not the premise.** The same cut pattern under a self-written line
   ("the hottest thing a guy can do is…", 10 shares on 3.5k views) lands in the ordinary
@@ -31,27 +31,28 @@ Account routines read the whole file. CUSTOMER jobs read ONLY `## universal`.
 Top 3 by avg watch time
 - 9.2s · DdBq2R-uQ30 · 419 views, 48% skip · "I used to be the guy explaining rules" —
   role-reversal confession; few entered, everyone who did stayed.
-- 8.4s · DdPqIwUpJWO · 972 views · "she said she would make out with you if you did
+- 8.3s · DdPqIwUpJWO · 976 views · "she said she would make out with you if you did
   this" — the settings tip holds; the dating wrapper did not recruit (1 share).
-- 8.2s · Ddcbii9pJgM · 1,256 views, 47.7% skip · "sold a feature that does not exist
+- 8.1s · Ddcbii9pJgM · 1,264 views, 47.9% skip · "sold a feature that does not exist
   yet. the dev is also me." — a founder confession holds but does not travel (1 share).
 Bottom 3 by avg watch time
-- 5.0s · DdHOGmnuWCB · 607 views · Shibuya crossing, travel framing.
-- 5.7s · DdabyphsvUB · 3,525 views, 10 shares · "the hottest thing a guy can do is earn
-  his first dollar" — self-written premise, no circulating donor behind it.
-- 5.7s · DdC2nkPBaLI · 2,752 views · "It was not five minutes."
+- 4.9s · DdHOGmnuWCB · 612 views · Shibuya crossing, travel framing.
+- 5.5s · Ddkqy7VuH4_ · 572 views, 63.2% skip, hours old · "since a year and a half ago,
+  every frontier model is available…" — a model-landscape claim, no donor, no question.
+- 5.7s · DdiEShdO4-m · 1,346 views, 2 shares · "821,000 views in the last 30 days. 194
+  followers." — a milestone line; the account's own numbers do not recruit strangers.
 Top 3 by saves+shares
-- **27,534 · DdQBUIRuSRM · 615,647 views, 25,704 shares** · "men only want one thing.
+- **28,512 · DdQBUIRuSRM · 643,444 views, 26,575 shares** · "men only want one thing.
   not money. not power." · https://www.instagram.com/reel/DdQBUIRuSRM/ — circulating
-  clip hard-cuts to his whiteboard: "a Claude 20x Max plan". 41.8 shares per 1k.
-- 1,243 · DdIBRRKpDqn · 41,362 views, 1,096 shares · "the sexiest thing a man can do is
+  clip hard-cuts to his whiteboard: "a Claude 20x Max plan". 41.3 shares per 1k.
+- 1,301 · DdIBRRKpDqn · 43,063 views, 1,141 shares · "the sexiest thing a man can do is
   not abs, not a car…" · 26.5 shares per 1k.
-- **1,577 · DddHvD5OgIa · 53,305 views, 1,361 shares in two days** ·
+- **1,906 · DddHvD5OgIa · 61,016 views, 1,661 shares in three days** ·
   https://www.instagram.com/reel/DddHvD5OgIa/ — "i have a question for the men. what do
-  you want? a MacBook, caffeine, and a Claude 20x Max". 25.5 shares per 1k, still
-  climbing (38.8k on 09-20). The fourth breakout, and the second built on a question.
-- (783 · DdX2_ZzuZcv · 29,388 views, 695 shares · the "flowers for men" reel, now
-  flat.) Newest post DdiEShdO4-m (09-21, a milestone line) is hours old, 553 views, unread.
+  you want? a MacBook, caffeine, and a Claude 20x Max". 27.2 shares per 1k, still
+  climbing (38.8k on 09-20, 53.3k on 09-21). The fourth breakout, and the second built on a question.
+- (803 · DdX2_ZzuZcv · 29,986 views, 712 shares · the "flowers for men" reel, near
+  flat.) The two posts since (09-21 milestone, 09-22 model claim) sit at 1.3k and 0.6k.
 Bottom by saves+shares: 0 · DdHOGmnuWCB (travel) · 1 · Dc89BWDtmAP (process brag) ·
 2 · Dc_7SvvBA8H ("nine hours to save four minutes").
 What works: a woman's positive premise about men, answered by a Claude-plan object (all
@@ -63,7 +64,7 @@ when they're lying", 22 shares on 4.4k; "why he's not texting you", 8); model-vs
 claims; milestone/product announcements; process brags; travel framing; reused hooks.
 
 ## @bambi.map [family]
-**Silent since 09-04, seventeen days.** Window unchanged except decay.
+**Silent since 09-04, eighteen days.** Window unchanged except decay.
 Top by avg watch time: 8.8s · Da_U2OGBlOD · 1,671 views, 3 saves + 2 shares · "the
 bibs were for us, not the baby" — the adult is the mess. Then 8.1s · DblXnxChpO4
 ("every parent knows this chair") and 7.9s · Dci7Dfxu_D9 ("the highchair was never
@@ -80,10 +81,11 @@ Unresolved: reach without a save. The borrowed-premise template is now 4/4 on th
 account and has still never been tried here, on a parenting feed full of premises
 already being argued about.
 
-steering: eatingoutwithbaby, babytravel, highchair, travelwithbaby, datingadvice, greenflags, memes,
-toddlermom, parentsofinstagram, programmerhumor, techtok, familytraveltips,
-eatlikealocal, familyadventures, toddlertravel, familyvacation, travelwithkids, dadlife,
-familytravel, claudeai, artificialintelligence, aitools, buildinpublic, anthropic,
-nontechnicalfounder, claudecode, vibecoding, kidfriendlytravel (28 tags; #eatingoutwithbaby new today,
-bambi travel tags lead, #datingadvice and #greenflags still in the list. Tags outside
-the frozen set are not queried; a swap is Marcus's call)
+steering: datingcoach, relationshipadvice, eatingoutwithbaby, babytravel, highchair,
+travelwithbaby, datingadvice, greenflags, memes, toddlermom, parentsofinstagram,
+programmerhumor, techtok, familytraveltips, eatlikealocal, familyadventures, toddlertravel,
+familyvacation, travelwithkids, dadlife, familytravel, claudeai, artificialintelligence,
+aitools, buildinpublic, anthropic, nontechnicalfounder, claudecode, vibecoding,
+kidfriendlytravel (30 tags; #datingcoach and #relationshipadvice new at the top today,
+both already in the scan's standing premise set and queried. Tags outside the frozen set
+are not queried; a swap is Marcus's call)
