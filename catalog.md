@@ -20,6 +20,22 @@ touched.
 
 <!-- entries below, newest first -->
 
+## Ddde8hAp89b — [NOT BANKED] @un_filtered98 to camera, eating, no title card and no burned captions; the "green flags that instantly make a guy 10x more attractive" list exists only in the caption, and the spoken list is already at "7. Well-Dressed" by 3.5s (frame-judged 2026-09-19)
+- source: @un_filtered98 | https://www.instagram.com/reel/Ddde8hAp89b/
+- lane: premise
+- first-seen: 2026-09-23 | status: DO-NOT-SPLICE (2026-09-23) — gate test 5: a muted viewer cannot read the premise. There is no card and no word captions; the setup lives in the IG caption, which does not travel into a splice. Tests 1/2/3 pass (woman to camera, positive frame, the man is the hero) and test 4 is arguable, but 5 is fatal. ⚠ BOOKKEEPING CATCH-UP, not a new judgment: the frames were read on 2026-09-19 via an ig-fetch probe while she was still an unresolved hashtag lead, so no entry was written (a hashtag find never gets one). She joined the [premise] watchlist that same day, and this reel has re-entered the candidate pool as "new" on every scan since. This tombstone is the dedup key that stops it.
+- stats-at-capture: 697 likes / 17 comments (5.7x account median 125)
+- file: none — probe mp4 was scratch and deleted 2026-09-19; no clip banked
+
+## DdnUsGjxZoo — [NOT BANKED] the whispered-news meme montage: four dip-to-black beats of a famous person being leaned into and whispered to (podcast guest → Brando/The Godfather → the guest again → Bush in the 9/11 classroom) under one quoted card that swaps once at the 4.07s midpoint, `"Claude Opus 5.5 just dropped"` → `"Claude just cooked OpenAI"` (8.2s)
+- source: #anthropic firehose (hashtag find, no watchlist handle) | https://www.instagram.com/reel/DdnUsGjxZoo/
+- lane: n/a — not a premise donor (no speaker, no premise, no slot)
+- first-seen: 2026-09-23 | status: DO-NOT-SPLICE (2026-09-23) — **not banked, and the reason is provenance, not stageability.** Every frame is third-party studio/news archival (a 1972 Paramount feature + 9/11 broadcast footage); the uploader does not own it either, so there is no creator to borrow from and a splice would repost studio material nobody in this org has a claim to. Separately: the strongest beat is 9/11 footage, which is Marcus's call to make deliberately and not something a pipeline should leave sitting in `clips/` for a future architect to pick up as ordinary donor material. ⚠ Explicitly NOT a §6.1 donor-selection downgrade — imabgold cannot stage Brando or a sitting president, and on that test this footage would score high.
+- stats-at-capture: 2,530 likes / 30 comments; 846.2 likes/hr, accel x1.61
+- format value: captured instead as playbook **#85** (`FORMAT ONLY, footage unusable`) — the mechanism is escalating listener-gravity against trivial news, blocked for this org until one 3-4s whisper-to-Marcus take exists. See that entry for the unlock.
+- pulse job: `20260923-024432-18124599313858175` (DECLINE; full triage + beat map in `ig-pulse/drafts/20260923-024432-18124599313858175/decision.md`)
+- file: none — record kept as the dedup key so a later scan does not re-download it
+
 ## DdMtJuHRHE6 — [NOT BANKED] @applecrumbelina to camera, blonde in a backwards blue cap under the card "#1 green flag in hot men" (8.9s); spoken "The biggest green flag in a man is when he says goodnight but he's not going to bed. He's going to change into a superhero costume and save the city from crime overnight. Marry him..."
 - source: @applecrumbelina | https://www.instagram.com/reel/DdMtJuHRHE6/
 - lane: premise
@@ -1715,7 +1731,7 @@ touched.
 ## DcuAX-CSB13 — a woman sits cross-legged on a couch and keeps lifting a dachshund puppy in a floral dress off her lap onto the cushion beside her; every single time, within a second, the puppy is back on her lap, and by the end it has given up on subtlety and just lies flat across her thigh looking at the camera
 - source: @pubity | https://www.instagram.com/reel/DcuAX-CSB13/
 - lane: general
-- first-seen: 2026-09-01 | status: FRESH
+- first-seen: 2026-09-01 | status: STALE (2026-09-23)
 - stats-at-capture: 63186 likes / 329 comments (352.86x account median)
 - joke-structure: the correction that never takes. A person calmly puts something back where it belongs, over and over, and the thing returns faster than she can place it — the scroller clocks the loop on the second repetition and stays to see who gives up first. She does
 - the-beat: no single turn; the format is a LOOP and the payoff is the last placement failing. Beats land at roughly 0:04, 0:09 and 0:15 (each removal-and-return), and the surrender frame is 0:20-0:24 with the dog lying flat and unbothered. Cut on any one return, or run 0:15-0:24 for the surrender alone
@@ -1727,7 +1743,7 @@ touched.
 ## DcufDt5JD5w — a fluffy grey dog on a purple lead stands in front of a public "DOG STICK LIBRARY" — a painted blue shelf of donated sticks pegged in rows — and works along it nose-first for twenty seconds, mouthing one stick, dropping it, moving to the next, never committing to any of them
 - source: @pubity | https://www.instagram.com/reel/DcufDt5JD5w/
 - lane: general
-- first-seen: 2026-09-01 | status: FRESH
+- first-seen: 2026-09-01 | status: STALE (2026-09-23)
 - stats-at-capture: 28451 likes / 249 comments (159.44x account median)
 - joke-structure: paralysis in front of abundance. The premise is handed to you by a sign inside the shot, so there is nothing to read and nothing to explain, and the whole joke is that the choice is objectively trivial and the subject is treating it as enormous. The scroller reads "DOG STICK LIBRARY" and knows the bit before the dog moves
 - the-beat: the turn is the FIRST reject — he takes a stick at 0:05, thinks about it, and puts it back at 0:07. Every later beat is the same beat again. Cut 0:03-0:09 for the shortest complete version, or 0:03-0:16 to let the indecision get embarrassing
@@ -1739,7 +1755,7 @@ touched.
 ## Dctv2wdBSKi — a person holds a headstand against a bedroom door, legs straight up in grey socks, and simply stays there for the whole clip while one line of text sits over them: "POV: Waiting for my Claude Usage limit to reset"
 - source: @adanxai | https://www.instagram.com/reel/Dctv2wdBSKi/
 - lane: tech
-- first-seen: 2026-09-01 | status: FRESH
+- first-seen: 2026-09-01 | status: STALE (2026-09-23)
 - stats-at-capture: 138 likes / 2 comments (3.59x account median)
 - joke-structure: the absurd endurance pose as a unit of waiting. Nothing happens on purpose — the gag is that the wait is being measured in a posture no one could hold, and the picture refuses to give the viewer any progress. Motion score 4.84, effectively frozen, and that is the format working rather than a dead clip
 - the-beat: there is no turn inside this clip and there is not supposed to be. Its beat is the FIRST FRAME: the text and the upside-down body arrive together and the recognition is complete in under a second. The payoff has to come from the reel that follows it
@@ -1751,7 +1767,7 @@ touched.
 ## Dcb5rv9BiAT — a young man's face fills a locked-off phone camera in a bedroom, completely still and completely deadpan for seven seconds, saying nothing, while one block of held text sits over his forehead: "I hope you burn your hair with your straightener when you get ready for someone else who isn't me"
 - source: @rghoss1 | https://www.instagram.com/reel/Dcb5rv9BiAT/
 - lane: general
-- first-seen: 2026-09-01 | status: FRESH
+- first-seen: 2026-09-01 | status: STALE (2026-09-23)
 - stats-at-capture: 899 likes / 6 comments (8.46x account median)
 - joke-structure: a curse disguised as a wish, delivered to a specific "you" the viewer is invited to be. The line is petty on a scale the viewer can measure (a straightener, not a life) and the face refuses to sell it, so the scroller's job becomes deciding whether this is a joke or not — which is the whole comment engine. Motion score 0.7: the picture is a still, on purpose
 - the-beat: no motion turn exists. The beat is the READ — the viewer finishes the sentence at about 0:03 and the remaining four seconds are the format making them sit in it. If you cut this, cut on nothing; play the seven seconds
@@ -1763,7 +1779,7 @@ touched.
 ## Dct9st7yAy5 — two tennis players meet at the net after a US Open match: they shake hands, one walks off flat and blank, and the other turns to her box and comes completely apart — both fists up, a jump, a scream — while the loser is still in frame
 - source: @sportscenter | https://www.instagram.com/reel/Dct9st7yAy5/
 - lane: sports
-- first-seen: 2026-09-01 | status: FRESH
+- first-seen: 2026-09-01 | status: STALE (2026-09-23)
 - stats-at-capture: 343798 likes / 2505 comments (5.07x account median)
 - joke-structure: one frame, two opposite emotional states, no cut between them. The comedy is entirely in the fact that both people are still standing in the same shot — nobody has had time to leave, so the winner's celebration happens directly over the loser's shoulder. A scroller clocks the split before they know the sport
 - the-beat: the turn is at 0:09.5 when the celebration starts while the other player is still walking. Setup 0:00-0:09, cut on the turn at 0:09.5, run to 0:12.1
@@ -1775,7 +1791,7 @@ touched.
 ## DcvLsnNBkIe — a brown-and-white pointer puppy is asleep curled on a living-room rug and running flat out in its sleep: paws paddling, jaw twitching, the whole body shifting a few inches across the rug over ten seconds without ever waking up
 - source: @pubity | https://www.instagram.com/reel/DcvLsnNBkIe/
 - lane: general
-- first-seen: 2026-09-01 | status: FRESH
+- first-seen: 2026-09-01 | status: STALE (2026-09-23)
 - stats-at-capture: 36398 likes / 126 comments (202.91x account median)
 - joke-structure: total effort, zero consciousness. It reads instantly as "working hard on something that is not happening", and the ambient version of that is the whole value — there is no reversal in it and it never resolves
 - the-beat: BE HONEST WITH THIS ONE — there is no turn and no payoff beat. It is a loop. Best usable range is 0:03.3-0:09.5 (fully clean, the twitching at its strongest). Treat it as an ambient/cutaway donor, not a punchline donor, and do not build a reel that needs it to land something
@@ -1787,7 +1803,7 @@ touched.
 ## DctaZitPHAM — a tech reviewer in an orange t-shirt shoots the same group selfie twice, once on an iPhone held at arm's length and once on a phone with a motorised gimbal camera clipped to its top, then holds both results up side by side and reacts to how much wider the second one is
 - source: @techburner | https://www.instagram.com/reel/DctaZitPHAM/
 - lane: tech
-- first-seen: 2026-09-01 | status: FRESH
+- first-seen: 2026-09-01 | status: STALE (2026-09-23)
 - stats-at-capture: 28637 likes / 69 comments (2.98x account median)
 - joke-structure: A-vs-B with the reaction as the punchline, not the result. The comparison is set up plainly with two labelled phones and then the payoff is deliberately NOT the photo — it is his face when he sees it. The recognition trigger is the two phones in one pair of hands
 - the-beat: the turn is at 0:30.5 when he stops demonstrating and just stares at the camera holding the phone up, eyes wide, mouth open. Setup 0:00-0:30, cut on the reaction at 0:30.5, run to 0:33.0. After 0:33 a "Robot Phone" card and a large blue emoji land on frame — stop before them
@@ -1799,7 +1815,7 @@ touched.
 ## DcvYr-kTXBX — sixty-four seconds of a family road trip through Milford Sound with a toddler: a one-lane bridge over white water, a night tunnel, a waterfall going past the window, the toddler asleep in the car seat, then a Kmart run where she walks the aisle alone, a hotel luggage cart, and finally mum and daughter eating in a restaurant with a bib on
 - source: #toddlertravel | https://www.instagram.com/reel/DcvYr-kTXBX/
 - lane: family
-- first-seen: 2026-09-01 | status: FRESH
+- first-seen: 2026-09-01 | status: STALE (2026-09-23)
 - stats-at-capture: 156 likes / 3 comments (hashtag recent_media, no account baseline)
 - joke-structure: NONE, and that is the honest entry. This is a travel-vlog montage with no premise, no turn and no punchline. What it is instead is the only fully text-free real family footage the scan has banked in weeks, in the lane where the bank is emptiest (mom.uncharted serves 0 of 25, parents 3 of 6)
 - the-beat: there is no beat to cut on. Three usable ranges, each a self-contained cutaway: 0:15-0:19 the toddler asleep in the car seat with the mountain going past the window; 0:48-0:53 the toddler walking a supermarket aisle alone between adult legs, which is the strongest single moment in it; 0:58-1:04 mum and toddler both eating at a restaurant table, bib on, spoons up. Use it under a bambi voice or caption, never as a payoff
