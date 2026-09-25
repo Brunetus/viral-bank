@@ -18,7 +18,260 @@ tombstone that STAYS here — it's the record that stops a future scan from
 re-downloading a clip already judged. FRESH clips and entries are never
 touched.
 
-<!-- entries below, newest first -->
+<!-- entries below, newest first -->## Ddmq-NRhbJC — a blonde woman to camera on a podcast set (mic, "ON PURPOSE" backdrop), word-by-word white captions: "the sexiest thing a man can do is... not ABS. not a car. not money." — then a hard cut at ~3.9s to @programmergrind and a Java HashMap explainer
+- source: @programmergrind | https://www.instagram.com/reel/Ddmq-NRhbJC/
+- lane: premise
+- first-seen: 2026-09-25 | status: DO-NOT-SPLICE (2026-09-25) — **test 1 (podcast guest)**, plus the premise is SPENT
+- stats-at-capture: 133,026 likes / 991 comments (384.0x account median, 349) — the highest ratio any [premise]/[saved] candidate has produced
+- gate: 7 of 8 tests PASS. 2 positive superlative about men ✓ · 3 man is the hero ✓ · 4 slot is wide open, the eliminations run "not ABS / not a car / not money" and the answer never arrives ✓ · 5 word-by-word burned captions, fully readable muted ✓ · 6 setup 0.00-3.90s COMPLETE, inside the winning 4-5s band ✓ · 7 second-hand but carries the premise WHOLE, so bankable as amended ✓ · 8 no Claude, no tool name ✓
+- why it still fails: test 1's wording excludes a podcast guest by name ("not a man to camera, not a couple, not a text card over b-roll, **not a podcast guest**, not an aggregator's quote card"). She is miked on the On Purpose set. Second, independent reason: **@imabgold already aired this exact premise** as `sexiest_said` (DdIBRRKpDqn, 09-10, 46,758 views / 1,270 shares). taste.md's own rule is that a hook is spent the moment it ships.
+- ⚠ FOR MARCUS: this is the strongest donor shape the scan has surfaced, rejected on one word of one test. If a miked podcast guest speaking straight to lens counts as "a girl talks straight to camera", say so and test 1 gets amended. Not a call the scan may make on its own.
+- setup-length: 3.90s (premise finishes; cut lands on "money")
+- the-beat: cut at 3.90s, the frame her last elimination finishes on
+- premise: "the sexiest thing a man can do is... not abs, not a car, not money"
+- slot: the blank after three eliminations -> a Claude 20x Max plan / a whiteboard / tokens resetting midweek
+- hero-test: hero. She is naming what makes a man desirable, and the viewer gets to be him.
+- addresses: young men / recognises: young men — same person, no orphaning
+- original: COPY — creator: unknown (unnamed On Purpose guest), copied-from: @programmergrind Ddmq-NRhbJC
+- her-audio: original sound, attachable in-app (rule 92) — but the copy's audio is @programmergrind's post, so the chain would have to be credited to him
+- clean-window: n/a — OPENER donor (her setup card IS the hook)
+- file: clips/Ddmq-NRhbJC.mp4 (99.5s; the donor is only 0.00-3.90s of it)
+
+## DdTZL6YxOF7 — @prettylushangel to camera in a park, cap and white tank, burned captions: "Alright, fellas. Here's my question of the day. Are you actually thinking of nothing when we ask you what you're thinking about?"
+- source: @prettylushangel | https://www.instagram.com/reel/DdTZL6YxOF7/
+- lane: premise
+- first-seen: 2026-09-25 | status: DO-NOT-SPLICE (2026-09-25) — **test 3 (the man is the punchline, not the hero)**, and test 2's positive frame with it
+- stats-at-capture: 2 likes / 1 comment (3.0x account median, 1 — a median of 1 makes this ratio noise, recorded for honesty not as a spike signal)
+- gate: 1 real woman to camera ✓ · 5 burned captions readable muted ✓ · 6 setup runs past 3s (premise completes ~7.0s, outside the 4-5s band) ✓ · 7 her own upload ✓ · 8 no Claude ✓. FAILS 2 and 3.
+- why it fails: "are you actually thinking of nothing" makes emptiness the man's defining trait. This is the `astra` shape ("things men say when they're 1000% lying", 12 shares against midweek_reset's 43) — the viewer who owns the payoff object becomes the butt.
+- premise: "Alright, fellas. Here's my question of the day. Are you actually thinking of nothing when we ask you what you're thinking about?"
+- setup-length: ~7.0s (premise completes, but long and slack)
+- clean-window: n/a — OPENER donor (her setup card IS the hook)
+- file: clips/DdTZL6YxOF7.mp4 (10.4s)
+
+## Ddjg_26RbSY — @brennaberg to camera on a couch, pink sweater, faint top-placed captions: "And always remember, it's better to have a shitty ending and go through the heartbreak and be sad than to live in a life of never ending bullshit"
+- source: @brennaberg | https://www.instagram.com/reel/Ddjg_26RbSY/
+- lane: premise
+- first-seen: 2026-09-25 | status: DO-NOT-SPLICE (2026-09-25) — **tests 2/3/4**: no premise about men, no slot, breakup pep-talk addressed to women
+- stats-at-capture: 61,758 likes / 188 comments (106.25x account median, 583) — the top-ranked [premise] candidate of the scan
+- gate: 1 real woman to camera ✓ · 8 ✓. FAILS 2 (no positive superlative about men), 3 (the implied man IS the "never ending bullshit"), 4 (no claim-plus-eliminations, nothing for a payoff object to fill). Test 5 marginal: captions are small, semi-transparent and sit at the top of frame.
+- addresses: women getting out of a relationship / recognises: nobody in the 85%-men-18-34 audience — the `texting` orphaning failure (975 views)
+- clean-window: n/a — OPENER donor
+- file: clips/Ddjg_26RbSY.mp4 (9.4s)
+
+## DdjhD7zxTYu — @brennaberg to camera on a couch, hand in her hair: "Nothing scares me more than when people ask me like, what are you doing on Saturday? And I accidentally say nothing. And that means to them that, like..."
+- source: @brennaberg | https://www.instagram.com/reel/DdjhD7zxTYu/
+- lane: premise
+- first-seen: 2026-09-25 | status: DO-NOT-SPLICE (2026-09-25) — **tests 2/3/4**: a relatable social-anxiety monologue, no premise about men, no slot
+- stats-at-capture: 52,056 likes / 160 comments (89.56x account median, 583)
+- gate: 1 ✓ · 8 ✓. FAILS 2, 3, 4. Test 5 marginal (faint top-placed captions).
+- clean-window: n/a — OPENER donor
+- file: clips/DdjhD7zxTYu.mp4 (21.1s)
+
+## DdjhGPNRMlm — @brennaberg to camera: "Fortunately, I was raised, or unfortunately, to be very independent. I did things on my own, I figured things out... So now, as an adult, when I come across people who can't do anything by themselves..."
+- source: @brennaberg | https://www.instagram.com/reel/DdjhGPNRMlm/
+- lane: premise
+- first-seen: 2026-09-25 | status: DO-NOT-SPLICE (2026-09-25) — **tests 2/3/4**: a personal rant about independence, no premise about men, no slot
+- stats-at-capture: 37,509 likes / 137 comments (64.57x account median, 583)
+- clean-window: n/a — OPENER donor
+- file: clips/DdjhGPNRMlm.mp4 (17.0s)
+
+## DdrLAujx2XW — @brennaberg to camera, sarcastic: "Oh my gosh yeah, keep playing the victim, I'm sure there's no reason at all... that every single person you ever become friends with, they're always the problem and they don't need to heal. Never you. No, of course not."
+- source: @brennaberg | https://www.instagram.com/reel/DdrLAujx2XW/
+- lane: premise
+- first-seen: 2026-09-25 | status: DO-NOT-SPLICE (2026-09-25) — **tests 2/3/4**: a sarcastic callout, negative frame, no premise about men, no slot
+- stats-at-capture: 25,239 likes / 90 comments (43.45x account median, 583)
+- clean-window: n/a — OPENER donor
+- file: clips/DdrLAujx2XW.mp4 (13.5s)
+
+## DYLF0zvTx80 — @lilybrooksmind to camera in a podcast studio (warm lamp, mic), single-word white karaoke captions: "The greenest flag in a man isn't money or looks, it's emotional maturity. A man who says come here, let's figure this out together"
+- source: @lilybrooksmind | https://www.instagram.com/reel/DYLF0zvTx80/          <- from Marcus's Saved collection via read-saved.sh (saved-inbox step, 2026-09-24)
+- lane: premise
+- first-seen: 2026-09-24 (the same bytes sat in imabgold-ig/drafts/0916_green_flag/assets/ since 09-16, never aired) | status: DO-NOT-SPLICE (2026-09-25) (2026-09-24, Marcus: "we can't use any donor that's AI") — the account's bio reads "Emotional Clarity Daily | AI avatar sharing what works" (business_discovery 2026-09-24, 27,326 followers, 218 posts). She is generated; the podcast setup that passed the frame read is what a current generator produces. Test 1 now carries the real-person clause. Creator moved to the watchlist Dropped list. Also disqualifies imabgold-ig/drafts/0916_green_flag (same bytes).
+- stats-at-capture: not probed yet (uploader from ig-fetch info-json; business_discovery on the next scan)
+- joke-structure: n/a — opener donor
+- the-beat: cut at 3.74s, the frame before "it's" (word stamps: "looks," ends 3.26s, "it's" starts 3.74s). Usable window 0.000-3.740. One unbroken take until 7.67s, so the cut is ours.
+- audio-model: original sound (attach in-app, NEVER bake — rule 92)
+- her-audio: original sound — attachable in-app
+- pairs-with: the `one_thing` shape exactly (claim + two eliminations + a blank): "the greenest flag in a man isn't money or looks" -> it's when he <Claude object the viewer owns>
+- premise: "The greenest flag in a man isn't money or looks,"
+- slot: "the greenest flag in a man" after eliminating money and looks -> one habit: he reads what Claude wrote before he posts it / he runs a second agent on his own build / he checks his token meter before his bank account
+- setup-length: 3.26s spoken, 3.74s to the cut (yes — the eliminations are complete; her own answer "emotional maturity" starts after the cut)
+- hero-test: the man is the hero — she is naming the best thing about him
+- addresses: whoever is judging a man / recognises: the man with the habit — same person on the payoff side
+- original: yes — creator's own upload
+- clean-window: n/a — OPENER donor (her word captions ARE the hook; single-word cards, readable muted)
+- file: clips/DYLF0zvTx80.mp4 (16.60s; 6944575 B, md5 9f5c05d8fa1d6289ded081e97986abad)
+
+## DdRj8VNRO3D — @brennaberg to camera on a couch, burned white sentence caption at the top: "The hottest thing that a man can do is take care of things." then "Plan the date, book the flights, get this, get that"
+- source: @brennaberg | https://www.instagram.com/reel/DdRj8VNRO3D/          <- from Marcus's Saved collection via read-saved.sh (saved-inbox step, 2026-09-24)
+- lane: premise
+- first-seen: 2026-09-24 | status: FRESH
+- stats-at-capture: not probed yet (uploader from ig-fetch info-json; business_discovery on the next scan)
+- joke-structure: n/a — opener donor
+- the-beat: cut at 3.54s, the end of "things." (word stamps: "do" 2.14s, "things." 3.54s). One unbroken take (no scene cut in 10.5s). Usable window 0.000-3.540.
+- audio-model: original sound (attach in-app, NEVER bake — rule 92)
+- her-audio: original sound — attachable in-app
+- pairs-with: a "takes care of things" payoff naming the Claude thing he takes care of: the App Store build, the audit before he ships, the token reset he plans the week around
+- premise: "The hottest thing that a man can do is take care of things."
+- slot: ⚠ HALF-FILLED: she answers her own premise inside the 3s ("take care of things"), so the blank is WHAT he takes care of, not the superlative itself. Cutting at "do" (2.14s) would leave the blank open but fails test 6. The architect must write the payoff as the specific thing he takes care of. Rank below DYLF0zvTx80.
+- setup-length: 3.54s to the cut (yes — the sentence on her card is complete and the card is up from frame 0)
+- hero-test: the man is the hero — "the hottest thing a man can do"
+- addresses: women / recognises: the man who takes care of things — the payoff flatters him, so both sides land
+- original: yes — creator's own upload
+- clean-window: n/a — OPENER donor (her burned sentence card IS the hook)
+- ⚠ THEME COOLDOWN: "the hottest thing a man can do" aired as `fire_dev_v2` on 2026-09-23 and MISSED (1,880 views). Same rule as DZGH-MeorB6: not the very next post.
+- file: clips/DdRj8VNRO3D.mp4 (10.50s; 10561095 B, md5 3ccf64ca6c571104cdede8cd937968ca)
+
+## DaWr4F9OH9q — [COPY, test 7 as amended] the 0.00-4.03s opener of @programmergrind's 57.6k-like reel: an unnamed woman on a dark couch, full frame, burned card "men with no hoes", filing a nail, says "Men with no hoes... where are you?" then the reel cuts to Danny + code editor for 72s
+- source: @programmergrind | https://www.instagram.com/reel/DaWr4F9OH9q/          <- the HOST account (copied-from); creator of the borrowed opener UNKNOWN, no watermark on the frames (full-res 2.0s checked). If a scan or Marcus names her, add `creator:` and prefer her original. ⚠ bank-sync consumers: the DONOR is the first 4.03s only, not the 76s host reel.
+- lane: premise
+- first-seen: 2026-09-24 | status: FRESH
+- stats-at-capture: the HOST reel: 57.6k likes / 572 comments / 3.2k shares (July 3). The opener's own numbers are unknown.
+- joke-structure: n/a — opener donor
+- the-beat: cut at 4.03s, the scene cut to Danny (measured by scene detection). Usable window 0.000-4.030. Her line: "Men with no hoes" 0.00-1.42s, "where are you?" 2.58-3.62s (whisper hears "host"; the card reads "hoes").
+- audio-model: original sound of the HOST reel (attach @programmergrind's post in-app via Remix > Sequence — rule 92; the woman's own sound is not attachable because her original is unknown)
+- her-audio: only through @programmergrind's post; note it in the caption/audio doc
+- pairs-with: a "where are you" answer naming where the viewer actually is: at his desk at 2am on the 20x Max plan / making a second Claude check the first one / waiting for the token reset
+- premise: "Men with no hoes... where are you?"
+- slot: "where are you?" -> one place or one habit. A demand the viewer answers, the lowest-effort answer wins (brand.md held-line law).
+- setup-length: 4.03s to the cut (yes — card up from frame 0, question complete at 3.62s, 0.4s of her face after it)
+- hero-test: the man is the hero — she is looking for the loyal one
+- addresses: men with no hoes / recognises: the man who is exactly that — same person
+- original: COPY — creator: unknown, copied-from: @programmergrind DaWr4F9OH9q. Carries the premise WHOLE (4.03s), so amended test 7 passes; the reel's credit names @programmergrind.
+- clean-window: n/a — OPENER donor (her burned card IS the hook)
+- file: clips/DaWr4F9OH9q.mp4 (76.19s — the WHOLE host reel; the donor window is the first 4.03s; 25913759 B, md5 75d8a3cab3763e9afadb9f1bcafc6738)
+
+## DZd-6CEAWPc — [NOT BANKED] @hey_berg to camera: "This is my impression of people who talk about Claude…" — a Claude parody, then "Fable 5, this fight is sick"
+- source: @hey_berg | https://www.instagram.com/reel/DZd-6CEAWPc/
+- lane: n/a
+- first-seen: 2026-09-24 | status: DO-NOT-SPLICE (2026-09-24) — from Marcus's Saved via read-saved.sh. Fails test 8 by the second second: the donor says Claude. Woman to camera (test 1 ok). Record kept as the dedup key; file pruned.
+- file: none
+
+## DIwXzqnxjUM — [NOT BANKED] @casiahwest to camera: "You know a man is lying to you if he says 'I wouldn't do that' as opposed to 'I didn't do that'…" (62s)
+- source: @casiahwest | https://www.instagram.com/reel/DIwXzqnxjUM/
+- lane: n/a
+- first-seen: 2026-09-24 | status: DO-NOT-SPLICE (2026-09-24) — from Marcus's Saved via read-saved.sh. Fails tests 2 and 3: negative frame, the man is the problem ("a man is lying to you"). Record kept as the dedup key; file pruned.
+- file: none
+
+## DZGH-MeorB6 — @annabellegesson to camera in a parked car, burned white card over her head: "Boys, do you wanna know the hottest thing that you can do for a girl?" — she asks it, holds 3.5s, then "Come here" and her own answer
+- source: @annabellegesson | https://www.instagram.com/reel/DZGH-MeorB6/          <- creator handle, on the [premise] watchlist since 2026-09-24 (saved-inbox step)
+- lane: premise
+- first-seen: 2026-09-24 | status: FRESH
+- stats-at-capture: 16 weeks old; top comments 2,282 / 776 / 455 likes (like count withheld on the web read; probe on next scan)
+- joke-structure: n/a — opener donor
+- the-beat: cut at 3.70s, the first scene cut after "girl?" (word stamp 3.28-3.52s). Usable window 0.000-3.700.
+- audio-model: original sound (attach in-app, NEVER bake — rule 92)
+- her-audio: original sound — attachable in-app
+- pairs-with: a "hottest thing a guy can do" payoff naming a Claude object the viewer owns — e.g. shipping the app he built on Claude Code, or handing her the phone while Claude finishes the build
+- premise: "Boys, do you wanna know the hottest thing that you can do for a girl?"
+- slot: "the hottest thing you can do for a girl" -> one act: ship the App Store build Claude wrote / show her the token meter and put the laptop down
+- setup-length: 3.52s spoken, 3.70s to the first cut (yes — she finishes the premise; card up from frame 0)
+- hero-test: the man is the hero — she is about to reward "the hottest thing" he does, not diagnose a flaw
+- addresses: "Boys" / recognises: the man who does the thing — same person
+- original: yes — creator's own upload
+- clean-window: n/a — OPENER donor (her setup card IS the hook)
+- ⚠ THEME COOLDOWN (a miss is disproof, ig-reel §2): this exact premise aired as `fire_dev_v2` (Ddp8V9kuwq8, 2026-09-23 night) via a DIFFERENT woman (@2aussie through a @tradonatev1 repost, 3.23s) and sat at 1,880 views / 8 shares at 15h — a MISS. Do NOT open the very next post with her; she is a proven-shape donor for a later slot, and her original runs 0.5s longer than the repost that missed.
+- file: clips/DZGH-MeorB6.mp4 (21.76s; 25,187,370 B, md5 991856b897a79a91c5ec74b59e9813fe; h264 transcode by ig-fetch)
+
+## DVHDA5OiEgq — [NOT BANKED] @thegroundedmen: "When was the last time you felt loved?" — text-and-voice piece aimed at men
+- source: @thegroundedmen | https://www.instagram.com/reel/DVHDA5OiEgq/
+- lane: n/a
+- first-seen: 2026-09-24 | status: DO-NOT-SPLICE (2026-09-24) — from Marcus's Saved collection "Viral stuff" (saved-inbox step, first run). ALREADY AIRED as `credits_reset` (DdnWBOQOX_1, 09-22, ~3,400 views). Fails test 1 (male voice, not a woman to camera). Tombstone covers THIS REEL ONLY (it already aired). The account stays on the [saved] watchlist and is read every scan; note his clips are a male voice, so test 1 rejects them unless Marcus grants a carve-out. Record kept as the dedup key so no scan re-spends a slot on it.
+- file: none
+
+## Ddb0oCCkgXr — [NOT BANKED] @nvidia: Jensen Huang on stage, #AllInSummit
+- source: @nvidia | https://www.instagram.com/reel/Ddb0oCCkgXr/
+- lane: n/a
+- first-seen: 2026-09-24 | status: DO-NOT-SPLICE (2026-09-24) — from Marcus's Saved collection "Viral stuff" (saved-inbox step, first run). ALREADY AIRED as `astra_nvidia` (09-22, FLOORED 634 views). Fails test 1. Record kept as the dedup key so no scan re-spends a slot on it.
+- file: none
+
+## Dde-go9xl7f — [NOT BANKED] @programmergrind: "im out of tokens going outside for the rest of today" — Danny top, terminal bottom, 83s, and no borrowed woman opener in THIS reel (frames read 0.0-3.0s)
+- source: @programmergrind | https://www.instagram.com/reel/Dde-go9xl7f/
+- lane: n/a for this reel
+- first-seen: 2026-09-24 | status: DO-NOT-SPLICE (2026-09-24) — from Marcus's Saved collection (saved-inbox step, first run). This reel opens on Danny (fails test 1). **The ACCOUNT is a DONOR SOURCE, not format-only (Marcus, 2026-09-24):** his hits open on a ~4s borrowed woman clip with a burned card (`DaWr4F9OH9q`: 0.00-4.03s "men with no hoes", then 72s of his split-screen body). Those openers are candidates under test 7 as amended — bank the woman's clip second-hand with `creator:` (if nameable) and `copied-from: @programmergrind <shortcode>`. Read his feed for them every scan (he is on the [saved] watchlist). Record kept as the dedup key for this one reel only.
+- file: none
+
+## DcExxS_SvR_ — [NOT BANKED] @saynasheikhh: "these feelings are TOP tier" — favourite-feelings list
+- source: @saynasheikhh | https://www.instagram.com/reel/DcExxS_SvR_/
+- lane: n/a
+- first-seen: 2026-09-24 | status: DO-NOT-SPLICE (2026-09-24) — from Marcus's Saved collection "Viral stuff" (saved-inbox step, first run). Fails test 2/4: not a premise about men, no slot. 14 likes. Record kept as the dedup key so no scan re-spends a slot on it.
+- file: none
+
+## DcEiX69BMBo — [NOT BANKED] @itspikaaa: "You never know…" — basketball skit at a wedding party
+- source: @itspikaaa | https://www.instagram.com/reel/DcEiX69BMBo/
+- lane: n/a
+- first-seen: 2026-09-24 | status: DO-NOT-SPLICE (2026-09-24) — from Marcus's Saved collection "Viral stuff" (saved-inbox step, first run). Fails tests 1/2/4: comedy, no premise about men. Record kept as the dedup key so no scan re-spends a slot on it.
+- file: none
+
+## Ddb6cZGPJFN — [NOT BANKED] @pb_ema: Porsche 911 innuendo, Genie In a Bottle audio
+- source: @pb_ema | https://www.instagram.com/reel/Ddb6cZGPJFN/
+- lane: n/a
+- first-seen: 2026-09-24 | status: DO-NOT-SPLICE (2026-09-24) — from Marcus's Saved collection "Viral stuff" (saved-inbox step, first run). Fails tests 2/4; licensed audio; car content. Record kept as the dedup key so no scan re-spends a slot on it.
+- file: none
+
+## DceQiMLAgC6 — [NOT BANKED] @here.isivy: "Is it just me or what 😭" — lifestyle vlog, Juicy J audio
+- source: @here.isivy | https://www.instagram.com/reel/DceQiMLAgC6/
+- lane: n/a
+- first-seen: 2026-09-24 | status: DO-NOT-SPLICE (2026-09-24) — from Marcus's Saved collection "Viral stuff" (saved-inbox step, first run). Fails tests 2/4: no premise about men; licensed audio. Record kept as the dedup key so no scan re-spends a slot on it.
+- file: none
+
+## DYrxpOopcSR — [NOT BANKED] @pulsetoria: text-over-b-roll essay about men being misunderstood, The Irrepressibles audio
+- source: @pulsetoria | https://www.instagram.com/reel/DYrxpOopcSR/
+- lane: n/a
+- first-seen: 2026-09-24 | status: DO-NOT-SPLICE (2026-09-24) — from Marcus's Saved collection "Viral stuff" (saved-inbox step, first run). Fails test 1 (no woman to camera) and test 5 shape (essay card, no slot); licensed audio. Record kept as the dedup key so no scan re-spends a slot on it.
+- file: none
+
+## DdMAalGznCy — [NOT BANKED] @thequietsociety_: AI-labelled Barrett Jackson quote about choosing a partner
+- source: @thequietsociety_ | https://www.instagram.com/reel/DdMAalGznCy/
+- lane: n/a
+- first-seen: 2026-09-24 | status: DO-NOT-SPLICE (2026-09-24) — from Marcus's Saved collection "Viral stuff" (saved-inbox step, first run). Fails tests 1/4; labelled AI content. Record kept as the dedup key so no scan re-spends a slot on it.
+- file: none
+
+## DalwVftpd5A — [NOT BANKED] @jacobb.lifestyle: "The only option left" — rich-lifestyle edit
+- source: @jacobb.lifestyle | https://www.instagram.com/reel/DalwVftpd5A/
+- lane: n/a
+- first-seen: 2026-09-24 | status: DO-NOT-SPLICE (2026-09-24) — from Marcus's Saved collection "Viral stuff" (saved-inbox step, first run). Fails tests 1/2/3 (negative frame in the comments, no woman to camera). Record kept as the dedup key so no scan re-spends a slot on it.
+- file: none
+
+## Dao0ESOudKj — @theofficialxel (Elleanna Barczak) to camera, night selfie, one unbroken take, burned card "get rich" bottom third the whole way: "Just get fucking rich, bruh. How do you think those fake motherfuckers are gonna feel when you pull up in a roaring V12…" then the flex list, "they're gonna be jealous as fuck"
+- source: @theofficialxel | https://www.instagram.com/reel/Dao0ESOudKj/          <- from Marcus's Saved collection (read-saved.sh, 2026-09-24); REVERSED 2026-09-24 evening by Marcus
+- lane: premise
+- first-seen: 2026-09-24 | status: FRESH — ⚠ BOOKKEEPING: the morning tombstone (test 3) was written from the CAPTION ("f*ck them #trading") with no file. On the footage she says "bruh" and the viewer is the man who pulls up rich: the man IS the hero. Lesson for the scan: never tombstone a woman-to-camera saved reel on caption alone; read frames or the transcript first.
+- stats-at-capture: 226,187 likes / 3,263 comments (info-json 2026-09-24); creator 20,356 followers, 149 posts, bio "NASDAQ > 9-5" (business_discovery 09-24); real person, trading-mindset feed, 50-170 likes typical
+- joke-structure: n/a — opener donor
+- the-beat: cut at 5.06s, the frame before "roaring" (word stamps: feel 3.56, when 3.96, you 4.38, pull 4.48, up 4.72, in 4.86, a 4.96, roaring 5.06). Alternate 3.96s after "feel". Usable window 0.000-5.060. No scene cuts in the take.
+- audio-model: original sound (attach in-app, NEVER bake — rule 92)
+- her-audio: original sound — attachable in-app. ⚠ profanity in the window ("fucking", "motherfuckers"); our word captions write f*cking / motherf*ckers
+- pairs-with: an anti-flex: "when you pull up in a" -> the Claude object that replaces the V12 (a MacBook Air with a second Claude reviewing the first on the cheap model). Used by imabgold `0924_educational_pair` Reel A v3 "the team"
+- premise: "How do you think those fake motherfuckers are gonna feel when you pull up in a"
+- slot: "pull up in a ___" -> one object. Open blank, she never fills it inside the window
+- setup-length: 5.06s to the cut (yes: the question is complete and the blank is open)
+- hero-test: the viewer ("bruh") is the hero, the one who got rich
+- addresses: "bruh", a man / recognises: the man who pulls up — same person
+- original: yes — creator's own upload
+- clean-window: n/a — OPENER donor; her card reads only "get rich", so test 5 is carried by OUR word-by-word captions (house style, winner caption grammar)
+- file: clips/Dao0ESOudKj.mp4 (27.56s; 14967146 B, md5 38c9bbfb8281f077e4cc5e930841ce9f; h264 transcode from the vp9 yt-dlp fetch via Marcus's own session, 2026-09-24)
+
+## Ddqwhx2xmW7 — @prettylushangel to camera on a forest path, trucker cap, burned word captions: "You want to know how I know that men are a lot more selfless," then "caring, stronger than women, and don't don't come at me"
+- source: @prettylushangel | https://www.instagram.com/reel/Ddqwhx2xmW7/          <- on the [premise] watchlist since 2026-09-24 by Marcus's ruling (scan had refused on feed quality)
+- lane: premise
+- first-seen: 2026-09-24 | status: FRESH — measured 2026-09-24 evening (interactive, ig-fetch slot 4/8), superseding the morning's unmeasured ruling entry
+- stats-at-capture: 53 followers, median engagement 1 (business_discovery, 09-24 scan)
+- joke-structure: n/a — opener donor
+- the-beat: cut at 3.84s, where "selfless," ends (word stamp 2.98-3.84s); next jump cut 4.07s. Usable window 0.000-3.840. She is jump-cut every ~1s throughout, so the window contains 3 hard cuts — acceptable, they are her own edit.
+- audio-model: original sound (attach in-app, NEVER bake — rule 92)
+- her-audio: original sound — attachable in-app
+- pairs-with: a "how I know men are selfless" payoff naming an act with a Claude object — he gave his last tokens of the week to fix her app / ran the audit agent on her project instead of his
+- premise: "You want to know how I know that men are a lot more selfless,"
+- slot: "how I know" -> the proof, one act. ⚠ WEAK SLOT: it is a claim plus "how I know", not a claim plus eliminations; the architect must make the payoff read as the evidence. Test 4 passes on the blank, but rank her below DZGH-MeorB6.
+- setup-length: 3.84s to the end of the first clause (yes — the first caption block holds 0.0-4.0s and reads whole muted). Cutting past 3.84 admits "caring, stronger than women", which turns the line into a gender comparison — do not.
+- hero-test: the man is the hero — she is defending men ("don't come at me")
+- addresses: whoever doubts men / recognises: the selfless man — same person on the payoff side
+- original: yes — creator's own upload
+- clean-window: n/a — OPENER donor (her burned captions ARE the hook)
+- creator-note: 53 followers, feed reads as an adult-content funnel; Marcus ruled ADD knowing that. An opener donor is frame one under his name with her sound attached — re-raise if the feed changes character.
+- file: clips/Ddqwhx2xmW7.mp4 (29.70s; 9795222 B, md5 2ac9abad4d88ca8c110244ac474f5643)
 
 ## Ddde8hAp89b — [NOT BANKED] @un_filtered98 to camera, eating, no title card and no burned captions; the "green flags that instantly make a guy 10x more attractive" list exists only in the caption, and the spoken list is already at "7. Well-Dressed" by 3.5s (frame-judged 2026-09-19)
 - source: @un_filtered98 | https://www.instagram.com/reel/Ddde8hAp89b/
@@ -36,20 +289,8 @@ touched.
 - pulse job: `20260923-024432-18124599313858175` (DECLINE; full triage + beat map in `ig-pulse/drafts/20260923-024432-18124599313858175/decision.md`)
 - file: none — record kept as the dedup key so a later scan does not re-download it
 
-## DdMtJuHRHE6 — [NOT BANKED] @applecrumbelina to camera, blonde in a backwards blue cap under the card "#1 green flag in hot men" (8.9s); spoken "The biggest green flag in a man is when he says goodnight but he's not going to bed. He's going to change into a superhero costume and save the city from crime overnight. Marry him..."
-- source: @applecrumbelina | https://www.instagram.com/reel/DdMtJuHRHE6/
-- lane: premise
-- first-seen: 2026-09-22 | status: DO-NOT-SPLICE (2026-09-22) — gate test 6: her spoken premise ("the biggest green flag in a man is when he says") finishes at ~1.6s (whisper word stamps), then she fills the blank herself with her own Batman joke, so there is no 3s setup to cut. Same line and same 2s shape as DdePofcxqo0 (read 09-21). Tests 1/2/3/5/8 pass: positive frame, man is the hero, card is readable muted. Record kept as the dedup key; file prunable by a later scan.
-- stats-at-capture: 19 likes / 1 comments (2.0x account median 10)
-- file: clips/DdMtJuHRHE6.mp4 (8.9s)
-
-## DdNAvD2Relx — [NOT BANKED] @applecrumbelina to camera, blonde in a dim bedroom under the card "reason #28 i love men" with purple word captions; spoken "Reason number 28 I love men is because they just go straight to bed... no bedtime routine... drop the shorts on the ground, jump into bed. I love it, efficiency" (19.1s)
-- source: @applecrumbelina | https://www.instagram.com/reel/DdNAvD2Relx/
-- lane: premise
-- first-seen: 2026-09-22 | status: DO-NOT-SPLICE (2026-09-22) — gate test 6: the premise "reason number 28 I love men is" finishes at ~1.8s and her answer ("they just go straight to bed") starts at 1.82s, so the setup is under 2s. Tests 1/2/3/5/8 pass (positive, man is the hero, word captions). ⚠ Again a different-looking woman from DdMtJuHRHE6 under the same handle (see watchlist note). Record kept as the dedup key; file prunable by a later scan.
-- stats-at-capture: 26 likes / 1 comments (2.7x account median 10)
-- file: clips/DdNAvD2Relx.mp4 (19.1s)
-
+## DdMtJuHRHE6 — [PRUNED DO-NOT-SPLICE] [NOT BANKED] @applecrumbelina to camera, blonde in a backwards blue cap under the card "#1 green flag in hot men" (8.9s); spoken "The biggest green fl · https://www.instagram.com/reel/DdMtJuHRHE6/ · first-seen 2026-09-22
+## DdNAvD2Relx — [PRUNED DO-NOT-SPLICE] [NOT BANKED] @applecrumbelina to camera, blonde in a dim bedroom under the card "reason #28 i love men" with purple word captions; spoken "Reason numb · https://www.instagram.com/reel/DdNAvD2Relx/ · first-seen 2026-09-22
 ## DdZZgkpv1Ou — [PRUNED DO-NOT-SPLICE] [NOT BANKED] @shrestha_mohanty20 to camera, white shirt, burned captions "If she NEVER initiates: / any conversations with you. / NEVER asks you: / any questions to know more about you! /… · https://www.instagram.com/reel/DdZZgkpv1Ou/ · first-seen 2026-09-21
 
 ## Dcc7my4xZdr — [NOT BANKED — DO-NOT-SPLICE (2026-09-19)] @shrestha_mohanty20 to camera, captioned aphorism "When you are happy you go to the person you love the most… if these 2 people are the same, trust me, you are extremely lucky" (12.7s); gate test 4, a closed statement with no blank · https://www.instagram.com/reel/Dcc7my4xZdr/ · first-seen 2026-09-19
@@ -1472,7 +1713,7 @@ touched.
 ## DczJvnLsdnd — a teenage boy swings out on a rope under a Norwegian bridge, loses his grip at the top of the arc, falls flat into the water and comes up dead centre inside his friend's inflatable dinghy; the friend already in the boat scrambles clear and the two of them end up standing in the raft with their hands on their heads
 - source: @pubity | https://www.instagram.com/reel/DczJvnLsdnd/
 - lane: general
-- first-seen: 2026-09-03 | status: FRESH
+- first-seen: 2026-09-03 | status: STALE (2026-09-25)
 - stats-at-capture: 110504 likes / 992 comments (423.94x account median)
 - joke-structure: catastrophe setup, impossible-luck payoff — the fall reads as a wipeout for a full second before you register where he landed
 - the-beat: swing and fall 0:00-0:07, the landing is at 0:09-0:10 and the REAL payoff is the reaction at 0:13-0:16.6 (both boys upright in the dinghy, hands on heads, no words). Cut in at 0:07 and out at 0:16.6 and you get the whole turn with no borrowed text on screen
@@ -1484,7 +1725,7 @@ touched.
 ## DczYMdjvbkY — two mice on a London Underground platform run at each other across the tactile paving, rear up on their hind legs face to face like boxers, tangle, break apart and go again while commuters' feet stay out of frame entirely
 - source: @pubity | https://www.instagram.com/reel/DczYMdjvbkY/
 - lane: general
-- first-seen: 2026-09-03 | status: FRESH
+- first-seen: 2026-09-03 | status: STALE (2026-09-25)
 - stats-at-capture: 46714 likes / 677 comments (180.19x account median)
 - joke-structure: tiny subjects performing a human ritual completely straight — the anthropomorphic read is the whole joke and it needs no caption
 - the-beat: the square-up is at 0:29-0:31 (both mice upright, facing each other). Everything before it is hunting and framing. Cut a 2-3s window on 0:29 and the beat lands cold
@@ -1496,7 +1737,7 @@ touched.
 ## DcwCSJVxwWc — a MapQuest employee in a patterned shirt gets a phone call, grabs his own head, tells someone "we are stinkin' rich", hands his car keys to a colleague, cancels her birthday party, walks out of an emptying open-plan office and ends up alone at a monitor telling a map of Canada "I support you, and you support me"
 - source: @morningbrew | https://www.instagram.com/reel/DcwCSJVxwWc/
 - lane: tech
-- first-seen: 2026-09-03 | status: FRESH
+- first-seen: 2026-09-03 | status: STALE (2026-09-25)
 - stats-at-capture: 20565 likes / 292 comments (9.5x account median)
 - joke-structure: total-sincerity-toward-a-dead-brand — a man treating one news cycle as generational wealth, escalating until he is emotionally committed to software
 - the-beat: the turn is the LAST shot, 0:34-0:38, alone with the monitor. The mid-clip beats (keys at 0:11, cancelling the party at 0:23) are each usable as standalone one-second inserts
@@ -1508,7 +1749,7 @@ touched.
 ## DcjbW_PpOay — a man in a grey suit and a call-centre headset sits alone at a white laptop against a painted geometric wall and plays a pre-meeting trivia game he is visibly losing, reacting to questions the viewer never hears: leaning in, smiling, wincing, tapping the mic boom, then sitting back defeated
 - source: @kofibelizaire | https://www.instagram.com/reel/DcjbW_PpOay/
 - lane: tech
-- first-seen: 2026-09-03 | status: FRESH
+- first-seen: 2026-09-03 | status: STALE (2026-09-25)
 - stats-at-capture: 19151 likes / 2138 comments (2.93x account median) — 1 comment per 9 likes, the highest comment RATE the scan has surfaced from the watchlist
 - joke-structure: one-sided call, the unheard half is the punchline — the viewer writes the other side of the conversation, which is exactly why it farms comments
 - the-beat: reaction beats are spread the whole 75s and each is independently cuttable; the strongest single insert is the defeated sit-back at 0:67-0:74. There is no one turn, which is the point: this is a REACTION LIBRARY, not a single gag
@@ -1520,7 +1761,7 @@ touched.
 ## Dc0CRR4s9nn — filmed from a toddler's eye line looking straight up, a mom in a brown hoodie and hiking harness leans over the camera against open sky and delivers an escalating pep talk to her child, cycling through captions that reframe the threat she grew up with into encouragement, ending laughing into the lens under a canopy of pine
 - source: #parentsofinstagram | https://www.instagram.com/reel/Dc0CRR4s9nn/
 - lane: family
-- first-seen: 2026-09-03 | status: FRESH
+- first-seen: 2026-09-03 | status: STALE (2026-09-25)
 - stats-at-capture: 61 likes / 0 comments (hashtag recent_media, no account baseline)
 - joke-structure: generational reframe — the remembered threat is quoted, then swapped for the version she actually says, with the child's POV making the viewer the one being talked to
 - the-beat: the turn is the caption swap from the quoted threat to "HER 'I CAN DO IT!'" around 0:08-0:10; the face beat that carries it is the laugh at 0:12-0:16.8
@@ -1532,7 +1773,7 @@ touched.
 ## Dc0G-9ABOdd — OPENER-ONLY. A backyard security camera watches a man sunbathing on a lounger beside an above-ground pool; a dust devil tears through the yard, rips the pool cover into the air and throws floats and furniture past him, and he does not get up
 - source: @pubity | https://www.instagram.com/reel/Dc0G-9ABOdd/
 - lane: general
-- first-seen: 2026-09-03 | status: FRESH
+- first-seen: 2026-09-03 | status: STALE (2026-09-25)
 - stats-at-capture: 96069 likes / 851 comments (368.52x account median)
 - joke-structure: total-destruction setup, zero-reaction payoff — the comedy is entirely the absence of a response
 - the-beat: the dust devil hits at 0:06-0:08; the payoff is that nothing changes about the man's posture at 0:10 and again at 0:20
@@ -1544,7 +1785,7 @@ touched.
 ## DczlQ5Gpqem — OPENER-ONLY. At a deer park in Zhengzhou, a young man in a maroon polo holds a bottle of his baby's juice; a deer approaches, works its head in, and after a few polite attempts kicks him and takes the drink, and he stumbles back with his arms up while the rest of the herd wanders the pavilion
 - source: @pubity | https://www.instagram.com/reel/DczlQ5Gpqem/
 - lane: general
-- first-seen: 2026-09-03 | status: FRESH
+- first-seen: 2026-09-03 | status: STALE (2026-09-25)
 - stats-at-capture: 25123 likes / 257 comments (96.5x account median)
 - joke-structure: escalating politeness, then violence — the animal negotiates first, which is what makes the kick funny instead of alarming
 - the-beat: the kick and the stumble at 0:13-0:16
@@ -1556,7 +1797,7 @@ touched.
 ## Dctc0LtRp4R — OPENER-ONLY. On a lake dock, a full-scale wrestling match breaks out — three or four adults hoisting each other toward the water — while one older man in a navy shirt and cap stays seated in a folding chair with his metal tumbler, never standing up, and the last person is thrown in behind him
 - source: @sportscenter | https://www.instagram.com/reel/Dctc0LtRp4R/
 - lane: sports
-- first-seen: 2026-09-03 | status: FRESH
+- first-seen: 2026-09-03 | status: STALE (2026-09-25)
 - stats-at-capture: 235978 likes / 407 comments (2.51x account median)
 - joke-structure: chaos around one immovable person — the stillness at the centre is the joke, and "(Wait for it)" tells you to watch for it
 - the-beat: the throw-in splash at 0:17-0:20, with Unc still seated in frame
@@ -1568,7 +1809,7 @@ touched.
 ## Dcw1DWNtGI4 — OPENER-ONLY. In an airport gate area a man in an orange Miami tee films himself feeding a single french fry into the open mouth of a woman asleep in her seat with headphones on; she chews it without waking, and the people in the row behind lose it
 - source: @houseofhighlights | https://www.instagram.com/reel/Dcw1DWNtGI4/
 - lane: sports
-- first-seen: 2026-09-03 | status: FRESH
+- first-seen: 2026-09-03 | status: STALE (2026-09-25)
 - stats-at-capture: 195521 likes / 962 comments (2.32x account median)
 - joke-structure: sleeping-target prank where the target completes the action — the payoff is that she chews, not that she wakes
 - the-beat: the chew at 0:04-0:06, then the bystanders' reaction at 0:07-0:08
@@ -1835,120 +2076,21 @@ touched.
 
 ## DceaAu2hlQK — [PRUNED DO-NOT-SPLICE, demoted 2026-09-01] a political rant about abortion framed as "1000 women Vs accountability" · https://www.instagram.com/reel/DceaAu2hlQK/ · @rghoss1, general, 237 likes / 114 comments (3.28x median) · judged at caption level and NO CLIP WAS FETCHED — no download slot and no ig-fetch slot was spent on it. Real footage, not an ad, and no comedic or splice mechanism; the subject is one no account this bank serves can carry. It has the highest comment rate in today's watchlist pool (one per two likes), so it would have ranked near the top of every scan for the rest of its 10-day window — this record is here to stop that.
 
-## Dcmfi_dhunJ — a man walks alone down a lit night street in a beige knit polo, deadpan, never looking at camera, while two burned text beats sit over him: "I texted her 'i'm in your city'" then "She replied 'HAVE FUN'"
-- source: @rghoss1 | https://www.instagram.com/reel/Dcmfi_dhunJ/
-- lane: general
-- first-seen: 2026-08-31 | status: STALE (2026-09-22)
-- stats-at-capture: 3161 likes / 43 comments (28.11x account median)
-- joke-structure: the two-word rejection. A hopeful opener is answered with a phrase that is technically warm and actually a door closing, and the scroller clocks "HAVE FUN" in quote marks before reading anything else. The walk underneath never reacts, which is the whole gag: the face has not caught up to the text yet
-- the-beat: no motion turn to cut on — the turn is the SECOND text line arriving over an unchanged shot. Beat 1 (the send) runs 0:00-0:05, beat 2 (the reply) lands ~0:05 and holds to 0:13. Cut on the arrival of the second line, not on any body movement
-- audio-model: trending sound (add in-app) — a licensed track carried the post (the Graph API withheld media_url for exactly this reason); nothing diegetic is load-bearing. Never bake it
-- pairs-with: any "I put myself out there and got a polite nothing back" moment — pitching an investor and getting "keep me posted", shipping a feature and getting one 👍 in the channel, telling someone you built the whole app and getting "nice"
-- clean-window: band y0-950 of 2560 -> 534x950 crop, 2.02x upscale, and his head and shoulders are inside it in most frames. Passes for the payoff role. But be honest about what you get: the text IS the joke here, so a crop that removes it leaves a man walking. Its real role is OPENER, full-bleed, caption intact
-- file: clips/Dcmfi_dhunJ.mp4 (13.8s)
-
-## DcUqJKfuJk6 — the same man in a beige suit stands in a hotel corridor and is progressively erased by an AI edit: first his girlfriend vanishes from his arm, then his dreadlocks, then his whole face changes, each step captioned as another retraction
-- source: @rghoss1 | https://www.instagram.com/reel/DcUqJKfuJk6/
-- lane: general
-- first-seen: 2026-08-31 | status: STALE (2026-09-22)
-- stats-at-capture: 2970 likes / 123 comments (27.13x account median)
-- joke-structure: stepwise confession by subtraction. "Hey so this is my gorgeous Lebanese girlfriend…" -> "Nah im f*ckin wit y'all i don't have a girlfriend" -> "I dont even have dreads" -> "Im soo f*ckin sorry 😭". Each beat takes back one thing the previous beat claimed, and the picture obediently deletes it. The recognition trigger is the second line: the scroller realises the flex is being dismantled live
-- the-beat: four beats, each ~3.5s. The real payoff is the THIRD (0:08, the dreads go and it stops being about the girlfriend at all) and the apology at 0:11 is the button. Cut on the third retraction
-- audio-model: trending sound (add in-app) — media_url was withheld, so the post rides a library track. Never bake it
-- pairs-with: any escalating walk-back of your own claim — "I built this myself" / "with Claude" / "Claude built it" / "I approved it", or a founder bio that gets smaller with each line
-- clean-window: band y1727-2560 of 2560 -> 468x833 crop, 2.31x upscale on paper, but that band is only his legs and the rug. The gag needs the full frame and the text. Treat as OPENER-ONLY / full-bleed, no crop
-- file: clips/DcUqJKfuJk6.mp4 (14.6s)
-
+## Dcmfi_dhunJ — [PRUNED STALE] a man walks alone down a lit night street in a beige knit polo, deadpan, never looking at camera, while two burned text beats sit over him: "I texted  · https://www.instagram.com/reel/Dcmfi_dhunJ/ · first-seen 2026-08-31
+## DcUqJKfuJk6 — [PRUNED STALE] the same man in a beige suit stands in a hotel corridor and is progressively erased by an AI edit: first his girlfriend vanishes from his arm, then hi · https://www.instagram.com/reel/DcUqJKfuJk6/ · first-seen 2026-08-31
 ## DcpcdkiMbLo — [PRUNED DO-NOT-SPLICE] FORMAT ONLY, no clip banked. Slow-mo night-pool b-roll of a stranger climbing out of a hot tub and walking, under a three-beat text stack ending "You' · https://www.instagram.com/reel/DcpcdkiMbLo/ · first-seen 2026-08-31
 
 ## DcpOAyrNR_C — [PRUNED DO-NOT-SPLICE] FORMAT ONLY, no clip banked. Identical night-pool b-roll to DcpcdkiMbLo under a single-line callout: "You've cooked if when hearing 'commit' makes you · https://www.instagram.com/reel/DcpOAyrNR_C/ · first-seen 2026-08-31
 
-## Dcs9OYPKgGV — a barefoot man runs at a granite plaza wall, kicks off it, lands badly, then hops on one leg and turns the camera on the sole of his foot, which is torn open and bleeding
-- source: #fail | https://www.instagram.com/reel/Dcs9OYPKgGV/
-- lane: general
-- first-seen: 2026-08-31 | status: STALE (2026-09-22)
-- stats-at-capture: 190 likes / 8 comments (hashtag recent_media, no account baseline)
-- joke-structure: the demo curse. His own caption says he had done the move cleanly several times and it only broke the moment he decided to film it. Setup is competence, payoff is a wound, and the mechanism is that the CAMERA is what caused it. The recognition trigger is the cut from a confident wall-run to a close-up of blood
-- the-beat: attempt and bad landing 0:03-0:08, then the hobble, then the foot reveal at 0:10 which holds to the end. Two legitimate cut points: out at 0:08 if you want the fail without gore, or ride to 0:10 if the wound IS the punchline
-- audio-model: diegetic (bakeable) — footsteps, the slap of the landing and the room tone are the beat; there is no track riding this
-- pairs-with: "it worked every time until I recorded it" — a demo that broke on camera, a build that passed all week and failed in the screen recording, a take you had to reshoot nine times
-- clean-window: NONE — full frame clean. No burned text anywhere in the clip, 720x1280 native, 1.5x to reach 1080x1920. The only cutting constraint here is taste, not text: the payoff frame is a bleeding foot in close-up
-- file: clips/Dcs9OYPKgGV.mp4 (14.5s)
-
-## Dcrs7mSNoN_ — a man in a floral shirt leaps at a carnival basketball hoop at a theme park, misses everything, and lands flat on his back on the concrete, where he stays while the attendant watches and a crowd walks past
-- source: @houseofhighlights | https://www.instagram.com/reel/Dcrs7mSNoN_/
-- lane: sports
-- first-seen: 2026-08-31 | status: STALE (2026-09-22)
-- stats-at-capture: 299097 likes / 1344 comments (4.42x account median)
-- joke-structure: full commitment, zero result, public aftermath. The recognition trigger is the wipeout itself, but the actual comedy is the third act: he does not get up, and the world simply continues around a man lying on the floor of a theme park
-- the-beat: the jump and the fall land at 0:02-0:03. The payoff is AFTER it — 0:04-0:07, him still down while people step past. Cut out on the crowd walking, not on the impact
-- audio-model: diegetic (bakeable) — arcade noise and the crowd reaction carry it; works muted under a track too, so treat as flexible if a trending sound is wanted
-- pairs-with: shipping something with maximum confidence and watching it do nothing, a launch post that got four likes, a demo that failed in front of people who then carried on with their day
-- clean-window: band y0-888 of 1280 -> 500x888 crop, 2.16x upscale. The burned line "Can't take bro anywhere 😭" sits on a dark bar at y888-936 and everything above it is picture, including the entire jump and fall. The bottom pane below the bar is a blurred duplicate, discard it
-- file: clips/Dcrs7mSNoN_.mp4 (7.3s)
-
+## Dcs9OYPKgGV — [PRUNED STALE] a barefoot man runs at a granite plaza wall, kicks off it, lands badly, then hops on one leg and turns the camera on the sole of his foot, which is to · https://www.instagram.com/reel/Dcs9OYPKgGV/ · first-seen 2026-08-31
+## Dcrs7mSNoN_ — [PRUNED STALE] a man in a floral shirt leaps at a carnival basketball hoop at a theme park, misses everything, and lands flat on his back on the concrete, where he s · https://www.instagram.com/reel/Dcrs7mSNoN_/ · first-seen 2026-08-31
 ## DceIJ25PWh- — [PRUNED DO-NOT-SPLICE] one unbroken 108-second shot of a man in a tan suit sitting in a chair, playing an interviewer to an off-screen candidate, under a permanent card read · https://www.instagram.com/reel/DceIJ25PWh-/ · first-seen 2026-08-31
 
-## DcsJo-XtAn7 — a grizzly cub walks right up to a wildlife photographer lying on an Alaskan riverbank, sniffs and nibbles his boot while he holds still, then wanders back to its mother and sibling crossing the shallows
-- source: @pubity | https://www.instagram.com/reel/DcsJo-XtAn7/
-- lane: general
-- first-seen: 2026-08-31 | status: STALE (2026-09-22)
-- stats-at-capture: 36148 likes / 278 comments (4.53x account median)
-- joke-structure: hold perfectly still and it goes away. Tension with a soft landing: the thing that could kill you turns out to be curious about your shoe, and the correct move is to do absolutely nothing. The recognition trigger is a bear's face filling the frame at the same distance as your own foot
-- the-beat: the approach builds 0:04-0:12, the boot contact is ~0:14, and the release is the cub turning away at 0:17. Cut on the turn-away if you want relief; cut on the contact if you want the freeze
-- audio-model: flexible — river and gravel are pleasant but not load-bearing, so it takes a trending sound cleanly
-- pairs-with: waiting out something you cannot control without touching it — a long agent run you must not interrupt, a deploy you are watching and refusing to poke, a toddler who has almost settled
-- clean-window: band y0-810 of 1280 -> 456x810 crop, 2.37x upscale, and the approach beat and the mother bear are inside it. ⚠ COSTS YOU THE PAYOFF: the 3-line headline card sits at y816-1008 and never fades, and the boot-nibble itself happens at y950-1050, i.e. under the card. A clean crop gets the build, not the contact. Use full-bleed if you need the boot
-- file: clips/DcsJo-XtAn7.mp4 (23.6s)
-
-## DcrMhlTNQT3 — a bullmastiff asleep draped head-down over the arm of a couch slides further and further until he goes over head first onto the rug, then lies there and looks straight at camera
-- source: @pubity | https://www.instagram.com/reel/DcrMhlTNQT3/
-- lane: general
-- first-seen: 2026-08-31 | status: STALE (2026-09-22)
-- stats-at-capture: 35316 likes / 194 comments (4.41x account median)
-- joke-structure: slow inevitable collapse, then a deadpan look. The scroller clocks the physics in under a second (that dog is going to fall) and the reel makes them wait for it. The look-to-camera at the end converts a fall into an admission
-- the-beat: the slide runs the whole clip, the tip-over lands at 0:12-0:13, and the payoff is 0:14-0:16, him on the floor holding eye contact. Cut on the tip-over, hold through the look
-- audio-model: flexible — the snoring/whining is charming but not required, and the clip reads perfectly under a trending sound
-- pairs-with: a slow-motion failure you can see coming and do not stop — the tab count climbing, the "one more fix before dinner" that ends at 11pm, a toddler leaning further and further off the chair
-- clean-window: caption clears at ~0:05 — the 3-line card is present at 0:04.8 and gone by 0:05.2, so 0:05-0:16 is FULLY CLEAN, no crop, no upscale, and that stretch contains the entire tip-over and the look. Best cut-ready donor in today's batch
-- file: clips/DcrMhlTNQT3.mp4 (16.1s)
-
-## Dcl9zGJxJO_ — a teenager winds up on an arcade punch machine in front of his friends, swings, and the bag comes back and folds him over; three separate phone angles of the same hit, ending with him limping away hunched
-- source: @sportscenter | https://www.instagram.com/reel/Dcl9zGJxJO_/
-- lane: sports
-- first-seen: 2026-08-31 | status: STALE (2026-09-22)
-- stats-at-capture: 339922 likes / 2240 comments (5.41x account median)
-- joke-structure: hype setup, instant humiliation, then the replay rub-it-in. The burned line "Got 3 different angles … we never letting bro forget 😭" tells the scroller in one read that the fail is about to be shown three times, which is itself the joke — the format promises repetition of someone's worst second
-- the-beat: first hit and fold at 0:01-0:02, angles two and three follow, and the button is the hunched walk-away in the last second. Cut on the fold for a single hit, or keep all three angles if the bit IS the replay
-- audio-model: diegetic (bakeable) — the machine, the thud and the friends' reaction are the beat. Keep the sound
-- pairs-with: a confident swing at something in public that immediately hurt — a launch, a pitch, a first take, anything you announced before testing
-- clean-window: band y150-900 of 900 -> 422x750 crop, 2.56x upscale (just inside the 2.6x limit). The white caption box occupies y43-149 and is opaque; everything below it is clean picture and the action is centred. Source is 720x900, so the crop is tight but the subject stays whole
-- file: clips/Dcl9zGJxJO_.mp4 (7.2s)
-
-## Dcr58VkNQws — OPENER-ONLY donor. Helmet-cam POV of a motorcyclist tailing a yak and its calf down a gravel road in Sichuan; the yak turns and charges, and the last frames are the camera on the ground
-- source: @pubity | https://www.instagram.com/reel/Dcr58VkNQws/
-- lane: general
-- first-seen: 2026-08-31 | status: STALE (2026-09-22)
-- stats-at-capture: 33373 likes / 1196 comments (4.3x account median)
-- joke-structure: headline as the joke. The burned card "MOTORCYCLIST KNOCKED DOWN BY CHARGING YAK" states the consequence before the footage earns it, so the scroller spends the whole ride waiting for a thing they have already been told is coming. The comment count (1 per 28 likes, unusually high for this account) says people argue about who deserved it
-- the-beat: the follow runs 0:00-0:25, the charge and the knockdown are ~0:26-0:29, and the camera-on-the-ground frame is the button. As an opener, the beat you want is the FIRST second: the card
-- audio-model: trending sound (add in-app) — aggregator repost, engine noise is not load-bearing and the pacing wants a track
-- pairs-with: any "I knew this was a bad idea and kept going anyway" setup where the headline can front-load the outcome
-- clean-window: FAILS the payoff test — the card sits at y804-1020 and never fades, and the real picture is letterboxed between blurred bars, so the only text-free picture band is y336-800 -> 261x464 crop, 4.14x upscale. No clean stretch either. Bank as OPENER-ONLY: full-bleed, no crop, caption is the setup. Never cut this into a payoff beat
-- file: clips/Dcr58VkNQws.mp4 (31.8s)
-
-## DcrkbUuMJN5 — OPENER-ONLY donor. A slow pan across a barndominium living room finds a dad sitting alone in front of a wall-mounted TV, under a stacked three-beat text block about YouTube having captured him
-- source: #parentsofinstagram | https://www.instagram.com/reel/DcrkbUuMJN5/
-- lane: family
-- first-seen: 2026-08-31 | status: STALE (2026-09-22)
-- stats-at-capture: 47 likes / 8 comments (hashtag recent_media, no account baseline)
-- joke-structure: generational role reversal, delivered as a worried aside. "are we going to talk about the fact that YouTube is the TikTok for our parents / or is it just my dad / I feel like I need to have an intervention." The recognition trigger is the second beat backing off the claim, which is what makes it a confession rather than a complaint
-- the-beat: three text beats stacked over one continuous pan; the turn is the third line ("intervention") landing at ~0:06 over an unbothered dad. There is no motion payoff — the room is the illustration, the text is the whole event
-- audio-model: flexible — ambient room tone only, takes a trending sound cleanly
-- pairs-with: an "it's happening to my parent and I have to explain the internet to them" beat, or a soft AI-slop confession where the punchline is that the older person cannot tell
-- clean-window: FAILS the payoff test — the 9-line text block covers y300-985 of 1280 permanently, leaving only y0-295 (6.5x) and y990-1280 (6.6x). No clean stretch. Bank as OPENER-ONLY: full-bleed, caption is the setup
-- file: clips/DcrkbUuMJN5.mp4 (8.4s)
-
+## DcsJo-XtAn7 — [PRUNED STALE] a grizzly cub walks right up to a wildlife photographer lying on an Alaskan riverbank, sniffs and nibbles his boot while he holds still, then wanders  · https://www.instagram.com/reel/DcsJo-XtAn7/ · first-seen 2026-08-31
+## DcrMhlTNQT3 — [PRUNED STALE] a bullmastiff asleep draped head-down over the arm of a couch slides further and further until he goes over head first onto the rug, then lies there a · https://www.instagram.com/reel/DcrMhlTNQT3/ · first-seen 2026-08-31
+## Dcl9zGJxJO_ — [PRUNED STALE] a teenager winds up on an arcade punch machine in front of his friends, swings, and the bag comes back and folds him over; three separate phone angles · https://www.instagram.com/reel/Dcl9zGJxJO_/ · first-seen 2026-08-31
+## Dcr58VkNQws — [PRUNED STALE] OPENER-ONLY donor. Helmet-cam POV of a motorcyclist tailing a yak and its calf down a gravel road in Sichuan; the yak turns and charges, and the last  · https://www.instagram.com/reel/Dcr58VkNQws/ · first-seen 2026-08-31
+## DcrkbUuMJN5 — [PRUNED STALE] OPENER-ONLY donor. A slow pan across a barndominium living room finds a dad sitting alone in front of a wall-mounted TV, under a stacked three-beat te · https://www.instagram.com/reel/DcrkbUuMJN5/ · first-seen 2026-08-31
 ## DcjakFTpcvO — [PRUNED STALE] a guy at a dining table mimes an increasingly frantic explanation to camera, hands flying, ending with both hands clamped on his own head, while a burned text card names the absurd thing… · https://www.instagram.com/reel/DcjakFTpcvO/ · first-seen 2026-08-30
 
 ## DcmbAO-BtKv — [PRUNED STALE] night-time swagger b-roll at a hotel pool: a man surfaces from the water, walks out, struts past the camera and back along the deck, all shot handheld in the dark, under a burned text card · https://www.instagram.com/reel/DcmbAO-BtKv/ · first-seen 2026-08-30
