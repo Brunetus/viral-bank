@@ -19,6 +19,7 @@ re-downloading a clip already judged. FRESH clips and entries are never
 touched.
 
 <!-- entries below, newest first -->## Ddmq-NRhbJC — a blonde woman to camera on a podcast set (mic, "ON PURPOSE" backdrop), word-by-word white captions: "the sexiest thing a man can do is... not ABS. not a car. not money." — then a hard cut at ~3.9s to @programmergrind and a Java HashMap explainer
+- marcus-note 2026-09-25: this IS the sexiest_said donor (same woman, same premise, borrowed by @programmergrind). Correctly not re-banked; the hook is spent on this account.
 - source: @programmergrind | https://www.instagram.com/reel/Ddmq-NRhbJC/
 - lane: premise
 - first-seen: 2026-09-25 | status: DO-NOT-SPLICE (2026-09-25) — **test 1 (podcast guest)**, plus the premise is SPENT
@@ -36,6 +37,25 @@ touched.
 - her-audio: original sound, attachable in-app (rule 92) — but the copy's audio is @programmergrind's post, so the chain would have to be credited to him
 - clean-window: n/a — OPENER donor (her setup card IS the hook)
 - file: clips/Ddmq-NRhbJC.mp4 (99.5s; the donor is only 0.00-3.90s of it)
+
+## DazDXDAu90P — @theofficialxel (Elleanna Barczak) to camera, same night selfie as the proven "get rich" donor, one take, burned card "you are gonna succeed" bottom third the whole way: "And this is why you are gonna succeed. You are pushing yourself through every single thing that is telling you to give up. You are failing over and over and over again and you still show up."
+- source: @theofficialxel | https://www.instagram.com/reel/DazDXDAu90P/          <- [premise] lane read, Graph-served (no cookie), the day after Marcus called Dao0ESOudKj a donor to "definitely keep going"
+- lane: premise
+- first-seen: 2026-09-25 | status: FRESH
+- stats-at-capture: 14,251 likes / 150 comments (2026-07-15; her feed runs 50-170 likes, so ~100x her own typical) — her #2 post of the last 25, behind "let them hate" 19.7k
+- joke-structure: n/a — opener donor
+- the-beat: cut at 6.42s, the frame after "give up." (word stamps: succeed 1.54, pushing 2.44, every 3.64, single 4.12, thing 4.50, telling 5.24, you 5.60, to 5.96, give 6.14, up 6.42). Alternate cut 1.54s after "succeed" is too short (test 6). Do NOT run past 6.42 — the next sentence ("failing over and over…") fills her own slot.
+- audio-model: original sound (attach in-app, NEVER bake — rule 92)
+- her-audio: original sound — attachable in-app. No profanity in the window
+- pairs-with: "every single thing that is telling you to give up" -> hard cut to the thing: the "You've hit your usage limit" screen, a red "resets in 4h" banner, a permission prompt wall, then Marcus back at the desk. The pain object as the villain she just named
+- premise: "This is why you are gonna succeed. You are pushing yourself through every single thing that is telling you to give up."
+- slot: "every single thing that is telling you to give up" -> ONE object shown, not spoken. She names the class; the cut names the instance (usage limits / resets / rate-limit screens are the tribe's shared pain per the 09-16 audience read)
+- setup-length: 6.42s (yes: premise complete, slot open). ⚠ above the 4-5s winning band; his beat must stay ≤3.5s to keep the reel under rule 94's 10s
+- hero-test: the viewer ("you") is the hero — the one who keeps showing up. Second-person aspirational, same family as the proven Dao0ESOudKj; not a premise "about men" in the sexiest_said grammar, banked on the 09-24 reversal precedent (Marcus)
+- addresses: "you", the builder who keeps going / recognises: the same man — same person
+- original: yes — creator's own upload
+- clean-window: n/a — OPENER donor; her card reads only "you are gonna succeed", so test 5 is carried by OUR word-by-word captions (house style, as on Dao0ESOudKj)
+- file: clips/DazDXDAu90P.mp4 (31.1s; only 0.00-6.42 is the donor beat)
 
 ## DdTZL6YxOF7 — @prettylushangel to camera in a park, cap and white tank, burned captions: "Alright, fellas. Here's my question of the day. Are you actually thinking of nothing when we ask you what you're thinking about?"
 - source: @prettylushangel | https://www.instagram.com/reel/DdTZL6YxOF7/
@@ -237,7 +257,7 @@ touched.
 ## Dao0ESOudKj — @theofficialxel (Elleanna Barczak) to camera, night selfie, one unbroken take, burned card "get rich" bottom third the whole way: "Just get fucking rich, bruh. How do you think those fake motherfuckers are gonna feel when you pull up in a roaring V12…" then the flex list, "they're gonna be jealous as fuck"
 - source: @theofficialxel | https://www.instagram.com/reel/Dao0ESOudKj/          <- from Marcus's Saved collection (read-saved.sh, 2026-09-24); REVERSED 2026-09-24 evening by Marcus
 - lane: premise
-- first-seen: 2026-09-24 | status: FRESH — ⚠ BOOKKEEPING: the morning tombstone (test 3) was written from the CAPTION ("f*ck them #trading") with no file. On the footage she says "bruh" and the viewer is the man who pulls up rich: the man IS the hero. Lesson for the scan: never tombstone a woman-to-camera saved reel on caption alone; read frames or the transcript first.
+- first-seen: 2026-09-24 | status: FRESH — ★ PROVEN 2026-09-25 (Marcus: "worked really, really well… a donor we should definitely keep going"). REUSE LAW: like midweek_reset re-ran the @abb.davv flowers beat with a new payoff and did 26.7k, this beat is re-cut with NEW payoff objects, never re-aired with the same one; the slot "pull up in a ___" takes any Claude object. ⚠ BOOKKEEPING: the morning tombstone (test 3) was written from the CAPTION ("f*ck them #trading") with no file. On the footage she says "bruh" and the viewer is the man who pulls up rich: the man IS the hero. Lesson for the scan: never tombstone a woman-to-camera saved reel on caption alone; read frames or the transcript first.
 - stats-at-capture: 226,187 likes / 3,263 comments (info-json 2026-09-24); creator 20,356 followers, 149 posts, bio "NASDAQ > 9-5" (business_discovery 09-24); real person, trading-mindset feed, 50-170 likes typical
 - joke-structure: n/a — opener donor
 - the-beat: cut at 5.06s, the frame before "roaring" (word stamps: feel 3.56, when 3.96, you 4.38, pull 4.48, up 4.72, in 4.86, a 4.96, roaring 5.06). Alternate 3.96s after "feel". Usable window 0.000-5.060. No scene cuts in the take.
