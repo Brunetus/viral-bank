@@ -1,7 +1,13 @@
 # Viral bank watchlist — accounts the scan watches for spiking clips
 
 **EXCLUSIVE MODE (Marcus, 2026-09-17): only the `[premise]` lane below produces
-donors.** Every other lane on this list is format-capture only — the scan may still
+donors.**
+**DAILY READ (Marcus, 2026-09-25): the scan probes ONLY lines that start with `@`
+— the `[premise]` lane and the surviving `[saved]` handles (18 today). The 22
+old-lane accounts and 12 failed saved handles are written as `dormant`/`dead`
+prose lines below: kept for the record, never probed. A dead handle comes back
+only if Marcus moves it. Target: 2 gate-passing girl-to-camera donors a day; a
+zero day is still a healthy day.** Every other lane on this list is format-capture only — the scan may still
 read those accounts for a playbook entry, but never spends a download slot or writes
 a catalog entry on them. See `ig-routine-core/BANK.md` → EXCLUSIVE MODE and THE GATE.
 **Exception (Marcus, 2026-09-24): `[saved]` handles are read like `[premise]` — a gate-passing reel from a `[saved]` creator may be banked (entry `lane: premise`) and the creator moves to `[premise]`. See BANK.md step 1b.**
@@ -56,22 +62,22 @@ Marcus's own sequencing: add first, watch for a week, then cut the noise. Only h
 @casiahwest [saved] — added 2026-09-24 via Saved DIwXzqnxjUM; woman to camera, dating-psychology monologues, negative frames ("you know a man is lying"); failed tests 2/3. Watched for a positive one.
 @programmergrind [saved] — added 2026-09-24 via Saved Dde-go9xl7f; 22.3k followers; **DONOR SOURCE (Marcus, 2026-09-24)**: he is a man to camera (fails test 1 himself) but his hits OPEN on a ~4s borrowed woman clip with a burned card (`DaWr4F9OH9q` 0.00-4.03s) before a long split-screen body. Every scan: read each new reel's first 5s; a woman opener that passes the gate is banked second-hand per amended test 7 with `copied-from: @programmergrind <shortcode>` and `creator:` when nameable. Also a format-capture source (step 5b).
 @saynasheikhh [saved] — added 2026-09-24 via Saved DcExxS_SvR_; woman to camera, feelings lists; failed tests 2/4. Low hit rate expected.
-@here.isivy [saved] — added 2026-09-24 via Saved DceQiMLAgC6; lifestyle vlogger, licensed audio; failed tests 2/4.
-@itspikaaa [saved] — added 2026-09-24 via Saved DcEiX69BMBo; comedy skits; failed tests 1/2/4. Format-capture candidate only.
-@pb_ema [saved] — added 2026-09-24 via Saved Ddb6cZGPJFN; car content; failed tests 2/4.
-@pulsetoria [saved] — added 2026-09-24 via Saved DYrxpOopcSR; text-over-b-roll essays about men; fails test 1 by construction. Expect rejects.
-@thequietsociety_ [saved] — added 2026-09-24 via Saved DdMAalGznCy; AI-labelled quote reels; fails tests 1/4 by construction. Expect rejects.
-@jacobb.lifestyle [saved] — added 2026-09-24 via Saved DalwVftpd5A; lifestyle edits; failed tests 1/2/3.
-@thegroundedmen [saved] — added 2026-09-24 via Saved DVHDA5OiEgq; male voice, "felt loved" pieces; ALREADY a shipped donor (`credits_reset`, 09-22). Fails test 1; watched because Marcus used him anyway.
-@nvidia [saved] — added 2026-09-24 via Saved Ddb0oCCkgXr; Jensen keynotes; `astra_nvidia` donor FLOORED 09-22. Fails test 1. Marcus's rule adds him; expect rejects.
+dead 2026-09-25 (Marcus: cut the dead weight; failed the gate, not probed daily): here.isivy [saved] — added 2026-09-24 via Saved DceQiMLAgC6; lifestyle vlogger, licensed audio; failed tests 2/4.
+dead 2026-09-25 (Marcus: cut the dead weight; failed the gate, not probed daily): itspikaaa [saved] — added 2026-09-24 via Saved DcEiX69BMBo; comedy skits; failed tests 1/2/4. Format-capture candidate only.
+dead 2026-09-25 (Marcus: cut the dead weight; failed the gate, not probed daily): pb_ema [saved] — added 2026-09-24 via Saved Ddb6cZGPJFN; car content; failed tests 2/4.
+dead 2026-09-25 (Marcus: cut the dead weight; failed the gate, not probed daily): pulsetoria [saved] — added 2026-09-24 via Saved DYrxpOopcSR; text-over-b-roll essays about men; fails test 1 by construction. Expect rejects.
+dead 2026-09-25 (Marcus: cut the dead weight; failed the gate, not probed daily): thequietsociety_ [saved] — added 2026-09-24 via Saved DdMAalGznCy; AI-labelled quote reels; fails tests 1/4 by construction. Expect rejects.
+dead 2026-09-25 (Marcus: cut the dead weight; failed the gate, not probed daily): jacobb.lifestyle [saved] — added 2026-09-24 via Saved DalwVftpd5A; lifestyle edits; failed tests 1/2/3.
+dead 2026-09-25 (Marcus: cut the dead weight; failed the gate, not probed daily): thegroundedmen [saved] — added 2026-09-24 via Saved DVHDA5OiEgq; male voice, "felt loved" pieces; ALREADY a shipped donor (`credits_reset`, 09-22). Fails test 1; watched because Marcus used him anyway.
+dead 2026-09-25 (Marcus: cut the dead weight; failed the gate, not probed daily): nvidia [saved] — added 2026-09-24 via Saved Ddb0oCCkgXr; Jensen keynotes; `astra_nvidia` donor FLOORED 09-22. Fails test 1. Marcus's rule adds him; expect rejects.
 @successskill [saved] — added 2026-09-25 via Saved C5lmW0Mij_7 (reel not yet gated: older than the 25-media window, no caption readable, deferred to the next scan); 931k followers, 0 REELS in its last 25 posts — a discipline/ambition quote account that has stopped posting video. Expect rejects.
-@itsmrbugatti [saved] (unreadable) — added 2026-09-25 via Saved Da8BS72t7mv; business_discovery returns error 110 "Invalid user id", i.e. a personal account. Never appended to [premise] whatever a reel does. Reel deferred, ungated.
-@lifewithjorgeg [saved] — added 2026-09-25 via Saved DdXYkKyv6hT; 1.6k followers, 9/23 serving; man to camera, life-insurance coaching. That reel failed tests 1/2/4.
+dead 2026-09-25 (Marcus: cut the dead weight; failed the gate, not probed daily): itsmrbugatti [saved] (unreadable) — added 2026-09-25 via Saved Da8BS72t7mv; business_discovery returns error 110 "Invalid user id", i.e. a personal account. Never appended to [premise] whatever a reel does. Reel deferred, ungated.
+dead 2026-09-25 (Marcus: cut the dead weight; failed the gate, not probed daily): lifewithjorgeg [saved] — added 2026-09-25 via Saved DdXYkKyv6hT; 1.6k followers, 9/23 serving; man to camera, life-insurance coaching. That reel failed tests 1/2/4.
 @cycasmotivation [saved] — added 2026-09-25 via Saved DAGvNIvibiv (reel deferred, ungated: older than the window); 2.39M followers, only 2 REELS in its last 25 posts — a motivation/quote aggregator. Expect rejects.
 @tradonatev1 [saved] — added 2026-09-25 via Saved DZsw9oGtP0I (reel deferred, ungated); 3.4k followers, 18/25 serving; trading-journey account, man to camera. Same profile as @theofficialxel, which Marcus reversed off a caption-only misread — do not tombstone this one without frames.
 @siixuc [saved] — added 2026-09-25 via Saved DdNbCWyRjdd; 8k followers, 0/24 serving (ig-fetch only). ⚠ Woman to camera with real reach (100k-150k likes, 32x/18x/17x spikes this window) so test 1 passes, but every premise is anti-men ("i alr can't stand men", "they gaslight you"), so tests 2/3 reject her. Worth watching for the one positive one.
-@niktekofficial [saved] — added 2026-09-25 via Saved C4bhhVTtG-v; 46.8k followers, 0/20 serving; PC-meme channel. That reel failed tests 1/2/4.
-@_officer.ahmed [saved] — added 2026-09-25 via Saved DVe3khJjOU4; 26.5k followers, 16/24 serving; man to camera, red-flag/relationship coaching aimed at women. Failed tests 1/2.
+dead 2026-09-25 (Marcus: cut the dead weight; failed the gate, not probed daily): niktekofficial [saved] — added 2026-09-25 via Saved C4bhhVTtG-v; 46.8k followers, 0/20 serving; PC-meme channel. That reel failed tests 1/2/4.
+dead 2026-09-25 (Marcus: cut the dead weight; failed the gate, not probed daily): _officer.ahmed [saved] — added 2026-09-25 via Saved DVe3khJjOU4; 26.5k followers, 16/24 serving; man to camera, red-flag/relationship coaching aimed at women. Failed tests 1/2.
 
 ## Old lanes (tech / general / sports / family) — format-capture only since 2026-09-17
 
@@ -89,28 +95,28 @@ dadsaysjokes (0 reels, image/text accounts) plus averageparentproblems
 without @ here on purpose: the scan treats any line starting with @ as a
 live watchlist handle, so a dropped account must never lead a prose line.)
 
-@mkbhd [tech] — biggest tech creator; viral tech-moment clips
-@techcrunch [tech] — startup/AI news moments, launch-day clips
-@verge [tech] — tech culture clips (very active, near-daily reels)
-@mrwhosetheboss [tech] — tech reviews/gadget moments, active reels
-@openai [tech] — AI product/demo moments, active reels
-@techburner [tech] — tech creator, humor + gadget reels, very active (added 2026-07-18 for tech-humor splice surface)
-@morningbrew [tech] — startup/business humor skits, founder-POV (imabgold-adjacent, added 2026-07-18)
-@pubity [general] — general meme/viral clips, huge reach
-@daquan [general] — meme edits with caption-joke structure
-@9gag [general] — general meme clips
-@ladbible [general] — viral human-moment clips
-@browncardigan [general] — absurdist/general meme clips, active
-@houseofhighlights [sports] — splice-meme canon (Mbappé-tier moments)
-@sportscenter [sports] — viral sports moments
-@mom.uncharted [family] — parenting reels, very active (bambi-adjacent)
-@parents [family] — family/parenting moments, near-daily reels
-@corporate.bro [tech] — corporate/sales/office humour, 1.5M, 13/25 serving media_url (added 2026-08-28, Marcus). The closest surface the bank has to imabgold's own working life; sponsored posts appear (#RampPartner etc) so lean on the guard-7 ad filter
-@rghoss1 [general] — relatable/observational joke reels, 6.9k, 7/25 serving (added 2026-08-28, Marcus). Thin on volume but strategically load-bearing: this is the SOURCE of the held-line format that ARCHITECT-CORE carries as UNPROVEN claim #2 and that performance.md rule 76 calls the account's comment engine
-@julianomass [general] — sales/hustle motivation, 927k, 24/24 serving (added 2026-08-28, Marcus). Best serve rate on the whole watchlist. Content is heavily self-promotional (YouTube plugs), so most posts will fail guard 7 or have no joke to lend; its value is the confident-talking-head archetype and format capture
-@kofibelizaire [tech] — corporate / job-interview skit comedy, 50.7k followers, 24/24 serving media_url (added 2026-08-28, Marcus). ⭐ THE HIGHEST-LEVERAGE HANDLE ON THIS LIST: its reels run 298k / 296k / 180k / 152k likes against a 50.7k follower base — roughly 6x its own following, which is the breakout signature step 3 ranks for, and every single video serves a media_url. Same corporate/office lane as @corporate.bro but with an order of magnitude more engagement per follower. Tagged tech because office-and-interview humour is the surface closest to imabgold's own working life, not because it is about technology.
-@noah.rolette [general] — fashion/lifestyle, 657k, 17/23 serving (added 2026-08-28, Marcus). ⚠ HEAVILY SPONSORED (#KEENpartner, #uopartner) — expect guard 7 to reject most of it; watched for aesthetic b-roll rather than jokes
-@adanxai [tech] — AI/coding humour (AWS, GitHub, SWE, Claude), 12.4k, 23/25 serving media_url (added 2026-08-29, Marcus). The ONLY handle on this list whose subject matter is literally @imabgold's own — building with Claude — so it is a lane fill, not a reach play. Bimodal and worth knowing before reading its numbers: median engagement is 47 but the top two posts run 8.7k and 6.3k likes, which is 185x and 135x its own median. 185x would be the highest ratio the bank has ever recorded (the standing record is 172.47x, DcjzjFthFLS/@rghoss1), so step 3 will surface this account loudly on the days it hits and not at all on the days it doesn't — that is the account, not a bug. Two structural caveats: (a) it posts ~8x/day, so the 25-media window covers only about THREE DAYS — a spike older than that is invisible to the scan and a missed day is a permanently missed clip, which no other watchlist account is true of; (b) it is an AGGREGATOR (captions carry `cred:` lines), so a banked clip may be someone else's footage at second hand — treat its donor provenance the way pubity/daquan/9gag are already treated.
+dormant 2026-09-25 (old lane, format-capture only; NOT probed daily under exclusive mode): mkbhd [tech] — biggest tech creator; viral tech-moment clips
+dormant 2026-09-25 (old lane, format-capture only; NOT probed daily under exclusive mode): techcrunch [tech] — startup/AI news moments, launch-day clips
+dormant 2026-09-25 (old lane, format-capture only; NOT probed daily under exclusive mode): verge [tech] — tech culture clips (very active, near-daily reels)
+dormant 2026-09-25 (old lane, format-capture only; NOT probed daily under exclusive mode): mrwhosetheboss [tech] — tech reviews/gadget moments, active reels
+dormant 2026-09-25 (old lane, format-capture only; NOT probed daily under exclusive mode): openai [tech] — AI product/demo moments, active reels
+dormant 2026-09-25 (old lane, format-capture only; NOT probed daily under exclusive mode): techburner [tech] — tech creator, humor + gadget reels, very active (added 2026-07-18 for tech-humor splice surface)
+dormant 2026-09-25 (old lane, format-capture only; NOT probed daily under exclusive mode): morningbrew [tech] — startup/business humor skits, founder-POV (imabgold-adjacent, added 2026-07-18)
+dormant 2026-09-25 (old lane, format-capture only; NOT probed daily under exclusive mode): pubity [general] — general meme/viral clips, huge reach
+dormant 2026-09-25 (old lane, format-capture only; NOT probed daily under exclusive mode): daquan [general] — meme edits with caption-joke structure
+dormant 2026-09-25 (old lane, format-capture only; NOT probed daily under exclusive mode): 9gag [general] — general meme clips
+dormant 2026-09-25 (old lane, format-capture only; NOT probed daily under exclusive mode): ladbible [general] — viral human-moment clips
+dormant 2026-09-25 (old lane, format-capture only; NOT probed daily under exclusive mode): browncardigan [general] — absurdist/general meme clips, active
+dormant 2026-09-25 (old lane, format-capture only; NOT probed daily under exclusive mode): houseofhighlights [sports] — splice-meme canon (Mbappé-tier moments)
+dormant 2026-09-25 (old lane, format-capture only; NOT probed daily under exclusive mode): sportscenter [sports] — viral sports moments
+dormant 2026-09-25 (old lane, format-capture only; NOT probed daily under exclusive mode): mom.uncharted [family] — parenting reels, very active (bambi-adjacent)
+dormant 2026-09-25 (old lane, format-capture only; NOT probed daily under exclusive mode): parents [family] — family/parenting moments, near-daily reels
+dormant 2026-09-25 (old lane, format-capture only; NOT probed daily under exclusive mode): corporate.bro [tech] — corporate/sales/office humour, 1.5M, 13/25 serving media_url (added 2026-08-28, Marcus). The closest surface the bank has to imabgold's own working life; sponsored posts appear (#RampPartner etc) so lean on the guard-7 ad filter
+dormant 2026-09-25 (old lane, format-capture only; NOT probed daily under exclusive mode): rghoss1 [general] — relatable/observational joke reels, 6.9k, 7/25 serving (added 2026-08-28, Marcus). Thin on volume but strategically load-bearing: this is the SOURCE of the held-line format that ARCHITECT-CORE carries as UNPROVEN claim #2 and that performance.md rule 76 calls the account's comment engine
+dormant 2026-09-25 (old lane, format-capture only; NOT probed daily under exclusive mode): julianomass [general] — sales/hustle motivation, 927k, 24/24 serving (added 2026-08-28, Marcus). Best serve rate on the whole watchlist. Content is heavily self-promotional (YouTube plugs), so most posts will fail guard 7 or have no joke to lend; its value is the confident-talking-head archetype and format capture
+dormant 2026-09-25 (old lane, format-capture only; NOT probed daily under exclusive mode): kofibelizaire [tech] — corporate / job-interview skit comedy, 50.7k followers, 24/24 serving media_url (added 2026-08-28, Marcus). ⭐ THE HIGHEST-LEVERAGE HANDLE ON THIS LIST: its reels run 298k / 296k / 180k / 152k likes against a 50.7k follower base — roughly 6x its own following, which is the breakout signature step 3 ranks for, and every single video serves a media_url. Same corporate/office lane as @corporate.bro but with an order of magnitude more engagement per follower. Tagged tech because office-and-interview humour is the surface closest to imabgold's own working life, not because it is about technology.
+dormant 2026-09-25 (old lane, format-capture only; NOT probed daily under exclusive mode): noah.rolette [general] — fashion/lifestyle, 657k, 17/23 serving (added 2026-08-28, Marcus). ⚠ HEAVILY SPONSORED (#KEENpartner, #uopartner) — expect guard 7 to reject most of it; watched for aesthetic b-roll rather than jokes
+dormant 2026-09-25 (old lane, format-capture only; NOT probed daily under exclusive mode): adanxai [tech] — AI/coding humour (AWS, GitHub, SWE, Claude), 12.4k, 23/25 serving media_url (added 2026-08-29, Marcus). The ONLY handle on this list whose subject matter is literally @imabgold's own — building with Claude — so it is a lane fill, not a reach play. Bimodal and worth knowing before reading its numbers: median engagement is 47 but the top two posts run 8.7k and 6.3k likes, which is 185x and 135x its own median. 185x would be the highest ratio the bank has ever recorded (the standing record is 172.47x, DcjzjFthFLS/@rghoss1), so step 3 will surface this account loudly on the days it hits and not at all on the days it doesn't — that is the account, not a bug. Two structural caveats: (a) it posts ~8x/day, so the 25-media window covers only about THREE DAYS — a spike older than that is invisible to the scan and a missed day is a permanently missed clip, which no other watchlist account is true of; (b) it is an AGGREGATOR (captions carry `cred:` lines), so a banked clip may be someone else's footage at second hand — treat its donor provenance the way pubity/daquan/9gag are already treated.
 
 Tested 2026-08-28 and NOT added, all measured via business_discovery:
 cormacbuilds — HTTP 400, not a business/creator account, so business_discovery cannot read it at
