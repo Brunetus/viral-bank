@@ -11,18 +11,16 @@ Filler rule: skip any shortcode already under `## processed` or already a catalo
 measures tests 5/6, rewrites the entry, and moves the line here as `re-measured`.
 
 ## inbox
-C5lmW0Mij_7 @successskill https://www.instagram.com/reel/C5lmW0Mij_7/
-Da8BS72t7mv @itsmrbugatti https://www.instagram.com/reel/Da8BS72t7mv/
-DAGvNIvibiv @cycasmotivation https://www.instagram.com/reel/DAGvNIvibiv/
-DZsw9oGtP0I @tradonatev1 https://www.instagram.com/reel/DZsw9oGtP0I/
-<!-- 2026-09-25: these four are older than the 25-media business_discovery window, so no caption
-     is readable and the gate cannot run without frames. The 09-25 scan hit the 08:50 stop before
-     their fetch slots came up (4 of 8 spent on @brennaberg's withheld spikes). They keep first
-     call tomorrow. Their creators are already on the [saved] lane. -->
+<!-- empty 2026-09-26: the four reels carried over from 09-25 were all fetched and gated this
+     morning (ig-fetch 5-8/8). The backlog is clear. -->
 
 ## re-measure
 
 ## processed
+2026-09-26 DZsw9oGtP0I @tradonatev1 https://www.instagram.com/reel/DZsw9oGtP0I/ — tombstone (test 5 only; 7 of 8 pass). Borrowed woman-to-camera opener 0.00-6.90s, "the hottest f***ing thing a guy can do is… make a little noise", cut measured at 4.30s with the blank still open. NO captions and no card anywhere, so a muted viewer cannot read it. Also a spent theme. Catalogued DO-NOT-SPLICE with the full measurement so a Marcus ruling on test 5 flips it to FRESH with no re-fetch.
+2026-09-26 DAGvNIvibiv @cycasmotivation https://www.instagram.com/reel/DAGvNIvibiv/ — tombstone (test 2, audience fit; "it don't matter how old a man gets, he's got options" — older men, and the slot is filled with women). Right form, wrong premise. Aggregator watermark on every frame.
+2026-09-26 C5lmW0Mij_7 @successskill https://www.instagram.com/reel/C5lmW0Mij_7/ — tombstone (tests 1/2; Shia LaBeouf podcast repost, "when do you become a man")
+2026-09-26 Da8BS72t7mv @itsmrbugatti https://www.instagram.com/reel/Da8BS72t7mv/ — tombstone (test 1; Andrew Tate podcast edit, man to camera behind a boom mic)
 2026-09-25 DdXYkKyv6hT @lifewithjorgeg https://www.instagram.com/reel/DdXYkKyv6hT/ — tombstone (tests 1/2/4; man to camera, life-insurance coach, "who cares, just keep posting your cringe content")
 2026-09-25 DdNbCWyRjdd @siixuc https://www.instagram.com/reel/DdNbCWyRjdd/ — tombstone (tests 2/3; woman to camera but the premise is "men gaslight", negative frame)
 2026-09-25 C4bhhVTtG-v @niktekofficial https://www.instagram.com/reel/C4bhhVTtG-v/ — tombstone (tests 1/2/4; PC-meme channel, no woman, no premise)
