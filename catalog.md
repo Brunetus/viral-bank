@@ -81,7 +81,7 @@ touched.
   ⚠ MEASURED, NOT GUESSED, AND THIS ONE IS A RULING QUESTION. Out of Marcus's Saved. The account is a METAL BAND and the reel is NOT them: it is a borrowed woman-to-camera opener with their punchline in the IG caption ("Harder means to break the plate on your head") — the @programmergrind / @tradonatev1 donor-source pattern, third instance. Tests 1, 4, 5(partial), 6, 8 pass: real woman, full-bleed, burned captions, setup runs 0.00-5.2s COMPLETE with an elimination and an open blank ("X does not mean A. X means ___"), 18,954 likes, Graph-served so it cost zero cookie budget. It fails tests 2 and 3 on ONE noun: there is no man in her sentence. "Harder" is a music-scene word, so the blank wants a heaviness, not an object the viewer owns. The FORM is the best the inbox has produced; only the subject is wrong. Clip kept this run for a Marcus look, pruned by a later scan if he does not rule.
   file: clips/DdwliSKI4-J.mp4 (23.5s)
 
-## Da1kL96umUn — [NOT BANKED] tombstone (test 4) · @theofficialxel to camera at night, ONE static burned card "let them hate" held unchanged across the whole sampled 0-10s · https://www.instagram.com/reel/Da1kL96umUn/ · first-seen 2026-09-27
+## Da1kL96umUn — [NOT BANKED] tombstone (test 4) · @xel.official to camera at night, ONE static burned card "let them hate" held unchanged across the whole sampled 0-10s · https://www.instagram.com/reel/Da1kL96umUn/ · first-seen 2026-09-27
   From Marcus's Saved. Gated on FRAMES, not caption, precisely because this creator's Dao0ESOudKj was tombstoned on a caption-only misread and Marcus reversed it. The frames confirm the reject: "let them hate" is named in THE GATE test 2's second-person sub-case as the example that fails — motivation with no blank at all is a mood, not a setup. Nothing for a payoff object to fill. 19,985 likes, Graph-served, zero cookie cost. She stays a PROVEN donor source; this particular reel is not a donor.
   file: clips/Da1kL96umUn.mp4 (31.8s)
 
@@ -213,8 +213,8 @@ touched.
 - clean-window: n/a — OPENER donor (her setup card IS the hook)
 - file: clips/Ddmq-NRhbJC.mp4 (99.5s; the donor is only 0.00-3.90s of it)
 
-## DazDXDAu90P — @theofficialxel (Elleanna Barczak) to camera, same night selfie as the proven "get rich" donor, one take, burned card "you are gonna succeed" bottom third the whole way: "And this is why you are gonna succeed. You are pushing yourself through every single thing that is telling you to give up. You are failing over and over and over again and you still show up."
-- source: @theofficialxel | https://www.instagram.com/reel/DazDXDAu90P/          <- [premise] lane read, Graph-served (no cookie), the day after Marcus called Dao0ESOudKj a donor to "definitely keep going"
+## DazDXDAu90P — @xel.official (Elleanna Barczak) to camera, same night selfie as the proven "get rich" donor, one take, burned card "you are gonna succeed" bottom third the whole way: "And this is why you are gonna succeed. You are pushing yourself through every single thing that is telling you to give up. You are failing over and over and over again and you still show up."
+- source: @xel.official (formerly @theofficialxel) | https://www.instagram.com/reel/DazDXDAu90P/          <- [premise] lane read, Graph-served (no cookie), the day after Marcus called Dao0ESOudKj a donor to "definitely keep going"
 - lane: premise
 - first-seen: 2026-09-25 | status: FRESH
 - stats-at-capture: 14,251 likes / 150 comments (2026-07-15; her feed runs 50-170 likes, so ~100x her own typical) — her #2 post of the last 25, behind "let them hate" 19.7k
@@ -429,8 +429,8 @@ touched.
 - first-seen: 2026-09-24 | status: DO-NOT-SPLICE (2026-09-24) — from Marcus's Saved collection "Viral stuff" (saved-inbox step, first run). Fails tests 1/2/3 (negative frame in the comments, no woman to camera). Record kept as the dedup key so no scan re-spends a slot on it.
 - file: none
 
-## Dao0ESOudKj — @theofficialxel (Elleanna Barczak) to camera, night selfie, one unbroken take, burned card "get rich" bottom third the whole way: "Just get fucking rich, bruh. How do you think those fake motherfuckers are gonna feel when you pull up in a roaring V12…" then the flex list, "they're gonna be jealous as fuck"
-- source: @theofficialxel | https://www.instagram.com/reel/Dao0ESOudKj/          <- from Marcus's Saved collection (read-saved.sh, 2026-09-24); REVERSED 2026-09-24 evening by Marcus
+## Dao0ESOudKj — @xel.official (Elleanna Barczak) to camera, night selfie, one unbroken take, burned card "get rich" bottom third the whole way: "Just get fucking rich, bruh. How do you think those fake motherfuckers are gonna feel when you pull up in a roaring V12…" then the flex list, "they're gonna be jealous as fuck"
+- source: @xel.official (formerly @theofficialxel) | https://www.instagram.com/reel/Dao0ESOudKj/          <- from Marcus's Saved collection (read-saved.sh, 2026-09-24); REVERSED 2026-09-24 evening by Marcus
 - lane: premise
 - first-seen: 2026-09-24 | status: FRESH — ★ PROVEN 2026-09-25 (Marcus: "worked really, really well… a donor we should definitely keep going"). REUSE LAW: like midweek_reset re-ran the @abb.davv flowers beat with a new payoff and did 26.7k, this beat is re-cut with NEW payoff objects, never re-aired with the same one; the slot "pull up in a ___" takes any Claude object. ⚠ BOOKKEEPING: the morning tombstone (test 3) was written from the CAPTION ("f*ck them #trading") with no file. On the footage she says "bruh" and the viewer is the man who pulls up rich: the man IS the hero. Lesson for the scan: never tombstone a woman-to-camera saved reel on caption alone; read frames or the transcript first.
 - stats-at-capture: 226,187 likes / 3,263 comments (info-json 2026-09-24); creator 20,356 followers, 149 posts, bio "NASDAQ > 9-5" (business_discovery 09-24); real person, trading-mindset feed, 50-170 likes typical
