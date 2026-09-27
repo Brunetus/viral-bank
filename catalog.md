@@ -19,6 +19,64 @@ re-downloading a clip already judged. FRESH clips and entries are never
 touched.
 
 <!-- entries below, newest first -->
+## C6OUCQWtMQi — @esthersarphatie (relationship coach) to camera in a slatted-wood living room, pink tee, purple-highlight word captions: "This is the one thing every man needs from his woman. He doesn't just need her to respect him and to appreciate the things that he does…" then "What he actually needs most is her emotional support"
+- source: @esthersarphatie (browsed, throwaway tag page #whatmenwant) | https://www.instagram.com/reel/C6OUCQWtMQi/
+- lane: premise
+- first-seen: 2026-09-27 | status: FRESH
+- stats-at-capture: 3,310 likes / 53 comments / 170,823 plays (IG tag-page top post, 2024-04-26; old, and the premise does not date). Creator 608279 followers, 17/18 serving
+- joke-structure: n/a — opener donor
+- the-beat: cut at 4.60s, after "respect him" (word stamps: This 0.0 / one 0.5 / thing 0.8 / every 1.1 / man 1.5 / needs 1.7 / woman 2.3 / He doesn't just 2.8-3.2 / need 3.4 / her 3.7 / to 3.9 / respect 4.1 / him 4.6 / and 5.0 / appreciate 5.3 … relationship 7.7 / What he actually needs most 8.9-9.8 / emotional support 10.9-11.5). Alternate 7.70s after "…for the relationship" (two eliminations, over rule 94 with his beat)
+- audio-model: original sound (attach in-app, NEVER bake — rule 92)
+- her-audio: original sound — attachable in-app. Clean
+- pairs-with: the one_thing grammar exactly — "every man needs… not just respect" -> hard cut to Marcus: "he needs a Claude 20x Max plan" / "he needs his tokens to reset". The claim plus an elimination, and the blank is his
+- premise: "This is the one thing every man needs from his woman. He doesn't just need her to respect him"
+- slot: "the one thing every man needs" -> one object; she eliminates respect (and appreciation on the long cut) and never lets the viewer hear her answer before the cut
+- setup-length: 4.60s (yes: claim complete, elimination made, answer still withheld)
+- hero-test: the man is the hero — what he needs, said warmly; no negative frame. Audience fit: "a man and his woman", no age / husband / father anchor
+- addresses: everyone, about "every man" / recognises: the man — same person as the payoff
+- original: yes — creator's own upload
+- clean-window: n/a — OPENER donor; her own word captions match her words
+- file: clips/C6OUCQWtMQi.mp4 (only 0.00-4.60 is the donor beat)
+
+## DcARPbGBBVI — @datingnadya to camera at a desk, card "Green flags in men ✅ ✨first date edition✨", then "1. His phone stays in his pocket or face down the entire date." / "Giving you zero phone distraction…"
+- source: @datingnadya (browsed, throwaway tag page #mengreenflags) | https://www.instagram.com/reel/DcARPbGBBVI/          <- personal account (business_discovery error 110): banked on the browsed handle, cannot join the [premise] lane
+- lane: premise
+- first-seen: 2026-09-27 | status: FRESH
+- stats-at-capture: 970 likes / 18 comments / 41,672 plays (2026-08-13)
+- joke-structure: n/a — opener donor
+- the-beat: cut at 5.70s, after "the entire date." (word stamps: green flags 0.0-0.2 / men 0.7 / first date edition 1.0-1.7 / Number one 2.3 / his phone 2.7 / stays 3.0 / pocket 3.7 / face down 4.2-4.5 / the entire date 4.8-5.7 / Giving you 6.4). The short cut at 2.3s ("Number one,") is under test 6's 3s floor, so her first answer is IN the window, the same way Marcus took "make a little noise" on DZsw9oGtP0I
+- audio-model: original sound (attach in-app, NEVER bake — rule 92)
+- her-audio: original sound — attachable in-app. Clean
+- pairs-with: her answer is the setup — "his phone stays face down the entire date" -> hard cut to Marcus at dinner, phone face down, laptop open beside the plate with five Claude sessions streaming. Or the green-flag family straight: "Green flags in men, number one…" -> his own card. The green-flag premise is the one token_usage (DdxZCCmR8i0) opened at a 2.26% share rate on 09-27
+- premise: "Green flags in men, first date edition. Number one, his phone stays in his pocket or face down the entire date."
+- slot: on the long cut, her answer is the object the payoff subverts; on a card-only cut, "green flag #1: ___"
+- setup-length: 5.70s (yes, premise and her first green flag complete)
+- hero-test: the man is the hero — a green flag, positive by construction
+- addresses: women (dating advice) / recognises: the man who does the green flag — the payoff has to make HIM the one the tribe sees itself in (flag this to the architect: the `texting` failure was a premise addressed to women)
+- original: yes — creator's own upload
+- clean-window: n/a — OPENER donor; her card + captions carry the setup
+- file: clips/DcARPbGBBVI.mp4 (only 0.00-5.70 is the donor beat)
+
+## DdkSYlgxGQY — @annabellegesson to camera in a bedroom, blue hoodie, burned captions line by line: "Boys, I have a question for you" / "You know how girls love receiving flowers?" / "Like, if a guy gets flowers…" / "we know he is the one" / then asks "what is the guy equivalent to flowers? What is your version of flowers?"
+- source: @annabellegesson | https://www.instagram.com/reel/DdkSYlgxGQY/          <- [premise] lane, read with NO spike bar (09-27 exception); it also happens to be her spike
+- lane: premise
+- first-seen: 2026-09-27 | status: FRESH
+- stats-at-capture: 10,099 likes / 7,452 comments (45.6x her median; the comments ARE the answers to her question), 2026-09-21. Her earlier "guy equivalent to a girl receiving flowers" video did 8M+ views by her own account (DdwZGlVIMra, 0-2.4s, too short to use)
+- joke-structure: n/a — opener donor
+- the-beat: JUMP CUT recommended: 0.00-2.00 ("Boys, I have a question for you.") + 9.38-11.52 ("what is the guy equivalent to flowers?") = 4.14s, inside the winning band, question open, then hard cut to Marcus. Straight alternates: 0.00-4.28 (ends on "receiving flowers?", blank implied) or 0.00-11.52 (whole setup, too long for rule 94). Word stamps (mlx_whisper 09-27): Boys 0.00 / you. 1.82-2.00 / flowers? 3.84-4.28 / one. 7.46-7.76 / My question is 8.06-8.96 / what 9.38 / guy 10.02 / equivalent 10.32 / flowers? 11.12-11.52 / What is your version of flowers? 11.98-13.56
+- audio-model: original sound (attach in-app, NEVER bake — rule 92)
+- her-audio: original sound — attachable in-app. Clean, no profanity
+- pairs-with: "what is the guy equivalent to flowers?" -> one tribe object as the answer: tokens resetting midweek (the proven midweek_reset payoff), a 20x Max plan upgrade, "she renewed my Claude plan", a green CI run. Her own comments section is the audience telling her what it is
+- premise: "Boys, I have a question for you… what is the guy equivalent to flowers?"
+- slot: "the guy equivalent to flowers" -> one object. Wide open; she never answers it herself
+- setup-length: 4.14s on the recommended jump cut (2.00 + 2.14); 4.28s straight to "receiving flowers?"
+- hero-test: the man is the hero — she is asking what makes HIM feel loved, flattering, no negative frame
+- addresses: "Boys" / recognises: the man whose answer is the payoff — same person
+- original: yes — creator's own upload
+- ⚠ PREMISE HISTORY: the flowers-for-men family already aired on this account twice (`roses`, then `midweek_reset` 09-16 with @abb.davv's beat, 43 shares in 10h). Different girl, different words, so the reuse law applies (new donor + NEW payoff object), but never re-air the tokens-resetting payoff on it
+- clean-window: n/a — OPENER donor; her own burned captions carry the setup and match her words
+- file: clips/DdkSYlgxGQY.mp4 (15.0s)
+
 ## DdwliSKI4-J — [NOT BANKED] tombstone (tests 2/3) · a dark-haired woman to camera in a parked car, burned word-caption "Harder does not mean" (0.0-1.5s), an uncaptioned middle, then "Harder means…" (4.0-5.2s); hard cut at ~5.5s to @herlastsightband's own stage footage · https://www.instagram.com/reel/DdwliSKI4-J/ · first-seen 2026-09-27 · marcus-note 2026-09-27: Marcus's own test donor, NOT a lane source; the ruling question is withdrawn, no rule change
   ⚠ MEASURED, NOT GUESSED, AND THIS ONE IS A RULING QUESTION. Out of Marcus's Saved. The account is a METAL BAND and the reel is NOT them: it is a borrowed woman-to-camera opener with their punchline in the IG caption ("Harder means to break the plate on your head") — the @programmergrind / @tradonatev1 donor-source pattern, third instance. Tests 1, 4, 5(partial), 6, 8 pass: real woman, full-bleed, burned captions, setup runs 0.00-5.2s COMPLETE with an elimination and an open blank ("X does not mean A. X means ___"), 18,954 likes, Graph-served so it cost zero cookie budget. It fails tests 2 and 3 on ONE noun: there is no man in her sentence. "Harder" is a music-scene word, so the blank wants a heaviness, not an object the viewer owns. The FORM is the best the inbox has produced; only the subject is wrong. Clip kept this run for a Marcus look, pruned by a later scan if he does not rule.
   file: clips/DdwliSKI4-J.mp4 (23.5s)

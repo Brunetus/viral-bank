@@ -53,6 +53,7 @@ Screened 2026-09-26 from the throwaway tag pages and NOT added (one business_dis
 - billehans — 15,216 followers, German-language dating-dynamics creator. Off-audience language, premise never readable to the 18-34 global audience.
 - naynayy.healthh — HTTP 400 / error 110, personal account. `premise-unreadable`, never appendable.
 
+@esthersarphatie [premise] — added 2026-09-27 via throwaway tag page #whatmenwant (C6OUCQWtMQi banked, 'the one thing every man needs from his woman'); 608279 followers, 17/18 serving. Relationship coach, woman to camera, word captions; the one_thing grammar is her native shape.
 Known but NOT added: @thexcelguy — repost aggregator; its 2.0-2.4s cuts produced both
 floor reels (`kiss_you`, `texting`). Test 6 rejects everything it posts (its reposts cut the donor at 2.0-2.4s); test 7 as amended would allow a whole-premise copy, but its copies never are.
 
