@@ -18,7 +18,94 @@ tombstone that STAYS here — it's the record that stops a future scan from
 re-downloading a clip already judged. FRESH clips and entries are never
 touched.
 
-<!-- entries below, newest first -->## DZsw9oGtP0I — a blonde woman to camera in a parked car, one unbroken take, NO burned text anywhere: "The hottest f***ing thing a guy can do is… [1.0s beat] …make a little noise." Hard cut at ~6.9s to a trading chart (@tradonatev1's own screen)
+<!-- entries below, newest first -->
+## DdwliSKI4-J — [NOT BANKED] tombstone (tests 2/3) · a dark-haired woman to camera in a parked car, burned word-caption "Harder does not mean" (0.0-1.5s), an uncaptioned middle, then "Harder means…" (4.0-5.2s); hard cut at ~5.5s to @herlastsightband's own stage footage · https://www.instagram.com/reel/DdwliSKI4-J/ · first-seen 2026-09-27
+  ⚠ MEASURED, NOT GUESSED, AND THIS ONE IS A RULING QUESTION. Out of Marcus's Saved. The account is a METAL BAND and the reel is NOT them: it is a borrowed woman-to-camera opener with their punchline in the IG caption ("Harder means to break the plate on your head") — the @programmergrind / @tradonatev1 donor-source pattern, third instance. Tests 1, 4, 5(partial), 6, 8 pass: real woman, full-bleed, burned captions, setup runs 0.00-5.2s COMPLETE with an elimination and an open blank ("X does not mean A. X means ___"), 18,954 likes, Graph-served so it cost zero cookie budget. It fails tests 2 and 3 on ONE noun: there is no man in her sentence. "Harder" is a music-scene word, so the blank wants a heaviness, not an object the viewer owns. The FORM is the best the inbox has produced; only the subject is wrong. Clip kept this run for a Marcus look, pruned by a later scan if he does not rule.
+  file: clips/DdwliSKI4-J.mp4 (23.5s)
+
+## Da1kL96umUn — [NOT BANKED] tombstone (test 4) · @theofficialxel to camera at night, ONE static burned card "let them hate" held unchanged across the whole sampled 0-10s · https://www.instagram.com/reel/Da1kL96umUn/ · first-seen 2026-09-27
+  From Marcus's Saved. Gated on FRAMES, not caption, precisely because this creator's Dao0ESOudKj was tombstoned on a caption-only misread and Marcus reversed it. The frames confirm the reject: "let them hate" is named in THE GATE test 2's second-person sub-case as the example that fails — motivation with no blank at all is a mood, not a setup. Nothing for a payoff object to fill. 19,985 likes, Graph-served, zero cookie cost. She stays a PROVEN donor source; this particular reel is not a donor.
+  file: clips/Da1kL96umUn.mp4 (31.8s)
+
+## DdZ1cvAN0gW — [NOT BANKED] tombstone (tests 2/3/4) · @sofia.zianii to camera on a landing, word-by-word burned captions, 79s manifestation monologue: "No, I'm right… you, yourself, one month ignoring the entirety of external reality, just purely from…" · https://www.instagram.com/reel/DdZ1cvAN0gW/ · first-seen 2026-09-27
+  From Marcus's Saved. The RIGHT FORM and a real reach signal (55,400 likes, 88.8k followers, 21/25 serving) — girl straight to camera, full-bleed, word captions, native English. Wrong subject: it is reality-creation advice addressed to the viewer's inner state, with no man, no positive premise about men and no blank an object could fill. Same failure as @emmakarolyna's DdIcAYItexA the same morning. Worth keeping on the list for the day she points the camera at men.
+  file: clips/DdZ1cvAN0gW.mp4 (79.6s)
+
+## DdE-6nQzR5F — [NOT BANKED] tombstone (tests 1/2) · @hellobethanyreyes, an IG-growth coach demonstrating a trend template: "POST THIS TREND! / Money can't buy happiness but it can buy a (Fill in blank)" over her own b-roll · https://www.instagram.com/reel/DdE-6nQzR5F/ · first-seen 2026-09-27
+  Screened free on the cover frame, no slot spent (0/25 serving, so banking it would have cost a cookie fetch). Not a premise to camera about men — it is a tutorial teaching the template. Captured instead as a playbook FORMAT entry: the mechanism is our own slot mechanic with no donor attached.
+
+## DdIcAYItexA — [NOT BANKED] tombstone (tests 2/4) · @emmakarolyna to camera, burned captions "to influence your internal feeling state", a 3-6 month manifestation method · https://www.instagram.com/reel/DdIcAYItexA/ · first-seen 2026-09-27
+  241,270 likes, 389,917 followers — the biggest number the inbox produced today, screened free on the cover. Right form, no man, no slot. 0/25 serving, so no slot was spent.
+
+## Dckk8b1RWZI — [NOT BANKED] ad-skip + tombstone (guard 7, test 1) · @rossoreserve, bio "DMV / Delivery anywhere / DM for inquiries" · https://www.instagram.com/reel/Dckk8b1RWZI/ · first-seen 2026-09-27
+  A delivery/sales account. Promotional by construction and no woman-to-camera premise. Reel is older than the 25-media window, so no caption was readable and no slot was spent on it.
+
+## DdZQxLtMA2S — [NOT BANKED] tombstone (tests 1/4) · @thepocketpodcast, "act like the version of you who already has it" · https://www.instagram.com/reel/DdZQxLtMA2S/ · first-seen 2026-09-27
+  A podcast ("Conversations about life with @morechrisgriffin"). Test 1 excludes a podcast guest by name, and the line carries no blank. No slot spent.
+
+## DcXgOUHoxvl — [NOT BANKED] tombstone (tests 2/4) · @hothighpriestess (sarah perl, 1.42M, founder of a manifestation app), "An idiot in motion" · https://www.instagram.com/reel/DcXgOUHoxvl/ · first-seen 2026-09-27
+  Motivation, no premise about men, no blank. Her bio is also a product funnel (guard 7 risk on anything of hers). No slot spent.
+
+## YT:B3FUARANJFE — [LEAD, IG original needed] @Spencer.Barbosa full screen to the lens: "These are oddly specific green flags when it comes to guys."
+- source: @Spencer.Barbosa | https://www.youtube.com/shorts/B3FUARANJFE          <- found 2026-09-26 via YouTube Shorts search (built-in browser, no IG session), for the token_usage reel; Marcus: "those are good candidates, bank them"
+- lane: premise
+- first-seen: 2026-09-26 | status: FRESH (LEAD) — find her Instagram original (shortcode) before use: the in-app sound attach and the credit need the IG post
+- stats-at-capture: 713K views / 20K likes (YouTube repost)
+- premise: "These are oddly specific green flags when it comes to guys."
+- slot: the green flag itself -> "It's when he checks his token usage more than he does his bank account." (0926_token_usage b2)
+- hero-test: hero — a green flag, the man is praised. Not a sexy/hottest premise (Marcus 09-26 ban). Native English, full screen to lens (Marcus 09-26 rules)
+- note: BEST FIT for the token line: cut before her first flag, his line becomes the oddly specific green flag. American, close-up, direct.
+- the-beat: NOT MEASURED — download the IG original, cut before her first answer, confirm setup >= 3 s
+- file: none yet
+
+## YT:Q3CI_ZEMvW4 — [LEAD, IG original needed] @Spencer.Barbosa full screen to the lens: "Green flags for guys… number one:"
+- source: @Spencer.Barbosa | https://www.youtube.com/shorts/Q3CI_ZEMvW4          <- found 2026-09-26 via YouTube Shorts search (built-in browser, no IG session), for the token_usage reel; Marcus: "those are good candidates, bank them"
+- lane: premise
+- first-seen: 2026-09-26 | status: FRESH (LEAD) — find her Instagram original (shortcode) before use: the in-app sound attach and the credit need the IG post
+- stats-at-capture: 4.4M views / 198K likes (YouTube repost)
+- premise: "Green flags for guys… number one:"
+- slot: the green flag itself -> "It's when he checks his token usage more than he does his bank account." (0926_token_usage b2)
+- hero-test: hero — a green flag, the man is praised. Not a sexy/hottest premise (Marcus 09-26 ban). Native English, full screen to lens (Marcus 09-26 rules)
+- note: High intensity, wide-eyed. Cut on 'number one', his line is item one.
+- the-beat: NOT MEASURED — download the IG original, cut before her first answer, confirm setup >= 3 s
+- file: none yet
+
+## YT:mKlu05-zgj0 — [LEAD, IG original needed] @NikiPatton full screen to the lens: "WEIRDLY SPECIFIC GREEN FLAGS (card) + spoken intro"
+- source: @NikiPatton | https://www.youtube.com/shorts/mKlu05-zgj0          <- found 2026-09-26 via YouTube Shorts search (built-in browser, no IG session), for the token_usage reel; Marcus: "those are good candidates, bank them"
+- lane: premise
+- first-seen: 2026-09-26 | status: FRESH (LEAD) — find her Instagram original (shortcode) before use: the in-app sound attach and the credit need the IG post
+- stats-at-capture: 27K views (YouTube repost)
+- premise: "WEIRDLY SPECIFIC GREEN FLAGS (card) + spoken intro"
+- slot: the green flag itself -> "It's when he checks his token usage more than he does his bank account." (0926_token_usage b2)
+- hero-test: hero — a green flag, the man is praised. Not a sexy/hottest premise (Marcus 09-26 ban). Native English, full screen to lens (Marcus 09-26 rules)
+- note: Same 'specific' setup as B3FUARANJFE, more playful. American, leaning into lens, purple room light.
+- the-beat: NOT MEASURED — download the IG original, cut before her first answer, confirm setup >= 3 s
+- file: none yet
+
+## YT:ZHkKAxu_6kM — [LEAD, IG original needed] @ChloeTaylorUK full screen to the lens: "Green flags in guys: 1…"
+- source: @ChloeTaylorUK | https://www.youtube.com/shorts/ZHkKAxu_6kM          <- found 2026-09-26 via YouTube Shorts search (built-in browser, no IG session), for the token_usage reel; Marcus: "those are good candidates, bank them"
+- lane: premise
+- first-seen: 2026-09-26 | status: FRESH (LEAD) — find her Instagram original (shortcode) before use: the in-app sound attach and the credit need the IG post
+- stats-at-capture: 49K views (YouTube repost)
+- premise: "Green flags in guys: 1…"
+- slot: the green flag itself -> "It's when he checks his token usage more than he does his bank account." (0926_token_usage b2)
+- hero-test: hero — a green flag, the man is praised. Not a sexy/hottest premise (Marcus 09-26 ban). Native English, full screen to lens (Marcus 09-26 rules)
+- note: British accent, full screen, points into lens. Medium intensity. Her list card '1. Love languages' appears fast: measure the clean window.
+- the-beat: NOT MEASURED — download the IG original, cut before her first answer, confirm setup >= 3 s
+- file: none yet
+
+## YT:ke6yPxtAaQE — [LEAD, IG original needed] @KatieFeeney full screen to the lens: "What is the biggest green flag in a guy? (spoken question)"
+- source: @KatieFeeney | https://www.youtube.com/shorts/ke6yPxtAaQE          <- found 2026-09-26 via YouTube Shorts search (built-in browser, no IG session), for the token_usage reel; Marcus: "those are good candidates, bank them"
+- lane: premise
+- first-seen: 2026-09-26 | status: FRESH (LEAD) — find her Instagram original (shortcode) before use: the in-app sound attach and the credit need the IG post
+- stats-at-capture: 119K views (YouTube repost)
+- premise: "What is the biggest green flag in a guy? (spoken question)"
+- slot: the green flag itself -> "It's when he checks his token usage more than he does his bank account." (0926_token_usage b2)
+- hero-test: hero — a green flag, the man is praised. Not a sexy/hottest premise (Marcus 09-26 ban). Native English, full screen to lens (Marcus 09-26 rules)
+- note: Spoken question to camera, but a bracket-game graphic covers the lower half: rank last.
+- the-beat: NOT MEASURED — download the IG original, cut before her first answer, confirm setup >= 3 s
+- file: none yet
+## DZsw9oGtP0I — a blonde woman to camera in a parked car, one unbroken take, NO burned text anywhere: "The hottest f***ing thing a guy can do is… [1.0s beat] …make a little noise." Hard cut at ~6.9s to a trading chart (@tradonatev1's own screen)
 - source: @tradonatev1 | https://www.instagram.com/reel/DZsw9oGtP0I/          <- from Marcus's Saved collection (read-saved.sh), deferred 09-25, fetched and measured 2026-09-26
 - lane: premise
 - first-seen: 2026-09-26 | status: DO-NOT-SPLICE (2026-09-26) — **test 5 (nothing readable with the sound off)**, plus the premise is on THEME COOLDOWN
