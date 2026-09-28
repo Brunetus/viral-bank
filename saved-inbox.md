@@ -11,6 +11,14 @@ Filler rule: skip any shortcode already under `## processed` or already a catalo
 measures tests 5/6, rewrites the entry, and moves the line here as `re-measured`.
 
 ## inbox
+DbTQfj3hVF0 @hannahkopen.co https://www.instagram.com/reel/DbTQfj3hVF0/
+<!-- MOVED HERE FROM ## processed on 2026-09-28. The 09-27 scan wrote it under ## processed as
+     "DEFERRED, still a live candidate", which is exactly the filing mistake the note below
+     warns about: step 1b's dedup rule skips anything under ## processed, so a deferred line
+     parked there is a save that never gets read again. An unprocessed candidate lives HERE
+     until it is gated. Attempted 2026-09-28, first call on the budget as promised: ig-fetch
+     failed on a yt-dlp Instagram extractor error (KeyError(' ')), not a cap and not an IG
+     signal. Still 0/25 serving media_url, still ig-fetch-only, still first call tomorrow. -->
 <!-- empty 2026-09-27: all 4 lines from this morning's read-saved.sh were gated and moved to
      ## processed, together with the 5 lines the 09-26 interactive session had written into
      ## processed with the verdict "inbox" (i.e. unprocessed). The backlog is clear. -->
@@ -21,6 +29,7 @@ measures tests 5/6, rewrites the entry, and moves the line here as `re-measured`
 ## re-measure
 
 ## processed
+2026-09-28 DdzE1pVTdE- @jeffery_zang https://www.instagram.com/reel/DdzE1pVTdE-/ — **BANKED as COPY**. @jeffery_zang is a man to camera (anime/cosplay/fitness, 584,891 followers) so he fails test 1 himself, but this reel OPENS 0.00-5.55s on a borrowed woman-to-camera clip, full-bleed, burned card "non sxual things men do that are attractive to me". Transcribed: she SAYS "non-sexual things men do that are really attractive", 0.00-2.72s, premise complete, then "Okay, the first thing…" at 3.16s. Donor beat cut at 3.10s with the blank still open. 156,664 likes, Graph-served so zero cookie cost. FOURTH donor-source account after @programmergrind, @tradonatev1 and @herlastsightband — and the second one that serves media_url.
 2026-09-26 DZsw9oGtP0I @tradonatev1 https://www.instagram.com/reel/DZsw9oGtP0I/ — tombstone (test 5 only; 7 of 8 pass). Borrowed woman-to-camera opener 0.00-6.90s, "the hottest f***ing thing a guy can do is… make a little noise", cut measured at 4.30s with the blank still open. NO captions and no card anywhere, so a muted viewer cannot read it. Also a spent theme. Catalogued DO-NOT-SPLICE with the full measurement so a Marcus ruling on test 5 flips it to FRESH with no re-fetch.
 2026-09-26 DAGvNIvibiv @cycasmotivation https://www.instagram.com/reel/DAGvNIvibiv/ — tombstone (test 2, audience fit; "it don't matter how old a man gets, he's got options" — older men, and the slot is filled with women). Right form, wrong premise. Aggregator watermark on every frame.
 2026-09-26 C5lmW0Mij_7 @successskill https://www.instagram.com/reel/C5lmW0Mij_7/ — tombstone (tests 1/2; Shia LaBeouf podcast repost, "when do you become a man")
@@ -47,7 +56,7 @@ measures tests 5/6, rewrites the entry, and moves the line here as `re-measured`
 2026-09-24 DdMAalGznCy @thequietsociety_ https://www.instagram.com/reel/DdMAalGznCy/ — tombstone (tests 1/4)
 2026-09-24 DalwVftpd5A @jacobb.lifestyle https://www.instagram.com/reel/DalwVftpd5A/ — tombstone (tests 1/2/3)
 2026-09-24 Dao0ESOudKj @xel.official https://www.instagram.com/reel/Dao0ESOudKj/ — BANKED (reversed by Marcus 09-24 evening; the tombstone was caption-only)
-2026-09-27 DbTQfj3hVF0 @hannahkopen.co https://www.instagram.com/reel/DbTQfj3hVF0/ — DEFERRED, still a live candidate. @hannahkopen.co probed 2026-09-27: 4,800 followers, somatic relationship coach, 0/25 serving media_url, and this reel is older than the 25-media window, so it is ig-fetch-only. Green flags is the live proven theme (DdxZCCmR8i0 is riding it at a 2.26% share rate), so it has FIRST call on tomorrow's fetch budget. Not fetched today: the 08:50 guard hit first.
+2026-09-27 DbTQfj3hVF0 @hannahkopen.co — SUPERSEDED: this line was written here as "DEFERRED, still a live candidate", which the dedup rule would have buried. The live line now sits under `## inbox` above. Do not re-file it here until it is actually gated.
 2026-09-27 DdZQxLtMA2S @thepocketpodcast https://www.instagram.com/reel/DdZQxLtMA2S/ — tombstone (tests 1/4; a podcast, which test 1 excludes by name, and "act like the version of you who already has it" carries no blank)
 2026-09-27 DdZ1cvAN0gW @sofia.zianii https://www.instagram.com/reel/DdZ1cvAN0gW/ — tombstone (tests 2/3/4; FETCHED AND FRAMED via Graph, zero cookie cost). Right form exactly (girl to camera, full-bleed, word captions, native English, 55,400 likes) but a 79s manifestation monologue: "one month ignoring the entirety of external reality". No man, no slot.
 2026-09-27 DcXgOUHoxvl @hothighpriestess https://www.instagram.com/reel/DcXgOUHoxvl/ — tombstone (tests 2/4; motivation with no premise about men and no blank; 1.42M followers but the account is a manifestation-app funnel, guard-7 risk on anything of hers)
