@@ -19,6 +19,40 @@ re-downloading a clip already judged. FRESH clips and entries are never
 touched.
 
 <!-- entries below, newest first -->
+## DdrbT6iifJv — @ashleahoess to camera on a bed against a cream wall, hair up, white Jaws tee, full-bleed; a burned card "Women are obsessed with these TYPES of men" flashes on the first frame, then word-by-word stamps carry her spoken line: "GUYS, WOMEN ARE / OBSESSED WITH MEN / WHO ARE AUTHENTIC."
+- source: @ashleahoess | https://www.instagram.com/reel/DdrbT6iifJv/          <- on the [premise] watchlist since 2026-09-29; bio "Modern dating advice for men"
+- lane: premise
+- first-seen: 2026-09-30 | status: FRESH
+- stats-at-capture: 6,007 likes / 296 comments (3.86x her median of 1,634; 300,984 followers, 6/25 serving media_url so this cost ig-fetch slot 1 of 8)
+- joke-structure: n/a — opener donor
+- the-beat: cut at 3.90s, the frame her premise finishes on and the last frame before her own answer lands. Word stamps off the burned captions (2fps sample): card "Women are obsessed with these TYPES of men" 0.00-~0.40 / "GUYS, WOMEN ARE" 0.50-1.00 / "OBSESSED WITH MEN" 1.50-3.50 / "WHO ARE AUTHENTIC." 4.00-4.50. So 0.00-3.90 is her whole claim with the blank still wide open
+- audio-model: original sound (attach in-app, NEVER bake — rule 92)
+- her-audio: original sound — one AAC track, her voice only, no music bed anywhere in the first 8s. Clean attach
+- pairs-with: any moment where Marcus is visibly doing the unglamorous real thing instead of the impressive-looking one — hard cut to the whiteboard, a terminal printing his own commits, "I read the diff before I merged it", the 20x Max receipt, four worktrees running while he sits still
+- premise: "Guys, women are obsessed with men who are authentic." (spoken, verbatim; the burned card reads "Women are obsessed with these TYPES of men")
+- slot: "women are obsessed with men who are ___" -> ONE quality or object the cut shows. Her own answer is "authentic", a single word, so the blank closes on one thing rather than a list. e.g. a man who ships his own code / the whiteboard answer / "he built it himself"
+- setup-length: 3.90s (premise COMPLETE — she finishes "obsessed with men" before the answer stamp at 4.00s; nothing truncated). Just under the 4.03s/4.60s winning band and comfortably over the 3s floor
+- hero-test: the man is the HERO, unambiguously. Her sentence is women being obsessed WITH him; there is nothing wrong with him anywhere in the clip, and she opens by addressing him directly ("GUYS,")
+- addresses: young men, in the second person ("GUYS,") / recognises: the man watching, as the authentic one. SAME PERSON — this is not the `texting` failure; her setup and the payoff flatter the same viewer
+- original: yes — @ashleahoess's own upload on her own account, no watermark, no third-party mark
+- clean-window: n/a — OPENER donor (her setup card IS the hook)
+- file: clips/DdrbT6iifJv.mp4 (60.4s, 1080x1920, h264; the donor beat is 0.00-3.90)
+⚠ ARCHITECT NOTE, and it is the honest one: her burned CARD says "these TYPES of men" (plural), while her SPOKEN line resolves to one quality. The card is on screen for roughly the first 0.4s only, so a cut that starts at 0.00 carries it. taste.md measured this morning that a LIST-shaped blank is what separated the bank's three aired donors (0.62%, 0.67%, 0.00% share rate) from the account's four hits, which all closed on ONE object. Use the SPOKEN blank, not the card, and fill it with a single thing.
+⚠ Guard 7 checked and CLEAR on this reel specifically: the tail (50-60s) was frame-sampled and carries no CTA, no lead magnet and no product — she ends on "you are just authentically true to yourself... literally obsess over you." Her BIO does carry a booking funnel, and `DdzGKu_EZoZ` on her feed is a paid Anson Belt post, so guard 7 stays live on the account.
+
+## DdnWW6dBeA0 — [NOT BANKED] @prettylushangel to camera on a wooded path, cowboy hat and braids, full-bleed burned card "Fellas, you really don't need to overthink it, okay?" — then she answers herself and the reel becomes her own joke
+- source: @prettylushangel | https://www.instagram.com/reel/DdnWW6dBeA0/
+- lane: premise
+- first-seen: 2026-09-30 | status: DO-NOT-SPLICE (2026-09-30) — gate-reject on tests 6 and 3, measured off the frames after a Graph download slot was spent (25/25 serving, so zero cookie cost)
+- stats-at-capture: 0 likes / 0 comments (her median engagement is 1, so every ratio she produces is noise — picked on the CARD, per her watchlist line, not on numbers)
+- the-beat: none usable. Card 1 "Fellas, you really don't need to overthink it, okay?" holds 0.00-~2.2s; card 2 "All you need to do is send her flowers, money for lunch, and a text that" 2.5-6.2s; card 3 "says, I can't wait to ruin it later" 6.5-7.5s. Duration 11.28s
+- setup-length: **2.2s** at the only cut where the blank is open. Under the 3s floor, and sitting in the 2.03s/2.37s band that produced the account's two worst donor reels. A later cut at 6.2s leaves a blank, but by then she has already supplied the eliminations AND the answer's frame ("a text that ___"), so the reel is her joke, not our setup — test 4's 2026-09-17 inversion names exactly this
+- hero-test: FAILS. "Fellas, you really don't need to overthink it" positions the man as the one overthinking, and the answer is a list of things he should give HER. The man is the instruction's target, not its hero
+- addresses: men ("Fellas") / recognises: the woman receiving the flowers. DIFFERENT PEOPLE — this is the `texting` failure (975 views) in its purest form
+- original: yes — her own upload
+- file: clips/DdnWW6dBeA0.mp4 (11.28s) — pruneable from 2026-10-03 per step 6b
+The tombstone exists so no later scan re-spends a slot on it: the card screens as a textbook second-person donor and only the frames show she closes her own blank.
+
 ## Dd1kEvAgli2 — [COPY, test 7 as amended] the 0.00-5.23s opener of @programmergrind's "the hottest words in tech": @spencer.barbosa (3.5M followers) to camera in a bright kitchen, full-bleed, burned blue card "the HOTTEST things a guy can do/say😍😍😍"; she says the whole line, the card drops, and at 5.23s Danny hard-cuts to himself + a terminal deck titled "THE 5 HOTTEST WORDS IN TECH"
 - source: @programmergrind | https://www.instagram.com/reel/Dd1kEvAgli2/          <- the HOST account (copied-from). ⚠ bank-sync consumers: the DONOR is the first 4.90s only, not the 89s host reel
 - lane: premise
@@ -450,7 +484,7 @@ touched.
 ## Ddqwhx2xmW7 — @prettylushangel to camera on a forest path, trucker cap, burned word captions: "You want to know how I know that men are a lot more selfless," then "caring, stronger than women, and don't don't come at me"
 - source: @prettylushangel | https://www.instagram.com/reel/Ddqwhx2xmW7/          <- on the [premise] watchlist since 2026-09-24 by Marcus's ruling (scan had refused on feed quality)
 - lane: premise
-- first-seen: 2026-09-24 | status: FRESH — measured 2026-09-24 evening (interactive, ig-fetch slot 4/8), superseding the morning's unmeasured ruling entry
+- first-seen: 2026-09-24 | status: USED (aired 2026-09-29 in @imabgold selfless / Dd45-ClT4zK)
 - stats-at-capture: 53 followers, median engagement 1 (business_discovery, 09-24 scan)
 - joke-structure: n/a — opener donor
 - the-beat: cut at 3.84s, where "selfless," ends (word stamp 2.98-3.84s); next jump cut 4.07s. Usable window 0.000-3.840. She is jump-cut every ~1s throughout, so the window contains 3 hard cuts — acceptable, they are her own edit.
