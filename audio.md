@@ -11,6 +11,12 @@
      At 3-4 posts/day on one account alone that means 100+, not 20. Current
      pool: 156 entry lines as of 2026-09-30. The pool is over target, so the
      +5-per-scan floor no longer binds.
+     2026-10-01: +1 added ("Funkytown" - Lipps Inc., momentum). 19 RE-CONFIRMED,
+     0 dropped (oldest entry-line `confirmed:` is 2026-09-13, 18 days, still inside
+     the 21-day evidence window). Two roundup searches plus one site-scoped URL
+     lookup that returned nothing, so Funkytown is pooled without a url. Of the ~19
+     tracks this week's roundups name, only ONE was new to the file -- the pool has
+     caught up with the weekly lists, as 09-30 predicted.
      2026-09-30: +2 added ("La La La" - Gilmore Girls show audio; "Bad Dream"
      original audio - cosrx), 12 RE-CONFIRMED, 0 dropped (the oldest entry-line
      `confirmed:` in the file is 2026-09-13, 17 days, so nothing is past the
@@ -498,7 +504,7 @@
      Billboard/FIFA on "Dai Dai". -->
 
 ## deadpan-hold
-"Less Than a Lover" — JENNIE | shape: deadpan-hold | lane-fit: any | why: dreamy backdrop currently carrying reflective and travel content; sparse and even enough to sit under a held text card without competing with it, which is what most of this bank's formats need | start: from the top, let the first bar run under the text | url: https://www.instagram.com/reels/audio/1041427958369976/ | confirmed: 2026-09-30
+"Less Than a Lover" — JENNIE | shape: deadpan-hold | lane-fit: any | why: dreamy backdrop currently carrying reflective and travel content; sparse and even enough to sit under a held text card without competing with it, which is what most of this bank's formats need | start: from the top, let the first bar run under the text | url: https://www.instagram.com/reels/audio/1041427958369976/ | confirmed: 2026-10-01
 
 "Oh La La Amour" — Julio Iglesias | shape: deadpan-hold | lane-fit: any | why: SocialBee 09-18, cinematic crooner bed under travel and aesthetic cuts; slow and even enough to sit under a held card without competing | start: from the top | confirmed: 2026-09-19
 
@@ -551,8 +557,8 @@
 
 
 ## escalation
-"Bad Dream" (original audio) — cosrx | shape: escalation | lane-fit: general/tech | why: the bed behind the "Bad Dream" trend, where a product is given a deliberately overblown nightmare sequence before the calm reveal; the swell does the comedy, so the cut only has to hold a straight face | start: from the top, the reveal lands on the drop | confirmed: 2026-09-30
-"Right Round" — Flo Rida ft. Kesha | shape: escalation | lane-fit: general/tech | why: the bed under the "Right Round Hangover" prank, where a team stages a full aftermath scene around someone asleep; the spin-drop lands the reveal of how far the mess went | start: on the "you spin my head right round" hook | url: https://www.instagram.com/reels/audio/1173973202793191/ | confirmed: 2026-09-29
+"Bad Dream" (original audio) — cosrx | shape: escalation | lane-fit: general/tech | why: the bed behind the "Bad Dream" trend, where a product is given a deliberately overblown nightmare sequence before the calm reveal; the swell does the comedy, so the cut only has to hold a straight face | start: from the top, the reveal lands on the drop | confirmed: 2026-10-01
+"Right Round" — Flo Rida ft. Kesha | shape: escalation | lane-fit: general/tech | why: the bed under the "Right Round Hangover" prank, where a team stages a full aftermath scene around someone asleep; the spin-drop lands the reveal of how far the mess went | start: on the "you spin my head right round" hook | url: https://www.instagram.com/reels/audio/1173973202793191/ | confirmed: 2026-10-01
 
 "You Never Take Me to Bangladesh" — Ian McConnell | shape: escalation | lane-fit: general (comedy) | why: still the season's biggest comedy format — absurdist escalating-demands lip sync, hundreds of thousands of reels and the only true joke bed that has held across every list for a month | start: on the first demand | confirmed: 2026-09-22
 
@@ -588,7 +594,7 @@
 
 "Aperture" — Harry Styles | shape: escalation | lane-fit: general | why: listed 09-10..24 for glam transitions, dance cardio and pre-party fast-cuts; a building bed that rewards one cut per beat | start: from the top, cut on the first downbeat | confirmed: 2026-09-17
 
-"Diva" — Beyoncé | shape: escalation | lane-fit: general | why: on Scott Social's weekly list (updated 2026-09-07, secondary tier); a strutting, repetitive swagger beat that rewards a cut which keeps upping the flex, beat by beat, and plays straight under a deliberately tiny win | start: on the hook, one cut per bar | confirmed: 2026-09-29
+"Diva" — Beyoncé | shape: escalation | lane-fit: general | why: on Scott Social's weekly list (updated 2026-09-07, secondary tier); a strutting, repetitive swagger beat that rewards a cut which keeps upping the flex, beat by beat, and plays straight under a deliberately tiny win | start: on the hook, one cut per bar | confirmed: 2026-10-01
 
 "Original audio by olyabelakoneva" (the "Corporate Girl" / "POV: your phone is ringing" sound) — olyabelakoneva | shape: escalation | lane-fit: tech/general | why: on both Scott Social (09-07) and Buffer (09-03): a professional unpacks a work bag item by item to the beat, so each object is a bigger reveal than the last; rebuilds as "everything I actually carry to run the business" | start: from the top, one item per beat | confirmed: 2026-09-16
 
@@ -608,7 +614,7 @@
 
 ## comparison
 
-"Money Can't Buy You Happiness" — eresdigna | shape: comparison | lane-fit: any | why: listed 09-10..24 under value-for-money reveals; the line sets up the expensive thing, the cut shows the cheap thing that actually delivers | start: on the spoken line | confirmed: 2026-09-29
+"Money Can't Buy You Happiness" — eresdigna | shape: comparison | lane-fit: any | why: listed 09-10..24 under value-for-money reveals; the line sets up the expensive thing, the cut shows the cheap thing that actually delivers | start: on the spoken line | confirmed: 2026-10-01
 
 "That Should Be Me" — Justin Bieber | shape: comparison | lane-fit: any | why: the trend is literally a two-part structure — somebody else in the position you would rather be in, then you. The song names the comparison so the text does not have to | start: on the title line, cut on "me" | confirmed: 2026-09-19
 
@@ -666,14 +672,14 @@
 
 ## quiet-confession
 "La La La" — Gilmore Girls (show audio) | shape: quiet-confession | lane-fit: any | why: named this week as THE autumn bed on Instagram — creators run it under changing leaves, coffee runs, knitwear and rainy-day montages, and it is soft and wordless enough to leave the whole frame to one honest line of text | start: from the top, text lands before the first "la" | confirmed: 2026-09-30
-"Summer Bummer (Lights On)" — RhyRhy | shape: quiet-confession | lane-fit: any | why: this week's new bedroom-pop entry, wistful and low-energy; the shape it plays straight under is an admission the cut is slightly embarrassed by. ⚠ shape assigned from the roundups' description, not from hearing it — re-shape it if it lands wrong in a cut | start: from the top | confirmed: 2026-09-30
+"Summer Bummer (Lights On)" — RhyRhy | shape: quiet-confession | lane-fit: any | why: this week's new bedroom-pop entry, wistful and low-energy; the shape it plays straight under is an admission the cut is slightly embarrassed by. ⚠ shape assigned from the roundups' description, not from hearing it — re-shape it if it lands wrong in a cut | start: from the top | confirmed: 2026-10-01
 "Reason To Stay" — Olivia Dean | shape: quiet-confession | lane-fit: family/any | why: listed 09-10..24 under cozy montages and small reveals; warm and unhurried, sits under a held line about why a routine is worth keeping | start: on the vocal entry | confirmed: 2026-09-29
 
-"September" — Earth, Wind & Fire | shape: quiet-confession | lane-fit: any | why: SocialBee 09-10 lists the original for autumn lifestyle and seasonal-transition cuts (distinct from the Art Music version already here); the "do you remember" opening frames a then-vs-now look back | start: on "do you remember" | confirmed: 2026-09-30
+"September" — Earth, Wind & Fire | shape: quiet-confession | lane-fit: any | why: SocialBee 09-10 lists the original for autumn lifestyle and seasonal-transition cuts (distinct from the Art Music version already here); the "do you remember" opening frames a then-vs-now look back | start: on "do you remember" | confirmed: 2026-10-01
 
-"Kiss of Life" — Sade | shape: quiet-confession | lane-fit: any | why: named this week as the bed under aesthetic cuts — unhurried, warm and almost entirely without an attack, so it never fights a written line for attention; the closest thing in this pool to a track that makes an ordinary frame feel deliberate | start: from the top, let the first bar breathe under the card | url: https://www.instagram.com/reels/audio/413064942781211/ | confirmed: 2026-09-29
+"Kiss of Life" — Sade | shape: quiet-confession | lane-fit: any | why: named this week as the bed under aesthetic cuts — unhurried, warm and almost entirely without an attack, so it never fights a written line for attention; the closest thing in this pool to a track that makes an ordinary frame feel deliberate | start: from the top, let the first bar breathe under the card | url: https://www.instagram.com/reels/audio/413064942781211/ | confirmed: 2026-10-01
 
-"The Morning" — The Weeknd | shape: quiet-confession | lane-fit: general/tech | why: on Scott Social's weekly list (updated 2026-09-07); dark, slow, late-night R&B that sits under a flat admission or a 2am-at-the-desk shot without cheering it on | start: on the first verse, let the text land before the hook | confirmed: 2026-09-29
+"The Morning" — The Weeknd | shape: quiet-confession | lane-fit: general/tech | why: on Scott Social's weekly list (updated 2026-09-07); dark, slow, late-night R&B that sits under a flat admission or a 2am-at-the-desk shot without cheering it on | start: on the first verse, let the text land before the hook | confirmed: 2026-10-01
 
 "Sparks" — Evan Jacobson (Coldplay cover) | shape: quiet-confession | lane-fit: any | why: RE-ADD (dropped 09-15 on an 08-23 stamp, back on SocialBee 09-10 and 09-18) — gratitude moments and wry life reflections, soft enough for an admission | start: from the top | confirmed: 2026-09-19
 
@@ -712,13 +718,13 @@
 
 "A New Season Had Begun" — @olivialodenius (original audio) | shape: quiet-confession | lane-fit: family/general | why: the autumn trend stitching wordless everyday moments together; carries a "life lately" run with one text line and no talking | start: from the top | confirmed: 2026-09-17
 
-"Yummy Little Day" — @emilogue | shape: quiet-confession | lane-fit: family/food | why: 59K posts — sweet playful bed made for makers, bakers and small handmade moments; the warmest option on the current lists | start: from the top | confirmed: 2026-09-16
+"Yummy Little Day" — @emilogue | shape: quiet-confession | lane-fit: family/food | why: 59K posts — sweet playful bed made for makers, bakers and small handmade moments; the warmest option on the current lists | start: from the top | confirmed: 2026-10-01
 
 "Carefree Days" — Peaceful Reveries | shape: quiet-confession | lane-fit: any | why: a calm no-vocal bed currently used for aesthetic reels; the pool's no-lyrics option when the on-screen text is long and needs reading time | start: from the top | url: https://www.instagram.com/reels/audio/600917865670697/ | confirmed: 2026-09-16
 
 "august" — Taylor Swift | shape: quiet-confession | lane-fit: general/travel | why: 2.5M reels, the biggest sound on the app right now on its annual August return — summer recaps, sunsets, nostalgic photo dumps; an enormous earnest bed that also plays ironic-sincerity under a dry confession | start: let the verse breathe, cut on the turn | url: https://www.instagram.com/reels/audio/921447351682109/ | confirmed: 2026-09-19
 
-"September" — Art Music | shape: quiet-confession | lane-fit: any | why: on Scott Social's weekly list (updated 2026-09-07) as the acoustic bed for romanticising the turn into fall; soft and slow enough to carry one honest line over an ordinary seasonal shot | start: from the top, text lands on the first chord change | confirmed: 2026-09-30
+"September" — Art Music | shape: quiet-confession | lane-fit: any | why: on Scott Social's weekly list (updated 2026-09-07) as the acoustic bed for romanticising the turn into fall; soft and slow enough to carry one honest line over an ordinary seasonal shot | start: from the top, text lands on the first chord change | confirmed: 2026-10-01
 
 "Sometimes" — Fleetwood Mac | shape: quiet-confession | lane-fit: any | why: 3.1K posts and steady across multiple weeks and lists — the warm nostalgic bed for home moments, finds and small wins; proven at playing a dry confession completely straight | start: on the vocal | confirmed: 2026-09-13
 
@@ -745,21 +751,22 @@
 
 
 ## momentum
-"Vibin" — Wxoda | shape: momentum | lane-fit: any | why: named this week as a top pick alongside Nicole Kidman and Summer Bummer; an easy forward-moving groove that carries a cut without asking for attention, so it survives a text card sitting on top of it | start: from the top | confirmed: 2026-09-30
+"Funkytown" — Lipps Inc. | shape: momentum | lane-fit: any | why: named this week as the disco bed carrying outfit videos, travel clips, transformations and energetic montages; a 1980 classic the whole audience already knows, so it needs no setup and survives a text card over it | start: on the "won't you take me to" hook | confirmed: 2026-10-01
+"Vibin" — Wxoda | shape: momentum | lane-fit: any | why: named this week as a top pick alongside Nicole Kidman and Summer Bummer; an easy forward-moving groove that carries a cut without asking for attention, so it survives a text card sitting on top of it | start: from the top | confirmed: 2026-10-01
 "SaWaDiKa" — LISA | shape: momentum | lane-fit: general | why: the week's top verified music signal (official audio ~30K to 40K+ reels, top trend in several markets; CreatorDB #7 on 09-20), a hard-charging rap bed built for confident poses, outfit transitions and choreo, so it wants a cut that struts | start: the hook | confirmed: 2026-09-22
-"Nicole Kidman" — ADELA | shape: momentum | lane-fit: general | why: SocialBee 09-18 names it the bed for confident lip-syncs and outfit showcases; a strut track for a "here it is" reveal | start: from the top | confirmed: 2026-09-30
+"Nicole Kidman" — ADELA | shape: momentum | lane-fit: general | why: SocialBee 09-18 names it the bed for confident lip-syncs and outfit showcases; a strut track for a "here it is" reveal | start: from the top | confirmed: 2026-10-01
 
-"Bass Persuades" — Miley Cyrus | shape: momentum | lane-fit: general | why: title track of the new album, on SocialBee's 09-10 list for confident dance and outfit cuts; a strutting bass groove that carries a "here it is" walk-in | start: on the bass entrance | confirmed: 2026-09-30
+"Bass Persuades" — Miley Cyrus | shape: momentum | lane-fit: general | why: title track of the new album, on SocialBee's 09-10 list for confident dance and outfit cuts; a strutting bass groove that carries a "here it is" walk-in | start: on the bass entrance | confirmed: 2026-10-01
 
-"Sunny" — Boney M., R3HAB | shape: momentum | lane-fit: family/food/travel | why: 169K posts — bright retro-summer energy for outings and vacation cuts; carries momentum without demanding attention | start: on the beat drop | url: https://www.instagram.com/reels/audio/2802724953246863/ | confirmed: 2026-09-29
+"Sunny" — Boney M., R3HAB | shape: momentum | lane-fit: family/food/travel | why: 169K posts — bright retro-summer energy for outings and vacation cuts; carries momentum without demanding attention | start: on the beat drop | url: https://www.instagram.com/reels/audio/2802724953246863/ | confirmed: 2026-10-01
 
 "Dai Dai" — Shakira & Burna Boy | shape: momentum | lane-fit: general/sports | why: the official 2026 FIFA World Cup song, on the Hot 100 and everywhere on social right now — the broadest-reach celebration bed available while the tournament is live | start: on the "dai, dai" chant | url: https://www.instagram.com/reels/audio/2139925233474698/ | confirmed: 2026-09-22
 
 "Summer Love" — Justin Timberlake | shape: momentum | lane-fit: general/travel | why: listed TWICE on Scott Social's weekly list (updated 2026-09-07) and the JT catalogue is also behind the "Some People Call Me…" trend this week; a bright, bouncing groove that carries a fast montage of good moments without needing a punchline | start: on the first chorus | confirmed: 2026-09-22
 
-"Someone New" — Hozier | shape: momentum | lane-fit: any | why: listed this week for feel-good montages of happy moments — a warm mid-tempo bed with a rolling rhythm that carries a run of small unrelated shots without needing any of them to be a punchline | start: on the chorus | url: https://www.instagram.com/reels/audio/666720837023576/ | confirmed: 2026-09-26
+"Someone New" — Hozier | shape: momentum | lane-fit: any | why: listed this week for feel-good montages of happy moments — a warm mid-tempo bed with a rolling rhythm that carries a run of small unrelated shots without needing any of them to be a punchline | start: on the chorus | url: https://www.instagram.com/reels/audio/666720837023576/ | confirmed: 2026-10-01
 
-"Ring My Bell" — Anita Ward | shape: momentum | lane-fit: any | why: disco drive listed this week for outfit videos, GRWMs and vacation cuts; steady enough to carry a montage of small wins without needing a punchline at the end | start: from the top | url: https://www.instagram.com/reels/audio/323182991668129/ | confirmed: 2026-09-30
+"Ring My Bell" — Anita Ward | shape: momentum | lane-fit: any | why: disco drive listed this week for outfit videos, GRWMs and vacation cuts; steady enough to carry a montage of small wins without needing a punchline at the end | start: from the top | url: https://www.instagram.com/reels/audio/323182991668129/ | confirmed: 2026-10-01
 
 "petal" — Ariana Grande | shape: momentum | lane-fit: general | why: 90K posts, dreamy synth-heavy bed for aesthetic and reveal content; note the lyric contains an expletive, so check the section you cut before committing | start: on the synth line, avoid the explicit bar | confirmed: 2026-09-28
 
@@ -803,7 +810,7 @@
 
 "Con la misma piedra" — Julio Iglesias | shape: momentum | lane-fit: general/family | why: currently under aesthetic montages of special occasions — vacations, birthdays; a warmer alternative when the drive tracks feel too hard | start: on the vocal | url: https://www.instagram.com/reels/audio/1321809524522174/ | confirmed: 2026-09-19
 
-"American Girls" — Harry Styles | shape: momentum | lane-fit: general/travel | why: credited to Harry Styles on SocialPilot's 09-10..24 list for road-trip and destination reels, a second sighting after the 09-10 deferral; driving bed for a moving-camera montage | start: from the top | confirmed: 2026-09-17
+"American Girls" — Harry Styles | shape: momentum | lane-fit: general/travel | why: credited to Harry Styles on SocialPilot's 09-10..24 list for road-trip and destination reels, a second sighting after the 09-10 deferral; driving bed for a moving-camera montage | start: from the top | confirmed: 2026-10-01
 
 "White Xmas" — Sabrina Carpenter | shape: momentum | lane-fit: any | why: listed as trending this week for decorating, baking and cosy-setup content. Banked for completeness and honesty about the source, but it is a December track surfacing in August — do not reach for it until the season turns | start: from the top | url: https://www.instagram.com/reels/audio/721741863307134/ | confirmed: 2026-09-16
 

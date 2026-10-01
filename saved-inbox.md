@@ -11,6 +11,15 @@ Filler rule: skip any shortcode already under `## processed` or already a catalo
 measures tests 5/6, rewrites the entry, and moves the line here as `re-measured`.
 
 ## inbox
+DdVB4DQM86E @adley https://www.instagram.com/reel/DdVB4DQM86E/
+<!-- 2026-10-01: READ, NOT GATED, and deliberately LEFT HERE (an ungated line belongs under ## inbox).
+     @adley resolved on one business_discovery call: Adley Kinsman, 1,457,447 followers, ceo @viralish,
+     readable, 0/23 serving media_url. This reel is OLDER than the 25 media the probe returns, so there is
+     no caption, no cover frame and no media_url for it — the only route to the gate is ig-fetch.sh, and
+     ig-search exited 4 this morning (two read timeouts), which under guard 4 ends ALL ig-fetch use for the
+     day. Logged download-miss: DdVB4DQM86E saved inbox (fetch cap). It has FIRST call on tomorrow's fetch
+     budget. Handle was still added to watchlist.md under [saved] per Marcus's add-first rule, with guard 7
+     flagged on the whole account (she sells a viral-growth service and the feed is the funnel). -->
 <!-- empty 2026-09-30: read-saved.sh read 24 on the grid and appended 3 new lines; all three were
      gated and moved to ## processed the same morning at a cost of ZERO download slots and ZERO
      cookie budget — every one settled on its cover, read free via thumbnail_url on the
