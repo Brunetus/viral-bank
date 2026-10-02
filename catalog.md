@@ -19,6 +19,25 @@ re-downloading a clip already judged. FRESH clips and entries are never
 touched.
 
 <!-- entries below, newest first -->
+## algobrief-planB — @algobrief tweet-card meme: card "Plan B if programming doesn't work out" (their name + verified tick above it) over a clip of a young man in a white cap standing behind an older woman at the bow of a catamaran, turquoise water; she reaches up and holds his face at the end. Track: "let it all out"
+- source: @algobrief (shortcode not identified — their captions all read "Interesting fact: …", the card text is not in them, and 0/50 recent reels serve media_url) | copy received 2026-10-02 as a public meme re-uploaded into the Reels app; no customer footage, no customer identity recorded here
+- lane: premise
+- first-seen: 2026-10-02 | status: FRESH — ★ MARCUS'S RULING 2026-10-02 ("it can be a really good donor… plug that into the donor"). Banked OUTSIDE the gate: it is a card over a clip with no speaker, so test 1 (girl to camera) is waived for THIS entry only. Do not generalise; the scan still rejects card-over-b-roll
+- stats-at-capture: none (reel not located on the feed). Account: 83,585 followers, median ~1,930, spikes to 108k likes on programmer-life memes
+- joke-structure: n/a as an opener; as a whole it is "card names the fallback, the picture is the punchline" (the Plan B is a sugar mama)
+- the-beat: 13.88s, one continuous shot, no cuts. The card is readable from frame 1; the joke lands as soon as the picture registers (~1.5s). Usable as an opener for 3-5s (card + the two of them at the bow), or whole as a payoff insert. The face-hold at ~11-13.9s is the button
+- audio-model: trending sound (add in-app) — a licensed track ("let it all out"), never bake it
+- her-audio: n/a — no speech
+- pairs-with: (a) OPENER: their card + 3-4s of the boat, hard cut to Marcus's Plan A: the desk at night, four Claude panes running, "Plan A: a Claude 20x Max plan". (b) REBUILD the card over his OWN footage (he has a boat clip, `gili_boat_7s.mov`, and pool-coding footage): "Plan B if Claude goes down". (c) payoff insert after his own setup line
+- premise: "Plan B if programming doesn't work out" (card)
+- slot: the Plan B itself — one scene/object. Singular, ownable, and squarely the tribe's joke (the 09-30 one-object finding favours this shape)
+- setup-length: card is static for all 13.88s; cut anywhere from 3.0s
+- hero-test: the man is the one with the plan — self-deprecating, not an accusation; the tribe laughs with him
+- addresses: programmers / recognises: programmers — same person
+- original: COPY — @algobrief is an aggregator account and the boat clip is third-party footage inside their card; original creator unknown
+- clean-window: the PICTURE sits in a band roughly y 458-1194 of 1280 (720 wide), black above and below; @algobrief's avatar, name and tick are in the top black band and a small "@algobrief" watermark sits top-right INSIDE the picture (x587-693, y496-513). Full-bleed use means cropping to the picture band (~1.5x upscale to fill width is not needed; it is letterboxed, so either keep the card layout or crop 9:16 from the picture at ~2.3x). Keep-the-card is the recognisable version
+- file: clips/algobrief-planB.mp4 (13.88s, 720x1280, 1.3 MB)
+
 ## Dd9Pb99x3Qh — a woman walking outdoors at golden hour, straight to camera, finger raised, telling men the one thing anyone they date should be able to do for them
 - source: @ashleahoess | https://www.instagram.com/reel/Dd9Pb99x3Qh/
 - lane: premise
