@@ -19,6 +19,45 @@ re-downloading a clip already judged. FRESH clips and entries are never
 touched.
 
 <!-- entries below, newest first -->
+
+## Dd9t_qjgZ-r — a woman to camera indoors under a wooden beam, navy turtleneck, word-by-word captions, opening "And you know what, guys?" then immediately redirecting to "especially my girlies" for a monologue about living as if you will never fall in love
+- source: @sofia.zianii | https://www.instagram.com/reel/Dd9t_qjgZ-r/
+- lane: premise
+- first-seen: 2026-10-03 | status: DO-NOT-SPLICE (2026-10-03) — gate-reject tests 2/3/4
+- stats-at-capture: 36,821 likes / 247 comments (327x account median — her median is 113, so the ratio is noise and this was judged on the frames; 90,981 followers; posted 2026-10-01)
+- joke-structure: n/a — opener donor
+- the-beat: none usable. The only frame that could open a reel is 0.5-1.0s ("And you know what, guys?"), and 0.5s is a sixth of the 3s floor.
+- audio-model: original sound (attach in-app, NEVER bake — rule 92)
+- her-audio: original sound — continuous talking head, no music bed under the speech.
+- pairs-with: nothing in this bank. The payoff it wants is a woman's decision about her own life, which this account cannot be.
+- premise: "And you know what, guys? Especially my girlies, I'm gonna hold your hand while I say this, okay? But you have to start living life like you're never gonna fall in love. You have to start living life like you're never gonna get married."
+- slot: NONE. The sentence is an instruction, not a claim with eliminations. There is no blank for an object to fill.
+- setup-length: n/a for the gate — the first clause ends at 1.0s and the full thought is still unresolved at 11.5s (sampled 2fps to 12s off the frames). Even read generously this is the WRONG band in both directions: too short to cut at the address, too long to cut at the thought.
+- hero-test: there is NO man in the sentence. "Guys" at 0.5s is a generic filler address that she overrides 1.0s later with "especially my girlies" — the subject is the viewer's own romantic self-sufficiency, and the hero is the woman watching.
+- addresses: women ("my girlies", named at 1.5s) / recognises: nobody this account can play. This is the `texting` split (975 views) with the sides reversed.
+- original: yes — creator's own upload
+- clean-window: n/a — OPENER donor (her setup card IS the hook)
+- ⚠ **WHY A SLOT WAS SPENT, and it is the inverse of 10-02's lesson.** The cover frame reads "And you know what, guys?" — a clean second-person address to men, which is the Dao0ESOudKj sub-case Marcus reversed a tombstone for. The post carries NO caption at all, so the cover was the only free evidence and it pointed PASS. The speech reversed it in one word. 10-02 found a card that was worse than the speech; this is a card that was better than it. Same rule either way: when the cover is borderline and the reel serves a free Graph link, read the speech. Cost: zero cookie budget, one of twelve Graph slots.
+- ⚠ guard 7 is live on the ACCOUNT (bio: "30 days to become the woman you imagine | start day 1 ↓", a paid program funnel). This reel itself was sampled to 12s and carries no CTA in that window, but the account can never be assumed clean.
+- ONE-OBJECT SCREEN (taste.md's standing recommendation): fails before it is reachable — there is no blank at all.
+- SECOND SETTLEMENT for this handle. `DdZ1cvAN0gW` was tombstoned 2026-09-27 on tests 2/3/4 for a manifestation monologue. Same verdict, same reason, different words: right camera, right captions, right language, wrong subject. Her feed is self-work addressed to women. Keep the free cover screen, never spend a cookie slot here.
+- file: clips/Dd9t_qjgZ-r.mp4 (64.7s)
+
+## Dd1MLpQDiKj — [NOT BANKED] tombstone (test 4) · @ashleahoess to camera, cream sweatshirt, finger raised, full-bleed burned card "What I've learned a lot about men in my job that are VERY SURPRISING" · https://www.instagram.com/reel/Dd1MLpQDiKj/ · gate-reject test 4: **the slot is a LIST.** Tests 1/2/3 pass on the cover and the caption ("Ive been so surprised that men are like this. You are not alone" — men as the sympathetic subject, the viewer flattered), and this is the same creator the scan banked `Dd9Pb99x3Qh` from yesterday, so the account is proven. It dies on the blank: "things that are VERY SURPRISING" is a plural with no eliminations, and nothing in it can be closed by one object. taste.md measured this exact shape three times on aired reels — a list ("things men do"), a plural ("men with no hoes") and a reason ("how I know he's selfless") landed at 0.68%, 0.74% and 0.31% shares, against 1.4-4.1% for every single-object blank. 5,907 likes / 3.08x median, and **0/24 serving media_url, so gating it on frames would have cost a cookie slot** on a shape already measured at the floor. ⚠ MARCUS: this is the cheapest possible test of your standing one-object recommendation — if you want it banked anyway, say so and it costs one fetch tomorrow · first-seen 2026-10-03
+
+<!-- BACKFILL 2026-10-03 (guard 3, dedup keys). The seven blocks below were gated and
+     tombstoned on 09-25 and 09-30 in saved-inbox.md's ## processed section, but no
+     catalog.md block was ever written for them. step 1b dedups on ## processed, so the
+     saved inbox was safe; step 3 dedups on catalog.md ONLY, so each of these re-entered
+     today's candidate pool as "new" (@janeddove's Dd2lcKeRVVd did exactly that). Guard 3:
+     the tombstone IS the dedup key. Verdicts are copied as judged, not re-litigated. -->
+## Dd2lcKeRVVd — [NOT BANKED] tombstone (tests 2/3/4) · @janeddove, from Marcus's Saved. Real woman straight to camera, full-bleed, near-perfect framing, one burned sentence card — the FORM is exactly right — but the card is "Ur so pretty, how are you single?", a premise about HER. No man in the sentence to be the hero, no positive superlative about men, and the blank it opens is an explanation of her own singleness rather than an object a viewer owns · https://www.instagram.com/reel/Dd2lcKeRVVd/ · 107,825 followers, 38,264 likes, 0/23 serving. Screened free on the cover, no slot spent · gated 2026-09-30, block backfilled 2026-10-03 · first-seen 2026-09-30
+## Dd4KqX6AMFZ — [NOT BANKED] tombstone (tests 1/4) · @programmergrind, his one allowed read of the 09-30 scan. First frame is his OWN laptop screen full of TypeScript with a pink script card over it, "Do you think he'll say yes?? 🥺" (caption "my app is terminal based") — no borrowed woman opener, and the blank is a yes/no rather than an object · https://www.instagram.com/reel/Dd4KqX6AMFZ/ · settled free on the cover · gated 2026-09-30, block backfilled 2026-10-03 · first-seen 2026-09-30
+## DdAP-GyvRY_ — [NOT BANKED] **ad-skip** (guard 7) + tombstone (tests 1/2) · @skinbyash_mbco. Cover is a styled product shot of five Face Reality skincare bottles with the creator behind them in an "Acne Slayer" tee; caption closes "Come get pampered girl you deserve it 🫶🏻 Midtown Beauty Co 📍Ventura, CA" — an account promoting its own service, which guard 7 names exactly. No person stating a premise, no man, no slot · https://www.instagram.com/reel/DdAP-GyvRY_/ · 4,790 followers, 8,472 likes. Screened free on the cover, no slot spent · gated 2026-09-30, block backfilled 2026-10-03 · first-seen 2026-09-30
+## DdXYkKyv6hT — [NOT BANKED] tombstone (tests 1/2/4) · @lifewithjorgeg, a man to camera, life-insurance coach: "who cares, just keep posting your cringe content". No woman, no premise about men, no slot · https://www.instagram.com/reel/DdXYkKyv6hT/ · gated 2026-09-25, block backfilled 2026-10-03 · first-seen 2026-09-25
+## DdNbCWyRjdd — [NOT BANKED] tombstone (tests 2/3) · @siixuc, a woman to camera but the premise is "men gaslight" — a negative frame, so the man is the problem rather than the hero · https://www.instagram.com/reel/DdNbCWyRjdd/ · gated 2026-09-25, block backfilled 2026-10-03 · first-seen 2026-09-25
+## C4bhhVTtG-v — [NOT BANKED] tombstone (tests 1/2/4) · @niktekofficial, a PC-meme channel: no woman, no premise, no slot · https://www.instagram.com/reel/C4bhhVTtG-v/ · gated 2026-09-25, block backfilled 2026-10-03 · first-seen 2026-09-25
+## DVe3khJjOU4 — [NOT BANKED] tombstone (tests 1/2) · @_officer.ahmed, a man to camera doing red-flag coaching aimed at women · https://www.instagram.com/reel/DVe3khJjOU4/ · gated 2026-09-25, block backfilled 2026-10-03 · first-seen 2026-09-25
 ## algobrief-planB — @algobrief tweet-card meme: card "Plan B if programming doesn't work out" (their name + verified tick above it) over a clip of a young man in a white cap standing behind an older woman at the bow of a catamaran, turquoise water; she reaches up and holds his face at the end. Track: "let it all out"
 - source: @algobrief (shortcode not identified — their captions all read "Interesting fact: …", the card text is not in them, and 0/50 recent reels serve media_url) | copy received 2026-10-02 as a public meme re-uploaded into the Reels app; no customer footage, no customer identity recorded here
 - lane: premise
@@ -119,18 +158,7 @@ touched.
 ⚠ ARCHITECT NOTE, and it is the honest one: her burned CARD says "these TYPES of men" (plural), while her SPOKEN line resolves to one quality. The card is on screen for roughly the first 0.4s only, so a cut that starts at 0.00 carries it. taste.md measured this morning that a LIST-shaped blank is what separated the bank's three aired donors (0.62%, 0.67%, 0.00% share rate) from the account's four hits, which all closed on ONE object. Use the SPOKEN blank, not the card, and fill it with a single thing.
 ⚠ Guard 7 checked and CLEAR on this reel specifically: the tail (50-60s) was frame-sampled and carries no CTA, no lead magnet and no product — she ends on "you are just authentically true to yourself... literally obsess over you." Her BIO does carry a booking funnel, and `DdzGKu_EZoZ` on her feed is a paid Anson Belt post, so guard 7 stays live on the account.
 
-## DdnWW6dBeA0 — [NOT BANKED] @prettylushangel to camera on a wooded path, cowboy hat and braids, full-bleed burned card "Fellas, you really don't need to overthink it, okay?" — then she answers herself and the reel becomes her own joke
-- source: @prettylushangel | https://www.instagram.com/reel/DdnWW6dBeA0/
-- lane: premise
-- first-seen: 2026-09-30 | status: DO-NOT-SPLICE (2026-09-30) — gate-reject on tests 6 and 3, measured off the frames after a Graph download slot was spent (25/25 serving, so zero cookie cost)
-- stats-at-capture: 0 likes / 0 comments (her median engagement is 1, so every ratio she produces is noise — picked on the CARD, per her watchlist line, not on numbers)
-- the-beat: none usable. Card 1 "Fellas, you really don't need to overthink it, okay?" holds 0.00-~2.2s; card 2 "All you need to do is send her flowers, money for lunch, and a text that" 2.5-6.2s; card 3 "says, I can't wait to ruin it later" 6.5-7.5s. Duration 11.28s
-- setup-length: **2.2s** at the only cut where the blank is open. Under the 3s floor, and sitting in the 2.03s/2.37s band that produced the account's two worst donor reels. A later cut at 6.2s leaves a blank, but by then she has already supplied the eliminations AND the answer's frame ("a text that ___"), so the reel is her joke, not our setup — test 4's 2026-09-17 inversion names exactly this
-- hero-test: FAILS. "Fellas, you really don't need to overthink it" positions the man as the one overthinking, and the answer is a list of things he should give HER. The man is the instruction's target, not its hero
-- addresses: men ("Fellas") / recognises: the woman receiving the flowers. DIFFERENT PEOPLE — this is the `texting` failure (975 views) in its purest form
-- original: yes — her own upload
-- file: clips/DdnWW6dBeA0.mp4 (11.28s) — pruneable from 2026-10-03 per step 6b
-The tombstone exists so no later scan re-spends a slot on it: the card screens as a textbook second-person donor and only the frames show she closes her own blank.
+## DdnWW6dBeA0 — [PRUNED DO-NOT-SPLICE] @prettylushangel to camera on a wooded path, cowboy hat and braids, burned card "Fellas, you really don't need to overthink it, okay?" — she answers herself, so the reel becomes her own joke (gate-reject tests 3/6, measured off the frames) · https://www.instagram.com/reel/DdnWW6dBeA0/ · first-seen 2026-09-30
 
 ## Dd1kEvAgli2 — [COPY, test 7 as amended] the 0.00-5.23s opener of @programmergrind's "the hottest words in tech": @spencer.barbosa (3.5M followers) to camera in a bright kitchen, full-bleed, burned blue card "the HOTTEST things a guy can do/say😍😍😍"; she says the whole line, the card drops, and at 5.23s Danny hard-cuts to himself + a terminal deck titled "THE 5 HOTTEST WORDS IN TECH"
 - source: @programmergrind | https://www.instagram.com/reel/Dd1kEvAgli2/          <- the HOST account (copied-from). ⚠ bank-sync consumers: the DONOR is the first 4.90s only, not the 89s host reel
