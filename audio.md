@@ -11,6 +11,16 @@
      At 3-4 posts/day on one account alone that means 100+, not 20. Current
      pool: 162 entry lines as of 2026-10-02. The pool is over target, so the
      +5-per-scan floor no longer binds.
+     2026-10-05: +0 added, 9 RE-CONFIRMED, 0 dropped. One roundup search (the
+     time box allowed two; the second was spent hunting an IG audio url and
+     found none). Every named track was already an entry line except "Windows
+     in Brazil (Sped Up)", which was NOT added because the roundup gives no
+     ARTIST and step 6c requires a title AND an artist — never invented, never
+     unsourced. 31 entries are now past the 21-day `confirmed:` mark; the drop
+     was DEFERRED, not executed, because the rule needs today's search to miss
+     them and one roundup is not that search. Dropping 31 tracks on a single
+     list is the exact failure the 2026-08-21 rewrite exists to prevent. A scan
+     with budget for 2-3 searches should settle them.
      2026-10-03: +0 added, 13 RE-CONFIRMED, 0 dropped. Two roundup searches
      returned no track the pool did not already hold — every name in both
      (Patient Zero, Ramalama (Bang Bang), Be OK, Autumn Colors, Goo Goo Muck,
@@ -529,9 +539,9 @@
      Billboard/FIFA on "Dai Dai". -->
 
 ## deadpan-hold
-"Ramalama (Bang Bang)" — Róisín Murphy | shape: deadpan-hold | lane-fit: any | why: the costume-walk bed, camera low on the legs stalking forward — a held, menacing groove that makes an ordinary walk-in read as an entrance. Seasonal (Halloween) so it has a shelf life | start: on the stalk, one continuous shot | confirmed: 2026-10-04
+"Ramalama (Bang Bang)" — Róisín Murphy | shape: deadpan-hold | lane-fit: any | why: the costume-walk bed, camera low on the legs stalking forward — a held, menacing groove that makes an ordinary walk-in read as an entrance. Seasonal (Halloween) so it has a shelf life | start: on the stalk, one continuous shot | confirmed: 2026-10-05
 "Stop the Wedding" — Ashe | shape: deadpan-hold | lane-fit: general | why: the trend is a fill-in-the-blank confession ("Stop the wedding, but ___") — a literal SLOT format, which is the structure the bank gates donors on | start: on the title line, blank fills after | confirmed: 2026-10-04
-"Less Than a Lover" — JENNIE | shape: deadpan-hold | lane-fit: any | why: dreamy backdrop currently carrying reflective and travel content; sparse and even enough to sit under a held text card without competing with it, which is what most of this bank's formats need | start: from the top, let the first bar run under the text | url: https://www.instagram.com/reels/audio/1041427958369976/ | confirmed: 2026-10-04
+"Less Than a Lover" — JENNIE | shape: deadpan-hold | lane-fit: any | why: dreamy backdrop currently carrying reflective and travel content; sparse and even enough to sit under a held text card without competing with it, which is what most of this bank's formats need | start: from the top, let the first bar run under the text | url: https://www.instagram.com/reels/audio/1041427958369976/ | confirmed: 2026-10-05
 
 "Oh La La Amour" — Julio Iglesias | shape: deadpan-hold | lane-fit: any | why: SocialBee 09-18, cinematic crooner bed under travel and aesthetic cuts; slow and even enough to sit under a held card without competing | start: from the top | confirmed: 2026-09-19
 
@@ -698,8 +708,8 @@
 
 
 ## quiet-confession
-"Patient Zero" — Taylor Swift | shape: quiet-confession | lane-fit: any | why: the closing line is the payoff the whole cut waits for, so it plays straight under a reveal held to the last beat; 53k reels and climbing in its first weeks | start: cold, land the final line on the reveal | confirmed: 2026-10-04
-"Be OK" — Ingrid Michaelson | shape: quiet-confession | lane-fit: any | why: the trend is acting fine while nothing is fine — upbeat bed, on-screen text telling the truth underneath. The gap between track and caption IS the joke, which is the deadpan structure with a happier bed | start: from the chorus, text appears on the downbeat | confirmed: 2026-10-04
+"Patient Zero" — Taylor Swift | shape: quiet-confession | lane-fit: any | why: the closing line is the payoff the whole cut waits for, so it plays straight under a reveal held to the last beat; 53k reels and climbing in its first weeks | start: cold, land the final line on the reveal | confirmed: 2026-10-05
+"Be OK" — Ingrid Michaelson | shape: quiet-confession | lane-fit: any | why: the trend is acting fine while nothing is fine — upbeat bed, on-screen text telling the truth underneath. The gap between track and caption IS the joke, which is the deadpan structure with a happier bed | start: from the chorus, text appears on the downbeat | confirmed: 2026-10-05
 "La La La" — Gilmore Girls (show audio) | shape: quiet-confession | lane-fit: any | why: named this week as THE autumn bed on Instagram — creators run it under changing leaves, coffee runs, knitwear and rainy-day montages, and it is soft and wordless enough to leave the whole frame to one honest line of text | start: from the top, text lands before the first "la" | confirmed: 2026-09-30
 "Summer Bummer (Lights On)" — RhyRhy | shape: quiet-confession | lane-fit: any | why: this week's new bedroom-pop entry, wistful and low-energy; the shape it plays straight under is an admission the cut is slightly embarrassed by. ⚠ shape assigned from the roundups' description, not from hearing it — re-shape it if it lands wrong in a cut | start: from the top | confirmed: 2026-10-01
 "Reason To Stay" — Olivia Dean | shape: quiet-confession | lane-fit: family/any | why: listed 09-10..24 under cozy montages and small reveals; warm and unhurried, sits under a held line about why a routine is worth keeping | start: on the vocal entry | confirmed: 2026-10-03
@@ -780,12 +790,12 @@
 
 
 ## momentum
-"Upside Down" — Diana Ross | shape: momentum | lane-fit: any | why: 1980 disco cut having a second moment at ~127K posts; the four-on-the-floor bassline carries hand-movement and quick-cut transitions without needing a lyric beat | start: the "upside down, boy you turn me" hook | confirmed: 2026-10-04
-"Autumn Colors" — LuluMusic | shape: momentum | lane-fit: family/general | why: relaxed acoustic instrumental, 55k reels, the default seasonal bed for warm drinks, changing leaves and cozy interiors — no lyric to fight a voiceover, which is why it suits talk-over cuts | start: anywhere, it is a bed | confirmed: 2026-10-04
+"Upside Down" — Diana Ross | shape: momentum | lane-fit: any | why: 1980 disco cut having a second moment at ~127K posts; the four-on-the-floor bassline carries hand-movement and quick-cut transitions without needing a lyric beat | start: the "upside down, boy you turn me" hook | confirmed: 2026-10-05
+"Autumn Colors" — LuluMusic | shape: momentum | lane-fit: family/general | why: relaxed acoustic instrumental, 55k reels, the default seasonal bed for warm drinks, changing leaves and cozy interiors — no lyric to fight a voiceover, which is why it suits talk-over cuts | start: anywhere, it is a bed | confirmed: 2026-10-05
 "Funkytown" — Lipps Inc. | shape: momentum | lane-fit: any | why: named this week as the disco bed carrying outfit videos, travel clips, transformations and energetic montages; a 1980 classic the whole audience already knows, so it needs no setup and survives a text card over it | start: on the "won't you take me to" hook | confirmed: 2026-10-01
-"Vibin" — Wxoda | shape: momentum | lane-fit: any | why: named this week as a top pick alongside Nicole Kidman and Summer Bummer; an easy forward-moving groove that carries a cut without asking for attention, so it survives a text card sitting on top of it | start: from the top | confirmed: 2026-10-01
+"Vibin" — Wxoda | shape: momentum | lane-fit: any | why: named this week as a top pick alongside Nicole Kidman and Summer Bummer; an easy forward-moving groove that carries a cut without asking for attention, so it survives a text card sitting on top of it | start: from the top | confirmed: 2026-10-05
 "SaWaDiKa" — LISA | shape: momentum | lane-fit: general | why: the week's top verified music signal (official audio ~30K to 40K+ reels, top trend in several markets; CreatorDB #7 on 09-20), a hard-charging rap bed built for confident poses, outfit transitions and choreo, so it wants a cut that struts | start: the hook | confirmed: 2026-09-22
-"Nicole Kidman" — ADELA | shape: momentum | lane-fit: general | why: SocialBee 09-18 names it the bed for confident lip-syncs and outfit showcases; a strut track for a "here it is" reveal | start: from the top | confirmed: 2026-10-04
+"Nicole Kidman" — ADELA | shape: momentum | lane-fit: general | why: SocialBee 09-18 names it the bed for confident lip-syncs and outfit showcases; a strut track for a "here it is" reveal | start: from the top | confirmed: 2026-10-05
 
 "Bass Persuades" — Miley Cyrus | shape: momentum | lane-fit: general | why: title track of the new album, on SocialBee's 09-10 list for confident dance and outfit cuts; a strutting bass groove that carries a "here it is" walk-in | start: on the bass entrance | confirmed: 2026-10-01
 
@@ -799,7 +809,7 @@
 
 "Ring My Bell" — Anita Ward | shape: momentum | lane-fit: any | why: disco drive listed this week for outfit videos, GRWMs and vacation cuts; steady enough to carry a montage of small wins without needing a punchline at the end | start: from the top | url: https://www.instagram.com/reels/audio/323182991668129/ | confirmed: 2026-10-04
 
-"petal" — Ariana Grande | shape: momentum | lane-fit: general | why: 90K posts, dreamy synth-heavy bed for aesthetic and reveal content; note the lyric contains an expletive, so check the section you cut before committing | start: on the synth line, avoid the explicit bar | confirmed: 2026-10-04
+"petal" — Ariana Grande | shape: momentum | lane-fit: general | why: 90K posts, dreamy synth-heavy bed for aesthetic and reveal content; note the lyric contains an expletive, so check the section you cut before committing | start: on the synth line, avoid the explicit bar | confirmed: 2026-10-05
 
 "We Are The People (me n ü Remix)" — Empire of the Sun, me n ü | shape: momentum | lane-fit: general/travel | why: called "peak" again this week — the current go-to cinematic travel and arrival bed; big enough to carry a montage that has no single punch moment | start: from the build, land the drop on the widest shot | confirmed: 2026-09-23
 
