@@ -20,6 +20,36 @@ touched.
 
 <!-- entries below, newest first -->
 
+## DeHqI4DJT-Y — [NOT BANKED] tombstone (tests 2/3/4) · @shrestha_mohanty20 straight to camera in a living room, full-bleed, her own serif word captions: "The most underrated attractive quality that most people don't talk about: is being funny, ON PURPOSE!" · https://www.instagram.com/reel/DeHqI4DJT-Y/ · 280 likes, 0/23 serving, fetched on ig-fetch slot 1 of 8 (2026-10-06), scratch download deleted · 17.4s, 1080x1920.
+- **Why a cookie slot was spent on a 280-like floor post:** it was the ONLY non-list superlative card in a 426-reel window. Every other card she posts is a numbered list ("3 WAYS TO IMPRESS A GIRL", "3 RANDOM THINGS GIRLS DO THAT BOYS LOVE", "3 THINGS GIRLS SECRETLY LOVE"), and this one withholds a single object behind a held blank, which is the gate shape. The screen could not be done free: she serves 0/23.
+- **What the frames say.** Word stamps at 2fps: "The most underrated attractive quality," 0.00-1.50 · "that most people don't talk about:" 2.00-3.50 · "is being funny," 4.00-5.00 · "on purpose!" 5.50 · "Being funny by accident," 6.00 · "is one thing." 7.50 · "But being witty in the moment," 8.50 · "actually requires a lot of presence of mind!" 10.50. Blank held open 0.00-4.00s.
+- PASS: 1 (real woman, straight to lens, she says it, own captions, no AI tell) · 6 (premise complete at 3.50s — over the 3s floor, under the 4.03/4.60s winning band) · 7 (her own upload) · 8 (no Claude).
+- FAIL: 2 and 3 — **she never says men, or a guy, or you.** "The most underrated attractive quality" is subject-neutral, so there is no man in the sentence to set up and no man to be the hero. Her whole window is girl-hero by construction. FAIL 4 — the blank is real and well held, but it is TYPED TO A TRAIT, not an object: "the most underrated attractive QUALITY is ___" cannot take a Claude 20x Max plan, only a behaviour, and she fills it with "being funny on purpose".
+- ⚠ PATTERN, recorded for Marcus: this is the THIRD candidate measured today (with `Dd0JrDsIXWj` @datingwjessie and the tag-page screen of @heartshade.s `DeCcLnmPmUP`) to die on exactly the same triple — perfect form, a real superlative, a properly held blank, and NO MAN IN THE SENTENCE with the blank typed to a behaviour. Tests 1 and 6 are not what is binding on this bank. Tests 2/3 plus the object-ness half of test 4 are.
+
+## Dd0JrDsIXWj — a woman alone to camera in a bedroom, phone held low, one unbroken take with her own white word captions: "I think my favourite form of intimacy is always been asking questions. Because at the end of the day we all want to be seen and understood. And we want someone to…"
+- source: @datingwjessie | https://www.instagram.com/reel/Dd0JrDsIXWj/          <- from Marcus's Saved collection (read-saved.sh, 2026-10-06), gated the same morning
+- lane: premise
+- first-seen: 2026-10-06 | status: DO-NOT-SPLICE (2026-10-06) — gate reject, tests 2 / 3 / 4
+- stats-at-capture: 72,701 likes / 397 comments — her #1 by a factor of 3.4 (next best 21,159). Creator 26,164 followers, Jessie Ann, 25/25 serving media_url, so this cost ONE Graph slot and ZERO cookie budget.
+- gate: 4 of 7 PASS, 3 FAIL. 1 PASS — real woman (freckles, uneven bedroom light, natural head movement; bio "anyone know how to do this dating thing?"; no generator watermark, no daily-quote cadence), straight to lens, full-bleed, and she SAYS the line with her own word captions under it ✓ · 6 PASS — the sentence completes at 4.00s, inside the 4.03/4.60s winning band ✓ · 7 PASS — her own upload ✓ · 8 PASS — no Claude, no tool name ✓
+- why it fails: **THERE IS NO MAN IN HER SENTENCE.** 2 FAIL — the premise is about intimacy between people in general ("we all want to be seen and understood"), not a positive superlative or desire about MEN; the audience-fit rule needs a man the 18-34 male viewer IS, and this "we" is everybody. 3 FAIL — with no man named, there is no man to be the hero of the sentence. 4 FAIL — she CLOSES her own blank in the same breath: "my favourite form of intimacy is ___" is answered at 2.50s with "asking questions", a BEHAVIOUR, not an ownable object, and by 4.50s she has moved on to explaining why. This is the exact failure shape taste.md measured again this morning — a blank closed by a behaviour instead of a picturable object is what sits at 0.27-0.94%.
+- word stamps (2fps, frames 0.0-10.0s): "I think my favourite form" 0.00 · "of intimacy is always" 1.50 · "been asking questions." 2.50 · (beat) 4.00 · "Because at the end of the" 4.50 · "day we all want to be" 5.50 · "seen and understood." 7.00 · (beat) 9.00 · "And we want someone to" 9.50. Clip 53.15s, 720x1280, 30fps.
+- ⚠ FOR MARCUS: **the form is perfect and the subject is wrong, and this creator is the cheapest line on either lane.** @datingwjessie is a real woman to camera who serves 25/25 on Graph — every future screen AND every future fetch of hers is free, against a lane where six accounts serve 0/25. She tags **#datingadviceformen** on four posts, which is the right audience direction. Her line is added under [saved]; she is read like [premise] from tomorrow.
+- joke-structure: n/a — opener donor
+- the-beat: n/a — no usable cut; the blank is shut at 2.50s
+- audio-model: original sound (attach in-app, NEVER bake — rule 92)
+- her-audio: original sound — attachable in-app
+- pairs-with: nothing in this account's payoff set. "Asking questions" has no Claude object that fills it without the reel arguing with her.
+- premise: "I think my favourite form of intimacy is always been asking questions"
+- slot: none that survives — she answers herself inside the same sentence, and the answer is a behaviour
+- setup-length: 4.00s measured off the frames (yes, she finishes the premise) — the one test this clip passes comfortably
+- hero-test: neither. No man appears in the sentence at all; the subject is "we", meaning all people
+- addresses: anyone thinking about intimacy / recognises: nobody in this account's payoff set — they are not the same person
+- original: yes — creator's own upload
+- clean-window: n/a — OPENER donor (her setup card IS the hook)
+- file: clips/Dd0JrDsIXWj.mp4 (53.2s) — reclaimed by step 6b from 2026-10-09
+
 ## DduKlhXImk5 — @annabellegesson, a COMMENT-REPLY reel: 0.00-3.30s she stands to camera in a red tank holding up a leopard-case iPhone, burned card "THE HOTTEST SNAPCHATS A GUY CAN SEND🔥😊 / ✨coming from a girl!✨" plus an Instagram comment sticker reading "Reply to Jackson's comment: What if she leaves me on delivered for 3 days then sends a pic of the wall?"; hard cut at 3.35s to a second, closer shot with a NEW card, "you WON'T get left on delivered if u do this🙏⚠️", which is where she answers
 - source: @annabellegesson | https://www.instagram.com/reel/DduKlhXImk5/
 - lane: premise
@@ -80,28 +110,7 @@ touched.
 - file: clips/DeDugYXNL9z.mp4 (29.16s) — slot was free (Graph media_url), pruned by a later scan per 6b
 ⚠ BRAND NOTE, independent of the gate: the first frame carries a hand-written sign on the wall behind her reading "I WANT TO FUCK YOU (please)". Any architect reading this entry later should know the cover is unusable full-bleed on @imabgold regardless of what the sentence had turned out to be.
 
-## Dd9t_qjgZ-r — a woman to camera indoors under a wooden beam, navy turtleneck, word-by-word captions, opening "And you know what, guys?" then immediately redirecting to "especially my girlies" for a monologue about living as if you will never fall in love
-- source: @sofia.zianii | https://www.instagram.com/reel/Dd9t_qjgZ-r/
-- lane: premise
-- first-seen: 2026-10-03 | status: DO-NOT-SPLICE (2026-10-03) — gate-reject tests 2/3/4
-- stats-at-capture: 36,821 likes / 247 comments (327x account median — her median is 113, so the ratio is noise and this was judged on the frames; 90,981 followers; posted 2026-10-01)
-- joke-structure: n/a — opener donor
-- the-beat: none usable. The only frame that could open a reel is 0.5-1.0s ("And you know what, guys?"), and 0.5s is a sixth of the 3s floor.
-- audio-model: original sound (attach in-app, NEVER bake — rule 92)
-- her-audio: original sound — continuous talking head, no music bed under the speech.
-- pairs-with: nothing in this bank. The payoff it wants is a woman's decision about her own life, which this account cannot be.
-- premise: "And you know what, guys? Especially my girlies, I'm gonna hold your hand while I say this, okay? But you have to start living life like you're never gonna fall in love. You have to start living life like you're never gonna get married."
-- slot: NONE. The sentence is an instruction, not a claim with eliminations. There is no blank for an object to fill.
-- setup-length: n/a for the gate — the first clause ends at 1.0s and the full thought is still unresolved at 11.5s (sampled 2fps to 12s off the frames). Even read generously this is the WRONG band in both directions: too short to cut at the address, too long to cut at the thought.
-- hero-test: there is NO man in the sentence. "Guys" at 0.5s is a generic filler address that she overrides 1.0s later with "especially my girlies" — the subject is the viewer's own romantic self-sufficiency, and the hero is the woman watching.
-- addresses: women ("my girlies", named at 1.5s) / recognises: nobody this account can play. This is the `texting` split (975 views) with the sides reversed.
-- original: yes — creator's own upload
-- clean-window: n/a — OPENER donor (her setup card IS the hook)
-- ⚠ **WHY A SLOT WAS SPENT, and it is the inverse of 10-02's lesson.** The cover frame reads "And you know what, guys?" — a clean second-person address to men, which is the Dao0ESOudKj sub-case Marcus reversed a tombstone for. The post carries NO caption at all, so the cover was the only free evidence and it pointed PASS. The speech reversed it in one word. 10-02 found a card that was worse than the speech; this is a card that was better than it. Same rule either way: when the cover is borderline and the reel serves a free Graph link, read the speech. Cost: zero cookie budget, one of twelve Graph slots.
-- ⚠ guard 7 is live on the ACCOUNT (bio: "30 days to become the woman you imagine | start day 1 ↓", a paid program funnel). This reel itself was sampled to 12s and carries no CTA in that window, but the account can never be assumed clean.
-- ONE-OBJECT SCREEN (taste.md's standing recommendation): fails before it is reachable — there is no blank at all.
-- SECOND SETTLEMENT for this handle. `DdZ1cvAN0gW` was tombstoned 2026-09-27 on tests 2/3/4 for a manifestation monologue. Same verdict, same reason, different words: right camera, right captions, right language, wrong subject. Her feed is self-work addressed to women. Keep the free cover screen, never spend a cookie slot here.
-- file: clips/Dd9t_qjgZ-r.mp4 (64.7s)
+## Dd9t_qjgZ-r — [PRUNED DO-NOT-SPLICE] @sofia.zianii, woman to camera under a wooden beam who opens "And you know what, guys?" and redirects to "especially my girlies" at 1.0s — gate-reject tests 2/3/4, the only man-addressed frame is 0.5s against a 3s floor · https://www.instagram.com/reel/Dd9t_qjgZ-r/ · first-seen 2026-10-03
 
 ## Dd1MLpQDiKj — [NOT BANKED] tombstone (test 4) · @ashleahoess to camera, cream sweatshirt, finger raised, full-bleed burned card "What I've learned a lot about men in my job that are VERY SURPRISING" · https://www.instagram.com/reel/Dd1MLpQDiKj/ · gate-reject test 4: **the slot is a LIST.** Tests 1/2/3 pass on the cover and the caption ("Ive been so surprised that men are like this. You are not alone" — men as the sympathetic subject, the viewer flattered), and this is the same creator the scan banked `Dd9Pb99x3Qh` from yesterday, so the account is proven. It dies on the blank: "things that are VERY SURPRISING" is a plural with no eliminations, and nothing in it can be closed by one object. taste.md measured this exact shape three times on aired reels — a list ("things men do"), a plural ("men with no hoes") and a reason ("how I know he's selfless") landed at 0.68%, 0.74% and 0.31% shares, against 1.4-4.1% for every single-object blank. 5,907 likes / 3.08x median, and **0/24 serving media_url, so gating it on frames would have cost a cookie slot** on a shape already measured at the floor. ⚠ MARCUS: this is the cheapest possible test of your standing one-object recommendation — if you want it banked anyway, say so and it costs one fetch tomorrow · first-seen 2026-10-03
 

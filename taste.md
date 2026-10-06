@@ -1,90 +1,91 @@
 # taste.md — what the audiences actually reward (derived from IG insights)
 Rewritten every scan from real per-reel insights (BANK.md step 0). Full overwrite; history in git.
-Measured 2026-10-05 (last 25 media per account). CUSTOMER jobs read ONLY `## universal`.
+Measured 2026-10-06 (last 25 media per account). CUSTOMER jobs read ONLY `## universal`.
 
 ## universal
-- **A question the viewer wants to answer out-loud beats a statement.** The six widest
+- **A question the viewer wants to answer out-loud beats a statement.** The seven widest
   reels this window are all a stranger's premise with one blank in it. The reel that
   merely *describes* the same idea sits 100x lower. Leave the blank; do not close it.
-- **The blank must be filled by ONE ownable, picturable OBJECT.** Sharpest line in the
-  data, seven days running. Blanks answered by a single object ran 41k-1.51M views at
-  1.4-4.1% shares. Blanks answered by a LIST, a REASON or an abstraction topped out at
-  5,168 views and 0.26-0.92%. Same form, same craft, 100x apart.
-- **ASK FOR THE ANSWER IN ONE WORD — this is the window's biggest measured move.** The
-  reel that ends on an explicit one-word prompt ("local or cloud? one word") went from
-  6,421 views / 180 shares to **29,828 views / 1,463 shares in 24h — a 4.90% share rate,
-  the highest ever recorded here**, at a 29.2% skip rate. It carries NO borrowed opener and
-  no stranger's premise: its own footage plus a named reply shape outperformed every
-  donor-led reel in the window on rate. Naming the shape of the reply lowers the cost of
-  replying, and the cost of replying is what distribution is priced on.
+- **The blank must be closed by a PICTURABLE, OWNABLE OBJECT — and the count is NOT what
+  matters. REVISED TODAY, against six days of the opposite claim.** A reel whose payoff was
+  a list of THREE named objects went 9,262 views / 134 shares → **99,963 views / 2,579
+  shares (2.58%) in 24 hours**, and a second three-object reel sits at 126,531 / 2.87%.
+  Both travel in the same band as the single-object reels (41k–1.57M, 1.4–4.1%). What
+  actually dies is a blank closed by a BEHAVIOUR, a REASON, or a deferral — "the 3 rules
+  are in the video" (5,305 views, 0.83%), "how I know he's selfless" (4,030, 0.27%),
+  "things men say when they're lying" (4,750, 0.48%). One object or three, name them and
+  show them in frame; the moment the answer is something to understand rather than
+  something to own, it stops travelling.
+- **ASK FOR THE ANSWER IN ONE WORD.** The reel that ends on an explicit one-word prompt
+  ("local or cloud? one word") holds the account's highest share rate at **4.84% (33,016
+  views / 1,598 shares)** and its lowest skip (29.5%). It carries no borrowed opener and no
+  stranger's premise: own footage plus a named reply shape beat every donor-led reel in the
+  window on rate. Naming the shape of the reply lowers the cost of replying, and the cost
+  of replying is what distribution is priced on.
 - **The frame is reusable; only the OBJECT gets spent.** Measured, not inferred: the
-  window's #1 premise was re-run with a DIFFERENT object and has reached **1,511,532
-  views / 21,130 shares**, passing the original it was copied from on views and saves. A
+  window's #1 premise was re-run with a DIFFERENT object and has reached **1,566,857 views
+  / 21,744 shares**, passing the original it was copied from on views, reach and saves. A
   premise is not spent when it ships. Keep the question, swap the answer.
-- **Shares, not likes, are the ceiling metric.** The settled top reel carries 32,622
-  shares against 29,214 likes: more than one share per like, three weeks out. A cut
+- **Shares, not likes, are the ceiling metric.** The settled top reel carries 32,904
+  shares against 29,467 likes: more than one share per like, three weeks out. A cut
   engineered to be *sent to someone* outperforms a cut engineered to be admired.
-- **Read share RATE late, and never rank on it.** Rate moves hard in the first 48h (this
-  window's young reel went 2.80% → 4.90% overnight) and then falls as reach widens (the
-  1.5M reel reads 1.40% because its denominator exploded). Shares are the signal; shares ÷
-  views is a maturity marker. Give any reel 48h before reading either.
-- **A low skip rate can co-occur with reach, and this window is the first proof.** The two
-  lowest skips (29.2%, 30.0%) belong to a reel that travelled at 4.90% and one that did
-  not travel at all (0.79%). Held is not handed-on, but the one-word prompt bought both.
-  Read skip rate alongside shares, never instead of them.
-- **Watch time is the same finding from the other side.** The longest-held reel (15.04s)
-  did 3,104 views; the widest did 1.51M at 8.17s, and a 59k-view reel is the SHORTEST hold
-  on the account (5.72s). Length holds an audience you already have. A premise with a
+- **Read share RATE late, and never rank on it.** Rate moves hard in the first 72h (this
+  window's young reel went 1.45% → 2.58% overnight while its views went up 10x) and then
+  falls as reach widens (the 1.57M reel reads 1.39% because its denominator exploded).
+  Shares are the signal; shares ÷ views is a maturity marker. Give any reel 48–72h.
+- **Watch time is the same finding from the other side.** The longest-held reel (15.01s)
+  did 3,147 views; the widest did 1.57M at 8.17s, and a 60k-view reel is the SHORTEST hold
+  on the account (5.73s). Length holds an audience you already have. A premise with a
   blank is what buys a new one.
 - **Payoff last, and only once.** Every high-share reel lands its object in the final
   beat. Every low one answers itself in the first third, then keeps talking.
 
-## @imabgold — 194 followers, reels at 1.5M
+## @imabgold — 194 followers, reels at 1.57M
 Top 3 by saves+shares
-- `DdQBUIRuSRM` 806,482 views · 2,543 saved / 32,622 shares (4.04%) · 7.81s held · 37.7% skip
+- `DdQBUIRuSRM` 811,875 views · 2,572 saved / 32,904 shares (4.05%) · 7.81s held · 37.7% skip
   https://www.instagram.com/reel/DdQBUIRuSRM/ — "men only want one thing. not money. not
-  power." WHY: two eliminations, then one object. Still the account's share-count record
-  at three weeks, and share count is what the bank ranks on.
-- `Dd-Ss2PI0PB` 1,511,532 · 6,453 / 21,130 (1.40%) · 8.17s · 32.6% skip
+  power." WHY: two eliminations, then one object. Still the account's share-COUNT record at
+  three weeks (+282 shares in 24h), and share count is what the bank ranks on.
+- `Dd-Ss2PI0PB` 1,566,857 · 6,741 / 21,744 (1.39%) · 8.17s · 32.7% skip
   https://www.instagram.com/reel/Dd-Ss2PI0PB/ — the SAME premise re-run with a new object
   (localhost:3000 → a published .com). WHY: the frame re-run. #1 by views, reach and saves;
-  +69k views and +869 shares in the last 24h, still climbing.
-- `DddHvD5OgIa` 123,373 · 499 / 3,542 (2.87%) · 7.50s · 39.9% skip
-  https://www.instagram.com/reel/DddHvD5OgIa/ — "i have a question for the men. what do
-  you want?" WHY: the same machine asked as a literal question.
-Also wide: `DdxZCCmR8i0` 59,431 · 110 / 1,198 (2.02%) greenest flag + one-word prompt;
-`DdIBRRKpDqn` 55,433 · 209 / 1,531 (2.76%) sexiest thing; `DdX2_ZzuZcv` 41,061 · 147 /
-1,289 (3.14%) flowers. **Every one of these is a girl-to-camera donor opener.**
+  +55k views and +614 shares in the last 24h, fourth day climbing.
+- `DddHvD5OgIa` 126,531 · 514 / 3,637 (2.87%) · 7.51s · 39.8% skip
+  https://www.instagram.com/reel/DddHvD5OgIa/ — "i have a question for the men. what do you
+  want?" → "a MacBook, caffeine, and a Claude 20x Max plan." WHY: the same machine asked as
+  a literal question — and a THREE-object payoff, which is half of today's revision.
+Also wide: `DeGhqKst37L` 99,963 · 637 / 2,579 (2.58%) three-object spend list, 10.12s held;
+`DdxZCCmR8i0` 60,149 · 114 / 1,211 (2.01%) greenest flag; `DdIBRRKpDqn` 56,352 · 214 / 1,547
+(2.75%) sexiest thing; `DdX2_ZzuZcv` 43,005 · 161 / 1,343 (3.12%) flowers. **Every one of
+these is a girl-to-camera donor opener.**
 Bottom 3 by saves+shares
-- `DdHOGmnuWCB` 653 views · 0 / 0 · 4.71s · 40.7% skip — "Shibuya crossing." WHY: travel
+- `DdHOGmnuWCB` 657 views · 0 / 0 · 4.70s · 40.9% skip — "Shibuya crossing." WHY: travel
   observation with no man in it to recognise. Worst hold on the account.
-- `Ddkqy7VuH4_` 1,013 · 1 / 0 · 5.39s · 62.7% skip — "every frontier model is available."
+- `Ddkqy7VuH4_` 1,031 · 1 / 0 · 5.46s · 62.2% skip — "every frontier model is available."
   WHY: a statement about the tools. Worst skip on the account.
-- `DdKUwJ_picC` 4,216 · 2 / 2 (0.05%) · 6.55s · 28.3% skip — "ask Claude to spin up a QA
-  agent." WHY: a tip. Best retention on the account and almost nobody sent it on.
-Top 3 by avg watch time: `Ddsa8dsOfdI` 15.04s (3,104 views, 33.9% skip, "everyone thinks I
+- `DdKUwJ_picC` 4,228 · 2 / 2 (0.05%) · 6.54s · 28.3% skip — "ask Claude to spin up a QA
+  agent." WHY: a tip. Second-best retention on the account and almost nobody sent it on.
+Top 3 by avg watch time: `Ddsa8dsOfdI` 15.01s (3,147 views, 34.0% skip, "everyone thinks I
 have a dev team. it is one text file." — identity confession with a concrete reveal);
-`Dd0IRkHuDx1` 11.22s (3,770, 35.7%, an aphorism the tribe argues with, 12 shares — held,
-not sent); `DdojPBKOsgI` 9.69s (3,072, 36.8%, a dated checkable grievance).
-Bottom 3 by avg watch time: `DdHOGmnuWCB` 4.71s, `Ddkqy7VuH4_` 5.39s, `DdxZCCmR8i0` 5.72s
-— the third is a 59k-view reel, which is the whole point of the watch-time bullet above.
-⚠ **Youngest reel, hours old:** `DeGhqKst37L` 9,262 views · 41 / 134 (1.45%) · 8.93s ·
-40.4% skip — "what men spend their money on: a Claude 20x Max plan, Wispr Flow, …". The
-premise is right and the payoff is a LIST of three objects, which is exactly the shape the
-bullet above says dies. Too young to rank; re-read it tomorrow, because it is the cleanest
-natural test of the one-object rule the account has run.
-⚠⚠ **BANK FEEDBACK — the three aired banked donors are all still ordinary, and the number
-that moved this window belongs to a reel with NO donor at all.** `DdvH-bqOHFB`
-(five_bullets, on banked `DaWr4F9OH9q`) 5,021 / 46 = 0.92%. `Dd2yocXuPVG` (money_rules, on
-banked `DdzE1pVTdE-`) 5,168 / 41 = 0.79%. `Dd45-ClT4zK` (selfless, on banked
-`Ddqwhx2xmW7`) 3,894 / 10 = 0.26%. Against that, `DeD9wgCuJWf` — own footage, one-word
-prompt, no banked clip — is at 4.90%. All five of the account's hits used donors Marcus
-hand-picked. Every banked donor passed the gate on measurement, so **the gate is not what
-separates them — the SLOT is.** A list ("things men do"), a plural ("men with no hoes") and
-a reason ("how I know he's selfless") all leave a blank no single object closes.
-**Standing recommendation for Marcus: add a gate test that the slot must be answerable by
-ONE object, not a list or a reason.** The scan cannot add a test itself (THE GATE is his).
-Today's bank was screened against it by hand for the ninth scan running.
+`Dd0IRkHuDx1` 11.21s (3,825, 35.7%, an aphorism the tribe argues with, 12 shares — held, not
+sent); `DeGhqKst37L` 10.12s (99,963, 36.1% — the only reel that holds AND travels).
+Bottom 3 by avg watch time: `DdHOGmnuWCB` 4.70s, `Ddkqy7VuH4_` 5.46s, `DdxZCCmR8i0` 5.73s
+— the third is a 60k-view reel, which is the whole point of the watch-time bullet above.
+⚠⚠ **THE ONE-OBJECT RECOMMENDATION IS WITHDRAWN. For nine scans this file asked Marcus to
+add a gate test that the slot take ONE object. Today's maturation argues against it.**
+`DeGhqKst37L` ("what men spend their money on" → a Claude 20x Max plan, Wispr Flow, a DJI
+Mic 3) was the clean natural test, and at 24h old it read 9,262 / 1.45% — consistent with
+the rule. At 48h it reads **99,963 views / 2,579 shares / 2.58%, the account's 4th widest
+reel ever**, alongside `DddHvD5OgIa`'s three-object payoff at 126,531 / 2.87%. Two
+three-object reels in the top four. A one-object gate test would have rejected both.
+The discriminator that survives the data is **picturable and ownable, named in frame** —
+not the count. Re-read `DeGhqKst37L` at 72h before anything is treated as settled.
+⚠ **BANK FEEDBACK is unchanged and still the real problem.** The three aired banked donors:
+`DdvH-bqOHFB` (on banked `DaWr4F9OH9q`) 5,116 / 48 = 0.94%; `Dd2yocXuPVG` (on banked
+`DdzE1pVTdE-`) 5,305 / 44 = 0.83%; `Dd45-ClT4zK` (on banked `Ddqwhx2xmW7`) 4,030 / 11 =
+0.27%. All five of the account's hits used donors Marcus hand-picked, and every banked donor
+passed the gate on measurement — **the gate is not what separates them, the SLOT is.** What
+those three share is not a list: it is a payoff that is a behaviour or a reason.
 
 ## @bambi.map — highchair map, small audience, long holds
 Top 3 by saves+shares (all tiny; treat under ~200 views as noise)
@@ -94,11 +95,11 @@ Top 3 by saves+shares (all tiny; treat under ~200 views as noise)
 - `Da_U2OGBlOD` 1,672 · 3 / 2 (0.12%) · 8.80s · 29.7% skip — "the bibs were for us, not the
   baby." WHY: best hold in the window; a parent's confession, no product.
 - `DantHXDuBUK` 233 · 0 / 2 (0.86%) · 5.85s · 44.5% skip — "the highchair scan is real."
-Lowest skip: `Dcm7-WOu1uU` 19.5% (2,095 views, "I was the one who needed the chair"),
+Lowest skip: `Dcm7-WOu1uU` 19.5% (2,096 views, "I was the one who needed the chair"),
 `Dci7Dfxu_D9` 20.5% (2,975, "the highchair was never the problem"), `DblXnxChpO4` 24.1%.
 Bottom 3 by avg watch time: `Dbg2aEKy1CH` 2.66s (108 views, 85.5% skip, "that is the whole
 idea behind bambi"), `DY1gvtXx_hm` 3.43s (216, 72.4%), `DbEYL_wBjf6` 3.50s (163, 67.2%).
-⚠ No new post since 2026-09-04 (31 days). This read is frozen until the account posts again.
+⚠ No new post since 2026-09-04 (32 days). This read is frozen until the account posts again.
 
 What works / what dies
 - Reels that open on the CHILD and the ordinary problem hold 19-25% skip; reels that open
@@ -115,7 +116,7 @@ travelwithbaby, highchair, claudeai, artificialintelligence, aitools, anthropic,
 toddlertravel, familytraveltips, eatlikealocal, familyadventures, familyvacation,
 travelwithkids, familytravel, dadlife, claudecode, vibecoding, nontechnicalfounder,
 buildinpublic, kidfriendlytravel, datingcoach, relationshipadvice.
-Unchanged from 10-04: the same 23, with two premise tags (datingcoach, relationshipadvice)
-and no new search from Marcus. Both are already charged against the 30-tag Graph window, so
-honouring them costs nothing. Under exclusive mode an AI-tag or family-tag find can never
-become a handle lead. No new steering tag.
+Unchanged from 10-04 and 10-05: the same 23, with two premise tags (datingcoach,
+relationshipadvice) and no new search from Marcus. Both are already charged against the
+30-tag Graph window, so honouring them costs nothing. Under exclusive mode an AI-tag or
+family-tag find can never become a handle lead. No new steering tag.
