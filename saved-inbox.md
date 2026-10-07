@@ -11,6 +11,19 @@ Filler rule: skip any shortcode already under `## processed` or already a catalo
 measures tests 5/6, rewrites the entry, and moves the line here as `re-measured`.
 
 ## inbox
+<!-- ⚠⚠ 2026-10-07 — READ-SAVED.SH RETURNED THE WRONG GRID. NOT A REAL INBOX; 23 LINES REMOVED.
+     read-saved.sh exited 0 and reported "24 on grid, 23 new appended", and all 23 appended lines were
+     @imabgold's OWN last-25 reels in exact reverse-chronological feed order, including DeLUR4Jui1J which
+     was posted 02:49 the same morning. The collection_url in ~/.config/ig-fetch/saved.json is
+     instagram.com/imabgold/saved/viral-stuff/901996575663900/ — Instagram served (or redirected to) his
+     PROFILE grid instead of the saved collection. The script's exit-5 check only asks whether the page
+     identified his session, and a redirect to his own profile still does, so the bad read reported exit 0.
+     The 23 lines were NOT gated: @imabgold is Marcus's own account, every line fails test 1 by
+     construction (a man to camera, and his own output is not a donor), and gating them would have burned
+     the morning. Removed, shortcodes recorded in logs/2026-10-07.log. The script was NOT re-run (step 1b:
+     never twice a day, never improvise another read). TODAY'S SAVED READ IS A MISS, not an empty inbox.
+     FOR MARCUS: the exit-5 check needs to also assert the rendered page IS the collection (its title /
+     the /saved/ path in the final URL), otherwise a redirect silently kills step 1b and reports success. -->
 <!-- empty 2026-10-02: read-saved.sh read 24 on the grid and appended 0 new lines (exit 0). The one
      backlog line, @adley's DdVB4DQM86E, was fetched FIRST THING this morning — before the tag pages,
      deliberately, because yesterday ig-search exited 4 and killed the fetch budget before the inbox
