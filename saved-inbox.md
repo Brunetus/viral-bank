@@ -11,6 +11,19 @@ Filler rule: skip any shortcode already under `## processed` or already a catalo
 measures tests 5/6, rewrites the entry, and moves the line here as `re-measured`.
 
 ## inbox
+<!-- 2026-10-08 — READ-SAVED.SH WORKED CORRECTLY TODAY. Exit 0, "24 on grid, 2 new appended", and the
+     two appended lines are genuine saved reels from real creators (@xl_roi, @archetype_origins) — NEITHER
+     shortcode is in @imabgold's own last-25, which is the check yesterday's bad read failed. Yesterday's
+     profile-grid redirect did NOT reproduce. ⚠ THE SCRIPT IS STILL UNFIXED: its exit-5 check only asks
+     whether the rendered page identified Marcus's session, so a redirect to his own profile would still
+     report success. Today's read was verified by hand against the step-0 imabgold shortcode list. FOR
+     MARCUS, second day running: make the exit-5 check also assert the final URL contains /saved/.
+     BOTH LINES BELOW ARE UNGATED and deliberately left under ## inbox: business_discovery returned
+     HTTP 403 code 4 "Application request limit reached" for both (the scan burned app quota on a
+     duplicate probe pass this morning), and the guard-5 throwaway fallback was unavailable because
+     ig-search had already spent 10/10 on the tag pages. They have FIRST call on tomorrow's budget. -->
+DeChJh4SGtb @xl_roi https://www.instagram.com/reel/DeChJh4SGtb/
+DeHNtrqD_pp @archetype_origins https://www.instagram.com/reel/DeHNtrqD_pp/
 <!-- ⚠⚠ 2026-10-07 — READ-SAVED.SH RETURNED THE WRONG GRID. NOT A REAL INBOX; 23 LINES REMOVED.
      read-saved.sh exited 0 and reported "24 on grid, 23 new appended", and all 23 appended lines were
      @imabgold's OWN last-25 reels in exact reverse-chronological feed order, including DeLUR4Jui1J which
