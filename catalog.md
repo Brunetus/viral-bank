@@ -20,6 +20,35 @@ touched.
 
 <!-- entries below, newest first -->
 
+## DeO37s0AUWk — a real blonde woman straight to camera in a bright living room (sputnik chandelier, black-on-white canvas, metal wall discs), full-bleed 720x1280, her own white word captions: "if you've got a girlfriend / and you are stressing out / about what to get her / I'm gonna put you on something…" then a hard cut at 3.85s
+- source: @salama_win | https://www.instagram.com/reel/DeO37s0AUWk/          <- from Marcus's Saved collection (read-saved.sh, 2026-10-09), gated and banked the same morning
+- lane: premise
+- first-seen: 2026-10-09 | status: FRESH
+- stats-at-capture: 22 likes / 0 comments on the host account (5.5x his median of 4; 7,268 followers, Ahmed Salama | AI & Analytics, 23/24 serving media_url). The host engagement is noise — **Marcus's save is the spike signal (step 1b), and the asset is the borrowed 0.00-3.80s opener, not his post.**
+- joke-structure: n/a — opener donor
+- the-beat: cut at 3.80s, the last frame of her before the hard cut (measured at 10fps: her final frame 3.80, his first frame 3.90, so the cut sits at ~3.85). Word stamps at 2fps: "if you've got a girlfriend" 0.00-0.50 · "and you are stressing out" 1.00 · "about what to get her" 1.50-2.00 · "I'm gonna put you on something…" 2.50-3.80.
+- audio-model: original sound (attach in-app, NEVER bake — rule 92)
+- her-audio: original sound, her speech at -18 dB RMS with no music bed under it, clean enough that the reel's own word captions were transcribed off it. **The original creator is NOT nameable (no watermark, no handle in any frame), so the attachable sound is @salama_win's post — attach HIS reel's audio in-app and credit him.**
+- pairs-with: any payoff object Marcus can hold up as the gift — a Claude 20x Max plan bought on her behalf, a DJI Mic 3, a Wispr Flow subscription, the .com he registered. The cut wants him producing ONE thing on camera.
+- premise: "if you've got a girlfriend and you are stressing out about what to get her, I'm gonna put you on something…"
+- slot: "I'm gonna put you on ___" — one blank, one object, and she never closes it. e.g. a Claude 20x Max plan / a DJI Mic 3 / the .com he just published. This is the cleanest open blank banked since `DdkSYlgxGQY`.
+- setup-length: 3.80s (yes — she finishes the premise; the blank is the deliberate ellipsis, not a truncation). Over the 3s floor, just under the 4.03/4.60s winning band.
+- hero-test: HERO. He is the guy who shows up with the right thing. "Stressing out" is the sympathetic state she rescues him from, not a fault she charges him with — the sentence ends with him being put on to something, which is the flattering half.
+- addresses: a young man who has a girlfriend and a gift to buy / recognises: the same man, holding the object the payoff shows. Same person, second-person sub-case (Marcus 2026-09-24/25, the `Dao0ESOudKj` family) — she never says "men", she says "you", and the hero is the man watching.
+- original: COPY — creator: @unknown (not nameable from the frames; no watermark, no handle, and `kw` search is HTTP-400 so there is no cheap route to her), copied-from: @salama_win DeO37s0AUWk. Test 7 as amended 2026-09-24: the copy carries the WHOLE premise (test 6 passes on the copy itself at 3.80s), so it is bankable with the chain recorded. Credit @salama_win.
+- clean-window: n/a — OPENER donor (her setup card IS the hook)
+- file: clips/DeO37s0AUWk.mp4 (8.68s total, 720x1280, 30fps — bank the 0.00-3.80 head)
+- ⚠ **READ THIS BEFORE THE NEXT BUILD. A competitor is running Marcus's exact format with Marcus's exact object.** @salama_win's payoff is a Claude Max plan checkout screen (AED 775.01, "Max 20x monthly"), reached by hard-cutting from a borrowed girl-to-camera opener — the donor-opener template, beat for beat, down to the noun. He is at 7,268 followers and the reel did 22 likes, so he has the method and not the distribution, but this is the first outside account the scan has seen converge on the whole template. Two consequences: (1) the gift frame is live and unspent on @imabgold, and this donor hands it over with the blank still open; (2) the object is NOT exclusive any more, so the frame is worth running soon rather than banking for later.
+- guard 7 note: the host account does run lead-gen elsewhere ("comment 'scrape'", "I'm taking 5 business owners this week"), but THIS reel sells nothing of his — caption is "Best gift ever 👌", no code, no link, no service — and the 3.80s we bank is a borrowed clip with no selling in it at all. Banked on that basis; do not read his other posts as bankable.
+
+## DeChJh4SGtb — [NOT BANKED] tombstone (test 1) · @xl_roi, a bearded man sitting in a dark wood-panelled room scrolling his phone under a serif card: "If I have to work 12+ hours, 7 days a week so my wife gets to hear this everyday… so be it, I'll make it happen." · https://www.instagram.com/reel/DeChJh4SGtb/ · 1,251 likes / 8 comments, 2026-10-03, from Marcus's Saved (carried over from 10-08's app-limit 403) · settled FREE on the cover, no slot and no cookie spent.
+- FAIL 1 — no girl to camera. The premise is a text card over a man's b-roll, and nobody says it aloud, so there is nothing to caption. FAIL 2 — "so my wife gets to hear this" is the husband/provider frame the audience-fit rule rejects outright; the 18-34 viewer has not reached it. FAIL 4 — the sentence closes itself ("so be it, I'll make it happen"); there is no blank left for an object.
+- Handle stays on `[saved]`. @xl_roi's whole window is this shape — serif cards over luxury b-roll, 4 of 4 covers screened.
+
+## DeHNtrqD_pp — [NOT BANKED] tombstone (test 1) · @archetype_origins, a man in glasses holding up a phone showing an ASUS ROG post, red rim-light behind him, card-free cover · "How Many Times Do I Have to Press?! #asus #rog #pc" · https://www.instagram.com/reel/DeHNtrqD_pp/ · 190,518 likes / 1,233 comments, 2026-10-05, from Marcus's Saved (carried over from 10-08's app-limit 403) · settled FREE on the cover, no slot and no cookie spent.
+- FAIL 1 — a man to camera, PC-hardware gag; no woman, no spoken premise. FAIL 4 — no slot; the joke is self-contained, which is the exact thing exclusive mode rejects (the donor supplies the SETUP, the joke is Marcus's line).
+- 190k likes and not one frame of it is a setup. Handle stays on `[saved]`; Ben & Jenny build PCs, and the format is footage-led, so there is no 5b entry either.
+
 ## DeDugYXNL9z — a real woman straight to camera in an exam room, maroon RN scrubs and badge, full-bleed 720x1280, her own white word captions, holding a clipboard
 - source: @prettylushangel | https://www.instagram.com/reel/DeDugYXNL9z/
 - lane: premise
@@ -50,7 +79,7 @@ touched.
 ## Dd0JrDsIXWj — a woman alone to camera in a bedroom, phone held low, one unbroken take with her own white word captions: "I think my favourite form of intimacy is always been asking questions. Because at the end of the day we all want to be seen and understood. And we want someone to…"
 - source: @datingwjessie | https://www.instagram.com/reel/Dd0JrDsIXWj/          <- from Marcus's Saved collection (read-saved.sh, 2026-10-06), gated the same morning
 - lane: premise
-- first-seen: 2026-10-06 | status: DO-NOT-SPLICE (2026-10-06) — gate reject, tests 2 / 3 / 4
+- first-seen: 2026-10-06 | status: RESERVED (Marcus 2026-10-08 shoot, reel 4; do not use in routine builds) 
 - stats-at-capture: 72,701 likes / 397 comments — her #1 by a factor of 3.4 (next best 21,159). Creator 26,164 followers, Jessie Ann, 25/25 serving media_url, so this cost ONE Graph slot and ZERO cookie budget.
 - gate: 4 of 7 PASS, 3 FAIL. 1 PASS — real woman (freckles, uneven bedroom light, natural head movement; bio "anyone know how to do this dating thing?"; no generator watermark, no daily-quote cadence), straight to lens, full-bleed, and she SAYS the line with her own word captions under it ✓ · 6 PASS — the sentence completes at 4.00s, inside the 4.03/4.60s winning band ✓ · 7 PASS — her own upload ✓ · 8 PASS — no Claude, no tool name ✓
 - why it fails: **THERE IS NO MAN IN HER SENTENCE.** 2 FAIL — the premise is about intimacy between people in general ("we all want to be seen and understood"), not a positive superlative or desire about MEN; the audience-fit rule needs a man the 18-34 male viewer IS, and this "we" is everybody. 3 FAIL — with no man named, there is no man to be the hero of the sentence. 4 FAIL — she CLOSES her own blank in the same breath: "my favourite form of intimacy is ___" is answered at 2.50s with "asking questions", a BEHAVIOUR, not an ownable object, and by 4.50s she has moved on to explaining why. This is the exact failure shape taste.md measured again this morning — a blank closed by a behaviour instead of a picturable object is what sits at 0.27-0.94%.
@@ -114,7 +143,7 @@ touched.
 ## Dd9Pb99x3Qh — a woman walking outdoors at golden hour, straight to camera, finger raised, telling men the one thing anyone they date should be able to do for them
 - source: @ashleahoess | https://www.instagram.com/reel/Dd9Pb99x3Qh/
 - lane: premise
-- first-seen: 2026-10-02 | status: FRESH
+- first-seen: 2026-10-02 | status: RESERVED (Marcus 2026-10-08 shoot, reel 5; do not use in routine builds) 
 - stats-at-capture: 5,788 likes / 188 comments (2.73x account median, 303,686 followers; posted 2026-10-01)
 - joke-structure: n/a — opener donor
 - the-beat: cut at 4.90s, the frame her premise finishes on ("...do this one thing for you,")
@@ -144,7 +173,7 @@ touched.
 ## DdrbT6iifJv — @ashleahoess to camera on a bed against a cream wall, hair up, white Jaws tee, full-bleed; a burned card "Women are obsessed with these TYPES of men" flashes on the first frame, then word-by-word stamps carry her spoken line: "GUYS, WOMEN ARE / OBSESSED WITH MEN / WHO ARE AUTHENTIC."
 - source: @ashleahoess | https://www.instagram.com/reel/DdrbT6iifJv/          <- on the [premise] watchlist since 2026-09-29; bio "Modern dating advice for men"
 - lane: premise
-- first-seen: 2026-09-30 | status: FRESH
+- first-seen: 2026-09-30 | status: RESERVED (Marcus 2026-10-08 shoot, reel 6; do not use in routine builds) 
 - stats-at-capture: 6,007 likes / 296 comments (3.86x her median of 1,634; 300,984 followers, 6/25 serving media_url so this cost ig-fetch slot 1 of 8)
 - joke-structure: n/a — opener donor
 - the-beat: cut at 3.90s, the frame her premise finishes on and the last frame before her own answer lands. Word stamps off the burned captions (2fps sample): card "Women are obsessed with these TYPES of men" 0.00-~0.40 / "GUYS, WOMEN ARE" 0.50-1.00 / "OBSESSED WITH MEN" 1.50-3.50 / "WHO ARE AUTHENTIC." 4.00-4.50. So 0.00-3.90 is her whole claim with the blank still wide open
@@ -324,7 +353,7 @@ touched.
 ## DdkSYlgxGQY — @annabellegesson to camera in a bedroom, blue hoodie, burned captions line by line: "Boys, I have a question for you" / "You know how girls love receiving flowers?" / "Like, if a guy gets flowers…" / "we know he is the one" / then asks "what is the guy equivalent to flowers? What is your version of flowers?"
 - source: @annabellegesson | https://www.instagram.com/reel/DdkSYlgxGQY/          <- [premise] lane, read with NO spike bar (09-27 exception); it also happens to be her spike
 - lane: premise
-- first-seen: 2026-09-27 | status: FRESH
+- first-seen: 2026-09-27 | status: RESERVED (Marcus 2026-10-08 shoot, reel 8; do not use in routine builds) 
 - stats-at-capture: 10,099 likes / 7,452 comments (45.6x her median; the comments ARE the answers to her question), 2026-09-21. Her earlier "guy equivalent to a girl receiving flowers" video did 8M+ views by her own account (DdwZGlVIMra, 0-2.4s, too short to use)
 - joke-structure: n/a — opener donor
 - the-beat: JUMP CUT recommended: 0.00-2.00 ("Boys, I have a question for you.") + 9.38-11.52 ("what is the guy equivalent to flowers?") = 4.14s, inside the winning band, question open, then hard cut to Marcus. Straight alternates: 0.00-4.28 (ends on "receiving flowers?", blank implied) or 0.00-11.52 (whole setup, too long for rule 94). Word stamps (mlx_whisper 09-27): Boys 0.00 / you. 1.82-2.00 / flowers? 3.84-4.28 / one. 7.46-7.76 / My question is 8.06-8.96 / what 9.38 / guy 10.02 / equivalent 10.32 / flowers? 11.12-11.52 / What is your version of flowers? 11.98-13.56
@@ -462,7 +491,7 @@ touched.
 ## DazDXDAu90P — @xel.official (Elleanna Barczak) to camera, same night selfie as the proven "get rich" donor, one take, burned card "you are gonna succeed" bottom third the whole way: "And this is why you are gonna succeed. You are pushing yourself through every single thing that is telling you to give up. You are failing over and over and over again and you still show up."
 - source: @xel.official (formerly @theofficialxel) | https://www.instagram.com/reel/DazDXDAu90P/          <- [premise] lane read, Graph-served (no cookie), the day after Marcus called Dao0ESOudKj a donor to "definitely keep going"
 - lane: premise
-- first-seen: 2026-09-25 | status: FRESH
+- first-seen: 2026-09-25 | status: RESERVED (Marcus 2026-10-08 shoot, reel 9; do not use in routine builds) 
 - stats-at-capture: 14,251 likes / 150 comments (2026-07-15; her feed runs 50-170 likes, so ~100x her own typical) — her #2 post of the last 25, behind "let them hate" 19.7k
 - joke-structure: n/a — opener donor
 - the-beat: cut at 6.42s, the frame after "give up." (word stamps: succeed 1.54, pushing 2.44, every 3.64, single 4.12, thing 4.50, telling 5.24, you 5.60, to 5.96, give 6.14, up 6.42). Alternate cut 1.54s after "succeed" is too short (test 6). Do NOT run past 6.42 — the next sentence ("failing over and over…") fills her own slot.
@@ -628,7 +657,7 @@ touched.
 ## DQorZuoEYDI — young woman in a yellow shirt talks straight to camera under the card "3 THINGS- GIRLS SECRETLY LOVE BUT WOULD NOT NEVER ADMIT ‼️", says "Boys, yeh video galti se miss mat karna!", fades to black and "Number 1." at 6.2s
 - source: @shrestha_mohanty20 (browsed, throwaway tag page #whatwomenwant) | https://www.instagram.com/reel/DQorZuoEYDI/
 - lane: premise
-- first-seen: 2026-09-19 | status: FRESH
+- first-seen: 2026-09-19 | status: RESERVED (Marcus 2026-10-08 shoot, reel 2; do not use in routine builds) 
 - stats-at-capture: 11,306 likes / 202 comments / 688,217 plays (IG tag-page top post; ~5.4x her current last-25 median of 2,128 likes). Posted 2025-11-04, old, and the card still reads instantly. Caption: "Boys, things we love secretly! ❤️💌"
 - joke-structure: n/a — opener donor
 - the-beat: cut at 6.0s, the last clean frame before her fade to black (the fade starts ~6.1s, "Number 1." lands 6.3s). Her list never starts, Marcus's does. Tighter option: cut at 3.4s, card plus her opening line, before the Hinglish "Boys, yeh video galti se miss mat karna!" subtitle appears (mid-speech, so check the audio)
@@ -653,7 +682,7 @@ touched.
 ## DdYXpUepZv7 — a five-room tour of the same 3D fly world under one held "I'm jealous" sticker: a BALENCIAGA-liveried fruit fly at a desk of monitors running a red SHORT signal, a mini-golf hole where the ball is struck and arcs into a crowd of flies, the FLYEGAS casino stage with a live-ticking JACKPOTS counter, then the reel switches to a phone filming a laptop and settles on a poker room where two cigar-smoking flies with glowing red eyes sit behind chip stacks, with the app's own control row and a live PAPER ACCOUNT P&L readable on screen
 - source: #vibecoding | https://www.instagram.com/reel/DdYXpUepZv7/
 - lane: vibecoding
-- first-seen: 2026-09-17 | status: FRESH
+- first-seen: 2026-09-17 | status: STALE (2026-10-09)
 - stats-at-capture: 8,224 likes / 47 comments (hashtag recent_media, no account baseline) · 1,035.5 likes/hr, accelerating x5.57 when captured (pulse job 20260917-150850). The reel page read as @officialjlv (verified), no credit line or tagged collaborator; a fetch of sibling `DdYobKvxavw` returned nothing, so whether this account is the series creator or a reposter is UNCONFIRMED — the caption reads as the creator's own voice ("I'm jealous" of the flies' life, matching `DdYobKvxavw`'s "Their reward")
 - joke-structure: absurd over-investment in a worthless subject, FIFTH episode of the fly-world series (`DdUpjlpx_ts`, `DdV2E6fxAs4`, `DdV72MhxfMl`, `DdYobKvxavw` — same #flybrain tag, same render style). Recognition trigger: the luxury life a scroller wants, rebuilt at bug scale under a three-word envy sticker. **What makes this one structurally different from its four siblings: it is the only clip in the series that shows the world as a RUNNING APPLICATION rather than a render.** From 6.9s the capture switches to a phone filming a laptop and the app's own UI is legible — a `drip: on | whip: off | boss: off | exit fullscreen | drag to orbit` control row and a `PAPER ACCOUNT / EQUITY 9,964.49 / NET -0.35% / GROSS +2.20% / FEES 2.53% / BARS WON 42 / BARS 106` dashboard. No turn inside the clip; the whole 14.1s is spectacle under one held line
 - the-beat: no payoff turn. Measured cuts (10fps delta + top-band track, confirmed visually at each seam): desk 0.00-2.00 · mini-golf 2.00-3.50 (ball struck ~2.3, arcs to ~3.3) · golf wide 3.50-4.50 · FLYEGAS stage 4.50-6.90 · poker room 6.90-14.11, and **6.90 is where the capture method changes** to handheld phone-off-laptop. Strongest windows: FLYEGAS stage wide with the truss ring and billboard 5.4-6.6s (cleanest, brightest, best-composed second of the clip); the two red-eyed poker flies with the P&L strip in frame 6.95-7.60s (this is the "it actually runs" read); desk with the SHORT monitor 1.1-1.9s. Skip 8.3-9.0s and 10.2-11.0s — heavy handheld shake, soft focus and moiré
@@ -665,7 +694,7 @@ touched.
 ## DdYobKvxavw — phone footage of a monitor playing a 3D-rendered music festival at fly scale: thousands of fruit flies packed on a dancefloor under laser rigs and truss, a FLYCHELLA stage with a rainbow equaliser wall, a ferris wheel, the handheld camera sweeping from a low tilted wide up into close-ups of the lasers and sign and back out
 - source: #vibecoding | https://www.instagram.com/reel/DdYobKvxavw/
 - lane: vibecoding
-- first-seen: 2026-09-17 | status: FRESH
+- first-seen: 2026-09-17 | status: STALE (2026-10-09)
 - stats-at-capture: 14,954 likes / 94 comments (hashtag recent_media, no account baseline) · 2,520.6 likes/hr, accelerating x12.44 when captured (pulse job 20260917-123550), the biggest spike of the series by ~5x
 - joke-structure: absurd over-investment in a worthless subject, FOURTH episode of the same fly-world series as `DdUpjlpx_ts`, `DdV2E6fxAs4` and `DdV72MhxfMl` (same #flybrain / #fruitflybrain tags, same render style). Recognition trigger: Coachella rebuilt at bug scale with a parody-brand sign. The caption "Their reward" + pleading emoji adds a premise the earlier episodes lacked: the spectacle is framed as payment to the flies for their work, which is why it maps onto agents better than its siblings. No turn inside the clip; the whole 14.2s is the spectacle under one held line
 - the-beat: no payoff turn. Strongest windows: low wide over the dancefloor into the FLYCHELLA stage 1.2-3.0s; ferris wheel over the crowd 5.0-6.0s; FLYCHELLA sign + equaliser close 6.0-7.0s; sign and crowd wide again 11.0-12.0s. Blurry laser-only close-ups 7.0-9.5s, skip
@@ -677,7 +706,7 @@ touched.
 ## DdXM2_nMYsv — Braves fans hand-pass a giant inflatable sausage and bun across the stands until the sausage lands in the bun and the finished hot dog is held up
 - source: @pubity | https://www.instagram.com/reel/DdXM2_nMYsv/
 - lane: general
-- first-seen: 2026-09-17 | status: FRESH
+- first-seen: 2026-09-17 | status: STALE (2026-10-09)
 - stats-at-capture: 240,158 likes / 1,414 comments (351.89x account median)
 - joke-structure: "a hundred strangers somehow pulled it off": giant sausage meets giant bun overhead, a wholesome crowd-assembly success beat rather than a gag. Satisfying payoff, not a laugh line
 - the-beat: 0–5s sausage bouncing over crowd (burned caption); 11–16s bun enters, sausage slides into bun; payoff = assembled dog hoisted at 20–26s (tight clean cut 21.0–26.0s; 24s frame is the hero shot). Tail 27–33s is repeat of the same held-up dog, disposable
@@ -689,7 +718,7 @@ touched.
 ## DdX2FRGpe7w — doorbell cam at night: a woman dances on her porch walkway to music, the Little Caesars delivery guy walks up with a stack of boxes and she dances right up to him
 - source: @pubity | https://www.instagram.com/reel/DdX2FRGpe7w/
 - lane: general
-- first-seen: 2026-09-17 | status: FRESH
+- first-seen: 2026-09-17 | status: STALE (2026-10-09)
 - stats-at-capture: 45,184 likes / 292 comments (66.24x account median)
 - joke-structure: "the universe scored my delivery": arrival lands on the music like a movie entrance, and she treats the pizza guy as part of the show
 - the-beat: 0–12s she dances alone (slow build); delivery guy appears in the dark driveway ~13s; laugh lands 14.5–20s as she dances toward him and circles the boxes; cut at ~21s before he walks past camera (22–24s)
@@ -701,7 +730,7 @@ touched.
 ## DdYDxT8p-w- — a dad walks down the hallway showing off his freshly shaved face, then the camera cuts between him and his toddler son, who stares up at him with suspicious side-eye and an unsure half-smile
 - source: @pubity | https://www.instagram.com/reel/DdYDxT8p-w-/
 - lane: general
-- first-seen: 2026-09-17 | status: FRESH
+- first-seen: 2026-09-17 | status: STALE (2026-10-09)
 - stats-at-capture: 29,108 likes / 408 comments (42.99x account median)
 - joke-structure: "big reveal met with a kid's who-are-you side-eye": the adult is proud of the change, the small judge is visibly not sold. The face does the work. Caveat: the son's actual spoken verdict (caption says he "made his feelings very clear") was not verified from audio, so the reaction reads as skeptical/awkward rather than as an explicit rejection
 - the-beat: dad reveal 5.0–9.0s (rubs bare chin, grins at camera); son's first look 10–13s (wide-eyed stare up, lips pursed) is the strongest skeptical beat; laugh/unsure grin 16–19s; second round of side-eye 24–29s and 33–42s. Cut the payoff at 10.0–13.5s (or 10–19s for stare-to-awkward-laugh). Dad cutaways at 8, 21, 31–32s; white flash transitions at ~9s and ~20s
@@ -713,7 +742,7 @@ touched.
 ## DdP9xuShD2M — phone footage of a TV showing a US Open match (Zverev v Shelton): a player walks the baseline, the Rolex clock graphic holds on "0:07", then it dissolves to Pierce Brosnan sitting stone-faced in the crowd
 - source: @daquan | https://www.instagram.com/reel/DdP9xuShD2M/
 - lane: general
-- first-seen: 2026-09-17 | status: FRESH
+- first-seen: 2026-09-17 | status: STALE (2026-10-09)
 - stats-at-capture: 192,108 likes / 1,055 comments (5.81x account median)
 - joke-structure: "007" on screen, then James Bond himself. The recognition is a number that happens to be a character, answered by the actual actor looking unimpressed; the laugh is the coincidence landing in one cut. Needs the viewer to know Brosnan is Bond (the huge like count says most do). The Rolex logo is the broadcast's own clock graphic, not the poster selling anything
 - the-beat: setup 1.2–4.4s ("0:07" graphic, static), dissolve 4.4–4.8s, laugh lands the moment Brosnan's face resolves at ~4.8s; he holds still to 8.57s. Cut the payoff at 4.6s in, out at ~6.0s (a hand from the row behind waves across the right of frame 6.2–6.8s, then rests at the edge)
@@ -725,7 +754,7 @@ touched.
 ## DdWjsK0Bf_w — slumped, dead-eyed man in a meeting room gets praised by an off-screen hand-gesturing manager and instantly melts into a giddy, blushing grin
 - source: @corporate.bro | https://www.instagram.com/reel/DdWjsK0Bf_w/
 - lane: tech
-- first-seen: 2026-09-17 | status: FRESH
+- first-seen: 2026-09-17 | status: STALE (2026-10-09)
 - stats-at-capture: 39,354 likes / 452 comments (3.23x account median)
 - joke-structure: dead-inside face → one compliment → instant smitten melt. Recognition trigger: "one crumb of praise and I'm staying forever"
 - the-beat: 0-4s head-on-hand, dead stare (setup); ~4-5s off-screen hand gestures toward him; 5-6s face breaks into a grin (the laugh); 9s tongue-out goofy eye-roll; 10-15s slow push-in on bashful blushing smile. Cut in at ~4s, out at ~7s for a tight payoff, or ride to ~10s to include the tongue-out
@@ -737,7 +766,7 @@ touched.
 ## DdUdNeCz32B — youth football "kids vs parents" Oklahoma drill at night: a dad in a black tee, a dad in blue, and a mom each flatten a small helmeted kid while the team lines the field
 - source: @houseofhighlights | https://www.instagram.com/reel/DdUdNeCz32B/
 - lane: sports
-- first-seen: 2026-09-17 | status: FRESH
+- first-seen: 2026-09-17 | status: STALE (2026-10-09)
 - stats-at-capture: 154,730 likes / 2,140 comments (2.02x account median)
 - joke-structure: grown adult vs tiny kid in full pads, and the adult does NOT go easy: kid charges, gets folded onto the turf, ball pops loose (recognition: "no mercy for the child")
 - the-beat: best single hit 2.8–5.2s (black-tee dad drives kid #4 into the turf, ball bounces out, dad stands over him); cut in ~2.6s, out ~5.2s. Alternates: 7.5–10.5s (blue-shirt dad flattens #19, hops back celebrating), 13.3–15.2s (mom flips #11, walks off grinning). 0–2.5s is a kid close-up/whip pan (skip); 16.5–19.4s last rep is dim and unreadable (skip)
@@ -749,7 +778,7 @@ touched.
 ## DdXiKyuRLQO — a ball drops among three Mets fielders (Bichette, Soto, Lindor, with contract-value labels) who bobble and fumble it before one picks it up, then a wide broadcast replay of the play
 - source: @sportscenter | https://www.instagram.com/reel/DdXiKyuRLQO/
 - lane: sports
-- first-seen: 2026-09-17 | status: FRESH
+- first-seen: 2026-09-17 | status: STALE (2026-10-09)
 - stats-at-capture: 378,860 likes / 6,330 comments (6.18x account median)
 - joke-structure: "expensive pros fumble the easiest task": the burned $765M/$341M/$126M labels set up the price tag and the footage shows the ball bouncing between them. Reads as a fumble, not a cascade (no small input setting off a disproportionate chain)
 - the-beat: #19 misses the drop 0–1.5s, ball bounces while #22 lunges 1.5–3.5s, #22 bobbles it off his glove 3.5–4.5s, contract labels appear ~5.5–9.5s; white flash ~10s; wide broadcast replay 11–20.5s. As an opener use 0–9.5s whole, full-bleed, then cut to the user
@@ -761,7 +790,7 @@ touched.
 ## DdRu1GaxadC — teen in a #17 jersey at a sunny fan-fest throwing station tosses footballs one after another; each lands short and bounces on the grass, camera swings at the end
 - source: @sportscenter | https://www.instagram.com/reel/DdRu1GaxadC/
 - lane: sports
-- first-seen: 2026-09-17 | status: FRESH
+- first-seen: 2026-09-17 | status: STALE (2026-10-09)
 - stats-at-capture: 224,219 likes / 361 comments (3.6x account median)
 - joke-structure: "will he perform under pressure?" caption, then a string of weak ducks thudding into the grass (recognition: choking when it counts). Joke leans on the caption; the target and the money are never visible
 - the-beat: no single turn, it's a run of misses; clearest flops ~3.5–5.0s (two balls in a row bounce short in front of him). Cut out before the camera swing ~5.7s
@@ -773,7 +802,7 @@ touched.
 ## DdYf1J8TluW — tweet-style card (@itsthepasttense) "They asked programmers to create the worst volume controls possible." over a montage of absurd volume-control UIs: eclipse overlap dial, 100-radio-button grid, tilt-the-slider-and-let-it-roll, bicycle-pump inflate, type digits of pi, dice/scatter picker
 - source: #programmerhumor | https://www.instagram.com/reel/DdYf1J8TluW/
 - lane: tech
-- first-seen: 2026-09-17 | status: FRESH
+- first-seen: 2026-09-17 | status: STALE (2026-10-09)
 - stats-at-capture: 28 likes / 0 comments (hashtag recent_media, no account baseline)
 - joke-structure: "worst possible version of a trivial UI" — the scroller clocks a volume slider replaced by an absurd physical task (pump it, recite pi) instantly; the card text is the setup, each UI is a mini payoff
 - the-beat: strongest single gags: tilt slider rolling to "Volume: 98" (~8–12s), pump-to-inflate (~12–16s), "Please enter pi for volume" (~19–24s); cut any 3–4s segment, but the card must stay on top to read
@@ -1664,3 +1693,35 @@ touched.
 
 ## yt-ez6UG1VURmU — [PRUNED STALE] I, Robot (2004): the NS-5 robots pour out of a delivery truck in rows, red chests glowing, and march down the city street toward the camera while a ro · https://www.instagram.com/reel/yt-ez6UG1VURmU/ · first-seen 2026-09-10
 
+
+
+## Dd_3SZXjoEd — @programmergrind skit: a woman surprises her long-distance boyfriend, then hard cut to a guy at a desk with 10 Claude Code terminals tiled, saying "I have Claude running for 40 minutes across 10 sessions to finish my girlfriend communication"
+- source: @programmergrind | https://www.instagram.com/reel/Dd_3SZXjoEd/          <- Marcus's Saved, link pasted 2026-10-08; public embed, zero cookie cost
+- lane: premise
+- first-seen: 2026-10-08 | status: RESERVED (Marcus 2026-10-08 shoot, reel 1: "that's not how he runs Claude Code")
+- the-beat: use 4.3-8.3s (the guy + terminal wall + his line); 0-4.3 is the surprise setup
+- note: not a woman to camera; Marcus's pick. The terminal grid doubles as the "this is so unorganized" visual.
+- file: clips/Dd_3SZXjoEd.mp4
+
+## DcNljnIzEUE — @pretty.prerna___ lip-syncing "I see it, I like it, I want it, I got it" while holding up her phone
+- source: @pretty.prerna___ | https://www.instagram.com/reel/DcNljnIzEUE/          <- Marcus's Saved, link pasted 2026-10-08; embed withheld the video, fetched via ig-fetch (throwaway, 1/8 on 10-08)
+- lane: premise
+- first-seen: 2026-10-08 | status: RESERVED (Marcus 2026-10-08 shoot, reel 3: MacBook pmset wake / 24/7 agents)
+- the-beat: about 0-3.3s; a man walks into frame right after
+- note: a lip-sync to a licensed song, not spoken; Marcus's pick. Attach the song in-app.
+- file: clips/DcNljnIzEUE.mp4
+
+## DdZQxLtMA2S — @thepocketpodcast guest at a podcast mic, facing camera: "I had this alter ego where I was like, I'm gonna think like a rich person and I'm gonna see what happens."
+- source: @thepocketpodcast | https://www.instagram.com/reel/DdZQxLtMA2S/          <- Marcus's Saved, link pasted 2026-10-08; public embed
+- lane: premise
+- first-seen: 2026-10-08 | status: RESERVED (Marcus 2026-10-08 shoot, reel 7: his 5 CLAUDE.md rules)
+- the-beat: 0-4.2s (ends on "see what happens")
+- note: podcast set with mic in frame; Marcus's pick.
+- file: clips/DdZQxLtMA2S.mp4
+
+## DHECXD0Ra-_ — a woman to camera in a warehouse space: "Can someone please explain to me how men are still going broke when they don't have to buy makeup, clothes?" then cut to @paoloplaysgames
+- source: @paoloplaysgames | https://www.instagram.com/reel/DHECXD0Ra-_/          <- Marcus's Saved, link pasted 2026-10-08; public embed. Woman is borrowed on his post; credit @paoloplaysgames
+- lane: premise
+- first-seen: 2026-10-08 | status: RESERVED (Marcus 2026-10-08 shoot, reel 10: "because he spends all his money on Claude bots")
+- the-beat: 0-4.4s (his own cut follows)
+- file: clips/DHECXD0Ra-_.mp4
