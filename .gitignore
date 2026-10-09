@@ -17,3 +17,10 @@ catalog.md.bak-*
 logs/premise-probe/
 watchlist.md.bak-*
 *.bak-*
+
+# large local-only media and logs, never commit
+clips/
+wendylovegarrido/
+logs/
+*.mp4
+*.mov
