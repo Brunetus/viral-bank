@@ -11,6 +11,14 @@ Filler rule: skip any shortcode already under `## processed` or already a catalo
 measures tests 5/6, rewrites the entry, and moves the line here as `re-measured`.
 
 ## inbox
+<!-- empty 2026-10-10: read-saved.sh read 24 on the grid and appended 0 NEW lines (exit 0). All 24 are
+     already under ## processed, so the backlog is clear and there was nothing to gate from Saved today.
+     ⚠ VERIFICATION, since the exit-5 check is still unfixed: a profile-grid redirect (the 10-07 failure)
+     would have appended ~24 of @imabgold's OWN shortcodes, NONE of which has ever been processed here or
+     catalogued — so a redirect today could not have produced "0 new appended". Zero appends is itself the
+     proof the read hit the real collection. ⚠ FOURTH DAY RUNNING, FOR MARCUS: make read-saved.sh's exit-5
+     check assert that /saved/ is in the FINAL URL, not just that the page identified Marcus's session.
+     Today's negative check happened to be conclusive; on a day with new saves it would not be. -->
 <!-- empty 2026-10-09: read-saved.sh read 24 on the grid and appended 1 new line (exit 0). All three live
      lines — today's @salama_win line plus the two @xl_roi / @archetype_origins lines that 10-08's
      "Application request limit reached" 403 left ungated — were resolved and gated this morning and moved

@@ -20,6 +20,36 @@ touched.
 
 <!-- entries below, newest first -->
 
+## DeR75SYgYrJ — a real dark-haired woman straight to camera in a dim room, red lipstick, letterboxed 720x733 inside a 720x1280 frame, her own white word captions: "I have a question / for the men. / what do you want? / what is it?" then a hard cut at 4.25s to the host's whiteboard
+- source: @salama_win | https://www.instagram.com/reel/DeR75SYgYrJ/          <- read on the daily watchlist probe (he was added to `[saved]` 2026-10-09 as a donor source); the borrowed opener is the asset, not his post
+- lane: premise
+- first-seen: 2026-10-10 | status: FRESH
+- stats-at-capture: 38 likes / 2 comments on the host account (11.43x his median of 3.5; 7,265 followers, 21/23 serving media_url). His engagement is noise at this follower count — the reel was picked on GATE FIT off a free cover screen, not on the ratio.
+- joke-structure: n/a — opener donor
+- the-beat: cut at 4.25s, the frame her question finishes on (measured at 10fps: her last frame 4.20, his first frame 4.30). Word stamps at 2fps: "I have" 0.00 · "I have a question" 0.50 · "for the" 1.00 · "for the men." 1.50 · "what" 2.00 · "do" 2.50 · "do you want?" 3.00 · "what" 3.50 · "what is it?" 4.00-4.20.
+- audio-model: original sound (attach in-app, NEVER bake — rule 92)
+- her-audio: original sound, her speech carries the whole beat with no music bed under it. **The original creator is NOT nameable (no watermark, no handle, no on-screen credit in any frame), so the attachable sound is @salama_win's post — attach HIS reel's audio in-app and credit him.**
+- pairs-with: any single object Marcus can hold up as the answer — a Claude 20x Max plan, the four Mac Studios, localhost:3000 going green, a Wispr Flow subscription. The cut wants him producing ONE named thing straight after "what is it?".
+- premise: "I have a question for the men. What do you want? What is it?"
+- slot: "what do you want? what is it?" — one blank, one object, and she never closes it. This is the widest-open blank in the bank: she does not even supply an elimination, so the payoff object carries the whole turn.
+- setup-length: 4.25s (yes — she finishes the premise; "what is it?" is fully rendered at 4.20s before the cut). **Dead in the winning band** (the account's two best donors measured 4.03s and 4.60s).
+- hero-test: HERO. She is asking men what they want, with no criticism anywhere in the sentence. The man is the authority being consulted, which is the flattering half of this grammar.
+- addresses: young men, named directly in the second clause ("for the men") / recognises: the same man, holding the object the payoff shows. Same person.
+- original: COPY — creator: @unknown (not nameable from the frames; no watermark, no handle, and `kw` search is HTTP-400 so there is no cheap route to her), copied-from: @salama_win DeR75SYgYrJ. Test 7 as amended 2026-09-24: the copy carries the WHOLE premise (test 6 passes on the copy itself at 4.25s), so it is bankable with the chain recorded. Credit @salama_win.
+- clean-window: n/a — OPENER donor (her setup card IS the hook)
+- file: clips/DeR75SYgYrJ.mp4 (10.05s total, 720x1280, 30fps — bank the 0.00-4.25 head)
+- ⚠⚠ **THIS IS `DddHvD5OgIa`'s SENTENCE, WORD FOR WORD** — "i have a question for the men. what do you want?", the account's #3 reel by saves+shares (138,404 views / 4,033 shares, 2026-09-19). That donor was hand-picked by Marcus and was never banked here, so this is the first time the bank holds the clip behind a premise the account has already proved. taste.md's standing finding is that a frame is reusable and only the OBJECT is spent, so this is a re-run donor: same sentence, new noun. **Label it as a re-run when it is staged — it is not a fresh premise.**
+- ⚠ **TWO FOOTAGE DEFECTS, both measured, neither a gate test.** (1) It is LETTERBOXED: the active picture is 720x733 inside the 720x1280 frame (black rows 0-273 and 1007-1279), so banked full-bleed per step 4b the opener carries bars top and bottom; cropping 9:16 out of the band instead costs 412x733 → **2.62x upscale**. (2) It ZOOMS: 0.00-1.90s is a readable head-and-shoulders frame, and from ~2.00s it punches into an extreme close-up of her eyes and mouth that holds to the cut. If the architect wants a wide donor frame, only the first 1.9s provides one.
+- ⚠ test-1 AI check, recorded because it could not be run in full: (a) the bio/name probe is NOT available — she is uncredited, so there is no handle to probe; (b) feed shape n/a for the same reason; (c) NO generator watermark in any frame (no Veo/Sora/Runway/HeyGen/Kling/Pika). Affirmative evidence she is real footage: natural hair flyaways crossing the face, asymmetric makeup, a real room edge behind her, lip movement tracking the word captions, and the clip is letterboxed AND re-compressed, which is the signature of re-shared social footage rather than a fresh generation. **Flagged because the host's own feed generates AI people** (`DePVZYOAEs4` demos Seedance 2.5 / Kling AI / Gemini Omni Flash building video from a character photo, and `DeRfC3fAp67` is an AI-generated poster). Banked on the evidence above; reversible on Marcus's word.
+- guard 7 note: this reel sells nothing — caption is "This is all…", no code, no link, no CTA — and the 4.25s banked is a borrowed clip with no selling in it. His OTHER posts are lead-gen ("Comment 'real'", "Comment 'prompt'", "I'm taking 5 business owners this week") and are not bankable.
+- ⚠ **SECOND DAY RUNNING that @salama_win has run the whole donor-opener template with Marcus's own object.** His payoff here is a whiteboard reading "Claude Max 20x / Codex Max 20x / MacBook Pro". Yesterday it was a Claude 20x Max checkout screen. Same method, same noun, 7,265 followers and 38 likes — he has the template and not the distribution. See the last-scan note.
+
+## DeTwmGvvEkC — [NOT BANKED] tombstone (tests 2/4, and the setup clause fails 6) · @prettylushangel, a real woman to camera in a home gym, braids, Nike crop top, full-bleed 720x1280, her own word captions · https://www.instagram.com/reel/DeTwmGvvEkC/ · 2 likes / 0 comments, 2026-10-10 · cost ONE free Graph download (she serves 25/25), ZERO cookie budget.
+- status: DO-NOT-SPLICE (2026-10-10)
+- The cover card truncates at exactly the point her line turns, which is this creator's standing failure mode: "Put myself in time out sometimes because there are some guys out there that…". The frames finish it at 2.50s — "…can make me giggle and act all silly and I'm supposed to be a badass and a gangster".
+- FAIL 2 — the premise's subject is HER self-control, not a desire or superlative about men; the guys are the stimulus, not the hero. FAIL 4 — she closes her own blank at 2.50s, and the answer is a BEHAVIOUR ("make me giggle"), not an object a viewer owns. The setup clause also runs only 0.00-2.50s, under the 3s floor of test 6.
+- ⚠ **FIFTH consecutive window where her CARD passed and her SUBJECT failed.** Her watchlist line already records that the cover screen cannot settle her because her cards truncate exactly where the subject lives. Confirmed again, and again the cost was one free Graph read rather than a cookie slot. Keep reading her; keep expecting to spend the (free) slot to find out.
+
 ## DeO37s0AUWk — a real blonde woman straight to camera in a bright living room (sputnik chandelier, black-on-white canvas, metal wall discs), full-bleed 720x1280, her own white word captions: "if you've got a girlfriend / and you are stressing out / about what to get her / I'm gonna put you on something…" then a hard cut at 3.85s
 - source: @salama_win | https://www.instagram.com/reel/DeO37s0AUWk/          <- from Marcus's Saved collection (read-saved.sh, 2026-10-09), gated and banked the same morning
 - lane: premise
@@ -999,137 +1029,27 @@ touched.
 - clean-window: clean STRETCH 5.00-11.79s — the creator's caption "All to motivate my trader" + emoji is on 0.00-4.90s only (10fps row-scan AND visual check; the emoji is confirmed gone, not just the bright text rows). The app's OWN HUD (PAPER ACCOUNT / EQUITY / NEURON ACTIVITY) is burned into the filmed screen for the whole clip across y~890-1280, and a "BRAIN · placeholder" strip sits on the left edge: `crop=500:890:110:0` of 720x1280 clears both, 2.16x upscale to 1080x1920, VERIFIED by rendering the crop and looking at it. A small white mouse cursor drifts mid-frame ~7.0-8.5s
 - file: clips/DdUpjlpx_ts.mp4 (11.8s)
 
-## DdPJ4KWMyIo — a woman in a playground says "want to learn how to fly?", hooks a knee over a low bar and spins round and round it non-stop, laughing, then hops off
-- source: @pubity | https://www.instagram.com/reel/DdPJ4KWMyIo/
-- lane: general
-- first-seen: 2026-09-15 | status: STALE (2026-10-07)
-- stats-at-capture: 101,556 likes / 1,751 comments (2.13x account median)
-- joke-structure: unhinged commitment: someone doing one small move over and over way past the point anyone asked for (feels like a victory lap that will not stop)
-- the-beat: opener card 0:00-0:03 ("this girl walked up to me and asked if I wanted to learn how to fly"), demo 0:04-0:20, then continuous bar spins; the usable payoff is the clean run 0:36.0-0:44.5 (repeated full rotations, she pops upright and goes again). Cut in on any rotation, cut out on an upright frame. Energy/celebration beat, not a hard punchline
-- audio-model: flexible · her voice ("and again!", laughing) is diegetic but the visual carries it muted, so a trending sound can go under it
-- pairs-with: the moment after a founder's one-line fix finally passes (then "me running it again just to watch it pass"); a parent whose toddler finally slept, doing the victory lap
-- clean-window: clean STRETCH 0:36.0-0:44.5 (checked at 3fps, full frame, no crop needed; small speech subtitles at y~1035-1105 of 1280 reappear "AND AGAIN!" at 0:35 and "OH!" at 0:44.7). Earlier short clean runs 0:24-0:26 and 0:28-0:30. Pubity follow badge sits at y~900 around 0:19-0:23. Opening card 0:00-0:03 is caption-heavy
-- file: clips/DdPJ4KWMyIo.mp4 (57.7s)
+## DdPJ4KWMyIo — [PRUNED STALE] a woman in a playground says "want to learn how to fly?", hooks a knee over a low bar and spins round and round it non-stop, laughing, then hops off · https://www.instagram.com/reel/DdPJ4KWMyIo/ · first-seen 2026-09-15
 
-## DdQRFYHPPtg — two kittens scrap on a pink mat, the white one pins the calico, and the calico ends up lying flat and limp against the curtain edge before springing back up
-- source: #instantregret | https://www.instagram.com/reel/DdQRFYHPPtg/
-- lane: general
-- first-seen: 2026-09-15 | status: STALE (2026-10-07)
-- stats-at-capture: 14 likes / 0 comments (hashtag recent_media, no account baseline)
-- joke-structure: picked a fight, lost instantly, now lying there pretending it did not happen
-- the-beat: scuffle 0:00-0:03, calico pinned and flipped at ~0:02.5; the laugh is the defeated flop, calico lying limp by the curtain 0:03.5-0:06; cut out before it pops back up at ~0:06.5
-- audio-model: flexible · short scuffle clip, payoff is purely visual and reads muted, so a trending sound can sit under it
-- pairs-with: a founder right after a confident deploy gets rolled back; a toddler who challenged the older sibling and lost
-- clean-window: NONE — full frame clean (720x1280, no burned text in any sampled frame, no crop needed). Kittens are small-ish in frame at 0:03.5-0:06, still clearly readable at full bleed
-- file: clips/DdQRFYHPPtg.mp4 (7.8s)
+## DdQRFYHPPtg — [PRUNED STALE] two kittens scrap on a pink mat, the white one pins the calico, and the calico ends up lying flat and limp against the curtain edge before springing back up · https://www.instagram.com/reel/DdQRFYHPPtg/ · first-seen 2026-09-15
 
-## DdNfQyKzG5W — a lone fan in a Minnesota shirt sits in an empty stadium section while the camera slowly zooms out and desaturates; scorebug reads 38-13, 4th quarter
-- source: @houseofhighlights | https://www.instagram.com/reel/DdNfQyKzG5W/
-- lane: sports
-- first-seen: 2026-09-15 | status: STALE (2026-10-07)
-- stats-at-capture: 256,630 likes / 788 comments (2.75x account median)
-- joke-structure: the only one still here: "Most loyal fan" plus a blowout scoreboard plus an empty stand
-- the-beat: fan close-up 0:00-0:02, slow zoom-out to him as a dot among empty seats 0:03-0:09.9 (goes grey from ~0:07). The laugh is the scale of the emptiness; cut away around 0:04-0:05 while he is still recognizable
-- audio-model: flexible · no dialogue beat; caption and zoom carry it, a sad trending sound fits
-- pairs-with: the one customer who has used the app since day one; the dad still clapping at the end of a three-hour recital
-- clean-window: n/a — OPENER-ONLY donor (caption is the setup). "Most loyal fan 😭" + arrow sit y~545-750 of 900 and a broadcast scorebug covers y~755-900 on every frame; the only clean band y0-545 gives a 306x545 crop at 3.5x upscale, fails 4b. Use it whole as a 2-4s cold open that sets up "the one who stayed", then cut to the user's own loyal person/customer
-- file: clips/DdNfQyKzG5W.mp4 (9.9s)
+## DdNfQyKzG5W — [PRUNED STALE] a lone fan in a Minnesota shirt sits in an empty stadium section while the camera slowly zooms out and desaturates; scorebug reads 38-13, 4th quarter · https://www.instagram.com/reel/DdNfQyKzG5W/ · first-seen 2026-09-15
 
-## DdRaHaHh5_p — filmed from the street, a man alone in an office window flails, air-punches and dances, then spots the camera and waves back grinning
-- source: @corporate.bro | https://www.instagram.com/reel/DdRaHaHh5_p/
-- lane: tech
-- first-seen: 2026-09-15 | status: STALE (2026-10-07)
-- stats-at-capture: 206,968 likes / 1,341 comments (14.96x account median)
-- joke-structure: guy who thinks nobody is watching goes feral at work, then gets caught and doubles down instead of stopping
-- the-beat: unhinged solo celebration 0:02-0:15 (arm flail at glass ~0:05-0:06, ducks/lunges ~0:13-0:15); the laugh is the caught moment: he clocks the camera and waves big, laughing, 0:16-0:21. Cut in at ~0:12, land on the wave at 0:16, out by 0:21 before he turns away (0:22)
-- audio-model: trending sound (add in-app) · steady level bed across the whole clip reads as an added track, not street ambience; mute it on splice (unverified by ear)
-- pairs-with: a founder's reaction the second a fix finally ships (own screen/terminal shot, then cut to this); an employee alone after closing celebrating a big sale
-- clean-window: Snapchat-style caption bar "I just witnessed a villain's origin story" + skull emoji sits across y~282-350 of 1280 for the entire clip. Clean band y352-1280 -> 522x928 crop, 2.07x upscale to 1080x1920 (man's head/waving hand sit ~y480-950, inside the band). First ~1.5s is a wide street establishing shot, subject tiny there, skip it.
-- file: clips/DdRaHaHh5_p.mp4 (23.17s)
+## DdRaHaHh5_p — [PRUNED STALE] filmed from the street, a man alone in an office window flails, air-punches and dances, then spots the camera and waves back grinning · https://www.instagram.com/reel/DdRaHaHh5_p/ · first-seen 2026-09-15
 
-## DdTkrsSN5Uc — a tabby cat sits on a mini pig's back and rides it around a porch while the pig roots along
-- source: @pubity | https://www.instagram.com/reel/DdTkrsSN5Uc/
-- lane: general
-- first-seen: 2026-09-15 | status: STALE (2026-10-07)
-- stats-at-capture: 6,017 likes / 120 comments (36.1x account median)
-- joke-structure: freeloader gets carried; one does all the walking, the other just rides and looks around like it owns the place
-- the-beat: no single turn, it is a sustained visual gag. Best stretch: pig walks toward camera with cat perched, 0:09-0:12; close-up of the cat balancing on the pig's back as it moves, 0:13-0:16; pig carries cat off past the patio chairs, 0:16-0:20. Cut on 0:09 or 0:13
-- audio-model: flexible · near-silent room tone (about -48 dB), nothing to keep
-- pairs-with: an intern/co-founder "helping" by watching while you do the work; a sibling getting carried/pulled by the older kid
-- clean-window: caption "Our cat worked out that the pig will carry her..." across y~730-1000 of 1280 from 0:00 to ~0:05, faded out by 0:05.1; 0:05.1-0:20.5 is fully clean, no crop needed. (Caption-era band y0-725 would be 2.65x, over the limit, so use the clean stretch only.)
-- file: clips/DdTkrsSN5Uc.mp4 (20.50s)
+## DdTkrsSN5Uc — [PRUNED STALE] a tabby cat sits on a mini pig's back and rides it around a porch while the pig roots along · https://www.instagram.com/reel/DdTkrsSN5Uc/ · first-seen 2026-09-15
 
-## DdSLMFKNUve — toddler stands stock-still with a big clear plastic tub stuck on his head while dad slowly works it off, ending on dad's deadpan defeated pose with the tub still on
-- source: @pubity | https://www.instagram.com/reel/DdSLMFKNUve/
-- lane: general
-- first-seen: 2026-09-15 | status: STALE (2026-10-07)
-- stats-at-capture: 524 likes / 27 comments (3.24x account median)
-- joke-structure: kid's head stuck in a container, kid completely unbothered, dad completely unbothered; the deadpan on both faces is the joke
-- the-beat: weak spike and long, so trim hard. Recognition shot: tub fully over the kid's face, 0:01-0:03 (under the caption) or 0:24-0:26 / 1:24-1:25 (clean). The laugh: dad cuts to a tired, head-tilted, arm-behind-head deadpan while the kid still wears the tub, 1:29.5-1:37.8. Cut straight from a stuck shot to 1:29.5. No clean "pop off" moment is shown, so do not sell it as a rescue payoff
-- audio-model: flexible · mostly quiet room sound, no track worth keeping
-- pairs-with: a toddler at home doing something baffling with total confidence; a founder staring at a bug they have "been fixing" for an hour
-- clean-window: caption "My son got his head stuck and dad had to fix it..." 0:00-~0:05 across y~800-1000 of 1280; Pubity follow sticker ~0:34-0:38 at y~880-950. Clean stretches 0:05-0:34 and 0:38-1:37.8, full frame, no crop.
-- file: clips/DdSLMFKNUve.mp4 (97.85s)
+## DdSLMFKNUve — [PRUNED STALE] toddler stands stock-still with a big clear plastic tub stuck on his head while dad slowly works it off, ending on dad's deadpan defeated pose with the tub still on · https://www.instagram.com/reel/DdSLMFKNUve/ · first-seen 2026-09-15
 
-## DdSnnZIyoLa — rapid-fire compilation of ~11 short staged wipeouts in China (ice slips, scooter crash, mop trip, treadmill fall with a bowl, snow slip with a pot)
-- source: #instantregret | https://www.instagram.com/reel/DdSnnZIyoLa/
-- lane: general
-- first-seen: 2026-09-15 | status: STALE (2026-10-07)
-- stats-at-capture: 5 likes / 0 comments (hashtag recent_media, no account baseline)
-- joke-structure: confident person, one second of normal, instant floor. Pure slapstick "wait for it" drop, no language needed
-- the-beat: each gag is 2-3s with the fall on its last second. Best cuts: man steps out of a doorway and flips on the step 0:05-0:08 (fall ~0:07); woman walks into a swinging mop and goes down 0:11-0:14 (hit ~0:13); woman strutting on an icy street eats it 0:17-0:20 (fall ~0:19); man on a treadmill holding a bowl collapses 0:22-0:25 (fall ~0:24); guy talking to camera with a pot slips on snow 0:27-0:31 (fall ~0:30). End card from ~0:31, cut before it
-- audio-model: flexible. Compilation bed (music/SFX, not verified by ear); mute it and add a trending sound in-app, the falls read silently
-- pairs-with: a founder's "shipped it, what could go wrong" line cut to the treadmill or ice fall; a parent's "I've got this" before bedtime cut to the mop trip
-- clean-window: NONE for most of the clip, full frame clean on the recommended beats (0:05-0:08, 0:11-0:14, 0:17-0:20, 0:22-0:25, 0:27-0:31), no crop needed. Avoid 0:03-0:05 (small grey disclaimer text top-left, y~56-100 of 1280) and ~0:10-0:11 (small burned "撤开" subtitle at y~1200); end card 0:31+
-- file: clips/DdSnnZIyoLa.mp4 (31.6s)
+## DdSnnZIyoLa — [PRUNED STALE] rapid-fire compilation of ~11 short staged wipeouts in China (ice slips, scooter crash, mop trip, treadmill fall with a bowl, snow slip with a pot) · https://www.instagram.com/reel/DdSnnZIyoLa/ · first-seen 2026-09-15
 
-## DdQLUJCNwmi — a Cowboys fan rips his Dallas flag off the garage, stuffs it into a bush, then walks at the camera stone-faced
-- source: @houseofhighlights | https://www.instagram.com/reel/DdQLUJCNwmi/
-- lane: sports
-- first-seen: 2026-09-15 | status: STALE (2026-10-07)
-- stats-at-capture: 317,576 likes / 10,448 comments (3.17x account median)
-- joke-structure: sore-loser ritual. Grown man silently taking the flag down is instant "it's over" recognition
-- the-beat: flag yanked off the garage 0:00-0:02, marched across the driveway and crammed into the bush 0:03-0:07, the turn is him walking straight at the camera expressionless 0:08-0:10. Cut on the walk-toward at ~0:08
-- audio-model: diegetic (bakeable) likely (phone-filmed yard audio, not verified by ear); flexible, it reads fine muted under a trending sound
-- pairs-with: a founder quietly removing a feature after launch-day metrics; a sports parent taking down the team banner after the kid's league loss
-- clean-window: band y0-815 of 1280 (burned "Cowboys fans after loss" pill + 20-28 score card sit y~824-1050 every frame) -> 458x815 crop, 2.36x upscale to 1080x1920. Subject stays inside a centred 458px crop throughout. No clean full-frame stretch
-- file: clips/DdQLUJCNwmi.mp4 (11.2s)
+## DdQLUJCNwmi — [PRUNED STALE] a Cowboys fan rips his Dallas flag off the garage, stuffs it into a bush, then walks at the camera stone-faced · https://www.instagram.com/reel/DdQLUJCNwmi/ · first-seen 2026-09-15
 
-## DdPysM5TuBi — a heavyset long-haired staffer in a white "HAWK" shirt sprints down the sideline to celebrate, faceplants, gets up, fist-pumps and falls over again
-- source: @houseofhighlights | https://www.instagram.com/reel/DdPysM5TuBi/
-- lane: sports
-- first-seen: 2026-09-15 | status: STALE (2026-10-07)
-- stats-at-capture: 251,722 likes / 1,401 comments (2.44x account median)
-- joke-structure: hype celebration that ends on the turf. Full-send run, body gives out
-- the-beat: sprint 0:00-0:02, faceplant at 0:03 (cut on it), scrambles to knees 0:04-0:05; closer replay sprint 0:06-0:08, big fist pump 0:09-0:10, topples backwards 0:11. Either fall is a standalone payoff
-- audio-model: flexible. Broadcast audio under a tweet repost (not verified by ear); safest to mute and add a trending sound in-app
-- pairs-with: a founder celebrating the first paying customer right before the server goes down; a dad's victory lap after assembling the crib
-- clean-window: band y340-1105 of 1280 (white tweet card with @JussKwam text above y~336, ESPN scorebug/ticker below y~1110, both on every frame) -> 430x765 crop, 2.51x upscale to 1080x1920 (passes, barely; expect some softness). In-stadium ad boards inside the band are diegetic, not captions. No clean full-frame stretch
-- file: clips/DdPysM5TuBi.mp4 (14.2s)
+## DdPysM5TuBi — [PRUNED STALE] a heavyset long-haired staffer in a white "HAWK" shirt sprints down the sideline to celebrate, faceplants, gets up, fist-pumps and falls over again · https://www.instagram.com/reel/DdPysM5TuBi/ · first-seen 2026-09-15
 
-## DdSHy93tSHl — a baby mountain goat snuggles into a camper's face on a sleeping bag on an alpine ledge, then wanders off over him
-- source: @pubity | https://www.instagram.com/reel/DdSHy93tSHl/
-- lane: general
-- first-seen: 2026-09-15 | status: STALE (2026-10-07)
-- stats-at-capture: 617 likes / 3 comments (3.65x account median)
-- joke-structure: aww, not a joke. "Unexpected cuddle buddy": tiny animal pressed against a grown man's face. Use as a soft payoff, never a punchline
-- the-beat: big "when a baby mountain goat sleeps on you all night" caption 0:00-0:05, sunrise pan 0:05-0:08, the payoff is the goat's head nuzzled cheek-to-cheek 0:08-0:13, goat climbs over the sleeping bag and leaves 0:14-0:16, guy alone looking sheepish 0:16-0:18
-- audio-model: flexible. Repost audio not verified; nothing diegetic is load-bearing, add a sound in-app
-- pairs-with: a toddler who crawled into the parents' bed at 3am; a family dog that "only sleeps in its own bed"
-- clean-window: band y370-1280 of 1280 (German "pov: eine baby ziege pennt..." caption at y~240-360 stays all clip; big yellow/white caption y~810-1035 only 0:00-0:05) -> 512x910 crop, 2.11x upscale to 1080x1920, usable from 0:05 onward. 0:08-0:13 face/goat sit inside the band
-- file: clips/DdSHy93tSHl.mp4 (21.4s)
+## DdSHy93tSHl — [PRUNED STALE] a baby mountain goat snuggles into a camper's face on a sleeping bag on an alpine ledge, then wanders off over him · https://www.instagram.com/reel/DdSHy93tSHl/ · first-seen 2026-09-15
 
-## DdRTO4lhgo7 — office guy collides with a coworker stepping out of a door, falls, scrambles up and sprints flat-out down a glass hallway toward camera
-- source: @corporate.bro | https://www.instagram.com/reel/DdRTO4lhgo7/
-- lane: tech
-- first-seen: 2026-09-15 | status: STALE (2026-10-07)
-- stats-at-capture: 119,648 likes / 465 comments (8.62x account median)
-- joke-structure: "me omw to tell someone the news": frantic, over-committed sprint so urgent he wipes out and keeps going
-- the-beat: collision + fall 0:01-0:03.5 (crashes into woman exiting a door, stumbles to the floor), recovery 0:04-0:05, full sprint toward camera 0:05-0:11 with a face-to-lens close-up at 0:10-0:11.5; cut in at 0:01 for the wipeout version or at 0:05 for pure urgency, out at ~0:11.5 as he fills frame
-- audio-model: flexible, leaning trending sound (add in-app): licensed track (media_url withheld) so do not bake it; the gag is fully visual, mute the clip's audio under an in-app sound
-- pairs-with: founder's "the build finally passed" / first paying user moment, cutting to the sprint to tell the cofounder; a parent catching the toddler's first word and racing to tell the other parent
-- clean-window: caption band y330-800 of 2560 (plus ceiling light above); text-free band y820-2560 -> 979x1740 crop, 1.10x upscale to 1080x1920. Caption persists for the whole clip, no clean stretch, but the band crop keeps the hallway, fall and sprint intact. Camera operator's arm/shoulder intrudes at right edge 0:06-0:09; bias the crop left.
-- file: clips/DdRTO4lhgo7.mp4 (11.77s)
+## DdRTO4lhgo7 — [PRUNED STALE] office guy collides with a coworker stepping out of a door, falls, scrambles up and sprints flat-out down a glass hallway toward camera · https://www.instagram.com/reel/DdRTO4lhgo7/ · first-seen 2026-09-15
 
 ## DdHkV2VsaXv — [PRUNED DO-NOT-SPLICE (2026-09-15)] a suited creator walks NYC streets explaining the OpenAI Navier-Stokes / Millennium Problem controversy over a stack of article screenshots and captions · https://www.instagram.com/reel/DdHkV2VsaXv/ · first-seen 2026-09-15
 
