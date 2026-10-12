@@ -20,6 +20,79 @@ touched.
 
 <!-- entries below, newest first -->
 
+## DeFvDtfA5ct — a real woman straight to camera in a pale bedroom under a green ceiling fan, black crew tee, two thin gold necklaces, full-bleed 720x1280, her own white word captions: "Boys, do you wanna know the hottest thing that a girl can hear from a guy? 😊😊 / We don't wanna hear that we have "nice eyes" or a "perfect body" 🙊 / Save it 😌 / We wanna tell a guy something and then have him reply and say…"
+- source: @annabellegesson | https://www.instagram.com/reel/DeFvDtfA5ct/          <- read on the daily watchlist probe, `[premise]` lane since 2026-09-24
+- lane: premise
+- first-seen: 2026-10-12 | status: FRESH
+- stats-at-capture: 539 likes / 8 comments (0.37x her median engagement of 1,462 across 24 fetched reels; 717,268 followers, 25/25 serving media_url). Posted 2026-10-04. **Picked purely on GATE FIT and it is her WORST-performing in-window reel by ratio** — the `[premise]`-lane exception (Marcus, 2026-09-27) is the only reason it was even looked at. Its 94,269-like sibling in the same window (`DeFwIy8gJwV`) fails test 2 on audience: "Start making the first move on guys" makes the GIRL the hero.
+- joke-structure: n/a — opener donor
+- the-beat: **cut at 3.567s (the recommended bank), with two legal longer options.** All boundaries measured at 30fps off the frames, not estimated:
+  - **3.567s — RECOMMENDED.** Ends on her question, blank wide open, nothing answered. 3.57s clears the test-6 floor and leaves the most payoff room.
+  - 6.633s — question + BOTH eliminations ("nice eyes", "perfect body"). Same length as 10-11's `DeIMulcIBKE` (6.63s) and the same trade: the elimination is what makes it gate-strong and what eats the payoff.
+  - 7.700s — adds "Save it 😌". Longest, best rhythm, worst arithmetic: taste.md measures the account's four hits at 7.6-8.2s of average watch time, so a 7.7s donor leaves the median viewer under a second of payoff, and the payoff object is the thing that gets forwarded.
+  - ⚠ **The first 0.137s is DIGITAL SILENCE** (-113 dBFS, n=0-3); her first voiced sample is n=4 @ 0.164. Start at n=4 (0.133s) if the dead air shows, which costs 0.13s and still clears the floor at 3.43s.
+- audio-model: original sound (attach in-app, NEVER bake — rule 92)
+- her-audio: original sound — her speech carries the whole beat and her own word captions track it. Attach @annabellegesson's reel audio in-app.
+- pairs-with: any single thing Marcus can show a man SAYING or a screen replying with — a terminal printing "I remember that. You told me."; Claude recalling a decision from three sessions back; the CLAUDE.md line he wrote once and never had to repeat. Her own payoff is literally a man remembering something she told him, which maps onto context/memory with no translation at all.
+- premise: "Boys, do you wanna know the hottest thing that a girl can hear from a guy? We don't wanna hear that we have "nice eyes" or a "perfect body". Save it."
+- slot: "the hottest thing that a girl can hear from a guy" -> ONE blank, filled by a thing he SAYS (or a screen that says it for him). The eliminations are explicit, in quote marks, and they are the "not money. not power." grammar on the account's two million-view reels: she names the two obvious answers and throws them away before the blank opens. e.g. `-> "I remember that. You told me."` / `-> a terminal that remembers what you told it in August`.
+- setup-length: 3.57s banked (0.000-3.567; 0.133-3.567 = 3.43s if the silent head is trimmed). Clears the 3s floor, under the 4.03/4.60s winning band. The 6.63s and 7.70s alternates are recorded in `the-beat`.
+- hero-test: HERO, and more squarely than anything else in the bank this week. The man is the one who says the hottest thing; she is handing him the line and telling him the obvious compliments are not it. Her first word is "Boys," — the audience is addressed by name in the first 0.4 seconds.
+- addresses: "Boys" — said out loud and burned on screen at 0.00s / recognises: the man whose screen or mouth delivers the payoff line. Same person, no gap. This is the cleanest addresses/recognises match the bank has banked: no "girlies" redirect, no ungendered "you" that has to be argued for, no age anchor ("older men", "grown men", husbands) that test 2 rejects.
+- original: yes — creator's own upload. No watermark, no borrowed footage, no reply-to-comment sticker in frame.
+- clean-window: n/a — OPENER donor (her setup card IS the hook)
+- file: clips/DeFvDtfA5ct.mp4 (18.13s total, 720x1280 h264 30fps, full-bleed, NO letterbox bars — bank the 0.00-3.567 head)
+- caption boundaries, 30fps, for anyone re-deriving the cut: "Boys, do you wanna know the hottest thing that a girl can hear from a guy? 😊😊" 0.000-3.567 · "We don't wanna hear that we have "nice eyes" or a "perfect body" 🙊" 3.600-6.633 · "Save it 😌" 6.667-7.700 · "We wanna tell a guy something and then have him reply and say…" from 7.733 · "I remember that. You told me." ~11.3 · "The guys remembering the little things that we tell them" ~13.3 · "That is everything to us" ~16.0 to the end at 18.13.
+- test-1 AI check, all three run and all three clean: (a) bio "I love to yap & give advice🫶🏻 / TikTok @annabellegesson / Collaborations: Annabelle@outloud…" and name "Annabelle Gesson" carry no AI / avatar / virtual / generated / synthetic marker, and the bio names a management contact, which an avatar account does not have; (b) feed shape is varied and human across the 10-day window — a beach house on stilts, a bikini pool shot, an ice-cream cone, two friends on a lawn, to-camera reels in at least three different rooms and outfits — not the daily identical-framing quote cadence that is the avatar tell; (c) NO generator watermark in any sampled frame. Affirmative: a real ceiling fan turning behind her, hair falling across the shoulder, lip movement tracking the word captions frame for frame.
+- guard 7 note: **frame-sampled end to end before banking, not screened on the caption alone.** 18.13s total, every second read: no product, no app, no code, no link, no "comment X", no phone screen in frame. Caption is "The only thing a girl wants to hear >>". Clean. (This check is not boilerplate today — it is what killed the other four candidates of the morning; see the three `@hothighpriestess` tombstones below.)
+- ⚠ SIBLING ENTRY, READ BEFORE STAGING: `DZGH-MeorB6` (same creator, FRESH since 2026-09-24) opens on the SAME six words — "Boys, do you wanna know the hottest thing that **you can do** for a girl?" This one is "the hottest thing that **a girl can hear from a guy**". Different slot (an action vs a line) and only this one carries eliminations, so they are complementary, not duplicates — but they are the same creator and the same opening breath, so do not air them near each other. The watchlist also records that her hottest-thing theme already aired once, as `fire_dev_v2` on 2026-09-23, and MISSED; theme cooldown applies.
+- ⚠ PROCESS NOTE, worth more than this entry: **IG's `thumbnail_url` is NOT frame 0.** This reel's cover is a frame from ~13s where she is mid-reaction saying "oh, yeah", and on that cover it screens as a reaction skit with no premise — it was within one judgement of being rejected on the cover like every other candidate today. The free cover read is a filter, never a verdict, on a creator who has already produced a gate-passer.
+
+## DeXUUBNPSKe — [NOT BANKED] tombstone (test 1, also 2) · @programmergrind, FROM MARCUS'S SAVED COLLECTION (read-saved.sh, 2026-10-12). It IS a borrowed-opener reel: 0.00-5.33s is a BORROWED clip of a woman with her hands over her face, crying/laughing, under a card "I'm just trying to save our relationship 💔", over a phone showing a long blue iMessage, then a hard cut to him at his desk over a four-agent terminal · https://www.instagram.com/reel/DeXUUBNPSKe/ · 7,624 likes / 73 comments, 2026-10-11 · cost ONE free Graph download (he serves 17/25), ZERO cookie budget.
+- Test 1: she never speaks. The premise is a CARD and her face is a reaction, not a statement — the same failure class as 10-11's `DeKDpWyhQ6Y`. Test 2 compounds it: "I'm just trying to save our relationship" is a negative frame with nothing positive about a man in it.
+- ⚠ **CORRECTS 2026-10-11's read of this account.** Yesterday's log says all seven of his covers "open on HIM at his desk over a terminal". This reel's cover IS the terminal, and the reel opens on a borrowed woman clip 5.33s long. **His covers are taken from his own segment and hide the borrowed opener**, which is the same lesson `DeFvDtfA5ct` taught on @annabellegesson the same morning. He is a live donor SOURCE and must be read on frames, not covers — see his watchlist line.
+- file kept until the guard-3 3-day prune delay expires (2026-10-15).
+
+## DeXr-pYI3RZ — [NOT BANKED] AD-REJECTED (2026-10-12) · @hothighpriestess, a real brunette woman to camera in a warm yellow bedroom, cream zip fleece, white French-tip nails, full-bleed 720x1280, her own word captions: "Something wonderful is happening to you tomorrow. / Tomorrow, you are waking up to good news, / to a miracle, / to an answered prayer." · https://www.instagram.com/reel/DeXr-pYI3RZ/ · 3,974 likes / 244 comments, 2026-10-11, **6.33x her median of 666** — the highest-ratio gate-shaped candidate of the day · cost ONE free Graph download (she serves 25/25), ZERO cookie budget.
+- **It passed all seven live gate tests and was killed by guard 7 on the frames.** Setup measured and complete at 30fps: 0.000-6.600 (6.60s), caption map "Something wonderful is happening to you tomorrow." 0.000-2.233 · "Tomorrow, you are waking up to good news," 2.267-4.533 · "to a miracle," 4.567-5.433 · "to an answered prayer." 5.467-6.600 · "Tomorrow, something" from 6.633. A 4.53s alternate cut sat exactly in the 4.03/4.60s winning band. Then the tail was sampled: **at ~20s a phone showing the Stella app enters the frame and her caption reads "And then tonight, manifest it using my app Stella."** Stella is her own product. Guard 7: "an account promoting its own product/service" — made to sell, so skipped, and guard 7's tie-breaker ("if still torn, skip") never even had to be used.
+- Why this one hurt: the escalation "to good news, to a miracle, to an answered prayer" is three synonyms withholding one object, which is the same engine as "not money. not power." The FORMAT is captured in playbook.md so the value survives the rejection; the clip does not.
+- file kept until the guard-3 3-day prune delay expires (2026-10-15), then deleted and this block compressed.
+
+## DeXvr6xoFTi — [NOT BANKED] AD-REJECTED (2026-10-12) · @hothighpriestess, same woman, same cream fleece, same yellow room, same shoot as `DeXr-pYI3RZ`, under a PERSISTENT white card "It's already yours." pinned at the top of frame for the full 2:07 · spoken captions "The rules don't apply to you / and you are the exception / and you can have anything, / and I mean anything that you want in this life." · https://www.instagram.com/reel/DeXvr6xoFTi/ · 652 likes / 14 comments, 2026-10-11, 1.00x her median · cost ONE free Graph download, ZERO cookie budget.
+- Setup measured complete at 30fps: 0.000-6.300 (6.30s), flips to "You guys, I am living my dream life and I started with nothing." at 6.333. Killed on guard 7 at **95s: "I manifested it. And that's literally why I built my app, Stella."**
+- Also recorded for the architect, because it would have mattered even without the ad: at **105-112s she genders the viewer — "the version of you who turning the keys to HER dream apartment", "the version of you who is driving HER dream car."** The 0-6.3s head is ungendered, but this reel's intended audience is women. Anyone extending a cut past ~100s would have shipped the `texting` failure (975 views).
+- file kept until 2026-10-15 per the guard-3 prune delay.
+
+## DeXmZd6onRv — [NOT BANKED] AD-REJECTED (2026-10-12) · @hothighpriestess, same woman, same fleece, same yellow room, same shoot, captions "Tomorrow, you are waking up to good news. / Tomorrow, you are going to / manifest something / that you have been / praying for for months." · https://www.instagram.com/reel/DeXmZd6onRv/ · 140 likes / 2 comments, 2026-10-11, 0.21x her median — her weakest in-window reel · cost ONE free Graph download, ZERO cookie budget.
+- Setup measured complete at 30fps: 0.000-6.233 (6.23s), flips to "Before you go to bed tonight," at 6.267. The one-sentence cut is 0.000-1.967 (1.97s), under the test-6 floor, so the 6.23s version was the only option. Killed on guard 7 at **~22s: "You can actually have my app Stella do this for you," with the app on screen.**
+- file kept until 2026-10-15 per the guard-3 prune delay.
+
+## DeKmJg8gfbt — [NOT BANKED] tombstone (tests 2 and 3) · @sofia.zianii, a real woman to camera in a white attic room, navy turtleneck, braid, red nails, full-bleed 720x1280, captions "Here's the thing, and Mark my words, okay? / In the next five years, / there is going to be a huge gap between winners and losers. / Meaning / those who are losers are gonna be the people who scroll on their phones all day, / who have no life purpose, who don't even know what they wanna do," · https://www.instagram.com/reel/DeKmJg8gfbt/ · 168 likes / 3 comments, 2026-10-06, 0.88x her median of 194 · cost ONE free Graph download (she serves 25/25), ZERO cookie budget.
+- The cover ("Here's the thing, and Mark my words, okay?") screens as a withheld claim, which is why the slot was spent. The frames settle it: the blank is filled by a DIVIDING LINE, not by a thing the viewer owns, and at 6.5s she names the loser as "the people who scroll on their phones all day" — which is the 18-34 man watching this reel on Instagram. Test 3: the man is the hero only conditionally, and only if he agrees he might be the other thing. Test 2: "winners and losers" is a comparison frame, not a positive superlative.
+- taste.md's hardest-measured rule is the second reason: "Never correct the viewer." The account's two zero-share reels in the current window are both corrections, and `DeTHQuuukIh` is at 3,131 views and exactly ZERO forwards on day two with the third-best hold in the set.
+- file kept until the guard-3 3-day prune delay expires (2026-10-15).
+
+## DeHq2OXpsdQ — [NOT BANKED] tombstone (test 1) · @shrestha_mohanty20, a real woman to camera in a curtained room, navy printed kurta, under a PERSISTENT white card "3 WAYS TO IMPRESS A GIRL ✅" held for the whole 1:21, 1080x1920 · https://www.instagram.com/reel/DeHq2OXpsdQ/ · 2,118 likes / 21 comments, 2026-10-05, 2.42x her median of 884 · **cost the day's ONE cookie slot** (ig-fetch 1/8; she serves 2/25, so there was no free route).
+- Why the slot was spent: on the cover this is the only candidate in the whole pool whose premise is addressed to the audience BY NAME, is positive, and carries a slot — "3 ways to impress a girl", with the caption "SINGLE BOYS, TAKE NOTES". Tests 2, 3 and 4 all pass. Only test 6 and the identity of the speaker needed frames.
+- What the frames show, and it is a structural finding rather than a one-off: **the premise is on the CARD and her MOUTH only carries a hook.** She says (in Hindi, burned as Hinglish) "Single boys, yeh video galti se miss mat karna‼️" 2.0-4.4s, then "Number 1." at 4.5s and straight into the list. Test 1 survives the retirement of test 5 in exactly this form — a card may carry the setup, but *she has to SAY the premise*, and she never says it. Compare 10-11's `DeKDpWyhQ6Y`, rejected on the same test in its stronger form (a card over a borrowed clip with nobody speaking at all).
+- Second reason, recorded so no later scan re-spends a cookie here: the spoken language is Hindi. Even the hook is uncaptionable for this audience without translation, and the WORDCAPS house style captions what she says.
+- @shrestha_mohanty20's entire 10-day window is this one shape (`DeHqfyipopn` "3 WAYS- TO ASK A GIRL OUT…", `DeYoOjgRNX3` / `DeXO_IIPBq5` "Don't directly ask her for her Instagram ID!"). Treat the card-premise/hook-voice structure as an account-level test-1 failure, not a per-reel one.
+- file kept until the guard-3 3-day prune delay expires (2026-10-15).
+
+## DeK4r63gDy3 — [NOT BANKED] tombstone (test 4, plus an unusable burned UI element) · @annabellegesson, a real woman to camera in a white room, black top, "A" pendant, captions "If you're a boy… you need to stop scrolling because the next 60 seconds will change your life 💫 / My name is Annabelle and I give boys like you advice on women. / Through my advice videos, I've helped millions of boys bag their dream girl." · https://www.instagram.com/reel/DeK4r63gDy3/ · 1,759 likes / 55 comments, 2026-10-06, 1.20x her median · cost ONE free Graph download, ZERO cookie budget.
+- The slot was spent deliberately: the same creator's `DeFvDtfA5ct` was banked this morning, and her covers had just been proven unreliable, so her three strongest boys-addressed reels were all pulled rather than screened.
+- Test 4: the blank is "your life will change", which no single object fills — and she then spends 0:05-0:22 on her own credentials ("six million followers", "I am a girl, I know how we think") instead of opening a slot.
+- Independently unusable as an opener: an Instagram **reply-to-comment sticker** ("Reply to cody barrow — step 1: get a girlfriend") is burned into the lower-left of the frame for the first ~4.5s. It would ship inside the reel as a stranger's comment thread.
+- file kept until 2026-10-15 per the guard-3 prune delay.
+
+## DeF1A6CAvUe — [NOT BANKED] tombstone (test 2, audience) · @annabellegesson, same creator, brown hoodie, standing in a bathroom with the toilet in frame, caption card "Girls, you have to start making the first move on guys💋" then "You wanna talk low risk, high reward? / Make the move 😌 / Guys find an assertive woman who knows what she wants SO hot 🥵" · https://www.instagram.com/reel/DeF1A6CAvUe/ · 517 likes / 37 comments, 2026-10-04, 0.38x her median · cost ONE free Graph download, ZERO cookie budget.
+- First word on screen and in her mouth is "Girls," — the hero of the sentence is the woman making the move, and the man is the target she is advised to approach. That is the `texting` failure in its cleanest form: a premise aimed at women about a man orphans both audiences. The post caption ("Boys, am I right??🫠") is what put it in the pool and it does not match what she actually says.
+- file kept until 2026-10-15 per the guard-3 prune delay.
+
+## DeVIndroCQc — [NOT BANKED] tombstone (tests 2 and 3) · @annabellegesson, same creator, white tank, bedroom blinds, under a persistent card "HOW TO MAKE UR CRUSH OBSESSED WITH YOU 😈 ✨toxic edition✨", captions "don't hate the player, hate the game 😈 / this works, but use at your own risk ⚠️" · https://www.instagram.com/reel/DeVIndroCQc/ · 1,123 likes / 23 comments, 2026-10-10, 0.78x her median · cost ONE free Graph download, ZERO cookie budget.
+- A manipulation playbook, self-labelled "toxic edition", with a warning label on it. The crush is a target to be worked, not a hero to be flattered, and nothing in it is a positive superlative about a man. Rejected on 2 and 3 without needing the length measurement.
+- file kept until 2026-10-15 per the guard-3 prune delay.
+
 ## DeIMulcIBKE — a real brunette woman straight to camera in a bright room under a white beamed ceiling, black tube top, gold heart necklace, full-bleed 720x1280, holding up two fingers, her own white word captions: "So, fun fact for everyone, / but in order to get literally anything you want in life, / you need these two things, / and it's not what you think." then she answers herself at 7.15s
 - source: @sofia.zianii | https://www.instagram.com/reel/DeIMulcIBKE/          <- read on the daily watchlist probe; she was on `[saved]` and moves to `[premise]` today on this pass
 - lane: premise
@@ -48,7 +121,7 @@ touched.
 ## DeNeXenovVn — a real brunette woman straight to camera in a kitchen doorway, pale pink crewneck, long nails, full-bleed 720x1280, her own white word captions: "You're gonna be the first millionaire in your family. / It's going to be you. / And what's more important than the business model that you use / is the mindset that you have."
 - source: @hothighpriestess | https://www.instagram.com/reel/DeNeXenovVn/          <- read on the daily watchlist probe; she was on `[saved]` and moves to `[premise]` today on this pass
 - lane: premise
-- first-seen: 2026-10-11 | status: FRESH
+- first-seen: 2026-10-11 | status: AD-REJECTED (2026-10-12) — **retro ad sweep, step 6. Never usable.** The 0.00-5.72 head is clean, but the reel it comes from is an ad for her own product and yesterday's scan never sampled past the cut. Frame-sampled end to end on 2026-10-12 at 0.33 fps: at **~30s her own burned caption reads "I listen to visualisations on the Stella app about the day…"** and the reel closes on "It works like crazy. Listen to those visualizations religiously and watch what happens." Stella is HER app — her bio is "Founder of the #1 manifestation app · Call in anything tonight using Stella · @downloadstella · TRY IT FREE ⬇️". Guard 7 names this case exactly: "an account promoting its own product/service." Three more reels from the same shoot were frame-sampled the same morning and all three pitch Stella by name (`DeXr-pYI3RZ` 22s, `DeXmZd6onRv` 22s, `DeXvr6xoFTi` 95s), so this is her FORMAT, not one sponsored post. Rule 92 would have attached HER audio and credited HER handle on the account's own reel — running a 1.44M-follower founder's top-of-funnel for free. See the three tombstones above and the `@hothighpriestess` line in watchlist.md.
 - stats-at-capture: 1,182 likes / 45 comments (1.44x her median engagement of 851 across 25 fetched reels; 1,440,972 followers, 25/25 serving media_url). Posted 2026-10-07. Picked on GATE FIT, not on the ratio — at 1.4x it would never have cleared the retired 2x bar, which is exactly the case the `[premise]`-lane exception was written for.
 - joke-structure: n/a — opener donor
 - the-beat: **bank 0.00 → 5.72 (5.72s).** Measured at 30fps:
@@ -148,25 +221,7 @@ touched.
 - FAIL 1 — a man to camera, PC-hardware gag; no woman, no spoken premise. FAIL 4 — no slot; the joke is self-contained, which is the exact thing exclusive mode rejects (the donor supplies the SETUP, the joke is Marcus's line).
 - 190k likes and not one frame of it is a setup. Handle stays on `[saved]`; Ben & Jenny build PCs, and the format is footage-led, so there is no 5b entry either.
 
-## DeDugYXNL9z — a real woman straight to camera in an exam room, maroon RN scrubs and badge, full-bleed 720x1280, her own white word captions, holding a clipboard
-- source: @prettylushangel | https://www.instagram.com/reel/DeDugYXNL9z/
-- lane: premise
-- first-seen: 2026-10-08 | status: DO-NOT-SPLICE (2026-10-08) — gate-reject tests 2/3/4
-- stats-at-capture: 1 like / 0 comments (1.00x account median — her median is 1, so no ratio she produces is a signal)
-- joke-structure: n/a — opener donor
-- the-beat: n/a — not bankable; the blank is still open at the 7.5s cut, but the subject disqualifies it
-- audio-model: original sound (attach in-app, NEVER bake — rule 92)
-- her-audio: original sound — attachable in-app
-- pairs-with: nothing. Do not splice.
-- premise: "Okay I don't talk about this very often but one of my very very favorite things is when a patient… and it tells me how good everything feels and they tell me exactly what they want and how hard they want it and how fast they want it and…"
-- slot: the blank takes a sexualised clinical scenario, not an object a viewer owns (gate test 4's object-ness half)
-- setup-length: premise still unfinished at 7.50s, card one holds 0.00-4.50s then hands off to card two at 5.00s (test 6 would pass on length alone)
-- hero-test: the man is the PATIENT — the object of her preference inside a roleplay, not the hero of a sentence a 22-year-old viewer wants to be. Test 3.
-- addresses: her existing adult-content audience / recognises: nobody in the payoff tribe — the two do not meet
-- original: yes — creator's own upload
-- clean-window: n/a — OPENER donor (her setup card IS the hook)
-- file: none — clip deleted after measurement (see below)
-- WHY THIS COST A SLOT AND WHY IT IS THE RIGHT CALL ANYWAY: it serves 25/25 on Graph, so reading it cost ZERO cookie budget and one free download. Her card is the EXACT grammar of her banked donor `Dd0ePgqx004` ("One of my favorite things about men is how simple they are"), and the cover screen could not tell them apart — the card is truncated at "one of my very very favorite" and only the frames at 5.0s reveal "things is when a patient". An "I WANT TO FUCK YOU" note is pinned on the wall behind her in every frame. **This is the FOURTH consecutive window where her CARD passed and her SUBJECT did not** (09-30 DdnWW6dBeA0, 10-02 Dd8bsjWsF06, 10-02 feed screen, today). Her feed has settled into nurse-uniform roleplay; the donor grammar is now a costume on adult-adjacent content. She is free to read, so keep reading her, but expect to spend the free slot to find out.
+## DeDugYXNL9z — [PRUNED DO-NOT-SPLICE 2026-10-08] a real woman straight to camera in an exam room · https://www.instagram.com/reel/DeDugYXNL9z · first-seen 2026-10-08
 
 ## DeHqI4DJT-Y — [NOT BANKED] tombstone (tests 2/3/4) · @shrestha_mohanty20 straight to camera in a living room, full-bleed, her own serif word captions: "The most underrated attractive quality that most people don't talk about: is being funny, ON PURPOSE!" · https://www.instagram.com/reel/DeHqI4DJT-Y/ · 280 likes, 0/23 serving, fetched on ig-fetch slot 1 of 8 (2026-10-06), scratch download deleted · 17.4s, 1080x1920.
 - **Why a cookie slot was spent on a 280-like floor post:** it was the ONLY non-list superlative card in a 426-reel window. Every other card she posts is a numbered list ("3 WAYS TO IMPRESS A GIRL", "3 RANDOM THINGS GIRLS DO THAT BOYS LOVE", "3 THINGS GIRLS SECRETLY LOVE"), and this one withholds a single object behind a held blank, which is the gate shape. The screen could not be done free: she serves 0/23.
@@ -778,137 +833,27 @@ touched.
 
 ## DdYaMbjRr8T — [NOT BANKED — DO-NOT-SPLICE] @nextelligencee AI-news brief card: an abstract generated "neural spectrum" render looping in a letterboxed pane (y160-515 of 1280, their logo watermarked top-left) over ~110 words of burned tech-news copy about the real Claude Code source-map leak, unchanged in every frame of 13.33s, closing "Follow @nextelligencee for more content like this" · #claudecode | https://www.instagram.com/reel/DdYaMbjRr8T/ · first-seen 2026-09-17 · 398.6 likes/hr, accel x3.86, 4,687 likes / 26 comments at capture (pulse job 20260917-181105) · **no clip file: clean-window gate fails both tests** — burned text y550-1125 present in every sampled frame so there is NO text-free stretch, and the only band with picture in it is the 356-row video pane → 200x356 full-bleed crop = **5.40x** upscale vs the 2.6x ceiling; zero cuts, no subject, no action, nothing to cut on. **No opener-only value either**: its burned text is a news brief that ends by advertising another account, over a foreign logo. Format captured instead as **playbook #84, flagged NOT ADOPTABLE** (static unbroken shot + 43-88% frame-height text + authorless = fails ARCHITECT-CORE §3 and the accounts' Marcus-leads guard). The leak itself is REAL and Anthropic-confirmed; the story is the asset, the shell never was
 
-## DdYXpUepZv7 — a five-room tour of the same 3D fly world under one held "I'm jealous" sticker: a BALENCIAGA-liveried fruit fly at a desk of monitors running a red SHORT signal, a mini-golf hole where the ball is struck and arcs into a crowd of flies, the FLYEGAS casino stage with a live-ticking JACKPOTS counter, then the reel switches to a phone filming a laptop and settles on a poker room where two cigar-smoking flies with glowing red eyes sit behind chip stacks, with the app's own control row and a live PAPER ACCOUNT P&L readable on screen
-- source: #vibecoding | https://www.instagram.com/reel/DdYXpUepZv7/
-- lane: vibecoding
-- first-seen: 2026-09-17 | status: STALE (2026-10-09)
-- stats-at-capture: 8,224 likes / 47 comments (hashtag recent_media, no account baseline) · 1,035.5 likes/hr, accelerating x5.57 when captured (pulse job 20260917-150850). The reel page read as @officialjlv (verified), no credit line or tagged collaborator; a fetch of sibling `DdYobKvxavw` returned nothing, so whether this account is the series creator or a reposter is UNCONFIRMED — the caption reads as the creator's own voice ("I'm jealous" of the flies' life, matching `DdYobKvxavw`'s "Their reward")
-- joke-structure: absurd over-investment in a worthless subject, FIFTH episode of the fly-world series (`DdUpjlpx_ts`, `DdV2E6fxAs4`, `DdV72MhxfMl`, `DdYobKvxavw` — same #flybrain tag, same render style). Recognition trigger: the luxury life a scroller wants, rebuilt at bug scale under a three-word envy sticker. **What makes this one structurally different from its four siblings: it is the only clip in the series that shows the world as a RUNNING APPLICATION rather than a render.** From 6.9s the capture switches to a phone filming a laptop and the app's own UI is legible — a `drip: on | whip: off | boss: off | exit fullscreen | drag to orbit` control row and a `PAPER ACCOUNT / EQUITY 9,964.49 / NET -0.35% / GROSS +2.20% / FEES 2.53% / BARS WON 42 / BARS 106` dashboard. No turn inside the clip; the whole 14.1s is spectacle under one held line
-- the-beat: no payoff turn. Measured cuts (10fps delta + top-band track, confirmed visually at each seam): desk 0.00-2.00 · mini-golf 2.00-3.50 (ball struck ~2.3, arcs to ~3.3) · golf wide 3.50-4.50 · FLYEGAS stage 4.50-6.90 · poker room 6.90-14.11, and **6.90 is where the capture method changes** to handheld phone-off-laptop. Strongest windows: FLYEGAS stage wide with the truss ring and billboard 5.4-6.6s (cleanest, brightest, best-composed second of the clip); the two red-eyed poker flies with the P&L strip in frame 6.95-7.60s (this is the "it actually runs" read); desk with the SHORT monitor 1.1-1.9s. Skip 8.3-9.0s and 10.2-11.0s — heavy handheld shake, soft focus and moiré
-- audio-model: trending sound (add in-app). Measured -14.2 LUFS integrated, LRA 0.3 LU — a flat mastered bed, not diegetic, identical signature to `DdYobKvxavw`. NEVER bake it
-- pairs-with: an OPENER for "the thing someone else vibe-coded" vs "the thing I vibe-coded" — cut from the poker/P&L window to Marcus's own footage of a plain terminal or a one-button app, and "I'm jealous" is already the setup line with no card needed; also any envy-vs-reality payoff where the borrowed picture is somebody's over-built side project. Prefer THIS sibling specifically when the payoff is about a build that RUNS (the readable P&L and control row do the work); prefer `DdYobKvxavw` or `DdUpjlpx_ts` for pure spectacle, since two of this clip's five rooms (the Balenciaga desk, the FLYEGAS stage) are already banked in those and its second half is softer, moiré'd phone footage. Sibling to `DdUpjlpx_ts`, `DdV2E6fxAs4`, `DdV72MhxfMl`, `DdYobKvxavw`: **use at most ONE of the five in a reel**
-- clean-window: n/a · OPENER-ONLY donor (caption is the setup). The sticker "I'm jealous 🥺" sits mid-frame and is the ONLY static element in the entire frame — a full-frame low-variance scan over 42 frames at 3fps returned exactly one region, y615-659 / x237-483 of 720x1280, present in every sampled frame, no handle, watermark or account-tag sticker anywhere. Payoff-role test FAILS both ways: band above y0-615 -> 346x615 crop, 3.12x upscale (over 2.6x); band below y659-1280 -> 349x621, 3.09x; no clean stretch at all (the sticker never fades). Bank whole, full-bleed, no crop. Note the bright-row scan alone returned y615-667 with only 1-2 px/row past y655 — the variance scan is the one that bounded the emoji, per BANK.md 4b's emoji-as-graphic false negative. Screen note: from ~10.5s the laptop's macOS menu bar is in frame (`Window`, `Help`, ChatGPT / Notion / Claude / weather 81°) — app icons only, nothing personal, and the app's `…BRAIN` branding shows bottom-left at ~13.5s. Nobody performs to camera, so ARCHITECT-CORE §6.5's sequence trigger does not fire
-- file: clips/DdYXpUepZv7.mp4 (14.1s)
+## DdYXpUepZv7 — [PRUNED STALE 2026-10-09] a five-room tour of the same 3D fly world under one held "I'm jealous" sticker: a BALENCIAGA-liveried fruit fly at a desk of monitors running a red SH · https://www.instagram.com/reel/DdYXpUepZv7 · first-seen 2026-09-17
 
-## DdYobKvxavw — phone footage of a monitor playing a 3D-rendered music festival at fly scale: thousands of fruit flies packed on a dancefloor under laser rigs and truss, a FLYCHELLA stage with a rainbow equaliser wall, a ferris wheel, the handheld camera sweeping from a low tilted wide up into close-ups of the lasers and sign and back out
-- source: #vibecoding | https://www.instagram.com/reel/DdYobKvxavw/
-- lane: vibecoding
-- first-seen: 2026-09-17 | status: STALE (2026-10-09)
-- stats-at-capture: 14,954 likes / 94 comments (hashtag recent_media, no account baseline) · 2,520.6 likes/hr, accelerating x12.44 when captured (pulse job 20260917-123550), the biggest spike of the series by ~5x
-- joke-structure: absurd over-investment in a worthless subject, FOURTH episode of the same fly-world series as `DdUpjlpx_ts`, `DdV2E6fxAs4` and `DdV72MhxfMl` (same #flybrain / #fruitflybrain tags, same render style). Recognition trigger: Coachella rebuilt at bug scale with a parody-brand sign. The caption "Their reward" + pleading emoji adds a premise the earlier episodes lacked: the spectacle is framed as payment to the flies for their work, which is why it maps onto agents better than its siblings. No turn inside the clip; the whole 14.2s is the spectacle under one held line
-- the-beat: no payoff turn. Strongest windows: low wide over the dancefloor into the FLYCHELLA stage 1.2-3.0s; ferris wheel over the crowd 5.0-6.0s; FLYCHELLA sign + equaliser close 6.0-7.0s; sign and crowd wide again 11.0-12.0s. Blurry laser-only close-ups 7.0-9.5s, skip
-- audio-model: trending sound (add in-app). Measured -14.2 LUFS integrated, a mastered music bed, not diegetic. NEVER bake it
-- pairs-with: an OPENER for "what I built my agents as a thank-you" vs "what they actually get" (cut from the festival to his own footage of an agent grinding through a queue at night); "Their reward" is a ready-made setup for any reward-vs-reality payoff. Sibling to `DdUpjlpx_ts`, `DdV2E6fxAs4`, `DdV72MhxfMl`; use at most ONE of the four in a reel, and prefer this one (strongest caption, biggest spike)
-- clean-window: n/a · OPENER-ONLY donor (caption is the setup). The burned caption "Their reward" + emoji sits mid-frame at rows y617-658 of 1280 (emoji to ~y665) for the ENTIRE clip (5fps bright-and-frozen row-scan, >80% persistence over 70 frames, confirmed visually at 0.5s and 4s). Payoff-role test FAILS both ways: band above y0-610 -> 343x610 crop, 3.15x upscale (over 2.6x); band below y670-1280 -> 343x610, 3.15x; no clean stretch. Bank whole, full-bleed, no crop. Screen note: this is a phone filming a laptop, and ~2.5-5.0s the laptop's media-key row (play/pause) shows bottom-right, harmless. Nobody performs to camera, so ARCHITECT-CORE §6.5's sequence trigger does not fire
-- file: clips/DdYobKvxavw.mp4 (14.2s)
+## DdYobKvxavw — [PRUNED STALE 2026-10-09] phone footage of a monitor playing a 3D-rendered music festival at fly scale: thousands of fruit flies packed on a dancefloor under laser rigs and tru · https://www.instagram.com/reel/DdYobKvxavw · first-seen 2026-09-17
 
-## DdXM2_nMYsv — Braves fans hand-pass a giant inflatable sausage and bun across the stands until the sausage lands in the bun and the finished hot dog is held up
-- source: @pubity | https://www.instagram.com/reel/DdXM2_nMYsv/
-- lane: general
-- first-seen: 2026-09-17 | status: STALE (2026-10-09)
-- stats-at-capture: 240,158 likes / 1,414 comments (351.89x account median)
-- joke-structure: "a hundred strangers somehow pulled it off": giant sausage meets giant bun overhead, a wholesome crowd-assembly success beat rather than a gag. Satisfying payoff, not a laugh line
-- the-beat: 0–5s sausage bouncing over crowd (burned caption); 11–16s bun enters, sausage slides into bun; payoff = assembled dog hoisted at 20–26s (tight clean cut 21.0–26.0s; 24s frame is the hero shot). Tail 27–33s is repeat of the same held-up dog, disposable
-- audio-model: flexible, leaning diegetic: -14.1 LUFS but LRA 6.5 LU (dynamic, crowd-like, not a flat mastered bed); dual-mono. Pubity normalized, so do not bake as a sound without ear-check
-- pairs-with: user's own "team finally finished the thing" moment (group project launch, family assembling furniture) as setup, crowd hoisting the dog as the reaction/payoff; or user's small-group effort vs "how it should look" contrast
-- clean-window: NONE burned in 5.0–16.6s (11.6s) and 20.0–33.1s (13.1s); burned caption 0–5.0s, Pubity follow badge ~16.6–20.0s lower-middle. Full 720x1280 frame → 1080x1920 at 1.5x upscale, crop at 24s visually checked clean (stadium BUILD-A-DOG / Braves ribbon boards are diegetic venue signage, not overlays)
-- file: clips/DdXM2_nMYsv.mp4 (33.09s)
+## DdXM2_nMYsv — [PRUNED STALE 2026-10-09] Braves fans hand-pass a giant inflatable sausage and bun across the stands until the sausage lands in the bun and the finished hot dog is held up · https://www.instagram.com/reel/DdXM2_nMYsv · first-seen 2026-09-17
 
-## DdX2FRGpe7w — doorbell cam at night: a woman dances on her porch walkway to music, the Little Caesars delivery guy walks up with a stack of boxes and she dances right up to him
-- source: @pubity | https://www.instagram.com/reel/DdX2FRGpe7w/
-- lane: general
-- first-seen: 2026-09-17 | status: STALE (2026-10-09)
-- stats-at-capture: 45,184 likes / 292 comments (66.24x account median)
-- joke-structure: "the universe scored my delivery": arrival lands on the music like a movie entrance, and she treats the pizza guy as part of the show
-- the-beat: 0–12s she dances alone (slow build); delivery guy appears in the dark driveway ~13s; laugh lands 14.5–20s as she dances toward him and circles the boxes; cut at ~21s before he walks past camera (22–24s)
-- audio-model: diegetic (bakeable) with a caveat: the music IS the joke (caption: live band down the street); -14.1 LUFS, LRA 2.6 LU is consistent with continuous music but also with a reposter-normalized/replaced bed, so ear-check before baking
-- pairs-with: user's own "waiting for the thing" setup (checking the door, refreshing the delivery tracker, waiting on launch/results) cutting to this arrival as the payoff; or user's own hype-dance clip answered by this
-- clean-window: NONE burned in 5.2–23.9s (18.7s, full frame); caption 0–5.2s (fades ~4.9–5.2s). Full 720x1280 → 1080x1920 at 1.5x, crop at 17s visually checked clean; 20 fps, dark doorbell-cam grain (soft but readable)
-- file: clips/DdX2FRGpe7w.mp4 (23.94s)
+## DdX2FRGpe7w — [PRUNED STALE 2026-10-09] doorbell cam at night: a woman dances on her porch walkway to music · https://www.instagram.com/reel/DdX2FRGpe7w · first-seen 2026-09-17
 
-## DdYDxT8p-w- — a dad walks down the hallway showing off his freshly shaved face, then the camera cuts between him and his toddler son, who stares up at him with suspicious side-eye and an unsure half-smile
-- source: @pubity | https://www.instagram.com/reel/DdYDxT8p-w-/
-- lane: general
-- first-seen: 2026-09-17 | status: STALE (2026-10-09)
-- stats-at-capture: 29,108 likes / 408 comments (42.99x account median)
-- joke-structure: "big reveal met with a kid's who-are-you side-eye": the adult is proud of the change, the small judge is visibly not sold. The face does the work. Caveat: the son's actual spoken verdict (caption says he "made his feelings very clear") was not verified from audio, so the reaction reads as skeptical/awkward rather than as an explicit rejection
-- the-beat: dad reveal 5.0–9.0s (rubs bare chin, grins at camera); son's first look 10–13s (wide-eyed stare up, lips pursed) is the strongest skeptical beat; laugh/unsure grin 16–19s; second round of side-eye 24–29s and 33–42s. Cut the payoff at 10.0–13.5s (or 10–19s for stare-to-awkward-laugh). Dad cutaways at 8, 21, 31–32s; white flash transitions at ~9s and ~20s
-- audio-model: diegetic (bakeable) — I -14.3 LUFS but LRA 11.3 LU with short-term loudness swinging -25 to -11 LUFS: voices/room sound, not a flat music bed. Spoken content not verified
-- pairs-with: the user showing off a change (new haircut, redesign, new setup, rebrand) followed by the "judge" reaction; e.g. "me showing the team the new UI" -> kid's 10–13s stare
-- clean-window: 5.0–42.95s full frame clean (burned caption "MY SON WAS NOT A FAN OF HIS DAD SHAVING HIS BEARD" sits 0–~4.8s only, no watermark after). Full-bleed 720x1280 -> 1080x1920 = 1.5x upscale; rendered 17s crop checked, no text
-- file: clips/DdYDxT8p-w-.mp4 (42.95s)
+## DdYDxT8p-w- — [PRUNED STALE 2026-10-09] a dad walks down the hallway showing off his freshly shaved face · https://www.instagram.com/reel/DdYDxT8p-w- · first-seen 2026-09-17
 
-## DdP9xuShD2M — phone footage of a TV showing a US Open match (Zverev v Shelton): a player walks the baseline, the Rolex clock graphic holds on "0:07", then it dissolves to Pierce Brosnan sitting stone-faced in the crowd
-- source: @daquan | https://www.instagram.com/reel/DdP9xuShD2M/
-- lane: general
-- first-seen: 2026-09-17 | status: STALE (2026-10-09)
-- stats-at-capture: 192,108 likes / 1,055 comments (5.81x account median)
-- joke-structure: "007" on screen, then James Bond himself. The recognition is a number that happens to be a character, answered by the actual actor looking unimpressed; the laugh is the coincidence landing in one cut. Needs the viewer to know Brosnan is Bond (the huge like count says most do). The Rolex logo is the broadcast's own clock graphic, not the poster selling anything
-- the-beat: setup 1.2–4.4s ("0:07" graphic, static), dissolve 4.4–4.8s, laugh lands the moment Brosnan's face resolves at ~4.8s; he holds still to 8.57s. Cut the payoff at 4.6s in, out at ~6.0s (a hand from the row behind waves across the right of frame 6.2–6.8s, then rests at the edge)
-- audio-model: trending sound (add in-app) · -14.1 LUFS integrated, LRA 2.8 LU, a mastered bed with no broadcast commentary audible to the meter; replace freely
-- pairs-with: any user moment where a real number lands on 007: a build/test run finishing in 0:07, an order or ticket number 007, a kid's jersey or race bib 007, a timer or countdown stopping on 7 seconds. The user's own screen/shot showing the 007 is the setup, Brosnan (4.6–6.0s) is the payoff. Use the Brosnan beat only; the clip's own "0:07" setup is redundant once the user supplies theirs
-- clean-window: burned caption ("The camera operator deserves a raise for this") sits only in the black bar at y≈464–559; the TV picture band y603–1532 (930 rows) is caption-free for the whole clip. 523x930 crop → 1080x1920 at 2.06x. Visually checked: Brosnan beat at x≈338 (7.0s) is clean, no scorebug, no channel bug; the Rolex beat needs x≈400 to keep the full "0:07" as the phone drifts, and there the Sky Sports bug clips into the top-right corner (1.6/3.0/4.2s). The Zverev/Shelton scorebug (bottom-left of TV) stays outside both crops. Footage is filmed off a TV: TV bezel and wall show at top/bottom of the crop, slight moire
-- file: clips/DdP9xuShD2M.mp4 (8.57s)
+## DdP9xuShD2M — [PRUNED STALE 2026-10-09] phone footage of a TV showing a US Open match (Zverev v Shelton): a player walks the baseline · https://www.instagram.com/reel/DdP9xuShD2M · first-seen 2026-09-17
 
-## DdWjsK0Bf_w — slumped, dead-eyed man in a meeting room gets praised by an off-screen hand-gesturing manager and instantly melts into a giddy, blushing grin
-- source: @corporate.bro | https://www.instagram.com/reel/DdWjsK0Bf_w/
-- lane: tech
-- first-seen: 2026-09-17 | status: STALE (2026-10-09)
-- stats-at-capture: 39,354 likes / 452 comments (3.23x account median)
-- joke-structure: dead-inside face → one compliment → instant smitten melt. Recognition trigger: "one crumb of praise and I'm staying forever"
-- the-beat: 0-4s head-on-hand, dead stare (setup); ~4-5s off-screen hand gestures toward him; 5-6s face breaks into a grin (the laugh); 9s tongue-out goofy eye-roll; 10-15s slow push-in on bashful blushing smile. Cut in at ~4s, out at ~7s for a tight payoff, or ride to ~10s to include the tongue-out
-- audio-model: trending sound (add in-app). Evidence: -14.1 LUFS, LRA 0.7 LU (mastered music bed), no dialogue
-- pairs-with: user's frustration moment before a small win lands (build finally goes green, client replies "love it"); user about to close the laptop for good, then one good notification
-- clean-window: burned caption occupies rows 290-615 for the whole clip. Clean band y=630-1920 (1290 tall) → centered 725x1290 full-bleed 9:16 crop, 1.49x upscale to 1080x1920. Visually checked at 2s/6s/10s/12s/14.5s: no text or watermark in crop; the 12-15s push-in trims the top of his hair, face stays whole
-- file: clips/DdWjsK0Bf_w.mp4 (15.0s)
+## DdWjsK0Bf_w — [PRUNED STALE 2026-10-09] slumped · https://www.instagram.com/reel/DdWjsK0Bf_w · first-seen 2026-09-17
 
-## DdUdNeCz32B — youth football "kids vs parents" Oklahoma drill at night: a dad in a black tee, a dad in blue, and a mom each flatten a small helmeted kid while the team lines the field
-- source: @houseofhighlights | https://www.instagram.com/reel/DdUdNeCz32B/
-- lane: sports
-- first-seen: 2026-09-17 | status: STALE (2026-10-09)
-- stats-at-capture: 154,730 likes / 2,140 comments (2.02x account median)
-- joke-structure: grown adult vs tiny kid in full pads, and the adult does NOT go easy: kid charges, gets folded onto the turf, ball pops loose (recognition: "no mercy for the child")
-- the-beat: best single hit 2.8–5.2s (black-tee dad drives kid #4 into the turf, ball bounces out, dad stands over him); cut in ~2.6s, out ~5.2s. Alternates: 7.5–10.5s (blue-shirt dad flattens #19, hops back celebrating), 13.3–15.2s (mom flips #11, walks off grinning). 0–2.5s is a kid close-up/whip pan (skip); 16.5–19.4s last rep is dim and unreadable (skip)
-- audio-model: flexible, verify by ear. I -14.1 LUFS, LRA 7.2, short-term swings -12.5 to -20.8 with a lift at ~10–11s lining up with the celebration, so could be a music bed or crowd reaction; don't bake without listening
-- pairs-with: user's "I'll go easy on you" / "it's just a friendly game" setup before a lopsided family or rec-league moment; user explaining a small ask to the boss, cut to getting flattened
-- clean-window: burned caption "Kids vs parents Oklahoma drill" sits y≈865–985 of 720x1280 all clip. Clean band y 0–855 → 9:16 crop 482x856 (x≈119 for dad beats, shift to x≈60 for mom beat) → 1080x1920 at 2.24x. Visually checked crops at 4.5s and 14s: no text, no watermark
-- file: clips/DdUdNeCz32B.mp4 (19.39s)
+## DdUdNeCz32B — [PRUNED STALE 2026-10-09] youth football "kids vs parents" Oklahoma drill at night: a dad in a black tee · https://www.instagram.com/reel/DdUdNeCz32B · first-seen 2026-09-17
 
-## DdXiKyuRLQO — a ball drops among three Mets fielders (Bichette, Soto, Lindor, with contract-value labels) who bobble and fumble it before one picks it up, then a wide broadcast replay of the play
-- source: @sportscenter | https://www.instagram.com/reel/DdXiKyuRLQO/
-- lane: sports
-- first-seen: 2026-09-17 | status: STALE (2026-10-09)
-- stats-at-capture: 378,860 likes / 6,330 comments (6.18x account median)
-- joke-structure: "expensive pros fumble the easiest task": the burned $765M/$341M/$126M labels set up the price tag and the footage shows the ball bouncing between them. Reads as a fumble, not a cascade (no small input setting off a disproportionate chain)
-- the-beat: #19 misses the drop 0–1.5s, ball bounces while #22 lunges 1.5–3.5s, #22 bobbles it off his glove 3.5–4.5s, contract labels appear ~5.5–9.5s; white flash ~10s; wide broadcast replay 11–20.5s. As an opener use 0–9.5s whole, full-bleed, then cut to the user
-- audio-model: flexible — I -14.2 LUFS, LRA 3.7 LU, steady short-term -12 to -16 LUFS: most likely broadcast call/crowd under a leveled mix, not verified as a trending track; re-bed in-app to be safe
-- pairs-with: the user's own "simple task, total failure" moment with a price/expertise contrast; e.g. a team of engineers unable to plug in a projector
-- clean-window: n/a · OPENER-ONLY donor (caption is the setup). Letterboxed footage band y≈350–905 of 720x1280 with a burned quote box at y≈908–1080 for the whole 20.6s and burned name/contract labels in the top of the band ~5.5–9.5s. 9:16 crop from the 555px band = 312x555 -> 3.46x upscale (fails 2.6x), and the rendered crop cuts the three-player play in half. No text-free stretch
-- file: clips/DdXiKyuRLQO.mp4 (20.57s)
+## DdXiKyuRLQO — [PRUNED STALE 2026-10-09] a ball drops among three Mets fielders (Bichette · https://www.instagram.com/reel/DdXiKyuRLQO · first-seen 2026-09-17
 
-## DdRu1GaxadC — teen in a #17 jersey at a sunny fan-fest throwing station tosses footballs one after another; each lands short and bounces on the grass, camera swings at the end
-- source: @sportscenter | https://www.instagram.com/reel/DdRu1GaxadC/
-- lane: sports
-- first-seen: 2026-09-17 | status: STALE (2026-10-09)
-- stats-at-capture: 224,219 likes / 361 comments (3.6x account median)
-- joke-structure: "will he perform under pressure?" caption, then a string of weak ducks thudding into the grass (recognition: choking when it counts). Joke leans on the caption; the target and the money are never visible
-- the-beat: no single turn, it's a run of misses; clearest flops ~3.5–5.0s (two balls in a row bounce short in front of him). Cut out before the camera swing ~5.7s
-- audio-model: likely trending sound (add in-app): I -14.2 LUFS, LRA 4.6, near-silent first ~2.5s then a mastered bed rising to -12.5 short-term; not verified by ear
-- pairs-with: user's own "money on the line" / big-moment setup bit; as an opener it sets up any "will they deliver under pressure" test the user then passes or fails in their own footage
-- clean-window: n/a · OPENER-ONLY donor (caption is the setup). Burned dark caption band y 97–189 of 720x900 all clip; clean band below y 190–899 = 710 rows → 9:16 crop 399x710 needs 2.70x (>2.6); above band only 97 rows; no text-free stretch
-- file: clips/DdRu1GaxadC.mp4 (6.22s)
+## DdRu1GaxadC — [PRUNED STALE 2026-10-09] teen in a #17 jersey at a sunny fan-fest throwing station tosses footballs one after another; each lands short and bounces on the grass · https://www.instagram.com/reel/DdRu1GaxadC · first-seen 2026-09-17
 
-## DdYf1J8TluW — tweet-style card (@itsthepasttense) "They asked programmers to create the worst volume controls possible." over a montage of absurd volume-control UIs: eclipse overlap dial, 100-radio-button grid, tilt-the-slider-and-let-it-roll, bicycle-pump inflate, type digits of pi, dice/scatter picker
-- source: #programmerhumor | https://www.instagram.com/reel/DdYf1J8TluW/
-- lane: tech
-- first-seen: 2026-09-17 | status: STALE (2026-10-09)
-- stats-at-capture: 28 likes / 0 comments (hashtag recent_media, no account baseline)
-- joke-structure: "worst possible version of a trivial UI" — the scroller clocks a volume slider replaced by an absurd physical task (pump it, recite pi) instantly; the card text is the setup, each UI is a mini payoff
-- the-beat: strongest single gags: tilt slider rolling to "Volume: 98" (~8–12s), pump-to-inflate (~12–16s), "Please enter pi for volume" (~19–24s); cut any 3–4s segment, but the card must stay on top to read
-- audio-model: trending sound (add in-app) · -14.1 LUFS, LRA 5.6, mastered bed consistent with a music track, nothing diegetic from the screen recordings
-- pairs-with: user's own deliberately bad or over-engineered UI (e.g. their app's absurd onboarding, a "just one more confirm dialog" flow); user's own "worst possible X" build shown after the card
-- clean-window: n/a · OPENER-ONLY donor (caption is the setup). Video pane only ~y 515–990 of 1274 (~475px tall, 716 wide) under a white tweet header present 0–29s; 9:16 crop from pane = 267x475 → 4.04x upscale (fails ≤2.6x); header burned full runtime, no text-free stretch. Footage itself is soft, re-encoded 2017 screen captures.
-- file: clips/DdYf1J8TluW.mp4 (29.42s)
+## DdYf1J8TluW — [PRUNED STALE 2026-10-09] tweet-style card (@itsthepasttense) "They asked programmers to create the worst volume controls possible." over a montage of absurd volume-control UIs · https://www.instagram.com/reel/DdYf1J8TluW · first-seen 2026-09-17
 
 ## DdWwijXBb_D — [PRUNED DO-NOT-SPLICE] two guys at laptops, then a montage (sunset beach, city skyline, green-lit club, night pickleball, Porsche drift-by, man at a high-rise window, pool jump) under burned text "4 PM: You're Claude usage limit resets in 5 hours / 4-9PM:" · https://www.instagram.com/reel/DdWwijXBb_D/ · first-seen 2026-09-17
 
@@ -924,137 +869,27 @@ touched.
 
 ## DdX2kU_lOUY — [PRUNED DO-NOT-SPLICE] man films a night-time outdoor selfie under blue patio umbrellas, looking pensive and rubbing his chin, under a burned programming-joke caption · https://www.instagram.com/reel/DdX2kU_lOUY/ · first-seen 2026-09-17
 
-## DdV72MhxfMl — a 3D-rendered Vegas casino at fly scale: pink fruit flies float and dance on round stages with gold poles under criss-crossing coloured spotlights, a row of red slot machines and a FLYEGAS "JACKPOTS TONIGHT" billboard behind, money confetti on the floor, the camera sweeping from a tilted close-up out to a wide of the whole floor and back in
-- source: #vibecoding | https://www.instagram.com/reel/DdV72MhxfMl/
-- lane: vibecoding
-- first-seen: 2026-09-16 | status: STALE (2026-10-08)
-- stats-at-capture: 2,998 likes / 26 comments (hashtag recent_media, no account baseline) · 308.5 likes/hr, accelerating x2.31 when captured (pulse job 20260916-155356)
-- joke-structure: absurd over-investment in a worthless subject, THIRD episode of the same fly-world series as `DdUpjlpx_ts` and `DdV2E6fxAs4` (same #flybrain / #fruitflybrain tags, same render style, creator caption "Fly club."). Recognition trigger: a Vegas casino and strip club, rendered at bug scale, with a parody-brand sign. No turn inside the clip; the whole 15.4s is the spectacle under one held line
-- the-beat: no payoff turn. Strongest windows: the FLYEGAS sign close-up with a fly drifting past 0.0-2.3s; wide of the whole floor 2.3-4.0s; stage close-up of a pink fly on the pole 5.7-7.3s; wide with slot machines and confetti floor 8.3-11.5s
-- audio-model: trending sound (add in-app). Measured -14.1 LUFS integrated, LRA 1.7 LU, a mastered music bed, not diegetic. NEVER bake it
-- pairs-with: an OPENER for "what I built for my AI agent" vs "what it actually does"; "Are they having too much fun" read as the setup to his own footage of his agents grinding / erroring at 3am. Sibling to `DdUpjlpx_ts` and `DdV2E6fxAs4`; use at most ONE of the three in a reel
-- clean-window: n/a · OPENER-ONLY donor (caption is the setup). The burned caption "Are they having too much fun" + pleading emoji sits mid-frame at rows y652-691 of 1280 (emoji to ~y700) for the ENTIRE clip (5fps bright-and-frozen row-scan, >80% persistence, confirmed visually at 0s and 8s). Payoff-role test FAILS both ways: band above y0-645 -> 363x645 crop, 2.98x upscale (over 2.6x); band below y705-1280 -> 323x575, 3.3x; no clean stretch. Bank whole, full-bleed, no crop. Screen note: 0.0-2.3s the phone-filmed monitor shows the creator's macOS dock bottom-right (ChatGPT, Claude, GitHub icons), harmless. Nobody performs to camera, so ARCHITECT-CORE §6.5's sequence trigger does not fire
-- file: clips/DdV72MhxfMl.mp4 (15.4s)
+## DdV72MhxfMl — [PRUNED STALE 2026-10-08] a 3D-rendered Vegas casino at fly scale: pink fruit flies float and dance on round stages with gold poles under criss-crossing coloured spotlights · https://www.instagram.com/reel/DdV72MhxfMl · first-seen 2026-09-16
 
-## DdUoJ-_MKNz — man on a beach picnic waves at a small ghost crab in the sand and it lifts a claw back
-- source: @pubity | https://www.instagram.com/reel/DdUoJ-_MKNz/
-- lane: general
-- first-seen: 2026-09-16 | status: STALE (2026-10-08)
-- stats-at-capture: 73,746 likes / 514 comments (102.22x account median)
-- joke-structure: "the animal waved back" · a human greets a creature out of politeness and the creature returns the gesture, anthropomorphic reciprocity
-- the-beat: 0-4.9s man waves (under burned caption "WE WERE HAVING A PICNIC... HE REALLY WAVED BACK AT US"); camera finds crab ~5.0s; claw lifts ~5.75-7.5s and again ~8.5-10s (best single cut 5.5-7.6s). Man's hand blurs through frame briefly ~6.8s and ~8.3s; 12-16s back to man waving, filler. Honest caveat: crab occupies ~40px wide at 720p and the "wave" is a small claw raise; it only reads as a wave if the setup tells you to look for it.
-- audio-model: trending sound (add in-app) · -14.1 LUFS integrated, LRA 1.5 LU, short-term loudness flat -13 to -15 across the whole clip = mastered music bed
-- pairs-with: user waves at / greets something that should not respond (a camera, a pet, a coworker) and cut to the crab lifting its claw; or user's "being polite to everyone" moment with the crab as the tiny reciprocal payoff
-- clean-window: text-free 5.0-12.0s full frame (caption gone by 5.0s, measured; no watermark/username in frame). Full frame 720x1280 -> 1080x1920 = 1.5x upscale. Visual check of 8.5s frame: clean sand, crab lower-center. Avoid hand blurs ~6.8s, ~8.3s.
-- file: clips/DdUoJ-_MKNz.mp4 (15.81s)
+## DdUoJ-_MKNz — [PRUNED STALE 2026-10-08] man on a beach picnic waves at a small ghost crab in the sand and it lifts a claw back · https://www.instagram.com/reel/DdUoJ-_MKNz · first-seen 2026-09-16
 
-## DdUTdjusD52 — baby goats zoom around a living room at night, leaping onto recliners and straight into the filmer lying on the couch
-- source: @pubity | https://www.instagram.com/reel/DdUTdjusD52/
-- lane: general
-- first-seen: 2026-09-16 | status: STALE (2026-10-08)
-- stats-at-capture: 51,260 likes / 524 comments (71.28x account median)
-- joke-structure: "incoming" · a small goat sprints across the room straight at the camera and body-slams the lens; the peaceful couch POV gets ambushed
-- the-beat: best clean hit 10.2-11.8s (goat trots toward couch 10.2s, rears up 10.8s, fills the lens 11.3s, cut ~11.8s on the blur). Same move earlier 3.4-4.6s (goat leaps off the floor onto filmer's legs) but under burned caption until 4.9s. Secondary: goat perched on top of recliner ~18.5-19.5s. Rest is handheld whip-pans chasing goats, disposable.
-- audio-model: flexible · -14.1 LUFS integrated but LRA 6.3 LU with short-term dips to -20/-21 at ~8s and ~19s (not a flat music bed); likely platform-normalized mix, verify by ear before baking
-- pairs-with: user settling in to relax ("finally sitting down after the kids are asleep") then cut to goat hitting the lens; user saying "it's been a quiet evening" as the setup
-- clean-window: text-free 5.0-24.2s full frame (burned caption measured gone at 5.0s; no watermark seen). Full frame 720x1280 -> 1080x1920 = 1.5x. Visual check of 10.7s frame: clean, goat lower-left, boy in background. Note heavy motion blur in whip pans.
-- file: clips/DdUTdjusD52.mp4 (24.24s)
+## DdUTdjusD52 — [PRUNED STALE 2026-10-08] baby goats zoom around a living room at night · https://www.instagram.com/reel/DdUTdjusD52 · first-seen 2026-09-16
 
-## DdVfH1ZpUqg — man kneels to propose in a living room with the aunt sitting right there on the couch; she panics, lies flat behind them, then reappears grinning with her wine during the kiss
-- source: @pubity | https://www.instagram.com/reel/DdVfH1ZpUqg/
-- lane: general
-- first-seen: 2026-09-16 | status: STALE (2026-10-08)
-- stats-at-capture: 32,097 likes / 257 comments (44.53x account median)
-- joke-structure: "third wheel at the big moment" · a bystander realizes she is in the shot of someone's life event and tries to vanish into the couch
-- the-beat: aunt's "oh no" realization face 1.0-4.9s is the strongest laugh but sits under two text layers (Pubity caption + small "oh sh*t" / "i better get out of here"). Clean payoffs: 5.2-7.7s aunt lying flat on the couch behind the kneeling man (only legs/body visible, subtle); 22.5-27s aunt peeks up and grins with wine glass behind the kissing couple (cut on her grin ~25.5s). 8-9.5s "not the feet lol" text, 15.5-18s emoji over aunt's face: avoid.
-- audio-model: flexible · -14.1 LUFS, LRA 4.7 LU, short-term climbs from -26.6 at 3s to -13 by 6s (swell); cannot confirm speech vs song without listening, check by ear
-- pairs-with: user's own big moment (reveal, announcement, surprise) with an oblivious bystander, cut to the aunt hiding; or user realizing they walked into something private, aunt as the mirror beat
-- clean-window: text-free 5.2-7.75s (2.5s) and 18.5-27.0s full frame (caption measured gone at 5.2s; no watermark). Full frame 720x1280 -> 1080x1920 = 1.5x. Visual check at 5.5s (aunt flat on couch, clean) and 22s (aunt behind couple, clean). Band option under the 0-5s caption fails: below-caption band ~560px tall -> ~3.4x.
-- file: clips/DdVfH1ZpUqg.mp4 (27.00s)
+## DdVfH1ZpUqg — [PRUNED STALE 2026-10-08] man kneels to propose in a living room with the aunt sitting right there on the couch; she panics · https://www.instagram.com/reel/DdVfH1ZpUqg · first-seen 2026-09-16
 
-## DdWGdFtNtN1 — a single cow hangs limp in a sling under a helicopter longline, flown past a sheer Swiss cliff and down into the valley
-- source: @pubity | https://www.instagram.com/reel/DdWGdFtNtN1/
-- lane: general
-- first-seen: 2026-09-16 | status: STALE (2026-10-08)
-- stats-at-capture: 16,606 likes / 305 comments (23.28x account median)
-- joke-structure: "being extracted against my will": a whole cow dangling legs-down from a rope in open sky, zero agency, reads in <1s as "me being removed from the situation"
-- the-beat: 0–6.8s the cow is largest and most readable (closest ~2–5s, legs hanging, spinning on the line); cut on ~5.5s. 7–10s still readable as a small cow against the cliff; after ~10s the cow shrinks to a speck (helicopter only visible ~21–28s), so nothing past 10s is payoff material. Pubity follow badge burned ~16.8–20s; closing 31–34s is an empty valley road (filler).
-- audio-model: trending sound (add in-app). ebur128 I -14.0 LUFS, LRA 3.3 LU = mastered music bed, no diegetic rotor/natural sound worth baking.
-- pairs-with: user moment that ends in them being hauled out/rescued/removed: "me leaving the office at 5:00:01", "my kid being carried out of the playground", "me getting pulled out of a meeting I never should have been in"
-- clean-window: BAND 0–786px of 720x1280 (caption burned at rows 787–979 until 6.8s) → crop 442x786 at x=139 → 1080x1920 at 2.44x, visually checked at 1s and 3s: cow + rope centred, no text. Also clean STRETCH 6.8–16.5s full frame (no text; the white arch at bottom from ~15s is a cable-car structure, not a watermark), but cow only readable 6.8–10s.
-- file: clips/DdWGdFtNtN1.mp4 (34.39s)
+## DdWGdFtNtN1 — [PRUNED STALE 2026-10-08] a single cow hangs limp in a sling under a helicopter longline · https://www.instagram.com/reel/DdWGdFtNtN1 · first-seen 2026-09-16
 
-## DdVCY56N8WP — youth football kick return: the returner gets hit near the goal line, flips fully over the tackler, lands on his feet and keeps running while the tackler lies on the grass
-- source: @houseofhighlights | https://www.instagram.com/reel/DdVCY56N8WP/
-- lane: sports
-- first-seen: 2026-09-16 | status: STALE (2026-10-08)
-- stats-at-capture: 252,200 likes / 2,085 comments (2.27x account median)
-- joke-structure: "that should have ended him" turn: a clean hit that should be the end, then he's upright and still going. The laugh is the refusal to go down, and it reads in one beat as the tackler stays flat
-- the-beat: hit lands 9.6-10.0s, flip 10.2-10.7s, back on feet and running 10.9-11.7s. Cut in 9.6s, out 11.7s (the zoomed shot ends there and the caption returns at 11.8s). The 0-9.5s wide return is filler, not needed
-- audio-model: trending sound (add in-app). -14.1 LUFS, LRA 2.7 LU = mastered music bed, not diegetic
-- pairs-with: a user setback they bounce straight back from (the app crashes on demo day, then it's live anyway; kid falls off the bike and gets straight back on). Works as the payoff to "me after [obvious knockout blow]"
-- clean-window: text-free stretch 9.6-11.7s (2.1s), zoomed shot fills the full 720x900 frame, no watermark/username. 9:16 crop 506x900 at x107 → 1080x1920 at 2.13x upscale, visually checked at 10.3s: clean, but soft (phone zoom) and the players are small, mid-lower frame. Rest of clip has "Bruh WHAT 😱" at rows 689-731
-- file: clips/DdVCY56N8WP.mp4 (16.34s)
+## DdVCY56N8WP — [PRUNED STALE 2026-10-08] youth football kick return: the returner gets hit near the goal line · https://www.instagram.com/reel/DdVCY56N8WP · first-seen 2026-09-16
 
-## DdHAGKgBvpA — grown man in buffalo-plaid onesie reenacts a toddler's "split second" rampage (flops on floor, wedges into box, fire-hat, ends wailing with a toy basketball hoop around his face)
-- source: @corporate.bro | https://www.instagram.com/reel/DdHAGKgBvpA/
-- lane: tech
-- first-seen: 2026-09-16 | status: STALE (2026-10-08)
-- stats-at-capture: 25,098 likes / 188 comments (2.1x account median)
-- joke-structure: adult-plays-the-toddler: a grown man doing exactly what a kid does the instant you look away; the onesie + floor-flop reads as "that's my kid" in under a second
-- the-beat: burned setup "My kid when I look away for a split second" 0–2.4s (camera whips away); rampage montage 3–12s (floor tantrum 3–5.5s, box-dive 9s, fire hat 10s); laugh lands 12.5–20s: sobbing with the green toy hoop stuck over his face against the lion hoop. Cut in ~12.5s, hold to end (19.99s); tightest payoff 13–17s
-- audio-model: trending sound (add in-app), likely: -14.6 LUFS integrated, LRA 6.0 LU (mastered bed level); no dialogue relied on, the gag is fully visual
-- pairs-with: user's own "I looked away for 2 seconds" aftermath (kid in the flour, marker on the wall) cut straight into the hoop-stuck wail as the payoff; or user's calm "quiet toddler" shot then the rampage 3–12s
-- clean-window: text-free stretch 2.5–19.99s (~17.5s), full frame 720x1280 clean, no watermark/username seen; full-bleed 1080x1920 at 1.5x. Visually checked at 3s and 15s. Setup caption only 0–~2.4s.
-- file: clips/DdHAGKgBvpA.mp4 (19.99s)
+## DdHAGKgBvpA — [PRUNED STALE 2026-10-08] grown man in buffalo-plaid onesie reenacts a toddler's "split second" rampage (flops on floor · https://www.instagram.com/reel/DdHAGKgBvpA · first-seen 2026-09-16
 
-## DdJk7ZQBokt — Guy leans into his laptop webcam at the office with a guilty, pained grin, then flips it off and slams the lid shut to black
-- source: @corporate.bro | https://www.instagram.com/reel/DdJk7ZQBokt/
-- lane: tech
-- first-seen: 2026-09-16 | status: STALE (2026-10-08)
-- stats-at-capture: 51,578 likes / 230 comments (4.3x account median)
-- joke-structure: "sorry-not-sorry" logoff: camera IS the laptop/email; the cringe-apology face instantly reads as "I'm not answering that", and the middle finger + lid slam is the hard exit. Burned caption: "POV: Last thing an email sees Friday at 4pm".
-- the-beat: 0–7.3s escalating guilty grimace (0–2s neutral lean-in, 2–7s wince to forced grin); hand enters top of frame ~7.4s; middle finger up ~7.8–8.6s while the lid comes down; frame fully black ~9.2s. Payoff cut: in ~7.3s, out ~9.3s (on black). Shorter grimace-only reaction: ~5.0–7.3s.
-- audio-model: trending sound (add in-app). -14.1 I LUFS (mastered level), LRA 7.8, a continuous bed that rises steadily across the clip and keeps playing at full level over the black end card after the lid closes, so it is not room sound (a closed lid would kill diegetic audio). Swap in the current trend sound; the clip works muted.
-- pairs-with: a user moment that asks something of you right before a break: e.g. founder's screen showing a 4:58pm "quick question?" Slack/email or a bug report on a Friday, cut to this as the response; or the user's own "shipping at 4pm Friday" clip with this as the sign-off.
-- clean-window: burned caption is persistent 0–9.96s at y=1101–1254 (of 2560), so no text-free stretch. Two clean bands pass: (a) LOWER y=1260–2560 (1300 rows) → crop 731x1300 @x≈320 → 1080x1920 at 1.48x; carries the finger + lid-close payoff (7.8–9.2s), visually checked at 8.3s: finger, jacket, desk, keyboard, no text. (b) UPPER y=0–1095 → crop 616x1095 @x≈200–250 → 1080x1920 at 1.75x; carries the face/grimace 0–7.5s, visually checked at 5.0s and 7.4s: clean, face slightly right-clipped at x=250 so use x≈200. No watermark in either crop. Note the descending lid crosses the caption row at ~8.5–9s, the lower band stays clean.
-- file: clips/DdJk7ZQBokt.mp4 (9.96s)
+## DdJk7ZQBokt — [PRUNED STALE 2026-10-08] Guy leans into his laptop webcam at the office with a guilty · https://www.instagram.com/reel/DdJk7ZQBokt · first-seen 2026-09-16
 
-## DdV-BTCsRPl — AI-animated 3D cartoon programmer gets his code working, ignores a "DON'T TOUCH IT" warning, clicks CSS, and hard-cuts to screaming while his room flies apart
-- source: #programmerhumor | https://www.instagram.com/reel/DdV-BTCsRPl/
-- lane: tech
-- first-seen: 2026-09-16 | status: STALE (2026-10-08)
-- stats-at-capture: 310 likes / 33 comments (hashtag recent_media, no account baseline)
-- joke-structure: "it works, don't touch it... touches it" · the smug click followed by a full-face cartoon scream. As a donor, the asset is only the 1.3s scream reaction; the rest is the creator's own AI story with burned text on most beats
-- the-beat: smug hover/click on "CSS" 5.0–6.9s → hard cut 7.0s to room chaos with "EVERYTHING BREAKS" on the monitor → peak open-mouth scream 7.3–8.9s → hard cut 8.95s to deadpan "WHY DID I TOUCH IT 😭". Cut the donor at 7.6 in, 8.9 out (just before the cut)
-- audio-model: flexible · mastered track -14.1 LUFS integrated but LRA 7.0 LU (music plus hit/SFX dynamics, not a flat trending bed); no dialogue, safe to replace in-app
-- pairs-with: user's own screen recording of a working build → "one tiny change" → this scream; user pushes a "quick fix" on Friday → scream
-- clean-window: band y890–1920 text-free during 7.6–8.9s (monitor text "EVERYTHING BREAKS" sits above y≈860; flying labels with fake text cross y≈920–1200 only in 7.0–7.5s), 580x1030 crop x250 → 1080x1920 at 1.86x, visually checked at 7.7/8.0/8.5s: clean full-face scream, no text. Stretch is only ~1.3s, so this passes on the band, not on duration. Caveats: AI 3D-cartoon style clashes with real footage; 8.9s frame already shows the next scene's caption, so trim before 8.93s. Chain-reaction gap: NO. The small input (one click) is shown, but the cascade is not pictured; it is a hard cut to a different room with random objects flying and a text label saying everything broke. Do not file it as the chain-reaction clip
-- file: clips/DdV-BTCsRPl.mp4 (10.01s)
+## DdV-BTCsRPl — [PRUNED STALE 2026-10-08] AI-animated 3D cartoon programmer gets his code working · https://www.instagram.com/reel/DdV-BTCsRPl · first-seen 2026-09-16
 
-## DdVgwors8Lw — toddler in pink romper marches across a sunny old-town square with dad walking a step behind her, then close tracking shot of her striding on
-- source: #toddlertravel | https://www.instagram.com/reel/DdVgwors8Lw/
-- lane: family
-- first-seen: 2026-09-16 | status: STALE (2026-10-08)
-- stats-at-capture: 97 likes / 13 comments (hashtag recent_media, no account baseline)
-- joke-structure: tiny boss, grown security detail: a toddler leading while a big adult shadows her; reads visually, but mild (a smile, not a laugh). User's own footage may well be stronger
-- the-beat: 0–1.5s dad hovers right behind her (best "bodyguard" read); 2–3.5s street shot, dad trailing her past cafe tables; 4–6.8s low follow shot of just the toddler striding. Cut 0–3.5s for the gag; 4–6.8s only works as a "boss walk" tail
-- audio-model: trending sound (add in-app): -14.2 LUFS, LRA 1.5 LU (flat mastered bed)
-- pairs-with: user's own kid "running the show" (toddler marching ahead at the airport while parent hauls bags); caption-led "the real security detail" reveal after user's clip of kid bolting
-- clean-window: burned caption "16 months old and already calling the shots" rows 372–386 persists whole clip. Clean band rows 392–1280 (888 rows): 9:16 crop 499x888, x≈60/150/111 at 0.5/3/5.5s, full-bleed 1080x1920 at 2.16x. Visually checked, crop is text-free (waiter vest logo is clothing, not burned text).
-- file: clips/DdVgwors8Lw.mp4 (6.80s)
+## DdVgwors8Lw — [PRUNED STALE 2026-10-08] toddler in pink romper marches across a sunny old-town square with dad walking a step behind her · https://www.instagram.com/reel/DdVgwors8Lw · first-seen 2026-09-16
 
-## DdUABHZTDZK — guy leans into the camera with a furious glare, walks off, lunges back into a face close-up, then charges the camera swinging a pickleball paddle, under a burned "How Enterprise Java devs look at you after you add two numbers with one function..." caption
-- source: @adanxai | https://www.instagram.com/reel/DdUABHZTDZK/
-- lane: tech
-- first-seen: 2026-09-16 | status: STALE (2026-10-08)
-- stats-at-capture: 630 likes / 4 comments (12.19x account median)
-- joke-structure: "the tribe's ritual was violated": over-engineering devs glaring at someone who wrote the simple obvious code, escalating stare into physical attack
-- the-beat: 0–1.0s death stare; 1.25–2.25s turns away (fake de-escalation); 2.5–4.0s empty room; 4.25–5.25s face slams into close-up glare; 5.5–6.25s empty; 6.5–7.26s charges at camera winding up a paddle (laugh lands ~6.6s). Bank whole; cut at end.
-- audio-model: trending sound (add in-app). ebur128 I -14.1 LUFS, LRA 0.6 LU = flat mastered bed, no diegetic speech.
-- pairs-with: user showing the "too simple" solution that works: a one-line script replacing their team's pipeline, a spreadsheet formula that replaced an internal tool
-- clean-window: n/a · OPENER-ONLY donor (caption is the setup). Caption burned rows ~424–600 of 576x1024 for the full 0–7.26s; best clean band 0–423 or 601–1024 = 423px → crop 238px wide → 4.5x upscale (fails 2.6x); no text-free stretch.
-- file: clips/DdUABHZTDZK.mp4 (7.26s)
+## DdUABHZTDZK — [PRUNED STALE 2026-10-08] guy leans into the camera with a furious glare · https://www.instagram.com/reel/DdUABHZTDZK · first-seen 2026-09-16
 
 ## DdS3HcHtYiO — [PRUNED DO-NOT-SPLICE (2026-09-16)] a smug kid sits at a loaded 4-plate bench, lies back, a cut swaps in a grown man who presses it, then the kid pops back up grinning into the camera · https://www.instagram.com/reel/DdS3HcHtYiO/ · first-seen 2026-09-16
 
@@ -1074,29 +909,9 @@ touched.
 ## DdVLRbTTzHH — [PRUNED DO-NOT-SPLICE (2026-09-16)] holiday villa: toddler boy cries by the sofa, baby crawls with a toy remote, dad hugs a girl in the kitchen, back to the crying boy · https://www.instagram.com/reel/DdVLRbTTzHH/ · first-seen 2026-09-16
 
 
-## DdV2E6fxAs4 — a 3D-rendered fashion show at fly scale: fruit flies in designer outfits (wide hats, a jacket printed FLYENCIAGA) walk a lit white runway under gold truss and chandeliers, past rows of seed-shaped audience seats, a FLYENCIAGA "SPRING · TESTNET" backdrop at the far end, with the camera drifting wide, diving to runway-level close-ups of the models, and pulling back out
-- source: #vibecoding | https://www.instagram.com/reel/DdV2E6fxAs4/
-- lane: vibecoding
-- first-seen: 2026-09-16 | status: STALE (2026-10-08)
-- stats-at-capture: 607 likes / 4 comments (hashtag recent_media, no account baseline) · 440.6 likes/hr, accelerating x1.59 when captured (pulse job 20260916-055828)
-- joke-structure: absurd over-investment in a worthless subject, second episode of the same fly-world series as `DdUpjlpx_ts` (same #fruitflybrain / #flybrain tags, same render style). Recognition trigger: a luxury runway show, rendered at bug scale, with a parody-brand backdrop. There is no turn inside the clip; the whole 15.9s is the spectacle under one held title
-- the-beat: no payoff turn. Strongest windows: wide establishing drift 0.0-4.5s; runway-level close-up of a hatted fly in the FLYENCIAGA jacket ~5.0-7.0s; the backdrop reveal with the FLYENCIAGA sign ~10.0-11.5s and again ~12.5-13.5s
-- audio-model: trending sound (add in-app). Measured -14.1 LUFS integrated, a mastered music bed, not diegetic. NEVER bake it
-- pairs-with: an OPENER for "what I built for my AI agent" vs "what it actually does" (cut from the runway to his own footage of the agent doing one dull thing); any over-preparation gag where the production dwarfs the worker. Sibling to `DdUpjlpx_ts`; do not use both in one reel
-- clean-window: n/a · OPENER-ONLY donor (caption is the setup). The creator's caption "Fly Fashion week" + emoji is burned mid-frame at rows y661-702 of 1280 for the ENTIRE clip (5fps bright-and-frozen row-scan, confirmed at 0.0/2/5/8/11/14/15.6s and on the tiled strips). Payoff-role test FAILS both ways: band above is y0-650 -> 365x650 crop, 2.96x upscale (over the 2.6x cap); band below is y715-1280 -> 318x565, 3.4x; no clean stretch. Bank whole, full-bleed, no crop. Nobody performs to camera, so ARCHITECT-CORE §6.5's sequence trigger does not fire
-- file: clips/DdV2E6fxAs4.mp4 (15.9s)
+## DdV2E6fxAs4 — [PRUNED STALE 2026-10-08] a 3D-rendered fashion show at fly scale: fruit flies in designer outfits (wide hats · https://www.instagram.com/reel/DdV2E6fxAs4 · first-seen 2026-09-16
 
-## DdUpjlpx_ts — a 3D-rendered desk where a fruit fly in a Balenciaga jacket smokes at a live BTC terminal, then the camera pulls back to a full nightclub built at fly scale: lighting truss, coloured spotlights, PA stacks and an LED equaliser wall, with flies milling on the dancefloor
-- source: #vibecoding | https://www.instagram.com/reel/DdUpjlpx_ts/
-- lane: vibecoding
-- first-seen: 2026-09-16 | status: STALE (2026-10-08)
-- stats-at-capture: 3,758 likes / 12 comments (hashtag recent_media, no account baseline) · 534.7 likes/hr, accelerating x6.45 when captured
-- joke-structure: absurd over-investment in a worthless worker — someone has built an entire nightclub, a designer wardrobe and a city skyline for an insect that is supposedly doing their job, and the scale of the effort IS the punchline. Recognition trigger: a rave, rendered at bug scale, with real money on a screen next to it
-- the-beat: setup 0:00-0:04.9 (fly at the trading desk, creator's caption on screen), the turn is the PULL-BACK at ~4.2-5.0s when the nightclub comes into view. The borrowable donor run is 5.00-11.79 — a continuous drifting camera move across the lit dancefloor, no text. Cut in on any spotlight sweep; the flies resolve clearly from ~8.5s
-- audio-model: trending sound (add in-app) — measured -14.2 LUFS with an LRA of 1.0 LU, i.e. a mastered music bed, not diegetic. NEVER bake it; deliver the donor beat silent and add the track in-app
-- pairs-with: the elaborate thing a builder made instead of doing the work (cut into it after his own footage of a one-line fix); "what I built for my AI agent" vs "what it actually does"; any over-preparation gag where the effort dwarfs the worker
-- clean-window: clean STRETCH 5.00-11.79s — the creator's caption "All to motivate my trader" + emoji is on 0.00-4.90s only (10fps row-scan AND visual check; the emoji is confirmed gone, not just the bright text rows). The app's OWN HUD (PAPER ACCOUNT / EQUITY / NEURON ACTIVITY) is burned into the filmed screen for the whole clip across y~890-1280, and a "BRAIN · placeholder" strip sits on the left edge: `crop=500:890:110:0` of 720x1280 clears both, 2.16x upscale to 1080x1920, VERIFIED by rendering the crop and looking at it. A small white mouse cursor drifts mid-frame ~7.0-8.5s
-- file: clips/DdUpjlpx_ts.mp4 (11.8s)
+## DdUpjlpx_ts — [PRUNED STALE 2026-10-08] a 3D-rendered desk where a fruit fly in a Balenciaga jacket smokes at a live BTC terminal · https://www.instagram.com/reel/DdUpjlpx_ts · first-seen 2026-09-16
 
 ## DdPJ4KWMyIo — [PRUNED STALE] a woman in a playground says "want to learn how to fly?", hooks a knee over a low bar and spins round and round it non-stop, laughing, then hops off · https://www.instagram.com/reel/DdPJ4KWMyIo/ · first-seen 2026-09-15
 
