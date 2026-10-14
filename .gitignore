@@ -24,3 +24,8 @@ wendylovegarrido/
 logs/
 *.mp4
 *.mov
+
+# CC0 music shelf: audio files stay local, LICENSES.tsv is the committed record
+music/*.mp3
+music/*.m4a
+music/*.wav
