@@ -11,6 +11,22 @@ Filler rule: skip any shortcode already under `## processed` or already a catalo
 measures tests 5/6, rewrites the entry, and moves the line here as `re-measured`.
 
 ## inbox
+<!-- ⚠⚠ 2026-10-14 — READ-SAVED.SH RETURNED THE WRONG GRID AGAIN. NOT A REAL INBOX; 23 LINES REMOVED.
+     Exact reproduction of the 2026-10-07 failure. read-saved.sh exited 0 and reported "24 on grid,
+     23 new appended", and all 23 appended lines were @imabgold's OWN last-25 reels in exact
+     reverse-chronological feed order, including DedNsnBNWSh which was posted this morning. Verified
+     by hand against step 0's imabgold media list: 23/23 of the appended shortcodes are his own.
+     Instagram served (or redirected to) his PROFILE grid instead of
+     instagram.com/imabgold/saved/viral-stuff/901996575663900/. The script's exit-5 check only asks
+     whether the rendered page identified his session, and a redirect to his own profile still does,
+     so the bad read reports exit 0.
+     The 23 lines were NOT gated: @imabgold is Marcus's own account, every line fails test 1 by
+     construction, and gating them would have burned the morning. Removed; shortcodes recorded in
+     logs/2026-10-14.log. The script was NOT re-run (step 1b: never twice a day, never improvise
+     another read). TODAY'S SAVED READ IS A MISS, not an empty inbox.
+     ⚠ FOR MARCUS, EIGHTH DAY ASKED AND NOW THE SECOND TIME IT HAS COST A DAY: make the exit-5
+     check assert the FINAL URL contains /saved/. The 10-09..10-13 reads were only verifiable
+     because they appended 0-1 lines; this one appended 23 and the script still said exit 0. -->
 <!-- empty 2026-10-10: read-saved.sh read 24 on the grid and appended 0 NEW lines (exit 0). All 24 are
      already under ## processed, so the backlog is clear and there was nothing to gate from Saved today.
      ⚠ VERIFICATION, since the exit-5 check is still unfixed: a profile-grid redirect (the 10-07 failure)

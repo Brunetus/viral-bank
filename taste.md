@@ -1,87 +1,106 @@
 # taste.md — what the audiences actually reward (rewritten every scan from live insights)
 Derived data, full overwrite each scan. History lives in git. Read with catalog.md.
-Refreshed 2026-10-12 (25 imabgold reels, 21 bambi reels). `reels_skip_rate` pulled for ALL 25
-imabgold reels this scan (yesterday's targeted 12 was a budget call; the full set cost nothing
-extra and the skip column below is now complete, not sampled).
+Refreshed 2026-10-14 (25 imabgold reels, 21 bambi reels, full insights incl. skip rate on all 46).
 
 ## universal
-- **Share COUNT is the distribution lever, and watch time is not even correlated with it.**
-  Measured on 25 reels: the reel with the THIRD-WORST hold in the set (5.7s, 44% skip) was
-  forwarded 1,350 times and reached 42,325 people. The reel with the BEST hold (14.9s) was
-  forwarded 22 times and reached 2,674. Optimise for the forward, not the finish.
-- **A premise with one blank in it travels; a statement does not.** Every reel over 100k this
+- **Share COUNT is the distribution lever, and watch time is not correlated with it.** Measured
+  again on 25 reels: the best-held reel in the set (14.8s, `Ddsa8dsOfdI`) was forwarded 22 times
+  to 3.2k. The worst-but-two hold (5.7s, `DdxZCCmR8i0`) was forwarded 1,358 times to 64k.
+  Optimise for the forward, not the finish.
+- **A premise with one blank in it travels; a statement does not.** Every reel over 40k in this
   window opens on a claim plus its eliminations ("not money. not power.") and withholds the
   object. Every reel under 5k answers itself in the first sentence.
 - **The payoff must be a thing the viewer owns, not a behaviour.** Named, picturable objects
   carry; adjectives and habits do not. Object COUNT is irrelevant — a one-object payoff and a
   three-object payoff land in the same share band.
-- **A frame is reusable; only the object is spent.** One sentence, re-run three times with a
-  fresh object five weeks apart: 853k, then 1.76M, then 133k. Rebuild the winner, swap the noun.
-- **Never correct the viewer.** The two lowest-share reels in the set both tell him he is doing
-  it wrong ("10 terminals is not how you run it", "every frontier model is available"). Both
-  held 9.9s and 5.4s of attention and were forwarded 0 times. A correction is not forwardable;
-  flattery is.
-- **Skip rate reads the first second. It does NOT predict the forward.** New this scan, and it
-  cuts against how this bullet read yesterday: today's reel carries the third-WORST skip in the
-  set (49%) and still took 43 shares in its first hours, the best day-0 share count the account
-  has outside its four hits. A high skip costs reach at the top of the funnel; it does not stop
-  the people who stay from forwarding. Treat skip as a first-frame diagnostic, never as a verdict.
-- **Reach does not decay on a wide reel the way the dashboard implies.** The top reel added
-  ~18,000 views and 462 shares on day TEN, still climbing. Judge a reel's ceiling at day 10+.
+- **A frame is reusable; only the object is spent.** One sentence, re-run with a fresh object five
+  weeks apart: 853k, then 1.80M, then 135k. Rebuild the winner, swap the noun.
+- **Never correct the viewer.** The two zero-share reels in the set both tell him he is doing it
+  wrong ("10 terminals is not how you run Claude Code", "every frontier model is available").
+  They held 9.9s and 5.4s and were forwarded 0 times. A correction is not forwardable; a
+  compliment he can prove about himself is.
+- **A question earns reach only when it is aimed AT the viewer.** "i have a question for the men.
+  what do you want?" → 4,311 shares. "do you wanna know why he's not texting you right now?" →
+  10 shares. Same grammar, different addressee.
+- **The tail is the asset.** The window's biggest reel is still accruing twelve days out
+  (+19,831 views and +355 shares in the last 24h alone). A forward chain outlives the post.
 
-## @imabgold — 25 reels, 2026-09-14 → 2026-10-12
+## @imabgold — 25 reels, 2026-09-15 → 2026-10-14
 Top 3 by saves+shares
-- `DdQBUIRuSRM` 2026-09-14 · 852,993 views / 34,520 shares / 2,727 saves · 7.8s awt · 38% skip
-  https://www.instagram.com/reel/DdQBUIRuSRM/ — "men only want one thing. not money. not power."
-  WHY: the sentence the whole account now runs on. Eliminations make the blank audible before
-  the object arrives, so the viewer answers in his head and forwards to be told he was right.
-- `Dd-Ss2PI0PB` 2026-10-02 · 1,755,205 views / 24,571 shares / 7,754 saves · 8.2s awt · 33% skip
-  https://www.instagram.com/reel/Dd-Ss2PI0PB/ — same premise, fresh object (local → 1M tokens).
-  WHY: lowest skip in the set. The donor's face is the first frame and she finishes her line.
-- `DddHvD5OgIa` 2026-09-19 · 142,603 views / 4,172 shares / 600 saves · 7.6s awt · 40% skip
-  https://www.instagram.com/reel/DddHvD5OgIa/ — "i have a question for the men. what do you want?"
-  WHY: a question with no eliminations still works when the question IS the blank.
+- `Dd-Ss2PI0PB` 10-02 · 1,795,192 views / 25,205 shares / 8,001 saves / 8.2s hold / 33.1% skip
+  "men only want one thing. not money. not power." → localhost:3000 to a published .com.
+  WHY: the house frame at full strength. Negative eliminations, one blank, one ownable object.
+  Twelve days out and still moving — the forward chain, not the first 48h, is the reach.
+- `DddHvD5OgIa` 09-19 · 147,002 / 4,311 / 625 / 7.6s / 39.6%
+  "i have a question for the men. what do you want?" → MacBook, caffeine, Claude 20x Max plan.
+  WHY: she asks the viewer directly and he answers with inventory he already owns.
+- `DeGhqKst37L` 10-05 · 134,904 / 3,500 / 869 / 9.8s / 38.5%
+  "what men spend their money on" → 20x Max plan, Wispr Flow. WHY: a spend-reveal is a status
+  flex he can forward as self-description. Highest SAVES in the set (869).
 Bottom 3 by saves+shares
-- `Ddkqy7VuH4_` 2026-09-22 · 1,064 views / 0 shares / 1 save · 5.4s awt · 62% skip — "every frontier
-  model is available" is an industry fact, not a sentence about him. Worst skip on the account.
-- `DeTHQuuukIh` 2026-10-10 · 3,131 views / 0 shares / 4 saves · 9.9s awt · 44.6% skip — day TWO and
-  still exactly zero forwards, with the third-best hold in the set. It corrects the viewer.
-- `Ddcbii9pJgM` 2026-09-18 · 1,429 views / 1 share / 4 saves · 7.8s awt — a founder confession with
-  no slot for the viewer to fill; he is the audience, not the hero.
-What works / what dies
-- Girl-to-camera donor opener + hard cut to his own screen: 4/4 of the reels over 39k this window.
-  Nothing without a borrowed opener crossed 6k.
-- The eliminations are load-bearing. "not money. not power." appears in both million-view reels.
-- The payoff object must be purchasable and nameable: a 20x Max plan, 4 Mac Studios, a MacBook.
-- Dies on: corrections, industry news, founder-diary confessions, anything where Claude is the
-  subject rather than the thing the man owns.
-- WATCH `DeYKl9mhLWo` (today, "one thing she'll never admit: she loves a man who manages his
-  context"): 4,298 views / 43 shares / 17 saves in its first hours. 43 forwards on day 0 is the
-  shape the hits had and no ordinary reel on this account has ever had. Re-read it on day 3.
-
-## @bambi.map — 21 reels, 2026-05-27 → 2026-09-04 (DORMANT: no post in 38 days)
-Top 3 by saves+shares
-- `Da_U2OGBlOD` 2026-07-19 · 1,673 views / 2 shares / 3 saves · 8.8s awt — "the bibs were for us,
-  not the baby." Best hold on the account; a confession about the PARENT, not the child.
-- `Da1JGCcBuAy` 2026-07-15 · 985 views / 4 shares / 1 save · 5.7s awt — "always comes down to one
-  thing" is the only bambi reel that opens on a blank.
-- `DantHXDuBUK` 2026-07-10 · 233 views / 2 shares · 5.8s awt — "the highchair scan is real" names
-  a ritual the parent already performs.
+- `Ddkqy7VuH4_` 09-22 · 1,072 / 0 shares / 1 save / 5.4s / 62.3% — "every frontier model is
+  available. i tried them all for design." WHY: a survey. No premise, no slot, 62% skipped out.
+- `DeTHQuuukIh` 10-10 · 3,165 / 0 / 4 / 9.9s / 44.6% — "10 terminals is not how you run Claude
+  Code." WHY: corrects the viewer's setup. Held attention, earned no forward.
+- `Ddcbii9pJgM` 09-18 · 1,433 / 1 / 4 / 7.7s / 50.2% — "sold a feature that does not exist yet."
+  WHY: a founder's private joke; a stranger is not in it.
+Top 3 by avg watch time
+- `Ddsa8dsOfdI` 09-25 · 14.8s → 3,240 views / 22 shares
+- `Dd0IRkHuDx1` 09-28 · 11.1s → 3,981 / 13 shares
+- `DeVwohuhQdL` 10-11 · 10.8s → 1,164 / 18 shares
+  WHY all three: long explanatory middles. The three best-held reels of the window, forwarded 53
+  times between them. Hold is not the product.
 Bottom 3 by avg watch time
-- `Dbg2aEKy1CH` 2026-08-01 · 108 views · 2.7s — "somebody you'll never meet checked the highchair
-  for you" opens on the product's mechanism.
-- `DY1gvtXx_hm` 2026-05-27 · 216 views · 3.4s — a map screenshot as the first frame.
-- `DbEYL_wBjf6` 2026-07-21 · 163 views · 3.5s — opens on the restaurant, not on the parent.
-What works / what dies
-- The parent is the subject. Reels about the adult's own relief outperform reels about the baby.
-- Opening on an app screen or a map is the account's reliable floor (2.7-3.7s holds).
-- Zero shares on 16 of 21 reels. The account has never shipped a reel with a blank in its hook.
-- The highest-reach reels (2,096 / 2,975 / 2,230) all open on a sentence a parent has said aloud.
-- Dormant 38 days: nothing here is a fresh signal, and it cannot test anything until it posts.
+- `Ddkqy7VuH4_` 5.4s → 1,072 · `DdiEShdO4-m` 5.7s → 1,771 · `DdxZCCmR8i0` 5.7s → **64,424**
+  WHY the split: identical hold, 36x the reach. `DdxZCCmR8i0` is a donor-opener premise ("the
+  greenest flag in a man isn't money or looks") and the other two are self-report.
+What works
+- Donor-opener premise + one ownable object. All five reels over 40k this window are that shape.
+- Negative eliminations before the blank ("not money. not power.", "isn't money or looks").
+- Second person, or a question put to men. The addressee is the whole mechanism.
+- Best share RATE in the set is `DeD9wgCuJWf` at 5.3% (2,188 / 41,295): "harder means 4 Mac
+  Studios chained together running Kimi K3 locally. no usage limits." Escalation-as-flex.
+What dies
+- Corrections, surveys and founder metrics: 0, 0 and 3 shares, whatever the hold.
+- A premise aimed at women about a man ("why he's not texting you") — 1,244 views, 10 shares.
+- ⚠ The last seven reels (10-07 → 10-14) are 3,467 / 3,165 / 3,259 / 1,164 / 7,042 / 1,648 /
+  4,464 views. Nothing over 10k since 10-05, and all three hits in the set sit in 10-02 → 10-05 —
+  the week the bank was shipping measured girl-to-camera donors. The current run is mostly
+  tool-commentary without a donor opener and the numbers track it.
+- Two bright spots inside that run, both of which carry a real slot: `DeYKl9mhLWo` 10-12, 7,042 /
+  125 shares (1.8%, the best share count since 10-05) — "one thing she'll never admit: she loves a
+  man who manages his context window" — and today's `DedNsnBNWSh`, 4,464 / 45 at 8.0s hold.
 
-steering: 21 tags in /recently_searched_hashtags — eatingoutwithbaby, babytravel, travelwithbaby,
-highchair, familytraveltips, artificialintelligence, aitools, anthropic, claudeai, toddlertravel,
+## @bambi.map — 21 reels, 2026-05-27 → 2026-09-04
+⚠ **Dormant: nothing posted since 2026-09-04.** Historical read, not a live one.
+Top 3 by saves+shares
+- `Da_U2OGBlOD` 07-19 · 1,673 / 2 shares / 3 saves / 8.8s / 29.7% — "the bibs were for us, not the
+  baby", Tokyo + Osaka with a baby. WHY: a confession that inverts the expected subject.
+- `Da1JGCcBuAy` 07-15 · 985 / 4 / 1 / 5.7s / 35.1% — "is there a highchair?" WHY: the one question
+  the whole audience already asks itself.
+- `DantHXDuBUK` 07-10 · 233 / 2 / 0 / 5.8s / 44.5% — "the highchair scan is real."
+Bottom 3 by saves+shares: everything else sits at 0-1 combined. Saves+shares never cleared 5 here,
+so that axis is thin by construction — read the hold column instead.
+Top 3 by avg watch time
+- `Da_U2OGBlOD` 8.8s · `DblXnxChpO4` 8.1s (2,230 views, "every parent knows this chair") ·
+  `Dci7Dfxu_D9` 7.9s (2,975 views, "the highchair was never the problem")
+Bottom 3 by avg watch time
+- `Dbg2aEKy1CH` 2.7s / 85.5% skip (108 views) — "somebody you'll never meet checked the highchair
+  for you. that is the whole idea behind bambi." WHY: it pitches the product in the hook.
+- `DY1gvtXx_hm` 3.4s / 72.4% (216) and `DbEYL_wBjf6` 3.5s / 67.2% (163) — both open on a place,
+  not on a parent's problem.
+What works
+- Open on the parent's recognisable failure, name the product later or never. The three best-held
+  reels all start with a complaint; the three worst all start with a destination or the app.
+- 2,096-2,975 views is this account's real ceiling, hit three times in four days (08-27 → 08-29),
+  all on highchair-as-the-problem hooks.
+What dies
+- Any reel whose first line is the value proposition (85.5% and 74.5% skip rates).
+- Travel-postcard framing. Lombok/Bali/Costa Rica openers: 187, 216, 163 views.
+
+steering: kidfriendlytravel, eatingoutwithbaby, babytravel, travelwithbaby, highchair,
+familytraveltips, artificialintelligence, aitools, anthropic, claudeai, toddlertravel,
 eatlikealocal, familyvacation, familyadventures, travelwithkids, familytravel, dadlife,
-buildinpublic, claudecode, vibecoding, nontechnicalfounder, kidfriendlytravel. Unchanged for a
-third day and all account / family-travel / AI tags: not one is a premise tag, so the donor hunt
-is still not being steered from the app.
+buildinpublic, claudecode, vibecoding, nontechnicalfounder (21 in /recently_searched_hashtags,
+unchanged from 10-13). Not one is a premise tag — the donor hunt gets no steering from the IG app,
+which is consistent with the tag pages' barren run.
