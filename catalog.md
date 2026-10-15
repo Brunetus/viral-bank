@@ -46,51 +46,9 @@ touched.
 
 ## DeKNfJ2xkJT — [NOT BANKED] tombstone (tests 1/8) @programmergrind "I have five Claude Code sessions working with a Claude Sonnet orchestrator to finish my budgeting app. Okay, we're almost there." His biggest new in-window reel (11,754 engagement, 1.33x), Graph-served so it cost zero cookie budget, and per the 10-14 rule it was DOWNLOADED rather than cover-screened. No borrowed woman opener: it is him to camera from frame 0. He also names Claude at 0.4s, which test 8 excludes outright. **Ninth consecutive read of this donor source with no girl-to-camera borrowed opener**, against one hit (`Dd1kEvAgli2`, 09-29). · https://www.instagram.com/reel/DeKNfJ2xkJT/ · status: DO-NOT-SPLICE (2026-10-15)
 
-## DeVINqsIOYb — a real woman straight to camera in the back of a car, cream off-shoulder top, two thin gold necklaces, full-bleed 720x1280, her own white word captions: "Boys, do you wanna know the hottest thing that you can do for a girl? 😘🔥 / Come here 😏 / I'm gonna let you in on a little secret. / All girls have this one fantasy… / one thing that they want 😍"
-- source: @annabellegesson | https://www.instagram.com/reel/DeVINqsIOYb/          <- read on the daily watchlist probe, `[premise]` lane since 2026-09-24
-- lane: premise
-- first-seen: 2026-10-14 | status: FRESH
-- stats-at-capture: 2,346 likes / 37 comments (2.29x her median engagement of 1,042 across 24 fetched reels; 717,158 followers, 23/24 serving media_url). Posted 2026-10-10. Free Graph download, zero cookie budget. Her caption is "follow annabellegesson for more content👏🏻", which carries no premise at all — this one was found on the FRAMES, which is the 10-12 rule on this handle.
-- joke-structure: n/a — opener donor
-- the-beat: **two legal cut points, both measured at 30fps off the frames.**
-  - **3.70s — RECOMMENDED.** Ends on the question itself, "…the hottest thing that you can do for a girl?", blank wide open. Her next card ("Come here") lands at 3.80s. 3.70s sits inside the 4.03/4.60s winning band and leaves the most payoff room.
-  - **10.50s — the long cut, and it is the `one_thing` grammar.** Runs the full escalation: question → "I'm gonna let you in on a little secret" → "All girls have this one fantasy…" → "one thing that they want", which is still open at 10.40s. Her answer card ("✨We wanna be shut up with a kiss✨") lands at 10.60s. Use this one when the payoff needs the words "one thing" in the setup, the way `Dd-Ss2PI0PB` (1.80M views) and `DcRZppCMir8` (532k) both did.
-  - Do NOT cut past 10.50s: she closes her own blank with a kiss.
-- audio-model: original sound (attach in-app, NEVER bake — rule 92)
-- her-audio: original sound — attachable in-app, her own voice, no music bed under the setup
-- pairs-with: any payoff object that is the ONE thing a man can do/own. e.g. "a Claude 20x Max plan"; a CLAUDE.md file that remembers every preference; localhost:3000 going to a published .com; a context window he actually manages.
-- premise: "Boys, do you wanna know the hottest thing that you can do for a girl? … I'm gonna let you in on a little secret. All girls have this one fantasy… one thing that they want"
-- slot: "the hottest thing that you can do for a girl" / "one thing that they want" -> a single ownable object. e.g. the 20x Max plan that stops him arguing with the agent at 11pm / the one folder per project that keeps Claude from getting lost / shipping the thing he kept promising her he would ship.
-- setup-length: 3.70s on the short cut, 10.50s on the long cut (does she finish the premise? YES — the blank is open at both boundaries and she does not answer until 10.60s). Measured at 30fps off the frames, both boundaries.
-- hero-test: HERO. He is the one who does the hottest thing and gets the fantasy right; she is the one reporting what he can do. The man is never the problem in this sentence.
-- addresses: boys — literally her first word, "Boys," / recognises: the man the payoff shows. SAME PERSON, which is the cleanest possible match on the `texting` failure (975 views) and the second time this creator has opened on the exact word.
-- original: yes — creator's own upload, no watermark, no third-party mark in any frame.
-- clean-window: n/a — OPENER donor (her setup card IS the hook)
-- file: clips/DeVINqsIOYb.mp4 (21.85s, 720x1280, 30fps)
-- ⚠ THEME NOTE for the architect, not a gate fail: this is a sibling of her `DeFvDtfA5ct` banked 10-12 ("the hottest thing that a girl can HEAR from a guy"); this one is the hottest thing he can DO. The "hottest thing" theme also aired as `fire_dev_v2` on 09-23 and MISSED. Two banked donors now share the theme — the architect should space them, not stack them.
-- ⚠ Guard 7 checked on the FULL 21.85s at 0.5fps: no product, no code, no link, no brand, no app. Clean. Test 8 clean — she never says Claude and names no tool.
+## DeVINqsIOYb — [PRUNED DO-NOT-SPLICE 2026-10-15, creator BURNED: Marcus never wants @annabellegesson in the bank again] · https://www.instagram.com/reel/DeVINqsIOYb/
 
-## DeVDrb4Iurq — a real woman straight to camera in a bright bathroom, royal-blue hoodie, small gold hoops, full-bleed 720x1280, her own white word captions: "If you're a boy and you wanna make a girl fold 😗🦋 / Then this video is for you 👊 / There is ✨one sentence✨ that you can say to a girl / and it will literally make her fall in love 😍"
-- source: @annabellegesson | https://www.instagram.com/reel/DeVDrb4Iurq/          <- read on the daily watchlist probe, `[premise]` lane since 2026-09-24
-- lane: premise
-- first-seen: 2026-10-14 | status: FRESH
-- stats-at-capture: 2,478 likes / 96 comments (2.47x her median engagement of 1,042 across 24 fetched reels; 717,158 followers, 23/24 serving media_url). Posted 2026-10-10. Free Graph download, zero cookie budget.
-- joke-structure: n/a — opener donor
-- the-beat: **cut at 10.10s**, the frame her premise finishes on. "and it will literally make her fall in love" holds through 10.00s; her next card ("This is the only day of the year that you can use this trick, though…") lands at 10.20s. Measured at 30fps off the frames.
-  - **Trimmable inner cut: 4.60-10.10s (5.50s) is the premise proper** and sits in the winning band. 0.00-2.60s is the addressee line ("If you're a boy and you wanna make a girl fold"), 2.80-4.40s is a dead "Then this video is for you" beat the architect can drop without losing anything. A 0.00-2.60s + 4.60-10.10s assembly is legal and tighter; it is not required.
-- audio-model: original sound (attach in-app, NEVER bake — rule 92)
-- her-audio: original sound — attachable in-app, her own voice, no music bed under the setup
-- pairs-with: any payoff that is ONE LINE he says or sends. e.g. a one-line prompt that ships the feature; the commit message; the text he sends her at 2am that is just a deploy URL; "it's live."
-- premise: "If you're a boy and you wanna make a girl fold… There is ✨one sentence✨ that you can say to a girl and it will literally make her fall in love"
-- slot: "one sentence that you can say to a girl" -> a single line of text, which is the most literal one-object slot the bank holds. e.g. the sentence is a localhost:3000 link that is now a .com / "I built it" / a single prompt.
-- setup-length: 10.10s whole (does she finish the premise? YES — the blank is open at 10.00s and she does not answer until ~18s). The inner premise alone runs 5.50s. Measured at 30fps off the frames.
-- hero-test: HERO. He says the sentence, he wins; the sentence is his to own. The man is never the problem in this sentence.
-- addresses: boys — "If you're a boy" is the opening clause / recognises: the man the payoff shows. SAME PERSON.
-- original: yes — creator's own upload, no watermark, no third-party mark in any frame.
-- clean-window: n/a — OPENER donor (her setup card IS the hook)
-- file: clips/DeVDrb4Iurq.mp4 (24.80s, 720x1280, 30fps)
-- ⚠ DATE-PEGGED TAIL, and this is why the cut point matters: at 10.20s she says "This is the only day of the year that you can use this trick", and her answer at ~18s is "Are you today's date? Because you are a 10/10" — the reel was posted 10-10. **The donor beat ends at 10.10s, BEFORE any of that**, so nothing banked here is date-bound. Never extend the cut past 10.10s; the clip expires as a whole and does not as a donor.
-- ⚠ Guard 7 checked on the FULL 24.80s at 0.5fps: no product, no code, no link, no brand. Clean. Test 8 clean.
+## DeVDrb4Iurq — [PRUNED DO-NOT-SPLICE 2026-10-15, creator BURNED: Marcus never wants @annabellegesson in the bank again] · https://www.instagram.com/reel/DeVDrb4Iurq/
 
 ## DeHceiXo6cQ — [NOT BANKED, AD-REJECTED 2026-10-14] @sofia.zianii, woman to camera under a beamed ceiling, cream top, own word captions: "I literally cracked the code to getting everything that you want." Setup measured 0.00-6.00s at 30fps, blank open, and **all seven live gate tests PASS on the donor beat** — second-person sub-case, ungendered "you", hero is the viewer, singular withheld object, 6.00s clears test 6, her own upload, no Claude. **Killed by guard 7 on the frames at ~62s: "Which I actually go deeper into this in my 30 day reset… So if this sounds like you, go grab it."** That is her own gated product pitched on camera, and her sibling post `DeXSXVHoK3Y` is literally "comment RESET for my 35 day reset", which confirms the reset is her funnel. Rule 92 would attach HER sound and credit HER handle on our reel, carrying the pitch. Same shape and same ruling as @hothighpriestess/`DeNeXenovVn` (10-12). · https://www.instagram.com/reel/DeHceiXo6cQ/ · 1,784 likes (5.42x her median of 329) · status: AD-REJECTED (2026-10-14)
 
@@ -112,33 +70,7 @@ touched.
 
 ## DePZ94bx5Hg — [NOT BANKED] tombstone (tests 1/4) @programmergrind. **Its borrowed opener is REAL and the cover hides it, which confirms 10-12 and refutes 10-11 a second time:** 0.00-5.50s is a borrowed clip of a BOY AND GIRL on a sofa sharing a chicken tender and then kissing, under a card reading "plan a", before a hard cut to him at his desk over an eight-pane agent terminal wall. IG's cover for this reel is the TERMINAL. Test 1 excludes a couple by name and she never speaks; "plan a" is a joke card, not a premise with a slot (test 4). His biggest in-window reel (150,158 engagement, 17.15x), Graph-served so it cost zero cookie budget. · https://www.instagram.com/reel/DePZ94bx5Hg/ · status: DO-NOT-SPLICE (2026-10-14)
 
-## DeFvDtfA5ct — a real woman straight to camera in a pale bedroom under a green ceiling fan, black crew tee, two thin gold necklaces, full-bleed 720x1280, her own white word captions: "Boys, do you wanna know the hottest thing that a girl can hear from a guy? 😊😊 / We don't wanna hear that we have "nice eyes" or a "perfect body" 🙊 / Save it 😌 / We wanna tell a guy something and then have him reply and say…"
-- source: @annabellegesson | https://www.instagram.com/reel/DeFvDtfA5ct/          <- read on the daily watchlist probe, `[premise]` lane since 2026-09-24
-- lane: premise
-- first-seen: 2026-10-12 | status: FRESH
-- stats-at-capture: 539 likes / 8 comments (0.37x her median engagement of 1,462 across 24 fetched reels; 717,268 followers, 25/25 serving media_url). Posted 2026-10-04. **Picked purely on GATE FIT and it is her WORST-performing in-window reel by ratio** — the `[premise]`-lane exception (Marcus, 2026-09-27) is the only reason it was even looked at. Its 94,269-like sibling in the same window (`DeFwIy8gJwV`) fails test 2 on audience: "Start making the first move on guys" makes the GIRL the hero.
-- joke-structure: n/a — opener donor
-- the-beat: **cut at 3.567s (the recommended bank), with two legal longer options.** All boundaries measured at 30fps off the frames, not estimated:
-  - **3.567s — RECOMMENDED.** Ends on her question, blank wide open, nothing answered. 3.57s clears the test-6 floor and leaves the most payoff room.
-  - 6.633s — question + BOTH eliminations ("nice eyes", "perfect body"). Same length as 10-11's `DeIMulcIBKE` (6.63s) and the same trade: the elimination is what makes it gate-strong and what eats the payoff.
-  - 7.700s — adds "Save it 😌". Longest, best rhythm, worst arithmetic: taste.md measures the account's four hits at 7.6-8.2s of average watch time, so a 7.7s donor leaves the median viewer under a second of payoff, and the payoff object is the thing that gets forwarded.
-  - ⚠ **The first 0.137s is DIGITAL SILENCE** (-113 dBFS, n=0-3); her first voiced sample is n=4 @ 0.164. Start at n=4 (0.133s) if the dead air shows, which costs 0.13s and still clears the floor at 3.43s.
-- audio-model: original sound (attach in-app, NEVER bake — rule 92)
-- her-audio: original sound — her speech carries the whole beat and her own word captions track it. Attach @annabellegesson's reel audio in-app.
-- pairs-with: any single thing Marcus can show a man SAYING or a screen replying with — a terminal printing "I remember that. You told me."; Claude recalling a decision from three sessions back; the CLAUDE.md line he wrote once and never had to repeat. Her own payoff is literally a man remembering something she told him, which maps onto context/memory with no translation at all.
-- premise: "Boys, do you wanna know the hottest thing that a girl can hear from a guy? We don't wanna hear that we have "nice eyes" or a "perfect body". Save it."
-- slot: "the hottest thing that a girl can hear from a guy" -> ONE blank, filled by a thing he SAYS (or a screen that says it for him). The eliminations are explicit, in quote marks, and they are the "not money. not power." grammar on the account's two million-view reels: she names the two obvious answers and throws them away before the blank opens. e.g. `-> "I remember that. You told me."` / `-> a terminal that remembers what you told it in August`.
-- setup-length: 3.57s banked (0.000-3.567; 0.133-3.567 = 3.43s if the silent head is trimmed). Clears the 3s floor, under the 4.03/4.60s winning band. The 6.63s and 7.70s alternates are recorded in `the-beat`.
-- hero-test: HERO, and more squarely than anything else in the bank this week. The man is the one who says the hottest thing; she is handing him the line and telling him the obvious compliments are not it. Her first word is "Boys," — the audience is addressed by name in the first 0.4 seconds.
-- addresses: "Boys" — said out loud and burned on screen at 0.00s / recognises: the man whose screen or mouth delivers the payoff line. Same person, no gap. This is the cleanest addresses/recognises match the bank has banked: no "girlies" redirect, no ungendered "you" that has to be argued for, no age anchor ("older men", "grown men", husbands) that test 2 rejects.
-- original: yes — creator's own upload. No watermark, no borrowed footage, no reply-to-comment sticker in frame.
-- clean-window: n/a — OPENER donor (her setup card IS the hook)
-- file: clips/DeFvDtfA5ct.mp4 (18.13s total, 720x1280 h264 30fps, full-bleed, NO letterbox bars — bank the 0.00-3.567 head)
-- caption boundaries, 30fps, for anyone re-deriving the cut: "Boys, do you wanna know the hottest thing that a girl can hear from a guy? 😊😊" 0.000-3.567 · "We don't wanna hear that we have "nice eyes" or a "perfect body" 🙊" 3.600-6.633 · "Save it 😌" 6.667-7.700 · "We wanna tell a guy something and then have him reply and say…" from 7.733 · "I remember that. You told me." ~11.3 · "The guys remembering the little things that we tell them" ~13.3 · "That is everything to us" ~16.0 to the end at 18.13.
-- test-1 AI check, all three run and all three clean: (a) bio "I love to yap & give advice🫶🏻 / TikTok @annabellegesson / Collaborations: Annabelle@outloud…" and name "Annabelle Gesson" carry no AI / avatar / virtual / generated / synthetic marker, and the bio names a management contact, which an avatar account does not have; (b) feed shape is varied and human across the 10-day window — a beach house on stilts, a bikini pool shot, an ice-cream cone, two friends on a lawn, to-camera reels in at least three different rooms and outfits — not the daily identical-framing quote cadence that is the avatar tell; (c) NO generator watermark in any sampled frame. Affirmative: a real ceiling fan turning behind her, hair falling across the shoulder, lip movement tracking the word captions frame for frame.
-- guard 7 note: **frame-sampled end to end before banking, not screened on the caption alone.** 18.13s total, every second read: no product, no app, no code, no link, no "comment X", no phone screen in frame. Caption is "The only thing a girl wants to hear >>". Clean. (This check is not boilerplate today — it is what killed the other four candidates of the morning; see the three `@hothighpriestess` tombstones below.)
-- ⚠ SIBLING ENTRY, READ BEFORE STAGING: `DZGH-MeorB6` (same creator, FRESH since 2026-09-24) opens on the SAME six words — "Boys, do you wanna know the hottest thing that **you can do** for a girl?" This one is "the hottest thing that **a girl can hear from a guy**". Different slot (an action vs a line) and only this one carries eliminations, so they are complementary, not duplicates — but they are the same creator and the same opening breath, so do not air them near each other. The watchlist also records that her hottest-thing theme already aired once, as `fire_dev_v2` on 2026-09-23, and MISSED; theme cooldown applies.
-- ⚠ PROCESS NOTE, worth more than this entry: **IG's `thumbnail_url` is NOT frame 0.** This reel's cover is a frame from ~13s where she is mid-reaction saying "oh, yeah", and on that cover it screens as a reaction skit with no premise — it was within one judgement of being rejected on the cover like every other candidate today. The free cover read is a filter, never a verdict, on a creator who has already produced a gate-passer.
+## DeFvDtfA5ct — [PRUNED DO-NOT-SPLICE 2026-10-15, creator BURNED: Marcus never wants @annabellegesson in the bank again] · https://www.instagram.com/reel/DeFvDtfA5ct/
 
 ## DeXUUBNPSKe — [NOT BANKED] tombstone (test 1, also 2) · @programmergrind, FROM MARCUS'S SAVED COLLECTION (read-saved.sh, 2026-10-12). It IS a borrowed-opener reel: 0.00-5.33s is a BORROWED clip of a woman with her hands over her face, crying/laughing, under a card "I'm just trying to save our relationship 💔", over a phone showing a long blue iMessage, then a hard cut to him at his desk over a four-agent terminal · https://www.instagram.com/reel/DeXUUBNPSKe/ · 7,624 likes / 73 comments, 2026-10-11 · cost ONE free Graph download (he serves 17/25), ZERO cookie budget.
 - Test 1: she never speaks. The premise is a CARD and her face is a reaction, not a statement — the same failure class as 10-11's `DeKDpWyhQ6Y`. Test 2 compounds it: "I'm just trying to save our relationship" is a negative frame with nothing positive about a man in it.
@@ -517,25 +449,7 @@ touched.
 - clean-window: n/a — OPENER donor; her card + captions carry the setup
 - file: clips/DcARPbGBBVI.mp4 (only 0.00-5.70 is the donor beat)
 
-## DdkSYlgxGQY — @annabellegesson to camera in a bedroom, blue hoodie, burned captions line by line: "Boys, I have a question for you" / "You know how girls love receiving flowers?" / "Like, if a guy gets flowers…" / "we know he is the one" / then asks "what is the guy equivalent to flowers? What is your version of flowers?"
-- source: @annabellegesson | https://www.instagram.com/reel/DdkSYlgxGQY/          <- [premise] lane, read with NO spike bar (09-27 exception); it also happens to be her spike
-- lane: premise
-- first-seen: 2026-09-27 | status: RESERVED (Marcus 2026-10-08 shoot, reel 8; do not use in routine builds) 
-- stats-at-capture: 10,099 likes / 7,452 comments (45.6x her median; the comments ARE the answers to her question), 2026-09-21. Her earlier "guy equivalent to a girl receiving flowers" video did 8M+ views by her own account (DdwZGlVIMra, 0-2.4s, too short to use)
-- joke-structure: n/a — opener donor
-- the-beat: JUMP CUT recommended: 0.00-2.00 ("Boys, I have a question for you.") + 9.38-11.52 ("what is the guy equivalent to flowers?") = 4.14s, inside the winning band, question open, then hard cut to Marcus. Straight alternates: 0.00-4.28 (ends on "receiving flowers?", blank implied) or 0.00-11.52 (whole setup, too long for rule 94). Word stamps (mlx_whisper 09-27): Boys 0.00 / you. 1.82-2.00 / flowers? 3.84-4.28 / one. 7.46-7.76 / My question is 8.06-8.96 / what 9.38 / guy 10.02 / equivalent 10.32 / flowers? 11.12-11.52 / What is your version of flowers? 11.98-13.56
-- audio-model: original sound (attach in-app, NEVER bake — rule 92)
-- her-audio: original sound — attachable in-app. Clean, no profanity
-- pairs-with: "what is the guy equivalent to flowers?" -> one tribe object as the answer: tokens resetting midweek (the proven midweek_reset payoff), a 20x Max plan upgrade, "she renewed my Claude plan", a green CI run. Her own comments section is the audience telling her what it is
-- premise: "Boys, I have a question for you… what is the guy equivalent to flowers?"
-- slot: "the guy equivalent to flowers" -> one object. Wide open; she never answers it herself
-- setup-length: 4.14s on the recommended jump cut (2.00 + 2.14); 4.28s straight to "receiving flowers?"
-- hero-test: the man is the hero — she is asking what makes HIM feel loved, flattering, no negative frame
-- addresses: "Boys" / recognises: the man whose answer is the payoff — same person
-- original: yes — creator's own upload
-- ⚠ PREMISE HISTORY: the flowers-for-men family already aired on this account twice (`roses`, then `midweek_reset` 09-16 with @abb.davv's beat, 43 shares in 10h). Different girl, different words, so the reuse law applies (new donor + NEW payoff object), but never re-air the tokens-resetting payoff on it
-- clean-window: n/a — OPENER donor; her own burned captions carry the setup and match her words
-- file: clips/DdkSYlgxGQY.mp4 (15.0s)
+## DdkSYlgxGQY — [PRUNED DO-NOT-SPLICE 2026-10-15, aired as the 1012_audio opener 2026-10-15; creator BURNED: Marcus never wants @annabellegesson in the bank again] · https://www.instagram.com/reel/DdkSYlgxGQY/
 
 ## DdwliSKI4-J — [NOT BANKED] tombstone (tests 2/3) · a dark-haired woman to camera in a parked car, burned word-caption "Harder does not mean" (0.0-1.5s), an uncaptioned middle, then "Harder means…" (4.0-5.2s); hard cut at ~5.5s to @herlastsightband's own stage footage · https://www.instagram.com/reel/DdwliSKI4-J/ · first-seen 2026-09-27 · marcus-note 2026-09-27: Marcus's own test donor, NOT a lane source; the ruling question is withdrawn, no rule change
   ⚠ MEASURED, NOT GUESSED, AND THIS ONE IS A RULING QUESTION. Out of Marcus's Saved. The account is a METAL BAND and the reel is NOT them: it is a borrowed woman-to-camera opener with their punchline in the IG caption ("Harder means to break the plate on your head") — the @programmergrind / @tradonatev1 donor-source pattern, third instance. Tests 1, 4, 5(partial), 6, 8 pass: real woman, full-bleed, burned captions, setup runs 0.00-5.2s COMPLETE with an elimination and an open blank ("X does not mean A. X means ___"), 18,954 likes, Graph-served so it cost zero cookie budget. It fails tests 2 and 3 on ONE noun: there is no man in her sentence. "Harder" is a music-scene word, so the blank wants a heaviness, not an object the viewer owns. The FORM is the best the inbox has produced; only the subject is wrong. Clip kept this run for a Marcus look, pruned by a later scan if he does not rule.
@@ -729,25 +643,7 @@ touched.
 
 ## DIwXzqnxjUM — [PRUNED DO-NOT-SPLICE] [NOT BANKED] @casiahwest to camera: "You know a man is lying to you if he says 'I wouldn't do that' as opposed to 'I didn't do that'…" (62s) · https://www.instagram.com/reel/DIwXzqnxjUM/ · first-seen 2026-09-24
 
-## DZGH-MeorB6 — @annabellegesson to camera in a parked car, burned white card over her head: "Boys, do you wanna know the hottest thing that you can do for a girl?" — she asks it, holds 3.5s, then "Come here" and her own answer
-- source: @annabellegesson | https://www.instagram.com/reel/DZGH-MeorB6/          <- creator handle, on the [premise] watchlist since 2026-09-24 (saved-inbox step)
-- lane: premise
-- first-seen: 2026-09-24 | status: FRESH
-- stats-at-capture: 16 weeks old; top comments 2,282 / 776 / 455 likes (like count withheld on the web read; probe on next scan)
-- joke-structure: n/a — opener donor
-- the-beat: cut at 3.70s, the first scene cut after "girl?" (word stamp 3.28-3.52s). Usable window 0.000-3.700.
-- audio-model: original sound (attach in-app, NEVER bake — rule 92)
-- her-audio: original sound — attachable in-app
-- pairs-with: a "hottest thing a guy can do" payoff naming a Claude object the viewer owns — e.g. shipping the app he built on Claude Code, or handing her the phone while Claude finishes the build
-- premise: "Boys, do you wanna know the hottest thing that you can do for a girl?"
-- slot: "the hottest thing you can do for a girl" -> one act: ship the App Store build Claude wrote / show her the token meter and put the laptop down
-- setup-length: 3.52s spoken, 3.70s to the first cut (yes — she finishes the premise; card up from frame 0)
-- hero-test: the man is the hero — she is about to reward "the hottest thing" he does, not diagnose a flaw
-- addresses: "Boys" / recognises: the man who does the thing — same person
-- original: yes — creator's own upload
-- clean-window: n/a — OPENER donor (her setup card IS the hook)
-- ⚠ THEME COOLDOWN (a miss is disproof, ig-reel §2): this exact premise aired as `fire_dev_v2` (Ddp8V9kuwq8, 2026-09-23 night) via a DIFFERENT woman (@2aussie through a @tradonatev1 repost, 3.23s) and sat at 1,880 views / 8 shares at 15h — a MISS. Do NOT open the very next post with her; she is a proven-shape donor for a later slot, and her original runs 0.5s longer than the repost that missed.
-- file: clips/DZGH-MeorB6.mp4 (21.76s; 25,187,370 B, md5 991856b897a79a91c5ec74b59e9813fe; h264 transcode by ig-fetch)
+## DZGH-MeorB6 — [PRUNED DO-NOT-SPLICE 2026-10-15, creator BURNED: Marcus never wants @annabellegesson in the bank again] · https://www.instagram.com/reel/DZGH-MeorB6/
 
 ## DVHDA5OiEgq — [PRUNED DO-NOT-SPLICE] [NOT BANKED] @thegroundedmen: "When was the last time you felt loved?" — text-and-voice piece aimed at men · https://www.instagram.com/reel/DVHDA5OiEgq/ · first-seen 2026-09-24
 
