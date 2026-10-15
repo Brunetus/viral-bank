@@ -418,26 +418,7 @@ touched.
 - ⚠ A TikTok watermark + "@spencer.barbosa" sits bottom-right of every donor frame. It names the creator, which is why test 7 can run at all, but it puts another platform's mark on our first frame — Marcus's call, recorded here rather than decided by the scan
 - file: clips/Dd1kEvAgli2.mp4 (88.98s; only 0.00-4.90 is the donor beat)
 
-## DbTQfj3hVF0 — a woman to camera in a sunlit backyard, grey moon tank top, full-bleed, burned serif card "The GREEN FLAGS that instantly make me like someone" with word-by-word captions under it; she throws out red flags in one breath and lands on green flags with the blank still open
-- source: @hannahkopen.co | https://www.instagram.com/reel/DbTQfj3hVF0/          <- her own upload; came in through Marcus's Saved collection (step 1b), ig-fetch only
-- lane: premise
-- first-seen: 2026-09-29 | status: FRESH
-- stats-at-capture: unknown — the reel is older than the 25-media business_discovery window, so no like/comment count is readable and there is no account ratio. @hannahkopen.co is 4,808 followers, 0/25 serving media_url (ig-fetch only, 1 slot spent). Marcus's save is the spike signal here, per step 1b
-- joke-structure: n/a — opener donor
-- the-beat: cut at 5.15s, the frame her premise finishes on. Word stamps off the frames (2fps + 10fps around the cut): People 0.00 / be 0.50 / always talking 1.00 / about 1.50 / red flags 2.00 / but 2.50 / I'm 3.00 / here 3.50 / to talk about the 4.00-4.40 / green flags 4.60-5.15. Her card holds 0.00-4.50 and drops at 4.50. Her next line ("What are the green flags?") starts at 5.20s, so 5.15 is the last frame with the blank still open. Do NOT run past 6.5s — from there she answers herself ("These are the green flags that make me instantly like someone… They are kind to service workers" at 13.5s)
-- audio-model: trending sound (add in-app) — she rides a licensed track, her voice cannot be attached, flag for the architect
-- her-audio: licensed/trending track — rule 92 cannot attach it. ⚠ BEST-EFFORT CALL, NOT MEASURED: every one of her last 25 media is withheld by Graph (0/25 serving), which BANK.md reads as the licensed-audio tell. Verify in-app before attaching; if her audio page turns out to be an original sound, this line is wrong and the entry should say so
-- pairs-with: one habit of Marcus's the cut shows as the green flag — checks his token usage before his phone, runs the QA agent unasked, reads the diff, writes the plan before the code
-- premise: "People be always talking about red flags, but I'm here to talk about green flags." (spoken, 0.00-5.15s; her burned card reads "The GREEN FLAGS that instantly make me like someone")
-- slot: "green flags" -> the one green flag the cut shows. e.g. he checks his token usage before he checks his phone / he asked the agent to review its own work. The card's "that instantly make me like someone" is what makes the blank a DESIRE and not a list
-- setup-length: 5.15s (0.00-5.15, premise COMPLETE, nothing truncated). Just past the 4-5s ideal band, above the 3s floor, and there is a second legal out at 4.50s where the card drops — but 4.50 cuts her mid-phrase ("here to talk about the…"), so 5.15 is the real beat
-- hero-test: the man is the hero. Green flags are what she LIKES; the person being described is the one she wants, never the problem. This is the same premise family as `DdxZCCmR8i0`, the account's fourth hit (52,837 views / 990 shares / 1.87% share rate)
-- addresses: anyone who could be liked, stated in the first person ("make ME like someone") / recognises: the man watching, who supplies the green flag. ⚠ NOT THE SAME WORD: she says "someone", never "men". The man maps himself onto her blank rather than being named in it, which is a softer fit than "the sexiest thing a man can do". Recorded, not smuggled — the architect should read this before picking it over a donor that says "men"
-- original: yes — creator's own upload, no watermark, no repost chain
-- clean-window: n/a — OPENER donor (her setup card IS the hook)
-- ⚠ GUARD-7 DISCLOSURE, and the scan's judgment call. The DONOR BEAT (0.00-5.15s) carries nothing promotional. But the host reel's last 13 seconds are a lead-magnet CTA: at 88-101s she says "if you'd like my regulate-and-attract guide and playlist, comment REGULATE below this video." That is an account promoting its own service, which guard 7 names. The scan banked it anyway because the banked beat lends no marketing and step 1b explicitly contemplates banking a fragment of a longer reel (`DaWr4F9OH9q` is 4.03s of a 76s host). **Never cut past 5.15s, and never show the tail.** If Marcus disagrees with the call, this entry becomes AD-REJECTED and the tombstone stops it coming back
-- ⚠ The clip file is 145 MB (101.6s at 1080x1920, 11.4 Mbps) — 13% of the whole bank in one file, because ig-fetch pulls the highest-bitrate source. Noted, not acted on
-- file: clips/DbTQfj3hVF0.mp4 (101.59s; only 0.00-5.15 is the donor beat)
+## DbTQfj3hVF0 — [PRUNED DO-NOT-SPLICE 2026-10-15, Marcus: "very bad"] @hannahkopen.co, green flags card in a sunlit backyard · https://www.instagram.com/reel/DbTQfj3hVF0/
 
 ## Ddsm0q6R9ip — @shrestha_mohanty20 to camera in the back of a car, white shirt, full-bleed, one burned caption line at a time: "The most underrated attractive quality," / "that most people don't talk about," / then her answer. Native English, no music bed, blank held open for the whole setup
 - source: @shrestha_mohanty20 | https://www.instagram.com/reel/Ddsm0q6R9ip/          <- her own upload; 0/24 serving media_url, so this cost 1 of the day's 8 ig-fetch slots (the slot the 09-28 scan promised it after DbTQfj3hVF0)
@@ -492,25 +473,7 @@ touched.
 - clean-window: n/a — OPENER donor (her setup card IS the hook)
 - file: clips/DdzE1pVTdE-.mp4 (13.65s; only 0.00-3.10 is the donor beat)
 
-## Dd0ePgqx004 — @prettylushangel to camera in RN scrubs and a stethoscope, full-bleed, word-by-word burned captions: "One of my favorite things about men is how simple they are. Like for example if you need to get a man a gift, you don't have to go anywhere. You don't have to spend any money…"
-- source: @prettylushangel | https://www.instagram.com/reel/Dd0ePgqx004/
-- lane: premise
-- first-seen: 2026-09-28 | status: FRESH
-- stats-at-capture: 0 likes / 0 comments, posted 05:52 UTC today (~2h old at capture). ⚠ Her account median engagement is 1, so no ratio she produces is a spike signal — banked on gate fit under the [premise] no-spike-bar rule (Marcus 2026-09-27), not on numbers. 54 followers, 25/25 serving
-- joke-structure: n/a — opener donor
-- the-beat: cut at 7.60s, after the second elimination and before her own answer. Word stamps: One 0.00 / favorite 0.58 / things 0.84 / about 1.04 / men 1.28 / how 1.66 / simple 1.76 / they 2.04 / are 2.22-2.42 // like for example 2.42-3.74 / if you need to get a man a gift 3.74-5.04 // "you don't have to go anywhere" 5.04-6.18 // "you don't have to spend any money" 6.46-7.48 // her own answer starts 8.12. Short alternate at 2.42s is the premise alone and lands UNDER test 6's 3s floor — use the 7.60 cut
-- audio-model: original sound (attach in-app, NEVER bake — rule 92)
-- her-audio: original sound — her own upload, her voice, no track under it
-- pairs-with: the gift/gratitude beat exactly — hard cut to Marcus: "you don't have to go anywhere, you don't have to spend any money" -> a whiteboard / a tokens-reset notification / a 20x Max plan. Also fits any "what he actually wants" payoff
-- premise: "One of my favorite things about men is how simple they are. Like for example if you need to get a man a gift, you don't have to go anywhere. You don't have to spend any money"
-- slot: "all you have to do is ___" -> the two eliminations she spends (nowhere to go, no money) are the "not money, not power" machine, and the blank is whatever object the cut shows
-- setup-length: 7.48s spoken to the last elimination / 7.60s cut (premise lands 2.42s, elimination 1 at 6.18s, elimination 2 at 7.48s, her answer at 8.12s). Above the 4-5s winning band; the architect may trim to 6.18s after one elimination and still hold the blank
-- hero-test: the man is the hero — "simple" is said as a compliment, the thing she likes about men, not a complaint about them
-- addresses: everyone, about men / recognises: the man watching — same person
-- original: yes — creator's own upload
-- clean-window: n/a — OPENER donor (her setup card IS the hook)
-- ⚠ ARCHITECT NOTE: her OWN payoff after 8.12s is a crude sex joke ("all you have to do is get on your knees"). It is outside the donor beat and must never ride along — cut at 7.60s and not one frame later
-- file: clips/Dd0ePgqx004.mp4 (13.19s; only 0.00-7.60 is the donor beat)
+## Dd0ePgqx004 — [PRUNED DO-NOT-SPLICE 2026-10-15, Marcus: "very bad"] @prettylushangel, "favorite things about men is how simple they are" in scrubs · https://www.instagram.com/reel/Dd0ePgqx004/
 
 ## DdwWRyTRMut — [NOT BANKED] @programmergrind's 579x reel opens 0.00-3.40s on a BORROWED clip of a couple, blindfolded boy and girl nose-to-nose, burned card "Seeing if he knows my height", then hard-cuts to his own four-pane Claude Code terminal wall · https://www.instagram.com/reel/DdwWRyTRMut/ · gate-reject test 1 (a COUPLE, which test 1 excludes by name — not a woman to camera, and no premise, no slot; the card is a trend label). 304,463 likes / 2,578 comments. Graph-served, so zero cookie cost. His one fetch per scan is spent; recorded so no later scan re-spends it. Format captured in playbook.md · first-seen 2026-09-28
 
