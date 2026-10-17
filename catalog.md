@@ -20,6 +20,90 @@ touched.
 
 <!-- entries below, newest first -->
 
+## DYH7OUkMOUw — @chelskocoaching straight to camera in a purple-lit studio, black tank, a desk mic in front of her (solo, not a podcast guest), full-bleed, white burned word-captions under the mic: "he's not single cause he can't get a woman" / "he's single" / then her answer
+- source: @chelskocoaching | https://www.instagram.com/reel/DYH7OUkMOUw/          <- Marcus's Saved (read-saved.sh 2026-10-17); older than her 25-media window, so it cost 1 of the day's 8 ig-fetch slots (slot 1)
+- lane: premise
+- first-seen: 2026-10-17 | status: FRESH
+- stats-at-capture: n/a — the reel is older than the 25 media business_discovery returns, so no like count was readable; Marcus's save is the spike signal (step 1b). Creator: Chelsko, 333,942 followers, 17/25 serving media_url, bio "I help men attract healthy love", MTV/Disney/Food Network credits, podcast @the.mens.room.pod. Real person, no AI markers in bio, name or frames
+- joke-structure: n/a — opener donor
+- the-beat: cut at 3.55s, after "He's single" and before "because". Word stamps (mlx-whisper): He's 0.00 / not 0.72 / single 0.86 / because 1.22 / he 1.42 / can't 1.54 / get 1.80 / a 1.90 / woman 2.04 / He's 2.80 / single 3.24 / because 3.58 / he 4.30 / can't find a woman worth investing in 4.48-6.00. ⚠ Her burned card flips to the ANSWER ("because he can't find a woman worth investing in") at 3.90s, measured at 10fps, so never run past 3.85s
+- audio-model: original sound (attach in-app, NEVER bake — rule 92)
+- her-audio: original sound — her voice only, no music bed under the setup. Verify her audio page in-app before attaching (the clip is Graph-withheld on this reel)
+- pairs-with: the reason he is single, shown as his setup: a 4-agent terminal wall at 2am, a Claude 20x Max plan receipt, the /stats screen with 24 billion tokens
+- premise: "He's not single because he can't get a woman. He's single…" (spoken verbatim; her full line continues "…because he can't find a woman worth investing in")
+- slot: "he's not single because he can't get a woman. he's single because ___" -> ONE object or commitment he chose over dating. The elimination ("not because he can't get a woman") is built in, which is the `one_thing` shape: claim, elimination, blank. e.g. "…because Claude Code doesn't need a good-morning text" / the 20x Max plan
+- setup-length: 3.55s (0.00-3.55, premise complete up to the blank; "because" can ride to 3.85s at most). Above the 3s floor, just under the 4.03/4.60s band. The whole reel is 6.43s
+- hero-test: the man is the hero. He is single by CHOICE and by standard; she is defending him against the assumption that he can't get a woman
+- addresses: the general listener, about "him" / recognises: the single man watching. Same person, and on-audience by construction: 85% of the reach is men 18-34, mostly single, and her whole account is aimed at men
+- original: yes — creator's own upload, no watermark, no repost chain
+- ⚠ guard 7 note: her ACCOUNT sells coaching (bio link funnel). This 6.43s reel carries no CTA, no code and no product in any frame or word, so it was banked; flip to AD-REJECTED on Marcus's word
+- clean-window: n/a — OPENER donor (her setup card IS the hook)
+- file: clips/DYH7OUkMOUw.mp4 (6.43s, 1080x1920; only 0.00-3.55 is the donor beat)
+
+## DbqLa2UTlUI — @brennaberg handheld selfie in her kitchen, black tank, full-bleed, burned card "Call me crazy, but I think the sexiest thing that a man can do" held 0.00-4.40s, then her answer
+- source: @brennaberg | https://www.instagram.com/reel/DbqLa2UTlUI/          <- Marcus's Saved (read-saved.sh 2026-10-17). The file was already on disk from Marcus's 10-15 donor hunt (preview-1015/), so it cost ZERO fetch slots
+- lane: premise
+- first-seen: 2026-10-17 | status: FRESH
+- stats-at-capture: n/a — older than her 25-media window, no like count readable; Marcus's save is the spike signal. Creator: Brenna Berg, 378,704 followers, 0/25 serving
+- joke-structure: n/a — opener donor
+- the-beat: cut at 4.35s, after "is" and before "just". Word stamps (mlx-whisper): Call 0.00 / me crazy 0.20-0.36 / but 0.98 / I think 1.18-1.60 / the 1.84 / sexiest 2.08 / thing 2.72 / that 3.04 / a man 3.28-3.40 / can do 3.56-3.80 / is 4.10 / just 4.56 / do what he said he was gonna do 4.84-6.50. Her burned card flips to the answer ("is just do what he said he was gonna do.") at 4.40s, measured at 10fps
+- audio-model: original sound (attach in-app, NEVER bake — rule 92)
+- her-audio: original sound — her voice, no music bed. Her whole feed is Graph-withheld (0/25), normally the licensed-audio tell, but the file's first 6s is speech only. Verify in-app
+- pairs-with: the thing he said he'd do, done on screen: the .com going live, the app shipped at 2am, "he said he'd fix it and the PR merged"
+- premise: "Call me crazy, but I think the sexiest thing that a man can do is…" (spoken verbatim; the card reads the same)
+- slot: "the sexiest thing a man can do is ___" -> ONE act or object he shows. Superlative with one blank; no elimination, but "call me crazy" signals the answer is unexpected, which licenses a nerd object
+- setup-length: 4.35s (0.00-4.35, premise complete). Dead centre of the 4.03/4.60s winning band
+- hero-test: the man is the hero. A superlative about what he can do; nothing wrong with him
+- addresses: the general listener, about "a man" / recognises: the man watching. Same person
+- original: yes — creator's own upload, no watermark
+- ⚠ theme note: "sexiest/hottest thing a man can do" is her banked `DdRj8VNRO3D` frame and aired once as `fire_dev_v2` (09-23, MISS). The frame is reusable, only the object is spent, but give it a fresh object
+- clean-window: n/a — OPENER donor (her setup card IS the hook)
+- file: clips/DbqLa2UTlUI.mp4 (8.36s, 720x1280; only 0.00-4.35 is the donor beat. ⚠ 720p source, so it upscales on a 1080 timeline)
+
+## DelAufYNUUN — @datingwjessie to camera, warm-lit room, long auburn hair, smiling, full-bleed, her own white word-captions at the top: "You wanna know what" / "makes somebody" / "attractive," / "and it has nothing to" / "do with how they look," then her answer
+- source: @datingwjessie | https://www.instagram.com/reel/DelAufYNUUN/          <- watchlist [saved] lane; Graph-served, so a FREE download (zero cookie budget)
+- lane: premise
+- first-seen: 2026-10-17 | status: FRESH
+- stats-at-capture: 783 likes / 13 comments (1.81x her median, posted 2026-10-17 02:15 UTC, ~5h old at capture). 27,657 followers, 25/25 serving
+- joke-structure: n/a — opener donor
+- the-beat: cut at 4.90s, after "look?" and before "Is". Word stamps (mlx-whisper): You want to know 0.00-0.58 / what 0.72 / makes 0.88 / somebody 1.10 / attractive 1.52 / and 2.10 / it has nothing 2.78-3.06 / to do with 3.62-3.94 / how they look 4.10-4.38 / [pause] / Is 5.50 / are they good at having a conversation 5.54-7.80. Her caption flips to the answer ("is are they good at having") at 5.00s
+- audio-model: original sound (attach in-app, NEVER bake — rule 92)
+- her-audio: original sound — her voice, no music bed under the setup
+- pairs-with: the non-looks thing that makes him attractive, shown: a shipped app, the /stats screen, the 20x Max plan
+- premise: "You want to know what makes somebody attractive, and it has nothing to do with how they look?" (spoken verbatim)
+- slot: "what makes somebody attractive… has nothing to do with how they look" -> ONE object or trait. Claim plus elimination (not looks), one blank: the `one_thing` shape. Her answer ("are they good at having a conversation") is never shown
+- setup-length: 4.90s (0.00-4.90, premise complete). Top of the winning band
+- hero-test: the person with the trait is the hero; in the cut that is the man watching. Nothing in her sentence is wrong with anyone
+- addresses: anyone, stated as a general claim / recognises: the man watching, who supplies the object. ⚠ NOT THE SAME WORD: she says "somebody", never "a man". Same softness as `Ddsm0q6R9ip` ("most people") and `DbTQfj3hVF0` ("someone"), both banked
+- original: yes — creator's own upload
+- clean-window: n/a — OPENER donor (her setup card IS the hook)
+- file: clips/DelAufYNUUN.mp4 (66.31s; only 0.00-4.90 is the donor beat)
+
+## DZEhefevFsy — [NOT BANKED] tombstone (test 1: AI avatar, caught by (b) feed shape) @stellacarvenne "If you know a man who's always awake late at night, that's not insomnia…" Positive about men, clean elimination, 3.82s, but the feed is the generated-donor tell: the SAME woman in six different podcast studios across one week, identical black-and-white grade, up to four quote-clips a day, a $12 "Letters" product in the bio. Same shape as @lilybrooksmind. Handle to Dropped, never [premise]. Saved 2026-10-17 · https://www.instagram.com/reel/DZEhefevFsy/ · first-seen 2026-10-17
+
+## DdTriwWB4H1 — [NOT BANKED] tombstone (test 8, also test 2) @launchwhasmik "Girls, if you found a man that only has time to spend with you and Claude or Codex, that man is the right one." She SAYS Claude at ~3.5s and addresses girls. It is the account's own payoff in her mouth, which is exactly why it cannot open one. Saved · https://www.instagram.com/reel/DdTriwWB4H1/ · first-seen 2026-10-17
+
+## DakdLX_SKOW — [NOT BANKED] tombstone (tests 2/3/4) @thesheemamahek "I don't know who needs to hear this but being hated by the losers and idiots is the price you pay for not being one of them." Motivation with no man and no blank (the "let them hate" family). Saved · https://www.instagram.com/reel/DakdLX_SKOW/ · first-seen 2026-10-17
+
+## DdyYsXFIZ8G — [NOT BANKED] tombstone (tests 2/3/4) @sofia.zianii walking selfie, "You guys got to just be funny with it… it's not that serious." No man, no slot, 67s vlog. Cost 1 ig-fetch slot (Saved, outside her 25-media window) · https://www.instagram.com/reel/DdyYsXFIZ8G/ · first-seen 2026-10-17
+
+## DbQZF2PvlQn — [NOT BANKED] tombstone (test 1) @weirdy_beardysfunkos Funko-figure skit doing the house frame verbatim ("Men only want one thing. And it's not money. It's not power." → Vegeta "I wanna be a super saiyan!"). No woman, toys. Format re-sight of the `one_thing` frame only · https://www.instagram.com/reel/DbQZF2PvlQn/ · first-seen 2026-10-17
+
+## DehtTimC4yH — [NOT BANKED] tombstone (test 1) @too.cute.labs dog account ("REAL DOPAMINE", a lab getting belly rubs), bio "The best brands put ads on labs". No woman, no premise · https://www.instagram.com/reel/DehtTimC4yH/ · first-seen 2026-10-17
+
+## DeinJjvgbDC — [NOT BANKED] tombstone (tests 1/2/4) @martinwang.mp4 man to camera, personal-branding tactic card ("I gained 40k followers by implementing this one change") · https://www.instagram.com/reel/DeinJjvgbDC/ · first-seen 2026-10-17
+
+## Ddjkp9INMGO — [NOT BANKED] tombstone (test 1) @only.onam text-card POV over a hooded figure at a code wall ("POV: you wake up in bed looking for your bf after he told you he would be done at 10pm (it's 3am)"). No woman to camera; a man's own coding-humour account · https://www.instagram.com/reel/Ddjkp9INMGO/ · first-seen 2026-10-17
+
+## DbG9ZdHJO7p — [AD] tombstone (guard 7) @hyundaisandy, a Hyundai dealership sales consultant whose feed is customer-delivery congratulations; an account promoting its own service. Not fetched · https://www.instagram.com/reel/DbG9ZdHJO7p/ · first-seen 2026-10-17
+
+## DelBRHKIZ_o — [NOT BANKED] tombstone (tests 2/3/4) @hothighpriestess "What's the fastest way to manifest becoming a millionaire? Say these affirmations for seven days…" Answers itself, no man, app funnel account. Free Graph read · https://www.instagram.com/reel/DelBRHKIZ_o/ · first-seen 2026-10-17
+
+## DeiioSJIgU2 — [NOT BANKED] tombstone (tests 2/3/4) @hothighpriestess "What's the fastest way to make your life better? Right when you wake up… universe, surprise me today." No man, answers itself. Free Graph read · https://www.instagram.com/reel/DeiioSJIgU2/ · first-seen 2026-10-17
+
+## DegQaqaRKQ_ — [NOT BANKED] tombstone (test 1) @luvbyrika (tag page #greenflags, caption "fall in love with this kind of man") — she never speaks; the audio is a song lyric ("I've waited a hundred years…") from 2.26s. Cost 1 ig-fetch slot. Personal account (HTTP 400 on 10-15), never appendable · https://www.instagram.com/reel/DegQaqaRKQ_/ · first-seen 2026-10-17
+
+
 ## Deb2jOWoz0g — [AD] tombstone (guard 7, also tests 2/4) @hothighpriestess. Blank caption, so it could not be screened free; the free Graph download settled it. Woman to camera, full-bleed, real person, and the first 15s are a pure good-news affirmation ("Something wonderful is going to happen to you today… the door you thought was closed is going to open"). At **18.20s she pitches her own app**: "Before you keep scrolling, go on Stella. Tell it exactly what you want." @hothighpriestess is the founder of Stella, so this is an account promoting its own product, which guard 7 names exactly. No man in the sentence and no withheld object either. · https://www.instagram.com/reel/Deb2jOWoz0g/ · 1,033 likes (0.80x) · status: AD-REJECTED (2026-10-15)
 
 ## DeKnbWGI_aa — [NOT BANKED] tombstone (test 2) @hothighpriestess "Universe, make **the girl on the other side of the screen** have the luckiest week of her entire life yet. Send her $10,000 this week unexpectedly…" Blank caption again, settled on a free Graph download. The form is right — real woman, to camera, full-bleed — and the addressee is a WOMAN, named in the first sentence. The audience is 85% men 18-34; this orphans them in four seconds. No man set up, and the "slot" is a list of wishes she fills herself. Its FORMAT was captured as playbook #104. · https://www.instagram.com/reel/DeKnbWGI_aa/ · 873 likes (0.67x) · status: DO-NOT-SPLICE (2026-10-15)
@@ -603,7 +687,7 @@ touched.
 ## DdRj8VNRO3D — @brennaberg to camera on a couch, burned white sentence caption at the top: "The hottest thing that a man can do is take care of things." then "Plan the date, book the flights, get this, get that"
 - source: @brennaberg | https://www.instagram.com/reel/DdRj8VNRO3D/          <- from Marcus's Saved collection via read-saved.sh (saved-inbox step, 2026-09-24)
 - lane: premise
-- first-seen: 2026-09-24 | status: FRESH
+- first-seen: 2026-09-24 | status: STALE (2026-10-17)
 - stats-at-capture: not probed yet (uploader from ig-fetch info-json; business_discovery on the next scan)
 - joke-structure: n/a — opener donor
 - the-beat: cut at 3.54s, the end of "things." (word stamps: "do" 2.14s, "things." 3.54s). One unbroken take (no scene cut in 10.5s). Usable window 0.000-3.540.
@@ -668,7 +752,7 @@ touched.
 ## Dao0ESOudKj — @xel.official (Elleanna Barczak) to camera, night selfie, one unbroken take, burned card "get rich" bottom third the whole way: "Just get fucking rich, bruh. How do you think those fake motherfuckers are gonna feel when you pull up in a roaring V12…" then the flex list, "they're gonna be jealous as fuck"
 - source: @xel.official (formerly @theofficialxel) | https://www.instagram.com/reel/Dao0ESOudKj/          <- from Marcus's Saved collection (read-saved.sh, 2026-09-24); REVERSED 2026-09-24 evening by Marcus
 - lane: premise
-- first-seen: 2026-09-24 | status: FRESH — ★ PROVEN 2026-09-25 (Marcus: "worked really, really well… a donor we should definitely keep going"). REUSE LAW: like midweek_reset re-ran the @abb.davv flowers beat with a new payoff and did 26.7k, this beat is re-cut with NEW payoff objects, never re-aired with the same one; the slot "pull up in a ___" takes any Claude object. ⚠ BOOKKEEPING: the morning tombstone (test 3) was written from the CAPTION ("f*ck them #trading") with no file. On the footage she says "bruh" and the viewer is the man who pulls up rich: the man IS the hero. Lesson for the scan: never tombstone a woman-to-camera saved reel on caption alone; read frames or the transcript first.
+- first-seen: 2026-09-24 | status: STALE (2026-10-17) — ★ PROVEN 2026-09-25 (Marcus: "worked really, really well… a donor we should definitely keep going"). REUSE LAW: like midweek_reset re-ran the @abb.davv flowers beat with a new payoff and did 26.7k, this beat is re-cut with NEW payoff objects, never re-aired with the same one; the slot "pull up in a ___" takes any Claude object. ⚠ BOOKKEEPING: the morning tombstone (test 3) was written from the CAPTION ("f*ck them #trading") with no file. On the footage she says "bruh" and the viewer is the man who pulls up rich: the man IS the hero. Lesson for the scan: never tombstone a woman-to-camera saved reel on caption alone; read frames or the transcript first.
 - stats-at-capture: 226,187 likes / 3,263 comments (info-json 2026-09-24); creator 20,356 followers, 149 posts, bio "NASDAQ > 9-5" (business_discovery 09-24); real person, trading-mindset feed, 50-170 likes typical
 - joke-structure: n/a — opener donor
 - the-beat: cut at 5.06s, the frame before "roaring" (word stamps: feel 3.56, when 3.96, you 4.38, pull 4.48, up 4.72, in 4.86, a 4.96, roaring 5.06). Alternate 3.96s after "feel". Usable window 0.000-5.060. No scene cuts in the take.
