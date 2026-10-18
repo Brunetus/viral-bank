@@ -11,6 +11,7 @@ Filler rule: skip any shortcode already under `## processed` or already a catalo
 measures tests 5/6, rewrites the entry, and moves the line here as `re-measured`.
 
 ## inbox
+<!-- empty 2026-10-18: read-saved.sh read 24 on the grid and appended 1 new line (exit 0). One line cannot be a profile-grid redirect (that appends ~23 of @imabgold's own reels), and the line is another creator's reel. Gated and moved to ## processed: tombstone (tests 2/3/4). ⚠ The exit-5 check still does not assert /saved/ in the final URL. -->
 <!-- empty 2026-10-17: read-saved.sh read 24 on the grid and appended 11 new lines (exit 0). Verified by hand: all 11 are other creators (not one is @imabgold's own reel), so the profile-grid redirect did NOT reproduce. All 11 gated and moved to ## processed: 2 BANKED, 8 tombstoned, 1 ad-skip. ⚠ The exit-5 check still does not assert /saved/ in the final URL. -->
 <!-- ⚠⚠ 2026-10-14 — READ-SAVED.SH RETURNED THE WRONG GRID AGAIN. NOT A REAL INBOX; 23 LINES REMOVED.
      Exact reproduction of the 2026-10-07 failure. read-saved.sh exited 0 and reported "24 on grid,
@@ -104,6 +105,7 @@ measures tests 5/6, rewrites the entry, and moves the line here as `re-measured`
 ## re-measure
 
 ## processed
+2026-10-18 DekdCCVJDtx @nothmkaaron https://www.instagram.com/reel/DekdCCVJDtx/ — tombstone (tests 2/3/4). His reel opens on a borrowed woman in a car: "I think you're a loser if you have to ask everyone else… their opinion". Negative frame, no blank. Free Graph download, zero fetch cost. Handle → [saved] as a donor source.
 2026-10-17 DehtTimC4yH @too.cute.labs https://www.instagram.com/reel/DehtTimC4yH/ — tombstone (test 1). Dog account. Settled free on the cover.
 2026-10-17 DeinJjvgbDC @martinwang.mp4 https://www.instagram.com/reel/DeinJjvgbDC/ — tombstone (tests 1/2/4). Man to camera, growth tactic card. Settled free on the cover.
 2026-10-17 DakdLX_SKOW @thesheemamahek https://www.instagram.com/reel/DakdLX_SKOW/ — tombstone (tests 2/3/4). "Being hated by the losers… is the price you pay". No man, no blank. File reused from preview-1015.
