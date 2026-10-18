@@ -23,7 +23,7 @@ touched.
 ## DYH7OUkMOUw — @chelskocoaching straight to camera in a purple-lit studio, black tank, a desk mic in front of her (solo, not a podcast guest), full-bleed, white burned word-captions under the mic: "he's not single cause he can't get a woman" / "he's single" / then her answer
 - source: @chelskocoaching | https://www.instagram.com/reel/DYH7OUkMOUw/          <- Marcus's Saved (read-saved.sh 2026-10-17); older than her 25-media window, so it cost 1 of the day's 8 ig-fetch slots (slot 1)
 - lane: premise
-- first-seen: 2026-10-17 | status: USED 2026-10-17 (imabgold #8 .env reel, 1015_env, cut 0-4.90s; replaced @withgabbyrose whose audio was unusable)
+- first-seen: 2026-10-17 | status: FRESH
 - stats-at-capture: n/a — the reel is older than the 25 media business_discovery returns, so no like count was readable; Marcus's save is the spike signal (step 1b). Creator: Chelsko, 333,942 followers, 17/25 serving media_url, bio "I help men attract healthy love", MTV/Disney/Food Network credits, podcast @the.mens.room.pod. Real person, no AI markers in bio, name or frames
 - joke-structure: n/a — opener donor
 - the-beat: cut at 3.55s, after "He's single" and before "because". Word stamps (mlx-whisper): He's 0.00 / not 0.72 / single 0.86 / because 1.22 / he 1.42 / can't 1.54 / get 1.80 / a 1.90 / woman 2.04 / He's 2.80 / single 3.24 / because 3.58 / he 4.30 / can't find a woman worth investing in 4.48-6.00. ⚠ Her burned card flips to the ANSWER ("because he can't find a woman worth investing in") at 3.90s, measured at 10fps, so never run past 3.85s
