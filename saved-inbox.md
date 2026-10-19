@@ -105,6 +105,8 @@ measures tests 5/6, rewrites the entry, and moves the line here as `re-measured`
 ## re-measure
 
 ## processed
+2026-10-19 DdpLmYnyshN @pwrupcoaching https://www.instagram.com/reel/DdpLmYnyshN/ — tombstone (tests 2/3/4). Woman to camera in a car, coaching bit "how bad do you want it?", no man, no blank. ig-fetch 1/8 (older than the 25 Graph returns). Handle → [saved].
+2026-10-19 DepN6mytpfv @sallie.gracee https://www.instagram.com/reel/DepN6mytpfv/ — tombstone (tests 1/2/4). "Finding Nana a boyfriend" car vlog, Ferrari driver, card only. Free Graph download. Handle → [saved].
 2026-10-18 DekdCCVJDtx @nothmkaaron https://www.instagram.com/reel/DekdCCVJDtx/ — tombstone (tests 2/3/4). His reel opens on a borrowed woman in a car: "I think you're a loser if you have to ask everyone else… their opinion". Negative frame, no blank. Free Graph download, zero fetch cost. Handle → [saved] as a donor source.
 2026-10-17 DehtTimC4yH @too.cute.labs https://www.instagram.com/reel/DehtTimC4yH/ — tombstone (test 1). Dog account. Settled free on the cover.
 2026-10-17 DeinJjvgbDC @martinwang.mp4 https://www.instagram.com/reel/DeinJjvgbDC/ — tombstone (tests 1/2/4). Man to camera, growth tactic card. Settled free on the cover.
