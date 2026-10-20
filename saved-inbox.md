@@ -11,6 +11,13 @@ Filler rule: skip any shortcode already under `## processed` or already a catalo
 measures tests 5/6, rewrites the entry, and moves the line here as `re-measured`.
 
 ## inbox
+Desr8I2CJBv @chelskocoaching https://www.instagram.com/reel/Desr8I2CJBv/
+DesE4k1sKHM @viralclubhouse_ https://www.instagram.com/reel/DesE4k1sKHM/
+Derw8hliw-b @chelskocoaching https://www.instagram.com/reel/Derw8hliw-b/
+DQvT1RngKx6 @datingwithgracie https://www.instagram.com/reel/DQvT1RngKx6/
+DdejYH2irKY @chelskocoaching https://www.instagram.com/reel/DdejYH2irKY/
+DeivNZRzkb3 @jordiegarner_ https://www.instagram.com/reel/DeivNZRzkb3/
+DeqlxRDzu8X @jwchock https://www.instagram.com/reel/DeqlxRDzu8X/
 <!-- empty 2026-10-18: read-saved.sh read 24 on the grid and appended 1 new line (exit 0). One line cannot be a profile-grid redirect (that appends ~23 of @imabgold's own reels), and the line is another creator's reel. Gated and moved to ## processed: tombstone (tests 2/3/4). ⚠ The exit-5 check still does not assert /saved/ in the final URL. -->
 <!-- empty 2026-10-17: read-saved.sh read 24 on the grid and appended 11 new lines (exit 0). Verified by hand: all 11 are other creators (not one is @imabgold's own reel), so the profile-grid redirect did NOT reproduce. All 11 gated and moved to ## processed: 2 BANKED, 8 tombstoned, 1 ad-skip. ⚠ The exit-5 check still does not assert /saved/ in the final URL. -->
 <!-- ⚠⚠ 2026-10-14 — READ-SAVED.SH RETURNED THE WRONG GRID AGAIN. NOT A REAL INBOX; 23 LINES REMOVED.
