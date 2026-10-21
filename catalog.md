@@ -20,6 +20,62 @@ touched.
 
 <!-- entries below, newest first -->
 
+## DeLrYBazaLe — [COPY, test 7 as amended] the 0.00-4.95s opener of @jordiegarner_'s golf reel: a real brunette woman to camera in a car (mint top, gold necklaces, finger raised), card "7 nons*xual things that guys do that are attractive", says "These are seven non-sexual things that I think are attractive that guys do. Number one." then hard cut to him swinging under "GOLF"
+- source: @jordiegarner_ | https://www.instagram.com/reel/DeLrYBazaLe/   (Marcus's Saved, read-saved.sh; fetched via ig-fetch 2/8)
+- lane: premise
+- first-seen: 2026-10-21 | status: FRESH
+- stats-at-capture: n/a, older than the 25 media the Graph returns (Marcus's save is the spike signal)
+- joke-structure: n/a — opener donor
+- the-beat: cut at 3.8s, the frame "guys do." finishes on (3.72s). Optional longer cut at 4.9s keeps her "Number one." (4.02-4.68s) and is the copy's own cut point
+- audio-model: original sound (attach in-app, NEVER bake — rule 92)
+- her-audio: original sound — but it is @jordiegarner_'s upload, so the attachable sound is HIS reel's audio; her original account is unknown. Name @jordiegarner_'s sound in-app
+- pairs-with: a reel that delivers a real count of picturable things he does: his terminal, his /stats screen, a shipped .com, a commit streak
+- premise: "These are seven non-sexual things that I think are attractive that guys do."
+- slot: "[N] things guys do that are attractive" -> a LIST he can show, e.g. ships a .com from localhost · keeps a .env out of GitHub · a 65-day commit streak. With the "Number one." tail it becomes a one-item reveal, which is exactly what the 10-15 rule forbids, so only use the tail if the reel then delivers more items
+- list-opener: 7 (she promises SEVEN; NO LIST-PROMISE rule 10-15: bank only for a reel that delivers the count, or cut before "seven" is honoured with a visible count. Paying it off with one object reads as bait)
+- setup-length: 3.72s ("These" 0.00 → "do." 3.72, word-timed) (she finishes the premise: yes; 4.68s with "Number one.")
+- hero-test: hero. Guys are the subject doing attractive things; nothing is wrong with him.
+- addresses: the viewer, about guys (third person, warm) / recognises: the man watching. Same person.
+- original: COPY — creator: unknown (no handle or watermark in frame), copied-from: @jordiegarner_ DeLrYBazaLe
+- clean-window: n/a — OPENER donor (her setup card IS the hook)
+- file: clips/DeLrYBazaLe.mp4 (11.1s)
+
+## DQvT1RngKx6 — a real blonde woman straight to camera in a parked car (sunroof, sunglasses on her head, grey top), full-bleed, card "Signs you're a green flag to women", says "These are signs that you are a walking green flag to women."
+- source: @datingwithgracie | https://www.instagram.com/reel/DQvT1RngKx6/   (Marcus's Saved, read-saved.sh; fetched via ig-fetch 1/8)
+- lane: premise
+- first-seen: 2026-10-21 | status: FRESH
+- stats-at-capture: n/a, older than the 25 media the Graph returns (Marcus's save is the spike signal; account 549,712 followers)
+- joke-structure: n/a — opener donor
+- the-beat: cut at 3.6s, the frame "women." finishes on (her next line, "And if you could use an ego boost…", starts at 3.68s)
+- audio-model: original sound (attach in-app, NEVER bake — rule 92)
+- her-audio: original sound — attachable in-app (her own voice in her car, no music under it)
+- pairs-with: a reel that answers with 2-3 picturable things the viewer owns or does: his /stats screen, a commit streak, a Claude Max plan on the billing page
+- premise: "These are signs that you are a walking green flag to women."
+- slot: "signs you're a walking green flag" -> a short LIST of objects, never one: e.g. 24 billion tokens on /stats · a 65-day commit streak · a .env in .gitignore
+- list-opener: N (she promises "signs", plural and unnumbered; NO LIST-PROMISE rule 10-15: pay it off with 2-3 items, never a single object)
+- setup-length: 3.56s ("These" 0.00 → "women." 3.56, word-timed) (she finishes the premise: yes; under the 4-5s ideal, above the 3s floor)
+- hero-test: hero. He IS the green flag; the sentence is a compliment he can prove about himself.
+- addresses: the man watching ("you") / recognises: the man watching. Same person.
+- original: yes — creator's own upload
+- clean-window: n/a — OPENER donor (her setup card IS the hook)
+- file: clips/DQvT1RngKx6.mp4 (61.5s, 1080x1920)
+
+## DdejYH2irKY — [NOT BANKED] tombstone (test 4, also addresses mismatch) @chelskocoaching white top, cream wall, transcribed: "Ladies, he's not single because girls don't want him. He's single because he hasn't found a girl he wants yet." (0.0-4.8s). Positive and he is the hero, but she answers her own blank and talks to ladies; a cut before the answer is 2.4s (test 6). Same frame as the FRESH DYH7OUkMOUw, which is the usable version. Saved 10-20, ig-fetch 3/8. · https://www.instagram.com/reel/DdejYH2irKY/ · first-seen 2026-10-21
+
+## Desr8I2CJBv — [NOT BANKED] tombstone (tests 2/4) @chelskocoaching to camera on a couch, transcribed: "The most powerful thing a woman can do for her man is choosing [him] every single day without him having to ask" (0.0-5.4s). Aimed at women, the man is a passive beneficiary, and she fills her own blank. Saved 10-20. Free Graph copy. · https://www.instagram.com/reel/Desr8I2CJBv/ · first-seen 2026-10-21
+
+## Derw8hliw-b — [NOT BANKED] tombstone (tests 2/3/4) @chelskocoaching "HE'S JUST A FRIEND" 🚩, Men, …: red-flag premise about her hiding messages; the man is the victim, no blank. Saved 10-20. · https://www.instagram.com/reel/Derw8hliw-b/ · first-seen 2026-10-21
+
+## DeivNZRzkb3 — [NOT BANKED] tombstone (tests 2/4/6) @jordiegarner_ opens on a borrowed woman in a car, "Okay, harder does not mean…" (0.0-2.0s innuendo tease), then his golf drill. Saved 10-20. Free Graph copy, transcribed. · https://www.instagram.com/reel/DeivNZRzkb3/ · first-seen 2026-10-21
+
+## DeqlxRDzu8X — [NOT BANKED] tombstone (test 1) @jwchock man swimming laps under "No one cares about your Ironman content bro". Saved 10-20. · https://www.instagram.com/reel/DeqlxRDzu8X/ · first-seen 2026-10-21
+
+## DesE4k1sKHM — [NOT BANKED] ad-skip (guard 7) @viralclubhouse_ "Only entrepreneurs will get it. Comment MASTERCLASS…" funnel (40,209 likes). Saved 10-20. Not framed for the gate. · https://www.instagram.com/reel/DesE4k1sKHM/ · first-seen 2026-10-21
+
+## Det4-q3hYm2 — [NOT BANKED] tombstone (test 1: AI avatar) @thehartstandard "There are men I've wanted more after one dinner. Not because they were the most handsome…" Right premise, generated woman (feed shape + bio). Tag page #whatwomenwant. · https://www.instagram.com/reel/Det4-q3hYm2/ · first-seen 2026-10-21
+
+## DeuRmXGkbu9 — [NOT BANKED] tombstone (test 1: AI avatar) @thedecodeher "What women find attractive: weird things men do without noticing…" Generated woman, 5 posts a day. Tag page #whatwomenwant. · https://www.instagram.com/reel/DeuRmXGkbu9/ · first-seen 2026-10-21
+
 ## DeptjgNJybA — [NOT BANKED] tombstone (tests 2/3/4) @nothmkaaron 80,233 likes (393x): opens on a borrowed woman yelling "Chris, why the fuck you at that bitch house?", then his football-coach bit. Accusatory, the man is the problem, no blank. ig-fetch 2/8. · https://www.instagram.com/reel/DeptjgNJybA/ · first-seen 2026-10-19
 
 ## DdpLmYnyshN — [NOT BANKED] tombstone (tests 2/3/4) @pwrupcoaching: a woman to camera in a car, fitness-coach bit, "Lucky for you, someone woke up on the right side of the bed today. HOW BAD DO YOU WANT IT? ... It's just not me. If you want to talk about, at like a normal volume, how bad do you want it, and how I can help you get to your goals, I'm down with that." No man in the sentence, no blank, a coaching pitch. Saved inbox, ig-fetch 1/8. · https://www.instagram.com/reel/DdpLmYnyshN/ · first-seen 2026-10-19
@@ -418,7 +474,7 @@ touched.
 ## Dd1kEvAgli2 — [COPY, test 7 as amended] the 0.00-5.23s opener of @programmergrind's "the hottest words in tech": @spencer.barbosa (3.5M followers) to camera in a bright kitchen, full-bleed, burned blue card "the HOTTEST things a guy can do/say😍😍😍"; she says the whole line, the card drops, and at 5.23s Danny hard-cuts to himself + a terminal deck titled "THE 5 HOTTEST WORDS IN TECH"
 - source: @programmergrind | https://www.instagram.com/reel/Dd1kEvAgli2/          <- the HOST account (copied-from). ⚠ bank-sync consumers: the DONOR is the first 4.90s only, not the 89s host reel
 - lane: premise
-- first-seen: 2026-09-29 | status: FRESH
+- first-seen: 2026-09-29 | status: STALE (2026-10-21)
 - stats-at-capture: the HOST reel 380 likes / 10 comments (0.49x @programmergrind's median of 804, 34,394 followers, 25/25 serving media_url so this cost zero cookie budget). The opener's own numbers on @spencer.barbosa's feed are unknown — she has 3,501,008 followers. ⚠ The 0.49x is the HOST's ratio and means nothing about the donor; the `[premise]` lane has had no spike bar since 2026-09-27 and this was picked on gate fit
 - joke-structure: n/a — opener donor
 - the-beat: cut at 4.90s, the frame her premise finishes on. Word stamps (faster-whisper, word-level): These 0.00 / are 0.44 / the 0.68 / absolute 0.86-1.40 / hottest 1.40-2.24 / things 2.24-2.88 / that 2.88 / a 3.36 / guy 3.42-3.64 / can 3.64 / do 3.88 / or 4.12 / say 4.50-4.90. Her card drops at ~4.53s. Danny's scene cut is measured at 5.233s (frame 157 of 30fps, diff 64.6 against a 13-16 motion floor), so there is 0.33s of headroom past her last word — this copy does NOT truncate her
@@ -441,7 +497,7 @@ touched.
 ## Ddsm0q6R9ip — @shrestha_mohanty20 to camera in the back of a car, white shirt, full-bleed, one burned caption line at a time: "The most underrated attractive quality," / "that most people don't talk about," / then her answer. Native English, no music bed, blank held open for the whole setup
 - source: @shrestha_mohanty20 | https://www.instagram.com/reel/Ddsm0q6R9ip/          <- her own upload; 0/24 serving media_url, so this cost 1 of the day's 8 ig-fetch slots (the slot the 09-28 scan promised it after DbTQfj3hVF0)
 - lane: premise
-- first-seen: 2026-09-29 | status: FRESH
+- first-seen: 2026-09-29 | status: STALE (2026-10-21)
 - stats-at-capture: 920 likes / 10 comments (0.86x her median of 1,081, 89,376 followers, 0/24 serving media_url). ⚠ The 0.86x is the point, not a defect: the `[premise]` lane has had no spike bar since 2026-09-27, and her watchlist line records the structural finding behind that change — on this creator the gate-shaped posts are never the spikes, and her ≥2x posts this window are again all negative/diagnostic cards
 - joke-structure: n/a — opener donor
 - the-beat: cut at 3.57s, the last frame with the blank still open in BOTH channels. Word stamps (faster-whisper, word-level): The 0.00 / most 0.32 / underrated 0.54-1.10 / attractive 1.10-1.42 / quality 1.42-1.94 / that 1.94 / most 2.16 / people 2.40 / don't 2.70 / talk 2.96 / about 3.14-3.40 / is 3.40-3.66 / being 3.66 / funny 3.92 / intentionally 4.26-5.00. Her burned caption flips to the ANSWER ("is being funny intentionally!") at 3.60s, one beat ahead of her voice — so 3.57s is the hard limit, not 3.66s. Do NOT run to 4.0s: the answer is already readable on screen
@@ -564,86 +620,17 @@ touched.
 ## DcXgOUHoxvl — [NOT BANKED] tombstone (tests 2/4) · @hothighpriestess (sarah perl, 1.42M, founder of a manifestation app), "An idiot in motion" · https://www.instagram.com/reel/DcXgOUHoxvl/ · first-seen 2026-09-27
   Motivation, no premise about men, no blank. Her bio is also a product funnel (guard 7 risk on anything of hers). No slot spent.
 
-## YT:B3FUARANJFE — [LEAD, IG original needed] @Spencer.Barbosa full screen to the lens: "These are oddly specific green flags when it comes to guys."
-- source: @Spencer.Barbosa | https://www.youtube.com/shorts/B3FUARANJFE          <- found 2026-09-26 via YouTube Shorts search (built-in browser, no IG session), for the token_usage reel; Marcus: "those are good candidates, bank them"
-- lane: premise
-- first-seen: 2026-09-26 | status: STALE (2026-10-18), was FRESH (LEAD) — find her Instagram original (shortcode) before use: the in-app sound attach and the credit need the IG post
-- stats-at-capture: 713K views / 20K likes (YouTube repost)
-- premise: "These are oddly specific green flags when it comes to guys."
-- slot: the green flag itself -> "It's when he checks his token usage more than he does his bank account." (0926_token_usage b2)
-- hero-test: hero — a green flag, the man is praised. Not a sexy/hottest premise (Marcus 09-26 ban). Native English, full screen to lens (Marcus 09-26 rules)
-- note: BEST FIT for the token line: cut before her first flag, his line becomes the oddly specific green flag. American, close-up, direct.
-- the-beat: NOT MEASURED — download the IG original, cut before her first answer, confirm setup >= 3 s
-- file: none yet
+## YT:B3FUARANJFE — [PRUNED STALE (2026-10-18)] [LEAD, IG original needed] @Spencer.Barbosa full screen to the lens: "These are oddly specific green flags when it comes to guys." · https://www.youtube.com/shorts/B3FUARANJFE · first-seen 2026-09-26
 
-## YT:Q3CI_ZEMvW4 — [LEAD, IG original needed] @Spencer.Barbosa full screen to the lens: "Green flags for guys… number one:"
-- source: @Spencer.Barbosa | https://www.youtube.com/shorts/Q3CI_ZEMvW4          <- found 2026-09-26 via YouTube Shorts search (built-in browser, no IG session), for the token_usage reel; Marcus: "those are good candidates, bank them"
-- lane: premise
-- first-seen: 2026-09-26 | status: STALE (2026-10-18), was FRESH (LEAD) — find her Instagram original (shortcode) before use: the in-app sound attach and the credit need the IG post
-- stats-at-capture: 4.4M views / 198K likes (YouTube repost)
-- premise: "Green flags for guys… number one:"
-- slot: the green flag itself -> "It's when he checks his token usage more than he does his bank account." (0926_token_usage b2)
-- hero-test: hero — a green flag, the man is praised. Not a sexy/hottest premise (Marcus 09-26 ban). Native English, full screen to lens (Marcus 09-26 rules)
-- note: High intensity, wide-eyed. Cut on 'number one', his line is item one.
-- the-beat: NOT MEASURED — download the IG original, cut before her first answer, confirm setup >= 3 s
-- file: none yet
+## YT:Q3CI_ZEMvW4 — [PRUNED STALE (2026-10-18)] [LEAD, IG original needed] @Spencer.Barbosa full screen to the lens: "Green flags for guys… number one:" · https://www.youtube.com/shorts/Q3CI_ZEMvW4 · first-seen 2026-09-26
 
-## YT:mKlu05-zgj0 — [LEAD, IG original needed] @NikiPatton full screen to the lens: "WEIRDLY SPECIFIC GREEN FLAGS (card) + spoken intro"
-- source: @NikiPatton | https://www.youtube.com/shorts/mKlu05-zgj0          <- found 2026-09-26 via YouTube Shorts search (built-in browser, no IG session), for the token_usage reel; Marcus: "those are good candidates, bank them"
-- lane: premise
-- first-seen: 2026-09-26 | status: STALE (2026-10-18), was FRESH (LEAD) — find her Instagram original (shortcode) before use: the in-app sound attach and the credit need the IG post
-- stats-at-capture: 27K views (YouTube repost)
-- premise: "WEIRDLY SPECIFIC GREEN FLAGS (card) + spoken intro"
-- slot: the green flag itself -> "It's when he checks his token usage more than he does his bank account." (0926_token_usage b2)
-- hero-test: hero — a green flag, the man is praised. Not a sexy/hottest premise (Marcus 09-26 ban). Native English, full screen to lens (Marcus 09-26 rules)
-- note: Same 'specific' setup as B3FUARANJFE, more playful. American, leaning into lens, purple room light.
-- the-beat: NOT MEASURED — download the IG original, cut before her first answer, confirm setup >= 3 s
-- file: none yet
+## YT:mKlu05-zgj0 — [PRUNED STALE (2026-10-18)] [LEAD, IG original needed] @NikiPatton full screen to the lens: "WEIRDLY SPECIFIC GREEN FLAGS (card) + spoken intro" · https://www.youtube.com/shorts/mKlu05-zgj0 · first-seen 2026-09-26
 
-## YT:ZHkKAxu_6kM — [LEAD, IG original needed] @ChloeTaylorUK full screen to the lens: "Green flags in guys: 1…"
-- source: @ChloeTaylorUK | https://www.youtube.com/shorts/ZHkKAxu_6kM          <- found 2026-09-26 via YouTube Shorts search (built-in browser, no IG session), for the token_usage reel; Marcus: "those are good candidates, bank them"
-- lane: premise
-- first-seen: 2026-09-26 | status: STALE (2026-10-18), was FRESH (LEAD) — find her Instagram original (shortcode) before use: the in-app sound attach and the credit need the IG post
-- stats-at-capture: 49K views (YouTube repost)
-- premise: "Green flags in guys: 1…"
-- slot: the green flag itself -> "It's when he checks his token usage more than he does his bank account." (0926_token_usage b2)
-- hero-test: hero — a green flag, the man is praised. Not a sexy/hottest premise (Marcus 09-26 ban). Native English, full screen to lens (Marcus 09-26 rules)
-- note: British accent, full screen, points into lens. Medium intensity. Her list card '1. Love languages' appears fast: measure the clean window.
-- the-beat: NOT MEASURED — download the IG original, cut before her first answer, confirm setup >= 3 s
-- file: none yet
+## YT:ZHkKAxu_6kM — [PRUNED STALE (2026-10-18)] [LEAD, IG original needed] @ChloeTaylorUK full screen to the lens: "Green flags in guys: 1…" · https://www.youtube.com/shorts/ZHkKAxu_6kM · first-seen 2026-09-26
 
-## YT:ke6yPxtAaQE — [LEAD, IG original needed] @KatieFeeney full screen to the lens: "What is the biggest green flag in a guy? (spoken question)"
-- source: @KatieFeeney | https://www.youtube.com/shorts/ke6yPxtAaQE          <- found 2026-09-26 via YouTube Shorts search (built-in browser, no IG session), for the token_usage reel; Marcus: "those are good candidates, bank them"
-- lane: premise
-- first-seen: 2026-09-26 | status: STALE (2026-10-18), was FRESH (LEAD) — find her Instagram original (shortcode) before use: the in-app sound attach and the credit need the IG post
-- stats-at-capture: 119K views (YouTube repost)
-- premise: "What is the biggest green flag in a guy? (spoken question)"
-- slot: the green flag itself -> "It's when he checks his token usage more than he does his bank account." (0926_token_usage b2)
-- hero-test: hero — a green flag, the man is praised. Not a sexy/hottest premise (Marcus 09-26 ban). Native English, full screen to lens (Marcus 09-26 rules)
-- note: Spoken question to camera, but a bracket-game graphic covers the lower half: rank last.
-- the-beat: NOT MEASURED — download the IG original, cut before her first answer, confirm setup >= 3 s
-- file: none yet
-## DZsw9oGtP0I — a blonde woman to camera in a parked car, one unbroken take, NO burned text anywhere: "The hottest f***ing thing a guy can do is… [1.0s beat] …make a little noise." Hard cut at ~6.9s to a trading chart (@tradonatev1's own screen)
-- source: @tradonatev1 | https://www.instagram.com/reel/DZsw9oGtP0I/          <- from Marcus's Saved collection (read-saved.sh), deferred 09-25, fetched and measured 2026-09-26
-- lane: premise
-- first-seen: 2026-09-26 | status: STALE (2026-10-18), was FRESH (2026-09-27, Marcus: "we've actually been using that clip… bank it, with the part that says make a little noise"). Was DO-NOT-SPLICE on test 5; test 5 was RETIRED the same day (Marcus: on-screen text is never required, we caption donors ourselves). Already aired twice on its SHORT cut: `hottest` 09-16/17 (0-3.70s) and `fire_dev_v2` 09-24 (0.000-3.233s) — the long cut below is the new version
-- stats-at-capture: no Graph stats — older than @tradonatev1's 25-media window; fetched by shortcode (ig-fetch, 5/8 today). Creator account 3,441 followers, 18/25 serving.
-- gate: 7 of 8 tests PASS. 1 a real woman, straight to lens, she says it ✓ · 2 positive superlative about men, no age/life-stage anchor ✓ · 3 the man is the hero of her sentence ✓ · 4 the slot is "the hottest thing a guy can do is ___" and she leaves a full 1.0s beat before filling it ✓ · 6 the setup is COMPLETE at 3.40s and the clean cut lands at 4.30s, dead inside the 4.03/4.60s winning band ✓ · 7 second-hand but carries the premise WHOLE ✓ · 8 no Claude, no tool name ✓
-- why it fails: **she carries no word captions and no title card.** Sampled 0.0-9.0s at 2fps: not one frame has text on it. A muted viewer cannot read the premise, which is exactly what test 5 measures ("can a muted viewer read the premise", not "is every word captioned"). Second, independent reason: **"the hottest thing a guy can do" is a spent hook on this account** — aired twice already, `DdabyphsvUB` 09-18 (3,634 views) and `Ddp8V9kuwq8` 09-24 (2,419 views), both in the ordinary band, and the watchlist already carries a theme cooldown on it from `fire_dev_v2` (09-23, MISS).
-- ⚠ FOR MARCUS: the account overlays its OWN word captions on a donor's speech (WORDCAPS.md; the `Dao0ESOudKj` entry records our captions rewriting her profanity). If a donor whose premise WE caption satisfies test 5, this entry flips to FRESH with no re-fetch — the measurement below is complete. Not a call the scan may make on its own. Note the theme cooldown stands either way.
-- joke-structure: n/a — opener donor
-- the-beat: cut at 5.30s, the frame after "noise." and before "Okay" (word stamps, mlx_whisper 09-27: The 0.00 / hottest 0.48 / fucking 1.02 / thing 1.62 / a 2.16 / guy 2.42 / can 2.64 / do 2.88 / is 3.16 → pause → make 4.42 / a 4.60 / little 4.76 / noise 4.92-5.28 / Okay 5.44). Her own answer IS in the window now (Marcus's call). Short cut still valid at 3.23-3.70s for a filled-blank payoff. Scene cut to the trading chart at 7.17s
-- audio-model: original sound (attach in-app, NEVER bake — rule 92)
-- her-audio: original sound. ⚠ COPY: rule 92 has no original-creator account to attach, so the sound to select in-app is **@tradonatev1's**. Profanity in the window ("f***ing") — our word captions write f*cking.
-- pairs-with: LONG cut (to 5.30s): her "make a little noise" is the setup and Marcus's footage is the noise: a mechanical keyboard at full speed, ten Claude sessions streaming at once, MacBook fans screaming on a 20x Max run. SHORT cut (to 3.23s): the original anti-flex, "the hottest thing a guy can do is ___" → a Claude object
-- premise: "The hottest f***ing thing a guy can do is"
-- slot: "the hottest thing a guy can do is ___" -> one object. Open for a full second before she fills it with "make a little noise"
-- setup-length: 5.30s on the long cut (premise 0-3.4s, 1.0s held blank, her answer 4.42-5.28s); 3.23s on the short cut used twice already
-- hero-test: the hero. She is naming something a man DOES that she wants, not something wrong with him
-- addresses: women and men watching a "hottest thing a guy can do" hook / recognises: the man who owns the object — same person
-- original: COPY — creator: unknown (not nameable from the footage; she is not @tradonatev1, whose feed is a man to camera), copied-from: @tradonatev1 DZsw9oGtP0I
-- clean-window: n/a — OPENER donor. No burned text anywhere, so OUR word captions carry test 5 over the whole 0-5.30s window (WORDCAPS house style, profanity written f*cking)
-- file: clips/DZsw9oGtP0I.mp4 (16.5s; her usable window 0.00-6.90s)
+## YT:ke6yPxtAaQE — [PRUNED STALE (2026-10-18)] [LEAD, IG original needed] @KatieFeeney full screen to the lens: "What is the biggest green flag in a guy? (spoken question)" · https://www.youtube.com/shorts/ke6yPxtAaQE · first-seen 2026-09-26
+
+## DZsw9oGtP0I — [PRUNED STALE (2026-10-18)] a blonde woman to camera in a parked car, one unbroken take, NO burned text anywhere: "The hottest f***ing thing a guy can do is… [1.0s beat] …make a little noise." Hard cut at ~6.9s to a trading chart… · https://www.instagram.com/reel/DZsw9oGtP0I/ · first-seen 2026-09-26
 
 ## Da8BS72t7mv — [NOT BANKED] tombstone (test 1) · @itsmrbugatti repost of an Andrew Tate podcast clip — man to camera behind a boom mic, neon word-by-word captions ("DON'T… ANY… HIGHER… EXPERIENCE… MEN… AROUND… BOYS… AND… LIFE… CAN… DOLLARS"), intercut with yacht/nightlife b-roll · https://www.instagram.com/reel/Da8BS72t7mv/ · from Marcus's Saved, fetched 2026-09-26 · man to camera AND a podcast guest, the two things test 1 names. Creator is a personal account (business_discovery error 110), so it can never be appended to [premise] whatever it posts. 17.2s.
 
@@ -686,25 +673,7 @@ touched.
 
 ## DYLF0zvTx80 — [PRUNED DO-NOT-SPLICE] @lilybrooksmind to camera in a podcast studio (warm lamp, mic), single-word white karaoke captions: "The greenest flag in a man isn't money or looks, it's emotional maturity. A man who says come here, · https://www.instagram.com/reel/DYLF0zvTx80/ · first-seen 2026-09-24
 
-## DdRj8VNRO3D — @brennaberg to camera on a couch, burned white sentence caption at the top: "The hottest thing that a man can do is take care of things." then "Plan the date, book the flights, get this, get that"
-- source: @brennaberg | https://www.instagram.com/reel/DdRj8VNRO3D/          <- from Marcus's Saved collection via read-saved.sh (saved-inbox step, 2026-09-24)
-- lane: premise
-- first-seen: 2026-09-24 | status: STALE (2026-10-17)
-- stats-at-capture: not probed yet (uploader from ig-fetch info-json; business_discovery on the next scan)
-- joke-structure: n/a — opener donor
-- the-beat: cut at 3.54s, the end of "things." (word stamps: "do" 2.14s, "things." 3.54s). One unbroken take (no scene cut in 10.5s). Usable window 0.000-3.540.
-- audio-model: original sound (attach in-app, NEVER bake — rule 92)
-- her-audio: original sound — attachable in-app
-- pairs-with: a "takes care of things" payoff naming the Claude thing he takes care of: the App Store build, the audit before he ships, the token reset he plans the week around
-- premise: "The hottest thing that a man can do is take care of things."
-- slot: ⚠ HALF-FILLED: she answers her own premise inside the 3s ("take care of things"), so the blank is WHAT he takes care of, not the superlative itself. Cutting at "do" (2.14s) would leave the blank open but fails test 6. The architect must write the payoff as the specific thing he takes care of. Rank below DYLF0zvTx80.
-- setup-length: 3.54s to the cut (yes — the sentence on her card is complete and the card is up from frame 0)
-- hero-test: the man is the hero — "the hottest thing a man can do"
-- addresses: women / recognises: the man who takes care of things — the payoff flatters him, so both sides land
-- original: yes — creator's own upload
-- clean-window: n/a — OPENER donor (her burned sentence card IS the hook)
-- ⚠ THEME COOLDOWN: "the hottest thing a man can do" aired as `fire_dev_v2` on 2026-09-23 and MISSED (1,880 views). Same rule as DZGH-MeorB6: not the very next post.
-- file: clips/DdRj8VNRO3D.mp4 (10.50s; 10561095 B, md5 3ccf64ca6c571104cdede8cd937968ca)
+## DdRj8VNRO3D — [PRUNED STALE (2026-10-17)] @brennaberg to camera on a couch, burned white sentence caption at the top: "The hottest thing that a man can do is take care of things." then "Plan the date, book the flights, get this, get that" · https://www.instagram.com/reel/DdRj8VNRO3D/ · first-seen 2026-09-24
 
 ## DaWr4F9OH9q — [COPY, test 7 as amended] the 0.00-4.03s opener of @programmergrind's 57.6k-like reel: an unnamed woman on a dark couch, full frame, burned card "men with no hoes", filing a nail, says "Men with no hoes... where are you?" then the reel cuts to Danny + code editor for 72s
 - source: @programmergrind | https://www.instagram.com/reel/DaWr4F9OH9q/          <- the HOST account (copied-from); creator of the borrowed opener UNKNOWN, no watermark on the frames (full-res 2.0s checked). If a scan or Marcus names her, add `creator:` and prefer her original. ⚠ bank-sync consumers: the DONOR is the first 4.03s only, not the 76s host reel.
@@ -751,24 +720,7 @@ touched.
 
 ## DalwVftpd5A — [PRUNED DO-NOT-SPLICE] [NOT BANKED] @jacobb.lifestyle: "The only option left" — rich-lifestyle edit · https://www.instagram.com/reel/DalwVftpd5A/ · first-seen 2026-09-24
 
-## Dao0ESOudKj — @xel.official (Elleanna Barczak) to camera, night selfie, one unbroken take, burned card "get rich" bottom third the whole way: "Just get fucking rich, bruh. How do you think those fake motherfuckers are gonna feel when you pull up in a roaring V12…" then the flex list, "they're gonna be jealous as fuck"
-- source: @xel.official (formerly @theofficialxel) | https://www.instagram.com/reel/Dao0ESOudKj/          <- from Marcus's Saved collection (read-saved.sh, 2026-09-24); REVERSED 2026-09-24 evening by Marcus
-- lane: premise
-- first-seen: 2026-09-24 | status: STALE (2026-10-17) — ★ PROVEN 2026-09-25 (Marcus: "worked really, really well… a donor we should definitely keep going"). REUSE LAW: like midweek_reset re-ran the @abb.davv flowers beat with a new payoff and did 26.7k, this beat is re-cut with NEW payoff objects, never re-aired with the same one; the slot "pull up in a ___" takes any Claude object. ⚠ BOOKKEEPING: the morning tombstone (test 3) was written from the CAPTION ("f*ck them #trading") with no file. On the footage she says "bruh" and the viewer is the man who pulls up rich: the man IS the hero. Lesson for the scan: never tombstone a woman-to-camera saved reel on caption alone; read frames or the transcript first.
-- stats-at-capture: 226,187 likes / 3,263 comments (info-json 2026-09-24); creator 20,356 followers, 149 posts, bio "NASDAQ > 9-5" (business_discovery 09-24); real person, trading-mindset feed, 50-170 likes typical
-- joke-structure: n/a — opener donor
-- the-beat: cut at 5.06s, the frame before "roaring" (word stamps: feel 3.56, when 3.96, you 4.38, pull 4.48, up 4.72, in 4.86, a 4.96, roaring 5.06). Alternate 3.96s after "feel". Usable window 0.000-5.060. No scene cuts in the take.
-- audio-model: original sound (attach in-app, NEVER bake — rule 92)
-- her-audio: original sound — attachable in-app. ⚠ profanity in the window ("fucking", "motherfuckers"); our word captions write f*cking / motherf*ckers
-- pairs-with: an anti-flex: "when you pull up in a" -> the Claude object that replaces the V12 (a MacBook Air with a second Claude reviewing the first on the cheap model). Used by imabgold `0924_educational_pair` Reel A v3 "the team"
-- premise: "How do you think those fake motherfuckers are gonna feel when you pull up in a"
-- slot: "pull up in a ___" -> one object. Open blank, she never fills it inside the window
-- setup-length: 5.06s to the cut (yes: the question is complete and the blank is open)
-- hero-test: the viewer ("bruh") is the hero, the one who got rich
-- addresses: "bruh", a man / recognises: the man who pulls up — same person
-- original: yes — creator's own upload
-- clean-window: n/a — OPENER donor; her card reads only "get rich", so test 5 is carried by OUR word-by-word captions (house style, winner caption grammar)
-- file: clips/Dao0ESOudKj.mp4 (27.56s; 14967146 B, md5 38c9bbfb8281f077e4cc5e930841ce9f; h264 transcode from the vp9 yt-dlp fetch via Marcus's own session, 2026-09-24)
+## Dao0ESOudKj — [PRUNED STALE (2026-10-17)] @xel.official (Elleanna Barczak) to camera, night selfie, one unbroken take, burned card "get rich" bottom third the whole way: "Just get fucking rich, bruh. How do you think those fake motherfuckers are gonna feel… · https://www.instagram.com/reel/Dao0ESOudKj/ · first-seen 2026-09-24
 
 ## Ddqwhx2xmW7 — @prettylushangel to camera on a forest path, trucker cap, burned word captions: "You want to know how I know that men are a lot more selfless," then "caring, stronger than women, and don't don't come at me"
 - source: @prettylushangel | https://www.instagram.com/reel/Ddqwhx2xmW7/          <- on the [premise] watchlist since 2026-09-24 by Marcus's ruling (scan had refused on feed quality)

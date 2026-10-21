@@ -11,13 +11,7 @@ Filler rule: skip any shortcode already under `## processed` or already a catalo
 measures tests 5/6, rewrites the entry, and moves the line here as `re-measured`.
 
 ## inbox
-Desr8I2CJBv @chelskocoaching https://www.instagram.com/reel/Desr8I2CJBv/
-DesE4k1sKHM @viralclubhouse_ https://www.instagram.com/reel/DesE4k1sKHM/
-Derw8hliw-b @chelskocoaching https://www.instagram.com/reel/Derw8hliw-b/
-DQvT1RngKx6 @datingwithgracie https://www.instagram.com/reel/DQvT1RngKx6/
-DdejYH2irKY @chelskocoaching https://www.instagram.com/reel/DdejYH2irKY/
-DeivNZRzkb3 @jordiegarner_ https://www.instagram.com/reel/DeivNZRzkb3/
-DeqlxRDzu8X @jwchock https://www.instagram.com/reel/DeqlxRDzu8X/
+<!-- empty 2026-10-21: read-saved.sh read 24 on the grid and appended 2 new lines (exit 0); both other creators' reels. All 9 lines (7 carried from 10-20's early stop) gated and moved to ## processed: 2 BANKED, 5 tombstoned, 1 ad-skip, 1 burned-skip. -->
 <!-- empty 2026-10-18: read-saved.sh read 24 on the grid and appended 1 new line (exit 0). One line cannot be a profile-grid redirect (that appends ~23 of @imabgold's own reels), and the line is another creator's reel. Gated and moved to ## processed: tombstone (tests 2/3/4). ⚠ The exit-5 check still does not assert /saved/ in the final URL. -->
 <!-- empty 2026-10-17: read-saved.sh read 24 on the grid and appended 11 new lines (exit 0). Verified by hand: all 11 are other creators (not one is @imabgold's own reel), so the profile-grid redirect did NOT reproduce. All 11 gated and moved to ## processed: 2 BANKED, 8 tombstoned, 1 ad-skip. ⚠ The exit-5 check still does not assert /saved/ in the final URL. -->
 <!-- ⚠⚠ 2026-10-14 — READ-SAVED.SH RETURNED THE WRONG GRID AGAIN. NOT A REAL INBOX; 23 LINES REMOVED.
@@ -112,6 +106,15 @@ DeqlxRDzu8X @jwchock https://www.instagram.com/reel/DeqlxRDzu8X/
 ## re-measure
 
 ## processed
+2026-10-21 DeLrYBazaLe @jordiegarner_ https://www.instagram.com/reel/DeLrYBazaLe/ — **BANKED as COPY**. His reel opens 0.00-4.95s on a borrowed woman in a car: "These are seven non-sexual things that I think are attractive that guys do." 3.72s (4.68s with "Number one."), tagged list-opener: 7, creator unknown. ig-fetch 2/8. Handle → [saved] (donor source).
+2026-10-21 DQvT1RngKx6 @datingwithgracie https://www.instagram.com/reel/DQvT1RngKx6/ — **BANKED**. Real woman to camera in her car: "These are signs that you are a walking green flag to women." 3.56s, word-timed, tagged list-opener (unnumbered "signs"). ig-fetch 1/8. Handle → [premise] (readable, 9/25 serving).
+2026-10-21 DdejYH2irKY @chelskocoaching https://www.instagram.com/reel/DdejYH2irKY/ — tombstone (test 4). "Ladies, he's not single because girls don't want him. He's single because he hasn't found a girl he wants yet." She answers her own blank; same frame as the FRESH DYH7OUkMOUw. ig-fetch 3/8.
+2026-10-21 DbJNmIBo_33 @herlastsightband https://www.instagram.com/reel/DbJNmIBo_33/ — burned-skip (not gated). @herlastsightband sits on a `dead` watchlist line (Marcus 09-27: "just a donor I was testing… don't include it in the viral scan"), so BANK.md's burned-creator rule skips it unread. If you saved it on purpose to revive the account, move its line back yourself.
+2026-10-21 Desr8I2CJBv @chelskocoaching https://www.instagram.com/reel/Desr8I2CJBv/ — tombstone (tests 2/4). Transcribed: "The most powerful thing a woman can do for her man is choosing [him] every single day without him having to ask" (0.0-5.4s). Aimed at women, the man is the passive beneficiary, and she fills her own blank. Free Graph copy.
+2026-10-21 DesE4k1sKHM @viralclubhouse_ https://www.instagram.com/reel/DesE4k1sKHM/ — **ad-skip** (guard 7) + tombstone. Caption is a "Comment MASTERCLASS… free live 100k followers in 100 days masterclass" funnel. Handle → [saved].
+2026-10-21 Derw8hliw-b @chelskocoaching https://www.instagram.com/reel/Derw8hliw-b/ — tombstone (tests 2/3/4). "HE'S JUST A FRIEND" 🚩, Men, …: a red-flag premise about HER hiding messages; the man is the victim, no blank. Free Graph copy, framed.
+2026-10-21 DeivNZRzkb3 @jordiegarner_ https://www.instagram.com/reel/DeivNZRzkb3/ — tombstone (tests 2/4/6). Opens on a borrowed woman in a car: "Okay, harder does not mean…" (0.0-2.0s, an innuendo tease), then his golf drill. No premise about men, no blank, 2.0s. Free Graph copy, transcribed. Handle → [saved] (donor-source shape).
+2026-10-21 DeqlxRDzu8X @jwchock https://www.instagram.com/reel/DeqlxRDzu8X/ — tombstone (test 1). Man swimming laps under a card "No one cares about your Ironman content bro". Free Graph copy, framed. Handle → [saved].
 2026-10-19 DdpLmYnyshN @pwrupcoaching https://www.instagram.com/reel/DdpLmYnyshN/ — tombstone (tests 2/3/4). Woman to camera in a car, coaching bit "how bad do you want it?", no man, no blank. ig-fetch 1/8 (older than the 25 Graph returns). Handle → [saved].
 2026-10-19 DepN6mytpfv @sallie.gracee https://www.instagram.com/reel/DepN6mytpfv/ — tombstone (tests 1/2/4). "Finding Nana a boyfriend" car vlog, Ferrari driver, card only. Free Graph download. Handle → [saved].
 2026-10-18 DekdCCVJDtx @nothmkaaron https://www.instagram.com/reel/DekdCCVJDtx/ — tombstone (tests 2/3/4). His reel opens on a borrowed woman in a car: "I think you're a loser if you have to ask everyone else… their opinion". Negative frame, no blank. Free Graph download, zero fetch cost. Handle → [saved] as a donor source.
