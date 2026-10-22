@@ -11,6 +11,7 @@ Filler rule: skip any shortcode already under `## processed` or already a catalo
 measures tests 5/6, rewrites the entry, and moves the line here as `re-measured`.
 
 ## inbox
+<!-- empty 2026-10-22: read-saved.sh read 24 on the grid and appended 3 new lines (exit 0); all three other creators' reels. Gated and moved to ## processed: 0 BANKED, 3 tombstoned. -->
 <!-- empty 2026-10-21: read-saved.sh read 24 on the grid and appended 2 new lines (exit 0); both other creators' reels. All 9 lines (7 carried from 10-20's early stop) gated and moved to ## processed: 2 BANKED, 5 tombstoned, 1 ad-skip, 1 burned-skip. -->
 <!-- empty 2026-10-18: read-saved.sh read 24 on the grid and appended 1 new line (exit 0). One line cannot be a profile-grid redirect (that appends ~23 of @imabgold's own reels), and the line is another creator's reel. Gated and moved to ## processed: tombstone (tests 2/3/4). ⚠ The exit-5 check still does not assert /saved/ in the final URL. -->
 <!-- empty 2026-10-17: read-saved.sh read 24 on the grid and appended 11 new lines (exit 0). Verified by hand: all 11 are other creators (not one is @imabgold's own reel), so the profile-grid redirect did NOT reproduce. All 11 gated and moved to ## processed: 2 BANKED, 8 tombstoned, 1 ad-skip. ⚠ The exit-5 check still does not assert /saved/ in the final URL. -->
@@ -106,6 +107,9 @@ measures tests 5/6, rewrites the entry, and moves the line here as `re-measured`
 ## re-measure
 
 ## processed
+2026-10-22 Ddm08FwTdVt @robertmckeaveney https://www.instagram.com/reel/Ddm08FwTdVt/ — tombstone (test 1). Man to camera, "This creator copied me. Just watch." then a split screen vs @bryanjohnson_. ig-fetch 1/8. Handle → [saved].
+2026-10-22 DexlgSSN3t8 @lexisummits https://www.instagram.com/reel/DexlgSSN3t8/ — tombstone (tests 2/3/4). Real woman, "I graduated college a year ago… it only gets better", about her engineering degree. Free Graph copy. Handle → [saved].
+2026-10-22 DcOdPVJRg8l @meli.shares https://www.instagram.com/reel/DcOdPVJRg8l/ — tombstone (test 2). Real woman, card "PROOF YOUR MAN IS THAT N***A", aimed at women ("your man… girl"), answers her own blank (haters), carries a slur. ig-fetch 2/8. Handle → [saved].
 2026-10-21 DeLrYBazaLe @jordiegarner_ https://www.instagram.com/reel/DeLrYBazaLe/ — **BANKED as COPY**. His reel opens 0.00-4.95s on a borrowed woman in a car: "These are seven non-sexual things that I think are attractive that guys do." 3.72s (4.68s with "Number one."), tagged list-opener: 7, creator unknown. ig-fetch 2/8. Handle → [saved] (donor source).
 2026-10-21 DQvT1RngKx6 @datingwithgracie https://www.instagram.com/reel/DQvT1RngKx6/ — **BANKED**. Real woman to camera in her car: "These are signs that you are a walking green flag to women." 3.56s, word-timed, tagged list-opener (unnumbered "signs"). ig-fetch 1/8. Handle → [premise] (readable, 9/25 serving).
 2026-10-21 DdejYH2irKY @chelskocoaching https://www.instagram.com/reel/DdejYH2irKY/ — tombstone (test 4). "Ladies, he's not single because girls don't want him. He's single because he hasn't found a girl he wants yet." She answers her own blank; same frame as the FRESH DYH7OUkMOUw. ig-fetch 3/8.

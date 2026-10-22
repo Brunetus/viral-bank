@@ -20,6 +20,33 @@ touched.
 
 <!-- entries below, newest first -->
 
+## DewiW1Ix6IZ — a real brunette woman straight to camera, low angle, black zip top, wood-panelled room with windows behind her, finger raised, full-bleed, white card "What a woman looks for in a man" (0-4s), says "Guys, this is what a woman looks for in a man. And I'm not going to bullshit you."
+- source: @ashleahoess | https://www.instagram.com/reel/DewiW1Ix6IZ/          <- [premise] lane since 2026-09-29; bio "Modern dating advice for men". Free Graph copy, no fetch slot
+- lane: premise
+- first-seen: 2026-10-22 | status: FRESH
+- stats-at-capture: 3,666 likes / comments n/a (3.0x account median), posted 2026-10-20
+- joke-structure: n/a — opener donor
+- the-beat: cut at 4.8s, the frame "bullshit you." finishes on (her next line "I'm going to give it to you straight" starts 4.88s). Tighter cut at 2.9s ("…in a man." ends ~2.4s, breath until 2.92s) is under the 3s floor, do not use it
+- audio-model: original sound (attach in-app, NEVER bake — rule 92)
+- her-audio: original sound — attachable in-app (her own voice, room tone, no music under it)
+- pairs-with: one picturable thing he owns or ships: a Claude 20x Max plan on the billing page, a localhost app gone live on a .com, his /stats screen
+- premise: "Guys, this is what a woman looks for in a man. And I'm not going to bullshit you."
+- slot: "what a woman looks for in a man" -> one object, e.g. a Claude 20x Max plan / a .com he shipped tonight. Her own body answers with a list (confident, motivated, …; caption "Last one hits"), so cut at 4.8s before any answer is heard
+- setup-length: 4.8s ("Guys" 0.00 → "you." ~4.75, word-timed) (she finishes the premise: yes; inside the 4-5s winning band. No count is promised, so it is a single-blank opener, not a list-opener)
+- hero-test: hero. He is what she is about to describe as wanted; nothing is wrong with him.
+- addresses: the man watching ("Guys") / recognises: the man watching. Same person.
+- original: yes — creator's own upload
+- clean-window: n/a — OPENER donor (her setup card IS the hook)
+- file: clips/DewiW1Ix6IZ.mp4 (114.5s, 720x1280)
+
+## Dew3BXeoZOi — [NOT BANKED] tombstone (test 1: AI avatar, check (b) feed shape) @novaonlove at a café table, phone in hand, word captions, says "The best text a guy ever sent me wasn't 'you're beautiful.' It was this." (0-4.0s). The premise shape is right (quoted-compliment elimination, blank held to 4.0s), but 24 followers, a daily scripted line in identical staged framing, and a generated-looking face. Handle to Dropped. Throwaway tag page #greenflags, free Graph copy. · https://www.instagram.com/reel/Dew3BXeoZOi/ · first-seen 2026-10-22
+
+## DcOdPVJRg8l — [NOT BANKED] tombstone (test 2, addresses mismatch) @meli.shares to camera in a kitchen, green cap, card "PROOF YOUR MAN IS THAT N***A", transcribed: "there is really one way to tell if your man is really that [slur] … it's just a simple fact that he's got some haters, girl" (0.0-8.0s). Positive, but aimed at women ("your man", "girl"), she answers her own blank, and the card and line carry a slur. Saved 10-22, ig-fetch 2/8. · https://www.instagram.com/reel/DcOdPVJRg8l/ · first-seen 2026-10-22
+
+## Ddm08FwTdVt — [NOT BANKED] tombstone (test 1) @robertmckeaveney, a man to camera: "This creator copied me. Just watch." then a split screen of his video vs @bryanjohnson_'s memory-test video. No woman, no premise about men. Saved 10-22, ig-fetch 1/8. · https://www.instagram.com/reel/Ddm08FwTdVt/ · first-seen 2026-10-22
+
+## DexlgSSN3t8 — [NOT BANKED] tombstone (tests 2/3/4) @lexisummits, a real woman mountaineer to camera: "So I graduated college a year ago, I got my bachelor's in mechanical engineering… for all the engineering students out there, I swear it only gets better" (0-11s). About her degree, no man in the sentence, no blank. Saved 10-22. Free Graph copy. · https://www.instagram.com/reel/DexlgSSN3t8/ · first-seen 2026-10-22
+
 ## DeLrYBazaLe — [COPY, test 7 as amended] the 0.00-4.95s opener of @jordiegarner_'s golf reel: a real brunette woman to camera in a car (mint top, gold necklaces, finger raised), card "7 nons*xual things that guys do that are attractive", says "These are seven non-sexual things that I think are attractive that guys do. Number one." then hard cut to him swinging under "GOLF"
 - source: @jordiegarner_ | https://www.instagram.com/reel/DeLrYBazaLe/   (Marcus's Saved, read-saved.sh; fetched via ig-fetch 2/8)
 - lane: premise
@@ -553,43 +580,9 @@ touched.
 
 ## Ddg-obGtljC — [NOT BANKED] @esthersarphatie to camera, burned card "WHAT EVERY MAN WANTS FROM HIS WOMAN", saying "What every man wants from his woman is that she stays exactly the same, like when he met her." · https://www.instagram.com/reel/Ddg-obGtljC/ · gate-reject test 4 (the premise ANSWERS ITSELF at 2.04-3.76s — "is that she stays exactly the same" — so there is no blank left for a payoff object; the rest of the reel is exposition about her independence and investment), plus test 2 audience fit (addressed to women about a man; the viewer is not the hero). 1,247 likes / 40 comments, 1.09x median. Graph-served, zero cookie cost. NOT the same reel as C6OUCQWtMQi (banked 09-27) — same grammar, opposite structure: that one withholds its object, this one spends it in the first sentence · first-seen 2026-09-28
 
-## C6OUCQWtMQi — @esthersarphatie (relationship coach) to camera in a slatted-wood living room, pink tee, purple-highlight word captions: "This is the one thing every man needs from his woman. He doesn't just need her to respect him and to appreciate the things that he does…" then "What he actually needs most is her emotional support"
-- source: @esthersarphatie (browsed, throwaway tag page #whatmenwant) | https://www.instagram.com/reel/C6OUCQWtMQi/
-- lane: premise
-- first-seen: 2026-09-27 | status: STALE (2026-10-19)
-- stats-at-capture: 3,310 likes / 53 comments / 170,823 plays (IG tag-page top post, 2024-04-26; old, and the premise does not date). Creator 608279 followers, 17/18 serving
-- joke-structure: n/a — opener donor
-- the-beat: cut at 4.60s, after "respect him" (word stamps: This 0.0 / one 0.5 / thing 0.8 / every 1.1 / man 1.5 / needs 1.7 / woman 2.3 / He doesn't just 2.8-3.2 / need 3.4 / her 3.7 / to 3.9 / respect 4.1 / him 4.6 / and 5.0 / appreciate 5.3 … relationship 7.7 / What he actually needs most 8.9-9.8 / emotional support 10.9-11.5). Alternate 7.70s after "…for the relationship" (two eliminations, over rule 94 with his beat)
-- audio-model: original sound (attach in-app, NEVER bake — rule 92)
-- her-audio: original sound — attachable in-app. Clean
-- pairs-with: the one_thing grammar exactly — "every man needs… not just respect" -> hard cut to Marcus: "he needs a Claude 20x Max plan" / "he needs his tokens to reset". The claim plus an elimination, and the blank is his
-- premise: "This is the one thing every man needs from his woman. He doesn't just need her to respect him"
-- slot: "the one thing every man needs" -> one object; she eliminates respect (and appreciation on the long cut) and never lets the viewer hear her answer before the cut
-- setup-length: 4.60s (yes: claim complete, elimination made, answer still withheld)
-- hero-test: the man is the hero — what he needs, said warmly; no negative frame. Audience fit: "a man and his woman", no age / husband / father anchor
-- addresses: everyone, about "every man" / recognises: the man — same person as the payoff
-- original: yes — creator's own upload
-- clean-window: n/a — OPENER donor; her own word captions match her words
-- file: clips/C6OUCQWtMQi.mp4 (only 0.00-4.60 is the donor beat)
+## C6OUCQWtMQi — [PRUNED STALE (2026-10-19)] @esthersarphatie to camera, "This is the one thing every man needs from his woman…" · https://www.instagram.com/reel/C6OUCQWtMQi/ · first-seen 2026-09-27
 
-## DcARPbGBBVI — @datingnadya to camera at a desk, card "Green flags in men ✅ ✨first date edition✨", then "1. His phone stays in his pocket or face down the entire date." / "Giving you zero phone distraction…"
-- source: @datingnadya (browsed, throwaway tag page #mengreenflags) | https://www.instagram.com/reel/DcARPbGBBVI/          <- personal account (business_discovery error 110): banked on the browsed handle, cannot join the [premise] lane
-- lane: premise
-- first-seen: 2026-09-27 | status: STALE (2026-10-19)
-- stats-at-capture: 970 likes / 18 comments / 41,672 plays (2026-08-13)
-- joke-structure: n/a — opener donor
-- the-beat: cut at 5.70s, after "the entire date." (word stamps: green flags 0.0-0.2 / men 0.7 / first date edition 1.0-1.7 / Number one 2.3 / his phone 2.7 / stays 3.0 / pocket 3.7 / face down 4.2-4.5 / the entire date 4.8-5.7 / Giving you 6.4). The short cut at 2.3s ("Number one,") is under test 6's 3s floor, so her first answer is IN the window, the same way Marcus took "make a little noise" on DZsw9oGtP0I
-- audio-model: original sound (attach in-app, NEVER bake — rule 92)
-- her-audio: original sound — attachable in-app. Clean
-- pairs-with: her answer is the setup — "his phone stays face down the entire date" -> hard cut to Marcus at dinner, phone face down, laptop open beside the plate with five Claude sessions streaming. Or the green-flag family straight: "Green flags in men, number one…" -> his own card. The green-flag premise is the one token_usage (DdxZCCmR8i0) opened at a 2.26% share rate on 09-27
-- premise: "Green flags in men, first date edition. Number one, his phone stays in his pocket or face down the entire date."
-- slot: on the long cut, her answer is the object the payoff subverts; on a card-only cut, "green flag #1: ___"
-- setup-length: 5.70s (yes, premise and her first green flag complete)
-- hero-test: the man is the hero — a green flag, positive by construction
-- addresses: women (dating advice) / recognises: the man who does the green flag — the payoff has to make HIM the one the tribe sees itself in (flag this to the architect: the `texting` failure was a premise addressed to women)
-- original: yes — creator's own upload
-- clean-window: n/a — OPENER donor; her card + captions carry the setup
-- file: clips/DcARPbGBBVI.mp4 (only 0.00-5.70 is the donor beat)
+## DcARPbGBBVI — [PRUNED STALE (2026-10-19)] @datingnadya to camera, card "Green flags in men ✅ first date edition" · https://www.instagram.com/reel/DcARPbGBBVI/ · first-seen 2026-09-27
 
 ## DdkSYlgxGQY — [PRUNED DO-NOT-SPLICE 2026-10-15, aired as the 1012_audio opener 2026-10-15; creator BURNED: Marcus never wants @annabellegesson in the bank again] · https://www.instagram.com/reel/DdkSYlgxGQY/
 
