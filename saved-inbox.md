@@ -11,6 +11,7 @@ Filler rule: skip any shortcode already under `## processed` or already a catalo
 measures tests 5/6, rewrites the entry, and moves the line here as `re-measured`.
 
 ## inbox
+<!-- empty 2026-10-25: read-saved.sh read 24 on the grid and appended 2 new lines (exit 0); both other creators' reels (not the profile-grid redirect). Gated and moved to ## processed: 0 BANKED, 2 tombstoned. -->
 <!-- ⚠⚠ 2026-10-24 — READ-SAVED.SH RETURNED THE WRONG GRID AGAIN (third time: 10-07, 10-14, 10-24). NOT A REAL INBOX; 23 LINES REMOVED.
      read-saved.sh exited 0, "24 on grid, 23 new appended", and all 23 appended lines were @imabgold's OWN reels
      (handle @imabgold on every line, Dd-Ss2PI0PB and Dext2XzpLKs among them). Not gated (test 1 by construction).
@@ -112,6 +113,8 @@ measures tests 5/6, rewrites the entry, and moves the line here as `re-measured`
 ## re-measure
 
 ## processed
+2026-10-25 De5mlQGC8HZ @ahsan.deve https://www.instagram.com/reel/De5mlQGC8HZ/ — tombstone (test 1). Man to camera, B&W, card "The daily urge to bet on yourself and go all in on that one idea". ig-fetch 1/8. Handle → [saved].
+2026-10-25 DXmFSpMDGYn @bylaurendudley https://www.instagram.com/reel/DXmFSpMDGYn/ — tombstone (tests 2/3/4). Real woman, "What if I told you you could build a personal brand in three and a half months…", brand how-to aimed at women, masterclass funnel. ig-fetch 2/8. Handle → [saved].
 2026-10-22 Ddm08FwTdVt @robertmckeaveney https://www.instagram.com/reel/Ddm08FwTdVt/ — tombstone (test 1). Man to camera, "This creator copied me. Just watch." then a split screen vs @bryanjohnson_. ig-fetch 1/8. Handle → [saved].
 2026-10-22 DexlgSSN3t8 @lexisummits https://www.instagram.com/reel/DexlgSSN3t8/ — tombstone (tests 2/3/4). Real woman, "I graduated college a year ago… it only gets better", about her engineering degree. Free Graph copy. Handle → [saved].
 2026-10-22 DcOdPVJRg8l @meli.shares https://www.instagram.com/reel/DcOdPVJRg8l/ — tombstone (test 2). Real woman, card "PROOF YOUR MAN IS THAT N***A", aimed at women ("your man… girl"), answers her own blank (haters), carries a slur. ig-fetch 2/8. Handle → [saved].

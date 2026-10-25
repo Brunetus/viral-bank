@@ -20,6 +20,14 @@ touched.
 
 <!-- entries below, newest first -->
 
+## De4hZX8RmEz — [NOT BANKED] tombstone (test 1, not spoken) @ecruzmagno, two people in hoodies at a campsite, peace signs, card "What do you look for in a man?" over a music track (0-8.0s); nobody says the premise and the caption answers it with a list. Throwaway tag page #whatmenwant, ig-fetch 3/8. · https://www.instagram.com/reel/De4hZX8RmEz/ · first-seen 2026-10-25
+
+## De4ocNVoQkw — [NOT BANKED] tombstone (test 1, not spoken) @shrutishethdiaries, a real woman to camera, silent smile then a pout, card "Kis type ka LADKA tumhe pasand hai…???" over a Hindi music track (0-18.9s); the premise is never said aloud and the caption fills the blank itself (presence, effort, consistency). Throwaway tag page, ig-fetch 4/8. · https://www.instagram.com/reel/De4ocNVoQkw/ · first-seen 2026-10-25
+
+## De5mlQGC8HZ — [NOT BANKED] tombstone (test 1) @ahsan.deve, a man to camera in black and white, card "The daily urge to bet on yourself and go all in on that one idea" (0-10.6s, no premise spoken). No woman, no man set up. Saved 10-25, ig-fetch 1/8. · https://www.instagram.com/reel/De5mlQGC8HZ/ · first-seen 2026-10-25
+
+## DXmFSpMDGYn — [NOT BANKED] tombstone (tests 2/3/4) @bylaurendudley, a real woman to camera on a green-screen street, card "how to build a personal brand by august", says "What if I told you you could build a personal brand in three and a half months that could change your life? Would you do it?" (0-4.3s). A brand how-to aimed at women, no man in the sentence, no blank; account sells a masterclass. Saved 10-25, ig-fetch 2/8. · https://www.instagram.com/reel/DXmFSpMDGYn/ · first-seen 2026-10-25
+
 ## DewiW1Ix6IZ — a real brunette woman straight to camera, low angle, black zip top, wood-panelled room with windows behind her, finger raised, full-bleed, white card "What a woman looks for in a man" (0-4s), says "Guys, this is what a woman looks for in a man. And I'm not going to bullshit you."
 - source: @ashleahoess | https://www.instagram.com/reel/DewiW1Ix6IZ/          <- [premise] lane since 2026-09-29; bio "Modern dating advice for men". Free Graph copy, no fetch slot
 - lane: premise
