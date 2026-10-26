@@ -20,6 +20,8 @@ touched.
 
 <!-- entries below, newest first -->
 
+## De6xHy2y3Mr — [NOT BANKED] tombstone (tests 1/6) @rawmicofficial, a woman podcast guest at a mic speaking Hindi ("women like men who talk very well… have you seen the fans of bodybuilders? very few"), cut to a Satyaprem Ki Katha film clip at ~2s; a podcast guest, the premise is the caption's, not said in one setup, and she is on screen under 3s. Throwaway tag page #whatwomenwant (144,621 plays), ig-fetch 2/8 · https://www.instagram.com/reel/De6xHy2y3Mr/ · first-seen 2026-10-26
+
 ## De4hZX8RmEz — [NOT BANKED] tombstone (test 1, not spoken) @ecruzmagno, two people in hoodies at a campsite, peace signs, card "What do you look for in a man?" over a music track (0-8.0s); nobody says the premise and the caption answers it with a list. Throwaway tag page #whatmenwant, ig-fetch 3/8. · https://www.instagram.com/reel/De4hZX8RmEz/ · first-seen 2026-10-25
 
 ## De4ocNVoQkw — [NOT BANKED] tombstone (test 1, not spoken) @shrutishethdiaries, a real woman to camera, silent smile then a pout, card "Kis type ka LADKA tumhe pasand hai…???" over a Hindi music track (0-18.9s); the premise is never said aloud and the caption fills the blank itself (presence, effort, consistency). Throwaway tag page, ig-fetch 4/8. · https://www.instagram.com/reel/De4ocNVoQkw/ · first-seen 2026-10-25
