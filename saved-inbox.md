@@ -11,6 +11,7 @@ Filler rule: skip any shortcode already under `## processed` or already a catalo
 measures tests 5/6, rewrites the entry, and moves the line here as `re-measured`.
 
 ## inbox
+<!-- empty 2026-10-27: read-saved.sh read 24 on the grid and appended 3 new lines (exit 0), a REAL grid (three other creators). All gated and moved to ## processed: 0 BANKED, 3 tombstoned. -->
 <!-- ⚠⚠ 2026-10-26 — READ-SAVED.SH RETURNED THE WRONG GRID AGAIN (fourth time: 10-07, 10-14, 10-24, 10-26). NOT A REAL INBOX; 23 LINES REMOVED.
      read-saved.sh exited 0, "24 on grid, 23 new appended", and all 23 appended lines were @imabgold's OWN reels
      (handle @imabgold on every line, Dd-Ss2PI0PB and De8hc24OndL among them). Not gated (test 1 by construction).
@@ -118,6 +119,9 @@ measures tests 5/6, rewrites the entry, and moves the line here as `re-measured`
 ## re-measure
 
 ## processed
+2026-10-27 DeSmpEphYsb @jilliangerhardt https://www.instagram.com/reel/DeSmpEphYsb/ — tombstone (test 2, also 4). Real woman to camera in a car, "I have a problem solver husband… it is very hard to be dramatic around a man who is annoyingly solution-oriented". A husband premise, no blank. ig-fetch 1/8. Marcus already pulled it into a draft 10-26.
+2026-10-27 Db9_4IzttY1 @iamecedemirci https://www.instagram.com/reel/Db9_4IzttY1/ — tombstone (test 2, also 4). Woman to camera, "If your man starts to act like a mentor… he wants you to be his wife". Aimed at women, marriage, answers itself. ig-fetch 2/8.
+2026-10-27 De1eBc8owGL @veebee3d https://www.instagram.com/reel/De1eBc8owGL/ — tombstone (test 6). Woman to camera, "top 5 hottest things you can say to a woman" in 2.54s, then five 3D-printer lines. The frame imabgold aired 10-26; format captured as playbook #107. ig-fetch 3/8.
 2026-10-25 De5mlQGC8HZ @ahsan.deve https://www.instagram.com/reel/De5mlQGC8HZ/ — tombstone (test 1). Man to camera, B&W, card "The daily urge to bet on yourself and go all in on that one idea". ig-fetch 1/8. Handle → [saved].
 2026-10-25 DXmFSpMDGYn @bylaurendudley https://www.instagram.com/reel/DXmFSpMDGYn/ — tombstone (tests 2/3/4). Real woman, "What if I told you you could build a personal brand in three and a half months…", brand how-to aimed at women, masterclass funnel. ig-fetch 2/8. Handle → [saved].
 2026-10-22 Ddm08FwTdVt @robertmckeaveney https://www.instagram.com/reel/Ddm08FwTdVt/ — tombstone (test 1). Man to camera, "This creator copied me. Just watch." then a split screen vs @bryanjohnson_. ig-fetch 1/8. Handle → [saved].

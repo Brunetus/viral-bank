@@ -20,6 +20,31 @@ touched.
 
 <!-- entries below, newest first -->
 
+## DeSmpEphYsb — [NOT BANKED] tombstone (test 2 audience fit, also test 4) @jilliangerhardt, a real woman to camera in a car, green tank top, card "Problem solver husbands", says "I have a problem solver husband, and let me tell you something, it is very hard to be dramatic around a man who is annoyingly solution-oriented" (0.0-7.8s). Positive and he is the hero, but the man is a HUSBAND (a life stage the 18-34 viewer has not reached) and the sentence answers itself, no blank. Saved 10-27, ig-fetch 1/8. ⚠ Marcus already pulled this reel into an imabgold draft on 10-26 evening; using it there is his call, this record only stops the scan re-spending a slot. · https://www.instagram.com/reel/DeSmpEphYsb/ · first-seen 2026-10-27
+## Db9_4IzttY1 — [NOT BANKED] tombstone (test 2 addressee + life stage, test 4) @iamecedemirci, a woman to camera, says "If your man starts to act like a mentor and starts giving you advice, trust me, he wants you to be his wife" (0.0-6.2s). He is the hero, but it talks to WOMEN about "your man" and resolves in marriage, and she answers her own blank. Saved 10-27, ig-fetch 2/8. · https://www.instagram.com/reel/Db9_4IzttY1/ · first-seen 2026-10-27
+## De1eBc8owGL — [NOT BANKED] tombstone (test 6, also list-opener and her own product) @veebee3d, a woman to camera in an EAGLES sweatshirt, card "top 5 hottest things you can say to a woman", says the line in 2.54s then "number one: hey, check out my 3D printer" with cutaways to her printers. The same frame @imabgold aired 10-26 (De8hc24OndL, 136k / 6,196 shares); this one was posted 10-23. Setup under 3s, a list promise, and a 3D-print shop's account showing its machines. Format captured as playbook #107. Saved 10-27, ig-fetch 3/8. · https://www.instagram.com/reel/De1eBc8owGL/ · first-seen 2026-10-27
+## De7qpuNtTr6 — [NOT BANKED] tombstone (test 6) @verenaa.bo, a real woman to camera, red top and bandana, fairy lights, card "Attractive things that men do", says "attractive things that men do that need a little bit more appreciation" (0.00-2.90s) then the first item ("when he knows the difference between protecting you and controlling you"). Positive, he is the hero, but the setup is 2.9s, under the 3s floor, and it is a list promise ("Part 8" of a series). Throwaway tag page #attractivemen (2,165 plays), ig-fetch 4/8. · https://www.instagram.com/reel/De7qpuNtTr6/ · first-seen 2026-10-27
+
+## De1zkkNueQ- — a real blonde woman straight to camera at home, pink top, holding a pen-mic and a rose-gold laptop, full-bleed, pink card "Things that I find attractive in a man" plus word captions, says "things that I find attractive in a man that have absolutely nothing to do with his looks"
+- source: @angeliclika (browsed) | https://www.instagram.com/reel/De1zkkNueQ-/          <- throwaway tag page #attractivemen; bio "NYC, Dubai Travel | Femininity | Manifestations", travel/lifestyle feed (real person, no AI tell on bio, feed or frames). Free Graph copy, no fetch slot
+- lane: premise
+- first-seen: 2026-10-27 | status: FRESH
+- stats-at-capture: 16 likes / 0 comments (0.32x account median of 50), 680 plays at capture, posted 2026-10-23. A tiny account: banked on gate fit, not on a spike
+- list-opener: 2+ — she promises "things" with no count and her body is a numbered list ("number two…"). Never pay this opener with ONE object (the 10-26 green-flag list paid with one item did 2,187 / 44% skip); deliver at least two, ideally the number the reel's CTA asks for (the delivered top-5 did 136k / 6,196 shares)
+- joke-structure: n/a — opener donor
+- the-beat: cut at 3.84s, the frame "looks" finishes on ("because honestly" starts 3.84s, word-timed)
+- audio-model: original sound (attach in-app, NEVER bake — rule 92)
+- her-audio: original sound — attachable in-app (her own voice, clean room tone in the transcription; confirm no library track under it when attaching)
+- pairs-with: two or more things he owns, ships or does with a tool, none of them about his face: his /stats screen, a .env in .gitignore, a localhost app gone live. The laptop in her hand is a free visual bridge to Marcus's desk
+- premise: "things that I find attractive in a man that have absolutely nothing to do with his looks"
+- slot: "attractive in a man, nothing to do with his looks" -> a short list of ownable habits/objects, e.g. 1. he commits and pushes every session 2. his API keys live in .env. ⚠ Same frame as `De9aGDYo6rb` ("has nothing to do with how they look", opener @datingwjessie, 2,765 views): that reel died on a RE-SPENT object (ship to main), so this donor needs fresh objects, not the main/.com/streak ones
+- setup-length: 3.84s ("things" 0.00 → "looks" 3.84, word-timed) (she finishes the premise: yes; just under the 4-5s winning band, over the 3s floor)
+- hero-test: hero. She is listing what makes him wanted; nothing is wrong with him.
+- addresses: anyone watching, about men in general / recognises: the man watching, who owns the objects. Same person, though she never says "guys"
+- original: yes — creator's own upload
+- clean-window: n/a — OPENER donor (her setup card IS the hook)
+- file: clips/De1zkkNueQ-.mp4 (67.0s, 720x1280)
+
 ## De6xHy2y3Mr — [NOT BANKED] tombstone (tests 1/6) @rawmicofficial, a woman podcast guest at a mic speaking Hindi ("women like men who talk very well… have you seen the fans of bodybuilders? very few"), cut to a Satyaprem Ki Katha film clip at ~2s; a podcast guest, the premise is the caption's, not said in one setup, and she is on screen under 3s. Throwaway tag page #whatwomenwant (144,621 plays), ig-fetch 2/8 · https://www.instagram.com/reel/De6xHy2y3Mr/ · first-seen 2026-10-26
 
 ## De4hZX8RmEz — [NOT BANKED] tombstone (test 1, not spoken) @ecruzmagno, two people in hoodies at a campsite, peace signs, card "What do you look for in a man?" over a music track (0-8.0s); nobody says the premise and the caption answers it with a list. Throwaway tag page #whatmenwant, ig-fetch 3/8. · https://www.instagram.com/reel/De4hZX8RmEz/ · first-seen 2026-10-25
@@ -436,24 +461,7 @@ touched.
 ## DdNbCWyRjdd — [NOT BANKED] tombstone (tests 2/3) · @siixuc, a woman to camera but the premise is "men gaslight" — a negative frame, so the man is the problem rather than the hero · https://www.instagram.com/reel/DdNbCWyRjdd/ · gated 2026-09-25, block backfilled 2026-10-03 · first-seen 2026-09-25
 ## C4bhhVTtG-v — [NOT BANKED] tombstone (tests 1/2/4) · @niktekofficial, a PC-meme channel: no woman, no premise, no slot · https://www.instagram.com/reel/C4bhhVTtG-v/ · gated 2026-09-25, block backfilled 2026-10-03 · first-seen 2026-09-25
 ## DVe3khJjOU4 — [NOT BANKED] tombstone (tests 1/2) · @_officer.ahmed, a man to camera doing red-flag coaching aimed at women · https://www.instagram.com/reel/DVe3khJjOU4/ · gated 2026-09-25, block backfilled 2026-10-03 · first-seen 2026-09-25
-## algobrief-planB — @algobrief tweet-card meme: card "Plan B if programming doesn't work out" (their name + verified tick above it) over a clip of a young man in a white cap standing behind an older woman at the bow of a catamaran, turquoise water; she reaches up and holds his face at the end. Track: "let it all out"
-- source: @algobrief (shortcode not identified — their captions all read "Interesting fact: …", the card text is not in them, and 0/50 recent reels serve media_url) | copy received 2026-10-02 as a public meme re-uploaded into the Reels app; no customer footage, no customer identity recorded here
-- lane: premise
-- first-seen: 2026-10-02 | status: STALE (2026-10-24) — ★ MARCUS'S RULING 2026-10-02 ("it can be a really good donor… plug that into the donor"). Banked OUTSIDE the gate: it is a card over a clip with no speaker, so test 1 (girl to camera) is waived for THIS entry only. Do not generalise; the scan still rejects card-over-b-roll
-- stats-at-capture: none (reel not located on the feed). Account: 83,585 followers, median ~1,930, spikes to 108k likes on programmer-life memes
-- joke-structure: n/a as an opener; as a whole it is "card names the fallback, the picture is the punchline" (the Plan B is a sugar mama)
-- the-beat: 13.88s, one continuous shot, no cuts. The card is readable from frame 1; the joke lands as soon as the picture registers (~1.5s). Usable as an opener for 3-5s (card + the two of them at the bow), or whole as a payoff insert. The face-hold at ~11-13.9s is the button
-- audio-model: trending sound (add in-app) — a licensed track ("let it all out"), never bake it
-- her-audio: n/a — no speech
-- pairs-with: (a) OPENER: their card + 3-4s of the boat, hard cut to Marcus's Plan A: the desk at night, four Claude panes running, "Plan A: a Claude 20x Max plan". (b) REBUILD the card over his OWN footage (he has a boat clip, `gili_boat_7s.mov`, and pool-coding footage): "Plan B if Claude goes down". (c) payoff insert after his own setup line
-- premise: "Plan B if programming doesn't work out" (card)
-- slot: the Plan B itself — one scene/object. Singular, ownable, and squarely the tribe's joke (the 09-30 one-object finding favours this shape)
-- setup-length: card is static for all 13.88s; cut anywhere from 3.0s
-- hero-test: the man is the one with the plan — self-deprecating, not an accusation; the tribe laughs with him
-- addresses: programmers / recognises: programmers — same person
-- original: COPY — @algobrief is an aggregator account and the boat clip is third-party footage inside their card; original creator unknown
-- clean-window: the PICTURE sits in a band roughly y 458-1194 of 1280 (720 wide), black above and below; @algobrief's avatar, name and tick are in the top black band and a small "@algobrief" watermark sits top-right INSIDE the picture (x587-693, y496-513). Full-bleed use means cropping to the picture band (~1.5x upscale to fill width is not needed; it is letterboxed, so either keep the card layout or crop 9:16 from the picture at ~2.3x). Keep-the-card is the recognisable version
-- file: clips/algobrief-planB.mp4 (13.88s, 720x1280, 1.3 MB)
+## algobrief-planB — [PRUNED STALE (2026-10-24)] @algobrief tweet-card meme "Plan B if programming doesn't work out" over a third-party catamaran clip (banked by Marcus's 10-02 ruling outside the gate; shortcode never identified) · @algobrief (no permalink) · first-seen 2026-10-02
 
 ## Dd9Pb99x3Qh — a woman walking outdoors at golden hour, straight to camera, finger raised, telling men the one thing anyone they date should be able to do for them
 - source: @ashleahoess | https://www.instagram.com/reel/Dd9Pb99x3Qh/
