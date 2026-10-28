@@ -11,6 +11,11 @@ Filler rule: skip any shortcode already under `## processed` or already a catalo
 measures tests 5/6, rewrites the entry, and moves the line here as `re-measured`.
 
 ## inbox
+<!-- ⚠⚠ 2026-10-28 — READ-SAVED.SH RETURNED THE WRONG GRID AGAIN (fifth time: 10-07, 10-14, 10-24, 10-26, 10-28). NOT A REAL INBOX; 23 LINES REMOVED.
+     read-saved.sh exited 0, "24 on grid, 23 new appended", and all 23 appended lines were @imabgold's OWN reels
+     (handle @imabgold on every line, De5d7MgtIdP and DfBfrTtOjRK among them). Not gated (test 1 by construction).
+     Shortcodes recorded in logs/2026-10-28.log. Not re-run. TODAY'S SAVED READ IS A MISS, not an empty inbox.
+     ⚠ FOR MARCUS: make the exit-5 check assert the FINAL URL contains /saved/. -->
 <!-- empty 2026-10-27: read-saved.sh read 24 on the grid and appended 3 new lines (exit 0), a REAL grid (three other creators). All gated and moved to ## processed: 0 BANKED, 3 tombstoned. -->
 <!-- ⚠⚠ 2026-10-26 — READ-SAVED.SH RETURNED THE WRONG GRID AGAIN (fourth time: 10-07, 10-14, 10-24, 10-26). NOT A REAL INBOX; 23 LINES REMOVED.
      read-saved.sh exited 0, "24 on grid, 23 new appended", and all 23 appended lines were @imabgold's OWN reels
