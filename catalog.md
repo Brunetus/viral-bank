@@ -188,6 +188,7 @@ touched.
 - audio-model: original sound (attach in-app, NEVER bake — rule 92)
 - her-audio: original sound — her voice only, no music bed under the setup. Verify her audio page in-app before attaching (the clip is Graph-withheld on this reel)
 - pairs-with: the reason he is single, shown as his setup: a 4-agent terminal wall at 2am, a Claude 20x Max plan receipt, the /stats screen with 24 billion tokens
+- failed-pair (Marcus 10-30, "makes zero sense", he deleted it): 0918_first_domain, "so it's a MacBook, caffeine, and a Claude 20x Max plan. That's all we want". Her line asks WHY he's single; that payoff gives no reason and answers a want question she never asked. Only a real reason works here: 1015_tokens ("because he's burnt 24 billion tokens") hit 72.6K in 9 hours.
 - premise: "He's not single because he can't get a woman. He's single…" (spoken verbatim; her full line continues "…because he can't find a woman worth investing in")
 - slot: "he's not single because he can't get a woman. he's single because ___" -> ONE object or commitment he chose over dating. The elimination ("not because he can't get a woman") is built in, which is the `one_thing` shape: claim, elimination, blank. e.g. "…because Claude Code doesn't need a good-morning text" / the 20x Max plan
 - setup-length: 3.55s (0.00-3.55, premise complete up to the blank; "because" can ride to 3.85s at most). Above the 3s floor, just under the 4.03/4.60s band. The whole reel is 6.43s
