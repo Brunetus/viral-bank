@@ -159,6 +159,7 @@ rossoreserve [saved] — screened 2026-09-27 from Marcus's Saved Dckk8b1RWZI and
 dead 2026-09-25 (Marcus: cut the dead weight; failed the gate, not probed daily): niktekofficial [saved] — added 2026-09-25 via Saved C4bhhVTtG-v; 46.8k followers, 0/20 serving; PC-meme channel. That reel failed tests 1/2/4.
 dead 2026-09-25 (Marcus: cut the dead weight; failed the gate, not probed daily): _officer.ahmed [saved] — added 2026-09-25 via Saved DVe3khJjOU4; 26.5k followers, 16/24 serving; man to camera, red-flag/relationship coaching aimed at women. Failed tests 1/2.
 @algobrief [saved] — added 2026-10-29 (Marcus, via the Asana 'Donor format filtering' card): watch so future reels get picked up automatically, and pull the source of the tweet-card 'Plan B if programming doesn't work out' reel Marcus banked outside the gate on 10-02 (catalog `algobrief-planB`, pruned stale 10-24, shortcode never identified). Tweet-card meme over third-party footage, NOT the girl-to-camera premise shape, so expect gate rejects on the premise tests; the ask is the source link, then report its reels in the log. First read 2026-10-30 (fetching paused 10-29 after the 07:44 rate limit).
+@excel_esports [saved] — added 2026-10-30 via Marcus's Saved DfCwe2KBy9c; Excel Esports (Microsoft Excel World Championship by FMWC), 200,814 followers, 21/25 serving (readable). The saved reel was a ticket promo (guard 7 ad, 415k likes). An event/brand account, no woman-to-camera premise; low hit rate expected.
 
 ## Old lanes (tech / general / sports / family) — format-capture only since 2026-09-17
 

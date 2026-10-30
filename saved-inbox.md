@@ -11,6 +11,7 @@ Filler rule: skip any shortcode already under `## processed` or already a catalo
 measures tests 5/6, rewrites the entry, and moves the line here as `re-measured`.
 
 ## inbox
+<!-- empty 2026-10-30: read-saved.sh read 24 on the grid and appended 2 new lines (exit 0), a REAL grid. Both gated and moved to ## processed: 0 BANKED, 2 tombstoned. -->
 <!-- empty 2026-10-29: read-saved.sh read 24 on the grid and appended 3 new lines (exit 0), a REAL grid (three other creators). All gated or burned-skipped and moved to ## processed: 0 BANKED, 2 tombstoned, 1 burned-skip. -->
 <!-- ⚠⚠ 2026-10-28 — READ-SAVED.SH RETURNED THE WRONG GRID AGAIN (fifth time: 10-07, 10-14, 10-24, 10-26, 10-28). NOT A REAL INBOX; 23 LINES REMOVED.
      read-saved.sh exited 0, "24 on grid, 23 new appended", and all 23 appended lines were @imabgold's OWN reels
@@ -125,6 +126,8 @@ measures tests 5/6, rewrites the entry, and moves the line here as `re-measured`
 ## re-measure
 
 ## processed
+2026-10-30 DczSTUwBm0L @makayla.tonn https://www.instagram.com/reel/DczSTUwBm0L/ — tombstone (test 8). Real woman to camera, "Men are so simple. You just cook them banana bread… ask him how Claude is doing today and tell him he reminds you of Batman." Names Claude, fills her own blank. ig-fetch 1/8. Already on [premise].
+2026-10-30 DfCwe2KBy9c @excel_esports https://www.instagram.com/reel/DfCwe2KBy9c/ — tombstone (guard 7 ad: "Tickets are available now! Link in bio."). Not fetched. Handle added to [saved].
 2026-10-29 DcWrhnXBHoK @ayv.spamz https://www.instagram.com/reel/DcWrhnXBHoK/ — tombstone (test 2, also list opener). Real woman to camera, "[red] flags in men that are not talked about nearly enough… number one is extreme road rage". Free Graph copy, zero fetch slots. Handle added to [saved].
 2026-10-29 Ddt0kggInFm @kennyslowbird https://www.instagram.com/reel/Ddt0kggInFm/ — tombstone (test 1). A man's street skit ("that truck is sick… he's not gonna fit"), no premise. ig-fetch 1/8. Handle added to [saved].
 2026-10-29 DfAkllQhMO4 @herlastsightband https://www.instagram.com/reel/DfAkllQhMO4/ — burned-skip (watchlist dead line 2026-09-27). Not gated, not fetched.

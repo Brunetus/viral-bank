@@ -11,6 +11,7 @@
      At 3-4 posts/day on one account alone that means 100+, not 20. Current
      pool: 170 entry lines as of 2026-10-18. The pool is over target, so the
      +5-per-scan floor no longer binds.
+     2026-10-30: +0 added, 3 RE-CONFIRMED (petal, Stupid Song, Ring My Bell), 0 dropped. One search; still no roundup dated past SocialPilot's September list (CreatorDB's newest is 08-20).
      2026-10-28: +0 added, 6 RE-CONFIRMED (Patient Zero, La La La, Autumn Colors, Dracula JENNIE Remix, Ring My Bell, petal), 0 dropped. Two searches; still no roundup dated past SocialPilot's 09-15→10-10 list (CreatorDB's newest is 08-20).
      2026-10-27: +0 added, 6 RE-CONFIRMED (Patient Zero, La La La, Autumn Colors, Nicole Kidman, Funkytown, Upside Down), 0 dropped. Two searches; the roundups are still SocialPilot's 09-15→10-10 list; a Halloween search surfaced only undated evergreen lists. Nothing new to pool.
      2026-10-26: +0 added, 8 RE-CONFIRMED (Go Go Juice, Patient Zero, La La La, Upside Down, Autumn Colors, Funkytown, Nicole Kidman, Ring My Bell), 0 dropped. Two searches; the roundups are still SocialPilot's 09-15→10-10 list, SocialBee and Buffer's September page. Nothing new to pool.
@@ -851,7 +852,7 @@
 
 "Slow Living" — Stereogully | shape: quiet-confession | lane-fit: any | why: named this week for everyday routines and gratitude posts — a sparse unhurried bed with no swell demanding a payoff, which is exactly what a dry admission needs | start: from the top | confirmed: 2026-09-19
 
-"Stupid Song" — Olivia Rodrigo | shape: quiet-confession | lane-fit: general | why: the other half of this week's Rodrigo tribute wave; the title does the self-deprecation for you, so an earnest montage reads as knowingly silly | start: on the hook | confirmed: 2026-10-29
+"Stupid Song" — Olivia Rodrigo | shape: quiet-confession | lane-fit: general | why: the other half of this week's Rodrigo tribute wave; the title does the self-deprecation for you, so an earnest montage reads as knowingly silly | start: on the hook | confirmed: 2026-10-30
 
 "Human Nature" — Michael Jackson | shape: quiet-confession | lane-fit: any | why: powering hopecore edits off the back of the biopic — a sparse, warm bed that lets an unglamorous admission sit without pushing it | start: on the opening synth figure | confirmed: 2026-09-19
 
@@ -925,9 +926,9 @@
 
 "Someone New" — Hozier | shape: momentum | lane-fit: any | why: listed this week for feel-good montages of happy moments — a warm mid-tempo bed with a rolling rhythm that carries a run of small unrelated shots without needing any of them to be a punchline | start: on the chorus | url: https://www.instagram.com/reels/audio/666720837023576/ | confirmed: 2026-10-06
 
-"Ring My Bell" — Anita Ward | shape: momentum | lane-fit: any | why: disco drive listed this week for outfit videos, GRWMs and vacation cuts; steady enough to carry a montage of small wins without needing a punchline at the end | start: from the top | url: https://www.instagram.com/reels/audio/323182991668129/ | confirmed: 2026-10-29
+"Ring My Bell" — Anita Ward | shape: momentum | lane-fit: any | why: disco drive listed this week for outfit videos, GRWMs and vacation cuts; steady enough to carry a montage of small wins without needing a punchline at the end | start: from the top | url: https://www.instagram.com/reels/audio/323182991668129/ | confirmed: 2026-10-30
 
-"petal" — Ariana Grande | shape: momentum | lane-fit: general | why: 90K posts, dreamy synth-heavy bed for aesthetic and reveal content; note the lyric contains an expletive, so check the section you cut before committing | start: on the synth line, avoid the explicit bar | confirmed: 2026-10-29
+"petal" — Ariana Grande | shape: momentum | lane-fit: general | why: 90K posts, dreamy synth-heavy bed for aesthetic and reveal content; note the lyric contains an expletive, so check the section you cut before committing | start: on the synth line, avoid the explicit bar | confirmed: 2026-10-30
 
 
 "oh yeah?" — Steve Lacy | shape: momentum | lane-fit: general | why: rising on multiple lists this week — new-day, city-walk and progress cuts; a loose confident groove that suits a "here we go again" opener | start: on the hook | url: https://www.instagram.com/reels/audio/712456295295826/ | confirmed: 2026-10-06

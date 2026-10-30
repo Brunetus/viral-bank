@@ -20,6 +20,31 @@ touched.
 
 <!-- entries below, newest first -->
 
+## DfFjVLtiKuC — a real brunette woman straight to camera in a parked car (sunroof, seatbelt, black tank, hand gestures counting), full-bleed, white card "Top 5 qualities a woman loves in a man" held over her word captions, says "Guys, bring these five qualities to the table and a woman's going to find you irresistible"
+- source: @ashleahoess | https://www.instagram.com/reel/DfFjVLtiKuC/          <- [premise] lane, business_discovery read (media withheld, fetched by shortcode through ig-fetch 2/8). Bio "Helping men navigate modern dating… Listen to My Words Podcast", a real person (no AI tell on bio, feed or frames)
+- lane: premise
+- first-seen: 2026-10-30 | status: FRESH
+- stats-at-capture: 1,770 likes / 112 comments (1.0x account median of 1,879), posted 2026-10-29
+- list-opener: 5 — she promises FIVE qualities and her body is a numbered list ("number one, being authentic"). Pay it with five items, like the delivered top-5 (`De8hc24OndL`, 168k / 7,957 shares); never with one object
+- joke-structure: n/a — opener donor
+- the-beat: cut at 4.6s, after "irresistible" (word ends 4.28s, word-timed); the card holds to ~4.9s, where she starts "listen to my words"
+- audio-model: original sound (attach in-app, NEVER bake — rule 92)
+- her-audio: original sound — attachable in-app (her own voice, car interior, no music heard under it in the first 14s; confirm in-app when attaching)
+- pairs-with: five things he does or shows with a tool: his /stats screen, a .env in .gitignore, a commit-every-session habit, a localhost app gone live, a real rig. "Bring to the table" also reads as a desk: Marcus's desk is a free visual bridge
+- premise: "Guys, bring these five qualities to the table and a woman's going to find you irresistible"
+- slot: "these five qualities" -> a numbered list of five ownable habits/objects, e.g. 1. his API keys live in .env 2. he pushes to GitHub after every session 3. his /stats screen … Fresh objects preferred over the re-spent main/.com/streak ones
+- setup-length: 4.28s ("Guys" 0.00 → "irresistible" 4.28, word-timed) (she finishes the premise: yes; inside the 4-5s winning band)
+- hero-test: hero. He brings the qualities and she says he becomes irresistible; nothing is wrong with him.
+- addresses: "guys", the man watching / recognises: the man watching, who owns the objects. Same person
+- original: yes — creator's own upload
+- ⚠ ad note (guard 7, judged keep): at 7.2-10.0s, AFTER the cut point, she plugs her own e-book ("my e-book is in the bottom"). The caption sells nothing and the opener 0-4.6s carries no promotion, so the reel reads as advice with a plug. Never run the clip past 4.9s
+- clean-window: n/a — OPENER donor (her setup card IS the hook)
+- file: clips/DfFjVLtiKuC.mp4 (107.6s, 1080x1920)
+
+## DczSTUwBm0L — [NOT BANKED] tombstone (test 8, also a list with no single blank) @makayla.tonn, a real woman to camera, says "Men are so simple. You just cook them banana bread with some chocolate chips in there, ask him how Claude is doing today and tell him he reminds you of Batman. He'll be in love with you in two seconds, I promise." (0-9.2s). She names Claude at ~4s and fills her own blank three times. Saved 10-30, ig-fetch 1/8. · https://www.instagram.com/reel/DczSTUwBm0L/ · first-seen 2026-10-30
+
+## DfCwe2KBy9c — [NOT BANKED] AD-REJECTED tombstone (guard 7) @excel_esports, Microsoft Excel World Championship promo (415,628 likes), caption "Tickets are available now! Link in bio." Not gated past the ad filter, not downloaded. Saved 10-30. · https://www.instagram.com/reel/DfCwe2KBy9c/ · first-seen 2026-10-30
+
 ## DfDEA2fJMwv — [NOT BANKED] DO-NOT-SPLICE (2026-10-29) tombstone (test 6: setup 2.8-2.94s) @brennaberg, same kitchen selfie and lilac hoodie as the FRESH `DbqLa2UTlUI`, card "I think that one of the sexiest things a man can do." held 0.00-2.80s, speech "…a man can do is" ends 2.94s, then "just plan the date. Do what he says he's gonna do. I also think that's the bare minimum." Passes 1/2/3/4/8 and is real (known creator), but the premise finishes under the 3.0s floor, so a cut before her answer is too short. `DbqLa2UTlUI` ("Call me crazy, but…", 4.40s) is the usable copy of this premise. Posted 10-28, watchlist cover screen, ig-fetch 2/8. · https://www.instagram.com/reel/DfDEA2fJMwv/ · first-seen 2026-10-29
 ## DfDEuruJOHG — [NOT BANKED] DO-NOT-SPLICE (2026-10-29) tombstone (tests 2/3) @brennaberg, kitchen selfie, says "Can somebody explain to me why it's always the hottest, funniest, kindest, smartest, sweetest, baddest girls hung up on the biggest losers of all time?" (0.0-8.6s). The superlatives describe GIRLS and the man is the loser, so he is the problem, not the hero. Posted 10-28, watchlist cover screen (card was ambiguous), ig-fetch 3/8. · https://www.instagram.com/reel/DfDEuruJOHG/ · first-seen 2026-10-29
 ## Ddt0kggInFm — [NOT BANKED] tombstone (test 1) @kennyslowbird, a man's street skit: "Yo that truck is sick. Wait, he's not gonna fit." then "Subscribe to Kenny Slowbird" (10.1s). No woman, no premise; his bio sells Higgsfield prompts. Saved 10-29, ig-fetch 1/8. · https://www.instagram.com/reel/Ddt0kggInFm/ · first-seen 2026-10-29
