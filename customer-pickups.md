@@ -1,21 +1,25 @@
 # Customer pickups: what the daily scan collects for client reels
 
 Input file for BANK.md step 6e (added 2026-10-30, Marcus via Asana cards
-1220037125948049 and 1220037126947603). Marcus edits this file; the scan only
-reads it and appends to each lane's `manifest.md`. These lanes are NOT the donor
+1220037125948049 and 1220037126947603). Marcus edits this file. The scan
+reads it, appends to each lane's `manifest.md`, and its only edit here is
+rewriting the replogle `url:` line to `done` after the download. These lanes are NOT the donor
 bank: nothing here goes into catalog.md, and nothing here relaxes THE GATE.
 
 Files land in `~/Claude Code/footage/donors/<lane>/` with a `manifest.md` beside
 them (one line per clip: date, account, link, likes, file, one-line note).
 
 Shared rules for every lane:
-- Originals only: skip reposts, compilations and fan edits (caption credits
-  another account, a watermark from another account, or a "via @x" line).
+- Originals only, as BANK.md step 6e defines it: an outlet's own interview
+  counts (tagging the speaker is fine); a "via/credit/repost" caption or
+  another account's watermark does not.
 - Like floor: **100,000 likes** (Marcus, 2026-10-29). Record the exact like count.
 - Dedup: skip any permalink already in that lane's manifest.md.
-- Budget: at most 3 downloads per lane per scan, Graph `media_url` only. No
-  ig-fetch slots: a reel whose media is withheld is logged as a lead in the
-  manifest (`lead, media withheld`) with its link and likes, never fetched.
+- Sources are ACCOUNTS only (read with business_discovery). No hashtags, no
+  ig-fetch, no throwaway tag pages: those budgets belong to the donor bank.
+- Budget: at most 3 downloads per lane per scan, Graph `media_url` only. A
+  reel whose media is withheld is logged as a lead in the manifest
+  (`lead, media withheld`) with its link and likes, never fetched.
 
 ## replogle: Xi and President Trump clip (one-off)
 
@@ -34,9 +38,9 @@ Shared rules for every lane:
 - wants: Rick Ross talking in his OWN voice, interview audio kept (podcast,
   radio, press, the Drake / Toronto beef, US interviews). North American
   context. Music-only clips, songs, music videos and lip-sync edits fail.
-- sources: hashtag `#rickross` (top_media), plus these accounts via
-  business_discovery: @breakfastclubam, @drinkchamps, @rickross.
-  (Seed accounts picked by Claude on 2026-10-29; Marcus may replace them.)
+- accounts: @breakfastclubam, @drinkchamps, @rickross
+  (picked by Claude on 2026-10-29; Marcus may replace them). From the outlets,
+  only posts whose caption names Rick Ross.
 - check: the caption or the opening frames show it is Rick Ross speaking,
   and the clip is speech, not a song bed. If unsure, transcribe the first
   15 seconds; a clip with no speech from him fails.
@@ -47,5 +51,5 @@ Shared rules for every lane:
 - wants: real people being genuinely themselves on camera: unscripted,
   candid, unpolished, a person talking or reacting as they are. Not ads, not
   brand content, not skits with a script, not other water-bottle brands.
-- sources: hashtag `#beyourself` (top_media) until Marcus names seed
-  accounts or better tags.
+- accounts: (none yet: Marcus to name 2-3 accounts. Until then the scan logs
+  `pickup-skip: bubba no sources`.)
