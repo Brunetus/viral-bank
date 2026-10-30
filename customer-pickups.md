@@ -3,7 +3,7 @@
 Input file for BANK.md step 6e (added 2026-10-30, Marcus via Asana cards
 1220037125948049 and 1220037126947603). Marcus edits this file. The scan
 reads it, appends to each lane's `manifest.md`, and its only edit here is
-rewriting the replogle `url:` line to `done` after the download. These lanes are NOT the donor
+rewriting the replogle `url:` line to `done` or `failed` after one try. These lanes are NOT the donor
 bank: nothing here goes into catalog.md, and nothing here relaxes THE GATE.
 
 Files land in `~/Claude Code/footage/donors/<lane>/` with a `manifest.md` beside
@@ -23,7 +23,11 @@ Shared rules for every lane:
 
 ## replogle: Xi and President Trump clip (one-off)
 
-- url: (none yet: Marcus to supply the exact link)
+- url: https://www.c-span.org/program/white-house-event/pres-trump-first-lady-greet-chinese-pres-first-lady-at-white-house/685735
+  (picked 2026-10-29 on Grok's relay: C-SPAN's own footage of President Trump
+  and the First Lady greeting Xi and Peng Liyuan at the White House, Sep 24.
+  Unverified: this yt-dlp has no extractor for c-span.org/program/ links and
+  C-SPAN redirects bots to a paywall, so expect a `failed` line.)
 - what: the US / C-SPAN clip of Xi and President Trump that Marcus wants for
   @replogleglobescanada. Xi's state visit to the White House was 2026-09-24/25.
 - source exception (Marcus, 2026-10-29): this ONE pickup may be downloaded from
@@ -51,5 +55,11 @@ Shared rules for every lane:
 - wants: real people being genuinely themselves on camera: unscripted,
   candid, unpolished, a person talking or reacting as they are. Not ads, not
   brand content, not skits with a script, not other water-bottle brands.
-- accounts: (none yet: Marcus to name 2-3 accounts. Until then the scan logs
-  `pickup-skip: bubba no sources`.)
+- audience: active women 30-50 (Grok, 2026-10-29).
+- accounts: @thebirdspapaya, @mynameisjessamyn
+  (picked by Claude on 2026-10-29 on Grok's relay, not yet read by the scan;
+  Marcus's own picks replace them). @thebirdspapaya: Sarah Nicole Landry,
+  Canadian mom, unfiltered real-body and real-life videos to camera, very high
+  likes. @mynameisjessamyn: Jessamyn Stanley, candid yoga and movement, no
+  polish. A handle that business_discovery cannot read is logged
+  `pickup-skip: bubba @handle unreadable`, never guessed around.
