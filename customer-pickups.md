@@ -20,7 +20,8 @@ Shared rules for every lane:
   its Rick Ross posts. The lane's 3 downloads go to the highest like counts. In
   the manifest note, record the exact like count and that median.
 - Dedup: skip any permalink already in that lane's manifest.md.
-- Sources are ACCOUNTS only (read with business_discovery). No hashtags, no
+- Sources are ACCOUNTS only (read with business_discovery), plus Evora's YouTube
+  channels, which are read for links and view counts only. No hashtags, no
   ig-fetch, no throwaway tag pages: those budgets belong to the donor bank.
 - Budget: at most 3 downloads per lane per scan, Graph `media_url` only. A
   reel whose media is withheld is logged as a lead in the manifest
@@ -35,7 +36,8 @@ Shared rules for every lane:
 - what: the US / C-SPAN clip of Xi and President Trump that Marcus wants for
   @replogleglobescanada. Xi's state visit to the White House was 2026-09-24/25.
 - source exception (Marcus, 2026-10-29): this ONE pickup may be downloaded from
-  c-span.org with yt-dlp, no cookies. Nothing else in the scan may use yt-dlp.
+  c-span.org with yt-dlp, no cookies. Apart from Evora's YouTube read (metadata
+  only, it downloads nothing), nothing else in the scan may use yt-dlp.
 - when the url line is filled: download it once, log it, mark this lane `done`.
 - while it is empty: search c-span.org for the clip and list up to 3 candidate
   URLs with titles and durations in the manifest as `candidate`; download none.
@@ -45,7 +47,7 @@ Shared rules for every lane:
 - for: Evora (@evora.canada) reels.
 - wants: Rick Ross talking in his OWN voice, interview audio kept (podcast,
   radio, press, the Drake / Toronto beef, US interviews). North American
-  context (the Drake / Toronto beef, US interviews). Music-only clips, songs,
+  context. Music-only clips, songs,
   music videos, album or track promos and lip-sync edits fail, however many
   likes they have.
 - accounts: @breakfastclubam, @drinkchamps, @richforever
@@ -53,7 +55,12 @@ Shared rules for every lane:
   Ross's own account, swapped in 2026-10-30 because @rickross is not a readable
   handle on the Graph API). From the outlets, only posts whose caption names
   Rick Ross.
-- check: the caption or the opening frames show it is Rick Ross speaking,
+- youtube: @BreakfastClubPower1051FM, @DrinkChamps
+  (Grok relay, 2026-10-30; links and view counts only, per BANK.md step 6e. The
+  scan never downloads from YouTube: Marcus says yes to a clip in chat first,
+  as he did for the 10-25 and 10-28 Ross donors.)
+- check (Instagram clips only, YouTube is judged on the title and never
+  fetched): the caption or the opening frames show it is Rick Ross speaking,
   and the clip is speech, not a song bed. If unsure, transcribe the first
   15 seconds; a clip with no speech from him fails.
 
