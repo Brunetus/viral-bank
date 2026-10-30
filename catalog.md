@@ -1500,3 +1500,11 @@ touched.
 - first-seen: 2026-10-08 | status: RESERVED (Marcus 2026-10-08 shoot, reel 10: "because he spends all his money on Claude bots")
 - the-beat: 0-4.4s (his own cut follows)
 - file: clips/DHECXD0Ra-_.mp4
+
+## DcRZppCMir8 — @the_prosperityplan (credit named by Marcus 10-30) woman to camera in an office, red bob, ID badge, pen in hand, full-bleed 720x1280, burned cards: "Men only want one thing." / "Not money" / "Not power", then a hard cut to other footage at about 5s. The opener of Marcus's own one_thing (1.0M) and 1001_localhost. · https://www.instagram.com/reel/DcRZppCMir8/ · first-seen 2026-09-13
+- lane: premise
+- status: USED
+- the-beat: "Men only want one thing" 0.00-2.04, "and it's not money" 2.04-3.22, "It's not power" 3.32-4.58 (mlx-whisper, unmeasured for cards). Cut by about 4.6s, before the footage change.
+- slot: "men only want one thing, not money, not power" -> ONE thing, said as "it's ___". A list breaks her promise (fit.tsv).
+- chain: the account mostly reposts, so she may not be the original creator; original creator unknown.
+- file: clips/DcRZppCMir8.mp4 (68.2s, only 0.00-4.6 is the donor beat)
