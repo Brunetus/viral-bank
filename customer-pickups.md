@@ -23,11 +23,10 @@ Shared rules for every lane:
 
 ## replogle: Xi and President Trump clip (one-off)
 
-- url: https://www.c-span.org/program/white-house-event/pres-trump-first-lady-greet-chinese-pres-first-lady-at-white-house/685735
-  (picked 2026-10-29 on Grok's relay: C-SPAN's own footage of President Trump
-  and the First Lady greeting Xi and Peng Liyuan at the White House, Sep 24.
-  Unverified: this yt-dlp has no extractor for c-span.org/program/ links and
-  C-SPAN redirects bots to a paywall, so expect a `failed` line.)
+- url: done 2026-10-29 cspan-685735-trump-xi-white-house-greeting-2026-09.mp4 (saved by hand on Grok's relay; was https://www.c-span.org/program/white-house-event/pres-trump-first-lady-greet-chinese-pres-first-lady-at-white-house/685735)
+  (yt-dlp's generic extractor found the c-span.org /program/ page's HLS
+  stream and saved it in 5 seconds; the page's paywall redirect only hits
+  page readers. Verified 2:08, both leaders on screen.)
 - what: the US / C-SPAN clip of Xi and President Trump that Marcus wants for
   @replogleglobescanada. Xi's state visit to the White House was 2026-09-24/25.
 - source exception (Marcus, 2026-10-29): this ONE pickup may be downloaded from
