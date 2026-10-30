@@ -491,7 +491,26 @@ touched.
 ## DdNbCWyRjdd — [NOT BANKED] tombstone (tests 2/3) · @siixuc, a woman to camera but the premise is "men gaslight" — a negative frame, so the man is the problem rather than the hero · https://www.instagram.com/reel/DdNbCWyRjdd/ · gated 2026-09-25, block backfilled 2026-10-03 · first-seen 2026-09-25
 ## C4bhhVTtG-v — [NOT BANKED] tombstone (tests 1/2/4) · @niktekofficial, a PC-meme channel: no woman, no premise, no slot · https://www.instagram.com/reel/C4bhhVTtG-v/ · gated 2026-09-25, block backfilled 2026-10-03 · first-seen 2026-09-25
 ## DVe3khJjOU4 — [NOT BANKED] tombstone (tests 1/2) · @_officer.ahmed, a man to camera doing red-flag coaching aimed at women · https://www.instagram.com/reel/DVe3khJjOU4/ · gated 2026-09-25, block backfilled 2026-10-03 · first-seen 2026-09-25
-## algobrief-planB — [PRUNED STALE (2026-10-24)] @algobrief tweet-card meme "Plan B if programming doesn't work out" over a third-party catamaran clip (banked by Marcus's 10-02 ruling outside the gate; shortcode never identified) · @algobrief (no permalink) · first-seen 2026-10-02
+## DU121Vcir4n — @algobrief tweet-card meme: card "Plan B if programming doesn't work out" (their name + verified tick above it) over a clip of a young man in a white cap standing behind an older woman at the bow of a catamaran, turquoise water; she reaches up and holds his face at the end
+- source: @algobrief | https://www.instagram.com/reel/DU121Vcir4n/ (shortcode found 2026-10-30 by matching covers; its caption is an unrelated "Interesting fact")
+- lane: premise
+- first-seen: 2026-10-30 | status: RESERVED (Marcus 2026-10-30, via Grok relay: "use that as a donor for a future reel"; the 10-02 copy went STALE unused and was deleted, so this one stays out of the stale sweep. Do not use in routine builds)
+- stats-at-capture: 132,432 likes / 1,406 comments (posted 2026-02-17; account 82,392 followers, median 76 likes in October). Fetched with ig-fetch 2026-10-30.
+- joke-structure: n/a as an opener; as a whole it is "card names the fallback, the picture is the punchline" (the Plan B is a sugar mama)
+- the-beat: 13.77s, one continuous shot, no cuts. The card is readable from frame 1; the joke lands as soon as the picture registers (~1.5s). Usable as an opener for 3-5s (card + the two of them at the bow), or whole as a payoff insert. The face-hold at ~11-13.9s is the button
+- audio-model: trending sound (add in-app) — a licensed track ("let it all out"), never bake it
+- her-audio: n/a — no speech
+- pairs-with: (a) OPENER: their card + 3-4s of the boat, hard cut to Marcus's Plan A: the desk at night, four Claude panes running, "Plan A: a Claude 20x Max plan". (b) REBUILD the card over his OWN footage (he has a boat clip, `gili_boat_7s.mov`, and pool-coding footage): "Plan B if Claude goes down". (c) payoff insert after his own setup line
+- premise: "Plan B if programming doesn't work out" (card)
+- slot: the Plan B itself — one scene/object. Singular, ownable, and squarely the tribe's joke (the 09-30 one-object finding favours this shape)
+- setup-length: card is static for all 13.77s; cut anywhere from 3.0s
+- hero-test: the man is the one with the plan — self-deprecating, not an accusation; the tribe laughs with him
+- addresses: programmers / recognises: programmers — same person
+- original: COPY — @algobrief is an aggregator account and the boat clip is third-party footage inside their card; original creator unknown
+- clean-window: the PICTURE sits in a band roughly y 690-1795 of 1920 (1080 wide), black above and below; @algobrief's avatar, name and tick are in the top black band and a small "@algobrief" watermark sits top-right INSIDE the picture (about x 880-1040, y 735-775). Full-bleed use means cropping to the picture band; keep-the-card is the recognisable version
+- file: clips/DU121Vcir4n.mp4 (13.77s, 1080x1920, 5.7 MB, with audio)
+
+## algobrief-planB — [PRUNED STALE (2026-10-24)] @algobrief tweet-card meme "Plan B if programming doesn't work out" over a third-party catamaran clip (banked by Marcus's 10-02 ruling outside the gate) · @algobrief · first-seen 2026-10-02 · re-banked 2026-10-30 as DU121Vcir4n, above
 
 ## Dd9Pb99x3Qh — a woman walking outdoors at golden hour, straight to camera, finger raised, telling men the one thing anyone they date should be able to do for them
 - source: @ashleahoess | https://www.instagram.com/reel/Dd9Pb99x3Qh/
