@@ -22,10 +22,12 @@ Shared rules for every lane:
 - Dedup: skip any permalink already in that lane's manifest.md.
 - Sources are ACCOUNTS only (read with business_discovery), plus Evora's YouTube
   channels, which are read for links and view counts only. No hashtags, no
-  ig-fetch, no throwaway tag pages: those budgets belong to the donor bank.
-- Budget: at most 3 downloads per lane per scan, Graph `media_url` only. A
+  ig-fetch (Bubba's withheld leads excepted), no throwaway tag pages: those
+  budgets belong to the donor bank.
+- Budget: at most 3 downloads per lane per scan, Graph `media_url` unless noted. A
   reel whose media is withheld is logged as a lead in the manifest
-  (`lead, media withheld`) with its link and likes, never fetched.
+  (`lead, media withheld`) with its link and likes. Only Bubba's leads are then
+  fetched, through ig-fetch; Evora stays links-only until Marcus picks one.
 
 ## replogle: Xi and President Trump clip (one-off)
 
@@ -71,6 +73,8 @@ Shared rules for every lane:
   candid, unpolished, a person talking or reacting as they are. Not ads, not
   brand content, not skits with a script, not other water-bottle brands.
 - audience: active women 30-50 (Grok, 2026-10-29).
+- fetch: withheld leads are downloaded with ig-fetch, top 3 per scan, after the
+  donor bank has fetched its picks (Marcus via Grok relay, 2026-10-30).
 - accounts: @thebirdspapaya, @mynameisjessamyn
   (picked by Claude on 2026-10-29 on Grok's relay, not yet read by the scan;
   Marcus's own picks replace them). @thebirdspapaya: Sarah Nicole Landry,
