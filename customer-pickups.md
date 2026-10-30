@@ -41,9 +41,11 @@ Shared rules for every lane:
 - wants: Rick Ross talking in his OWN voice, interview audio kept (podcast,
   radio, press, the Drake / Toronto beef, US interviews). North American
   context. Music-only clips, songs, music videos and lip-sync edits fail.
-- accounts: @breakfastclubam, @drinkchamps, @rickross
-  (picked by Claude on 2026-10-29; Marcus may replace them). From the outlets,
-  only posts whose caption names Rick Ross.
+- accounts: @breakfastclubam, @drinkchamps, @richforever
+  (picked by Claude on 2026-10-29; Marcus may replace them. @richforever is Rick
+  Ross's own account, swapped in 2026-10-30 because @rickross is not a readable
+  handle on the Graph API). From the outlets, only posts whose caption names
+  Rick Ross.
 - check: the caption or the opening frames show it is Rick Ross speaking,
   and the clip is speech, not a song bed. If unsure, transcribe the first
   15 seconds; a clip with no speech from him fails.
