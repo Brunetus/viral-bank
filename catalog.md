@@ -107,6 +107,7 @@ touched.
 ## Dew3BXeoZOi — [NOT BANKED] tombstone (test 1: AI avatar, check (b) feed shape) @novaonlove at a café table, phone in hand, word captions, says "The best text a guy ever sent me wasn't 'you're beautiful.' It was this." (0-4.0s). The premise shape is right (quoted-compliment elimination, blank held to 4.0s), but 24 followers, a daily scripted line in identical staged framing, and a generated-looking face. Handle to Dropped. Throwaway tag page #greenflags, free Graph copy. · https://www.instagram.com/reel/Dew3BXeoZOi/ · first-seen 2026-10-22
 
 ## DcOdPVJRg8l — [NOT BANKED] tombstone (test 2, addresses mismatch) @meli.shares to camera in a kitchen, green cap, card "PROOF YOUR MAN IS THAT N***A", transcribed: "there is really one way to tell if your man is really that [slur] … it's just a simple fact that he's got some haters, girl" (0.0-8.0s). Positive, but aimed at women ("your man", "girl"), she answers her own blank, and the card and line carry a slur. Saved 10-22, ig-fetch 2/8. · https://www.instagram.com/reel/DcOdPVJRg8l/ · first-seen 2026-10-22
+- build-note (from Marcus's own 1025_friday, opened 10-30): credit @meli.shares; his cut don_n 123, donor_ss 1.66; judged cut 4.1s: "There is really one way to tell if your man is really that". Own edit's cut, counted from donor_ss 1.66 (don_n 123). For 1015_env, 1015_github, 0913_one_thing, 0926_token_usage, 0910_sexiest_said. 'really that' ends unfinished, as she says it.
 
 ## Ddm08FwTdVt — [NOT BANKED] tombstone (test 1) @robertmckeaveney, a man to camera: "This creator copied me. Just watch." then a split screen of his video vs @bryanjohnson_'s memory-test video. No woman, no premise about men. Saved 10-22, ig-fetch 1/8. · https://www.instagram.com/reel/Ddm08FwTdVt/ · first-seen 2026-10-22
 
@@ -153,6 +154,7 @@ touched.
 - file: clips/DQvT1RngKx6.mp4 (61.5s, 1080x1920)
 
 ## DdejYH2irKY — [NOT BANKED] tombstone (test 4, also addresses mismatch) @chelskocoaching white top, cream wall, transcribed: "Ladies, he's not single because girls don't want him. He's single because he hasn't found a girl he wants yet." (0.0-4.8s). Positive and he is the hero, but she answers her own blank and talks to ladies; a cut before the answer is 2.4s (test 6). Same frame as the FRESH DYH7OUkMOUw, which is the usable version. Saved 10-20, ig-fetch 3/8. · https://www.instagram.com/reel/DdejYH2irKY/ · first-seen 2026-10-21
+- build-note (from Marcus's own 1015_github, opened 10-30): credit @chelskocoaching; his cut don_n 96; judged cut 2.9s: "Ladies, he's not single because girls don't want him. He's single". NOT don_n: shorter cut, before her 'because' ('single' 2.74, 'because' 2.96; don_n 96 includes it). For 1015_tokens. Tight gap, so set the exact frame from the audio.
 
 ## Desr8I2CJBv — [NOT BANKED] tombstone (tests 2/4) @chelskocoaching to camera on a couch, transcribed: "The most powerful thing a woman can do for her man is choosing [him] every single day without him having to ask" (0.0-5.4s). Aimed at women, the man is a passive beneficiary, and she fills her own blank. Saved 10-20. Free Graph copy. · https://www.instagram.com/reel/Desr8I2CJBv/ · first-seen 2026-10-21
 
@@ -239,14 +241,17 @@ touched.
 - file: clips/DelAufYNUUN.mp4 (66.31s; only 0.00-4.90 is the donor beat)
 
 ## DZEhefevFsy — [NOT BANKED] tombstone (test 1: AI avatar, caught by (b) feed shape) @stellacarvenne "If you know a man who's always awake late at night, that's not insomnia…" Positive about men, clean elimination, 3.82s, but the feed is the generated-donor tell: the SAME woman in six different podcast studios across one week, identical black-and-white grade, up to four quote-clips a day, a $12 "Letters" product in the bio. Same shape as @lilybrooksmind. Handle to Dropped, never [premise]. Saved 2026-10-17 · https://www.instagram.com/reel/DZEhefevFsy/ · first-seen 2026-10-17
+- build-note (from Marcus's own 1015_3am, opened 10-30): credit @stellacarvenne; his cut don_n 120; judged cut 4.0s: "If you know a man who's always awake late at night, that's not insomnia.". Own edit's cut (don_n 120). For 1015_github, 0913_one_thing, 0910_sexiest_said. own.json carries a scan note saying this is not a woman to camera: check the frame.
 
 ## DdTriwWB4H1 — [NOT BANKED] tombstone (test 8, also test 2) @launchwhasmik "Girls, if you found a man that only has time to spend with you and Claude or Codex, that man is the right one." She SAYS Claude at ~3.5s and addresses girls. It is the account's own payoff in her mouth, which is exactly why it cannot open one. Saved · https://www.instagram.com/reel/DdTriwWB4H1/ · first-seen 2026-10-17
+- build-note (from Marcus's own 1015_mcp, opened 10-30): credit @launchwhasmik; his cut don_n 125; judged cut 6.1s: "Girls, if you found a man that only has time to spend with you and Claude or Codex, that man is the right one.". NOT don_n: longer cut than don_n 125, ends after 'the right one' ('one' 5.7, 'That' 6.5). For 1015_tokens, 1015_github. Set the exact frame from the audio.
 
 ## DakdLX_SKOW — [NOT BANKED] tombstone (tests 2/3/4) @thesheemamahek "I don't know who needs to hear this but being hated by the losers and idiots is the price you pay for not being one of them." Motivation with no man and no blank (the "let them hate" family). Saved · https://www.instagram.com/reel/DakdLX_SKOW/ · first-seen 2026-10-17
 
 ## DdyYsXFIZ8G — [NOT BANKED] tombstone (tests 2/3/4) @sofia.zianii walking selfie, "You guys got to just be funny with it… it's not that serious." No man, no slot, 67s vlog. Cost 1 ig-fetch slot (Saved, outside her 25-media window) · https://www.instagram.com/reel/DdyYsXFIZ8G/ · first-seen 2026-10-17
 
 ## DbQZF2PvlQn — [NOT BANKED] tombstone (test 1) @weirdy_beardysfunkos Funko-figure skit doing the house frame verbatim ("Men only want one thing. And it's not money. It's not power." → Vegeta "I wanna be a super saiyan!"). No woman, toys. Format re-sight of the `one_thing` frame only · https://www.instagram.com/reel/DbQZF2PvlQn/ · first-seen 2026-10-17
+- build-note (from Marcus's own 1015_domain, opened 10-30): credit @weirdy_beardysfunkos; his cut don_n 129; judged cut 4.3s: "Men only want one thing and it's not money. It's not power.". Own edit's cut (don_n 129). For 1015_env, 1001_kimi_studios, 0913_one_thing, 0910_sexiest_said. Same script as DcRZppCMir8, the aired original of 0913_one_thing and 1001_localhost, in a different clip. Winner's donor rule not triggered by id.
 
 ## DehtTimC4yH — [NOT BANKED] tombstone (test 1) @too.cute.labs dog account ("REAL DOPAMINE", a lab getting belly rubs), bio "The best brands put ads on labs". No woman, no premise · https://www.instagram.com/reel/DehtTimC4yH/ · first-seen 2026-10-17
 
@@ -1522,3 +1527,18 @@ touched.
 - status: FRESH
 - original: yes, @tay_blair
 - file: clips/DW1Z_M6DoUC.mp4
+
+## DZ-e7ECMYGm — opener from Marcus's own 1026_commits, credit @loane_cherryblush, opened as a trial donor 10-30. · https://www.instagram.com/reel/DZ-e7ECMYGm/ · first-seen 2026-10-30
+- lane: premise
+- status: USED
+- build-note (from Marcus's own 1026_commits, opened 10-30): credit @loane_cherryblush; his cut don_n 152, donor_ss 0.25; judged cut 5.07s: "Men are so hard to please. It is not that hard to make a man's day.". Cut counted from donor_ss 0.25 (don_n 152). Whisper misheard 'Men are' as 'Maynard'. For 0913_one_thing, 0918_first_domain. Next words are sexual ('pop one out, take a pic'), so the cut must land before 'Like'. 'so it's' on 0918 is the weakest join.
+
+## DaxSAzascH6 — opener from Marcus's own 1026_qa, credit @banij, opened as a trial donor 10-30. · https://www.instagram.com/reel/DaxSAzascH6/ · first-seen 2026-10-30
+- lane: premise
+- status: USED
+- build-note (from Marcus's own 1026_qa, opened 10-30): credit @banij; his cut don_n 119, donor_ss 88.7; judged cut 2.5s: "I personally love it when I can look to my partner to". NOT don_n: shorter cut, counted from donor_ss 88.7. For 1015_main. own.json words cover the clip's first 12s, not this line, so the line and time come from 1026_qa reel.json donor_words ('to' 2.38, 'lead' 2.54). Set the exact frame from the audio.
+
+## DcSCSxryJwX — opener from Marcus's own 1015_review, credit @francesca__aagostinelli, opened as a trial donor 10-30. · https://www.instagram.com/reel/DcSCSxryJwX/ · first-seen 2026-10-30
+- lane: premise
+- status: USED
+- build-note (from Marcus's own 1015_review, opened 10-30): credit @francesca__aagostinelli; his cut don_n 97; judged cut 2.75s: "There is something so healing about being with a man". NOT don_n: shorter cut, before 'who' (don_n 97 includes it). For 0916_midweek_reset. Draft words place 'man' 2.38, 'who' 3.07; own.json places 'who' 2.8. Set the exact frame from the audio.
