@@ -13,7 +13,12 @@ Shared rules for every lane:
 - Originals only, as BANK.md step 6e defines it: an outlet's own interview
   counts (tagging the speaker is fine); a "via/credit/repost" caption or
   another account's watermark does not.
-- Like floor: **100,000 likes** (Marcus, 2026-10-29). Record the exact like count.
+- Like floor, per account (Grok relay, 2026-10-30, replaces the flat 100,000):
+  look only at the VIDEO posts among the account's last 25 (photos and carousels
+  never count). A reel passes if it has at least 2x that account's median
+  like_count. From an outlet, that median is still the whole account's, not just
+  its Rick Ross posts. The lane's 3 downloads go to the highest like counts. In
+  the manifest note, record the exact like count and that median.
 - Dedup: skip any permalink already in that lane's manifest.md.
 - Sources are ACCOUNTS only (read with business_discovery). No hashtags, no
   ig-fetch, no throwaway tag pages: those budgets belong to the donor bank.
@@ -40,7 +45,9 @@ Shared rules for every lane:
 - for: Evora (@evora.canada) reels.
 - wants: Rick Ross talking in his OWN voice, interview audio kept (podcast,
   radio, press, the Drake / Toronto beef, US interviews). North American
-  context. Music-only clips, songs, music videos and lip-sync edits fail.
+  context (the Drake / Toronto beef, US interviews). Music-only clips, songs,
+  music videos, album or track promos and lip-sync edits fail, however many
+  likes they have.
 - accounts: @breakfastclubam, @drinkchamps, @richforever
   (picked by Claude on 2026-10-29; Marcus may replace them. @richforever is Rick
   Ross's own account, swapped in 2026-10-30 because @rickross is not a readable
