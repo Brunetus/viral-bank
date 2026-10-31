@@ -67,16 +67,17 @@ Shared rules for every lane:
 ## bubba: authentic people donors
 
 - for: bubba-ig reels (a donor OPENER, per ROUTINE-REELS guard 8).
-- wants: real people being genuinely themselves on camera: unscripted,
-  candid, unpolished, a person talking or reacting as they are. Not ads, not
-  brand content, not skits with a script, not other water-bottle brands.
+- wants (Marcus via Grok relay, 2026-10-31, replaces the earlier brief): attractive,
+  fit, healthy-looking adult women in authentic moments: candid and unposed, not
+  performing for a lesson. Aerobics and tutorial clips fail, however many likes
+  they have. So do ads, brand content, skits with a script and other water-bottle
+  brands. Judge a withheld reel's cover (`thumbnail_url`) before queueing it: a
+  cover that clearly fails gets `rejected <reason>`, not a lead and not a fetch.
 - audience: active women 30-50 (Grok, 2026-10-29).
 - fetch: withheld leads are downloaded with ig-fetch, top 3 per scan, after the
   donor bank has fetched its picks (Marcus via Grok relay, 2026-10-30).
-- accounts: @thebirdspapaya, @mynameisjessamyn
-  (picked by Claude on 2026-10-29 on Grok's relay, not yet read by the scan;
-  Marcus's own picks replace them). @thebirdspapaya: Sarah Nicole Landry,
-  Canadian mom, unfiltered real-body and real-life videos to camera, very high
-  likes. @mynameisjessamyn: Jessamyn Stanley, candid yoga and movement, no
-  polish. A handle that business_discovery cannot read is logged
+- accounts: (none, waiting on new picks)
+  (@thebirdspapaya and @mynameisjessamyn removed 2026-10-31: Marcus rejected
+  their clips via Grok relay. Do not re-add them. Marcus's own picks go here.)
+  A handle that business_discovery cannot read is logged
   `pickup-skip: bubba @handle unreadable`, never guessed around.
