@@ -69,15 +69,16 @@ Shared rules for every lane:
 - for: bubba-ig reels (a donor OPENER, per ROUTINE-REELS guard 8).
 - wants (Marcus via Grok relay, 2026-10-31, replaces the earlier brief): attractive,
   fit, healthy-looking adult women in authentic moments: candid and unposed, not
-  performing for a lesson. Aerobics and tutorial clips fail, however many likes
-  they have. So do ads, brand content, skits with a script and other water-bottle
+  performing for a lesson. Aerobics, workout, tips and tutorial clips fail, however
+  many likes they have. So do ads, brand content, skits with a script and other water-bottle
   brands. Judge a withheld reel's cover (`thumbnail_url`) before queueing it: a
   cover that clearly fails gets `rejected <reason>`, not a lead and not a fetch.
 - audience: active women 30-50 (Grok, 2026-10-29).
 - fetch: withheld leads are downloaded with ig-fetch, top 3 per scan, after the
   donor bank has fetched its picks (Marcus via Grok relay, 2026-10-30).
-- accounts: (none, waiting on new picks)
-  (@thebirdspapaya and @mynameisjessamyn removed 2026-10-31: Marcus rejected
-  their clips via Grok relay. Do not re-add them. Marcus's own picks go here.)
+- accounts: @whitneyysimmons, @massy.arias, @katrintanja
+  (Marcus's picks via Grok relay, 2026-10-31. @bethanyhamilton was shortlisted
+  and skipped. @thebirdspapaya and @mynameisjessamyn removed the same day:
+  Marcus rejected their clips. Do not re-add any of these three.)
   A handle that business_discovery cannot read is logged
   `pickup-skip: bubba @handle unreadable`, never guessed around.
