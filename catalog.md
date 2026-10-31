@@ -20,6 +20,8 @@ touched.
 
 <!-- entries below, newest first -->
 
+## DfIGVPiCX6F — [NOT BANKED] DO-NOT-SPLICE (2026-10-31) tombstone (test 6: setup 2.08s, also an uncredited list count) @datingwithgracie, real woman to camera in her car, card "THINGS WOMEN LOVE", speech "things women love, but won't ask for." ends 2.08s, then "By the way, I'm Gracie, dating coach for men", follow ask to 10.00s, "Number one" at 10.76s. Right premise and audience, too short. Fetched ig-fetch 1/8, scratch deleted, no clip kept. · https://www.instagram.com/reel/DfIGVPiCX6F/ · first-seen 2026-10-31
+
 ## DfFjVLtiKuC — a real brunette woman straight to camera in a parked car (sunroof, seatbelt, black tank, hand gestures counting), full-bleed, white card "Top 5 qualities a woman loves in a man" held over her word captions, says "Guys, bring these five qualities to the table and a woman's going to find you irresistible"
 - source: @ashleahoess | https://www.instagram.com/reel/DfFjVLtiKuC/          <- [premise] lane, business_discovery read (media withheld, fetched by shortcode through ig-fetch 2/8). Bio "Helping men navigate modern dating… Listen to My Words Podcast", a real person (no AI tell on bio, feed or frames)
 - lane: premise
@@ -417,7 +419,7 @@ touched.
 ## DeO37s0AUWk — a real blonde woman straight to camera in a bright living room (sputnik chandelier, black-on-white canvas, metal wall discs), full-bleed 720x1280, her own white word captions: "if you've got a girlfriend / and you are stressing out / about what to get her / I'm gonna put you on something…" then a hard cut at 3.85s
 - source: @salama_win | https://www.instagram.com/reel/DeO37s0AUWk/          <- from Marcus's Saved collection (read-saved.sh, 2026-10-09), gated and banked the same morning
 - lane: premise
-- first-seen: 2026-10-09 | status: FRESH
+- first-seen: 2026-10-09 | status: STALE (2026-10-31)
 - stats-at-capture: 22 likes / 0 comments on the host account (5.5x his median of 4; 7,268 followers, Ahmed Salama | AI & Analytics, 23/24 serving media_url). The host engagement is noise — **Marcus's save is the spike signal (step 1b), and the asset is the borrowed 0.00-3.80s opener, not his post.**
 - joke-structure: n/a — opener donor
 - the-beat: cut at 3.80s, the last frame of her before the hard cut (measured at 10fps: her final frame 3.80, his first frame 3.90, so the cut sits at ~3.85). Word stamps at 2fps: "if you've got a girlfriend" 0.00-0.50 · "and you are stressing out" 1.00 · "about what to get her" 1.50-2.00 · "I'm gonna put you on something…" 2.50-3.80.
