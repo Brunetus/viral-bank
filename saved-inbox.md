@@ -11,6 +11,7 @@ Filler rule: skip any shortcode already under `## processed` or already a catalo
 measures tests 5/6, rewrites the entry, and moves the line here as `re-measured`.
 
 ## inbox
+<!-- empty 2026-11-01: read-saved.sh read 24 on the grid and appended 5 new lines (exit 0), a REAL grid (five other creators). All gated and moved to ## processed: 0 BANKED, 5 tombstoned. -->
 <!-- empty 2026-10-30: read-saved.sh read 24 on the grid and appended 2 new lines (exit 0), a REAL grid. Both gated and moved to ## processed: 0 BANKED, 2 tombstoned. -->
 <!-- empty 2026-10-29: read-saved.sh read 24 on the grid and appended 3 new lines (exit 0), a REAL grid (three other creators). All gated or burned-skipped and moved to ## processed: 0 BANKED, 2 tombstoned, 1 burned-skip. -->
 <!-- ⚠⚠ 2026-10-28 — READ-SAVED.SH RETURNED THE WRONG GRID AGAIN (fifth time: 10-07, 10-14, 10-24, 10-26, 10-28). NOT A REAL INBOX; 23 LINES REMOVED.
@@ -126,6 +127,11 @@ measures tests 5/6, rewrites the entry, and moves the line here as `re-measured`
 ## re-measure
 
 ## processed
+2026-11-01 DfCZ-XDuWl6 @thelazydeveloper500 https://www.instagram.com/reel/DfCZ-XDuWl6/ — tombstone (test 1). Man to camera, Supabase API keys. ig-fetch 1/8.
+2026-11-01 DcotZGXhTUb @makayla.tonn https://www.instagram.com/reel/DcotZGXhTUb/ — tombstone (test 8). "Who is he texting? Claude." On the lane already.
+2026-11-01 DbwwG3dgvQU @cherrycatxox https://www.instagram.com/reel/DbwwG3dgvQU/ — tombstone (test 4, test 3 in the tail). "Why do men feel so dominant and powerful in a suit and tie?" 3.48s; names its own object, her close mocks him. Marcus already has it in a 10-31 draft; his call overrides.
+2026-11-01 DTrzIEFEiu6 @wealthybytes https://www.instagram.com/reel/DTrzIEFEiu6/ — tombstone (tests 1/4). Podcast repost, two women at mics, "We want a man who acts like a man", no blank.
+2026-11-01 DLASCEpgsu5 @doclittle https://www.instagram.com/reel/DLASCEpgsu5/ — tombstone (tests 2/4). Repost, "I love when a man tells me what to do… my husband", no blank.
 2026-10-30 DczSTUwBm0L @makayla.tonn https://www.instagram.com/reel/DczSTUwBm0L/ — tombstone (test 8). Real woman to camera, "Men are so simple. You just cook them banana bread… ask him how Claude is doing today and tell him he reminds you of Batman." Names Claude, fills her own blank. ig-fetch 1/8. Already on [premise].
 2026-10-30 DfCwe2KBy9c @excel_esports https://www.instagram.com/reel/DfCwe2KBy9c/ — tombstone (guard 7 ad: "Tickets are available now! Link in bio."). Not fetched. Handle added to [saved].
 2026-10-29 DcWrhnXBHoK @ayv.spamz https://www.instagram.com/reel/DcWrhnXBHoK/ — tombstone (test 2, also list opener). Real woman to camera, "[red] flags in men that are not talked about nearly enough… number one is extreme road rage". Free Graph copy, zero fetch slots. Handle added to [saved].

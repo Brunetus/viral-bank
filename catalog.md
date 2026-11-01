@@ -20,6 +20,16 @@ touched.
 
 <!-- entries below, newest first -->
 
+## DbwwG3dgvQU — [NOT BANKED] tombstone (test 4, test 3 in the tail) @cherrycatxox, a real dark-haired woman to camera at home, word captions, says "Why do men feel so dominant and powerful in a suit and tie?" (0.00-3.48s) then "You've literally got an attached lead that I can drag you around by now" (to 7.94s). Length and form pass, but the sentence names its own object (suit and tie), so no blank is left, and her own close makes the man the joke. ⚠ Marcus is already building on this clip: a copy sits in imabgold-ig/drafts/1031_friday_powerful/donor/. His call overrides this tombstone. Saved 11-01, ig-fetch, scratch deleted. · https://www.instagram.com/reel/DbwwG3dgvQU/ · first-seen 2026-11-01
+
+## DcotZGXhTUb — [NOT BANKED] tombstone (test 8, also tests 3/4) @makayla.tonn, a real blonde woman to camera in a car, white tee, says "Let me set the scene for you guys… He is smiling. Not at me though. Who is he texting? Claude." (Claude at 9.10s). The donor names Claude, she tells a story with no blank, and he is the problem in it. Saved 11-01, ig-fetch, scratch deleted. · https://www.instagram.com/reel/DcotZGXhTUb/ · first-seen 2026-11-01
+
+## DfCZ-XDuWl6 — [NOT BANKED] tombstone (test 1) @thelazydeveloper500, a man to camera outdoors, card "Use Supabase? Security alert!", says "If you use Supabase, pay attention because this is important", then a how-to on API keys. No woman, no premise about men. Saved 11-01, ig-fetch, scratch deleted. · https://www.instagram.com/reel/DfCZ-XDuWl6/ · first-seen 2026-11-01
+
+## DTrzIEFEiu6 — [NOT BANKED] tombstone (tests 1/4) @wealthybytes, a letterboxed podcast clip with a "W3" mark, two women at mics not addressing camera, says "We want a man who acts like a man, who's manly, who takes care of things. Leader…" (0.0-5.9s) and on. Podcast guest excluded by test 1, a repost, and she lists traits with no blank. Saved 11-01, ig-fetch, scratch deleted. · https://www.instagram.com/reel/DTrzIEFEiu6/ · first-seen 2026-11-01
+
+## DLASCEpgsu5 — [NOT BANKED] tombstone (tests 2/4) @doclittle (burned watermark names @angela_mon…, so a repost), a real woman to camera in a car, says "I love when a man tells me what to do" (0.00-5.18s) then "My husband tells me what to do". The husband is off-audience and the line closes on a behaviour, with no blank an object could fill. Saved 11-01, ig-fetch, scratch deleted. · https://www.instagram.com/reel/DLASCEpgsu5/ · first-seen 2026-11-01
+
 ## DfIGVPiCX6F — [NOT BANKED] DO-NOT-SPLICE (2026-10-31) tombstone (test 6: setup 2.08s, also an uncredited list count) @datingwithgracie, real woman to camera in her car, card "THINGS WOMEN LOVE", speech "things women love, but won't ask for." ends 2.08s, then "By the way, I'm Gracie, dating coach for men", follow ask to 10.00s, "Number one" at 10.76s. Right premise and audience, too short. Fetched ig-fetch 1/8, scratch deleted, no clip kept. · https://www.instagram.com/reel/DfIGVPiCX6F/ · first-seen 2026-10-31
 
 ## DfFjVLtiKuC — a real brunette woman straight to camera in a parked car (sunroof, seatbelt, black tank, hand gestures counting), full-bleed, white card "Top 5 qualities a woman loves in a man" held over her word captions, says "Guys, bring these five qualities to the table and a woman's going to find you irresistible"
@@ -393,7 +403,7 @@ touched.
 ## DeR75SYgYrJ — a real dark-haired woman straight to camera in a dim room, red lipstick, letterboxed 720x733 inside a 720x1280 frame, her own white word captions: "I have a question / for the men. / what do you want? / what is it?" then a hard cut at 4.25s to the host's whiteboard
 - source: @salama_win | https://www.instagram.com/reel/DeR75SYgYrJ/          <- read on the daily watchlist probe (he was added to `[saved]` 2026-10-09 as a donor source); the borrowed opener is the asset, not his post
 - lane: premise
-- first-seen: 2026-10-10 | status: FRESH
+- first-seen: 2026-10-10 | status: STALE (2026-11-01)
 - stats-at-capture: 38 likes / 2 comments on the host account (11.43x his median of 3.5; 7,265 followers, 21/23 serving media_url). His engagement is noise at this follower count — the reel was picked on GATE FIT off a free cover screen, not on the ratio.
 - joke-structure: n/a — opener donor
 - the-beat: cut at 4.25s, the frame her question finishes on (measured at 10fps: her last frame 4.20, his first frame 4.30). Word stamps at 2fps: "I have" 0.00 · "I have a question" 0.50 · "for the" 1.00 · "for the men." 1.50 · "what" 2.00 · "do" 2.50 · "do you want?" 3.00 · "what" 3.50 · "what is it?" 4.00-4.20.

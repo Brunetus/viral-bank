@@ -11,6 +11,7 @@
      At 3-4 posts/day on one account alone that means 100+, not 20. Current
      pool: 170 entry lines as of 2026-10-18. The pool is over target, so the
      +5-per-scan floor no longer binds.
+     2026-11-01: +0 added, 4 RE-CONFIRMED (Patient Zero, Ring My Bell, Dracula (JENNIE Remix), Yummy Little Day), 0 dropped. One search; no November roundup exists yet, newest are SocialPilot's October and Buffer's September lists.
      2026-10-31: +0 added, 3 RE-CONFIRMED (Patient Zero, petal, Stupid Song), 0 dropped. One search; still no roundup dated past SocialPilot's October list (CreatorDB's newest is 08-20).
      2026-10-30: +0 added, 3 RE-CONFIRMED (petal, Stupid Song, Ring My Bell), 0 dropped. One search; still no roundup dated past SocialPilot's September list (CreatorDB's newest is 08-20).
      2026-10-28: +0 added, 6 RE-CONFIRMED (Patient Zero, La La La, Autumn Colors, Dracula JENNIE Remix, Ring My Bell, petal), 0 dropped. Two searches; still no roundup dated past SocialPilot's 09-15→10-10 list (CreatorDB's newest is 08-20).
@@ -818,8 +819,9 @@
 
 
 ## quiet-confession
+"Yummy Little Day" — @emilogue | shape: quiet-confession | lane-fit: family/food | why: 59K posts — sweet playful bed made for makers, bakers and small handmade moments; the warmest option on the current lists | start: from the top | confirmed: 2026-11-01
+"Patient Zero" — Taylor Swift | shape: quiet-confession | lane-fit: any | why: the closing line is the payoff the whole cut waits for, so it plays straight under a reveal held to the last beat; 53k reels and climbing in its first weeks | start: cold, land the final line on the reveal | confirmed: 2026-11-01
 "Stupid Song" — Olivia Rodrigo | shape: quiet-confession | lane-fit: general | why: the other half of this week's Rodrigo tribute wave; the title does the self-deprecation for you, so an earnest montage reads as knowingly silly | start: on the hook | confirmed: 2026-10-31
-"Patient Zero" — Taylor Swift | shape: quiet-confession | lane-fit: any | why: the closing line is the payoff the whole cut waits for, so it plays straight under a reveal held to the last beat; 53k reels and climbing in its first weeks | start: cold, land the final line on the reveal | confirmed: 2026-10-31
 "Birds of a Feather" — Billie Eilish | shape: quiet-confession | lane-fit: any | why: SocialBu: "continues to dominate Instagram Reels in 2026"; soft bed for sincere admissions | start: the chorus | confirmed: 2026-10-17
 "we fell in love in october" — girl in red | shape: quiet-confession | lane-fit: general/family | why: the seasonal indie bed that returns every October; soft and unhurried, so a plain sentence on screen carries the whole beat. | start: the opening guitar, before the vocal | confirmed: 2026-10-15
 "Pure" — SIENNA SPIRO | shape: quiet-confession | lane-fit: any | why: top-3 Instagram audio for a fifth consecutive week (~70k reels) and FINALLY describable: it opens on the refrain "Used to do it all so pure / for the love of the song no more" — a first-person admission of having everything and still feeling numb, of making the thing for applause instead of for love. It plays straight under a cut that confesses something the creator is slightly ashamed of, and the shame is what makes it land rather than mope | start: cold on the refrain, "used to do it all so pure" over the first frame | confirmed: 2026-10-12
@@ -871,7 +873,6 @@
 
 "A New Season Had Begun" — @olivialodenius (original audio) | shape: quiet-confession | lane-fit: family/general | why: the autumn trend stitching wordless everyday moments together; carries a "life lately" run with one text line and no talking | start: from the top | confirmed: 2026-09-17
 
-"Yummy Little Day" — @emilogue | shape: quiet-confession | lane-fit: family/food | why: 59K posts — sweet playful bed made for makers, bakers and small handmade moments; the warmest option on the current lists | start: from the top | confirmed: 2026-10-04
 
 "Carefree Days" — Peaceful Reveries | shape: quiet-confession | lane-fit: any | why: a calm no-vocal bed currently used for aesthetic reels; the pool's no-lyrics option when the on-screen text is long and needs reading time | start: from the top | url: https://www.instagram.com/reels/audio/600917865670697/ | confirmed: 2026-10-06
 
@@ -904,6 +905,8 @@
 
 
 ## momentum
+"Dracula (JENNIE Remix)" — Tame Impala | shape: momentum | lane-fit: any | why: 307K posts, the biggest count on this week's Scott Social list — a walk-forward/inventory showcase bed with a hard forward pull. Re-added 2026-08-21 on fresh evidence after an unjustified 08-20 drop | start: on the walk, one item per bar | url: https://www.instagram.com/reels/audio/1887907191828006/ | confirmed: 2026-11-01
+"Ring My Bell" — Anita Ward | shape: momentum | lane-fit: any | why: disco drive listed this week for outfit videos, GRWMs and vacation cuts; steady enough to carry a montage of small wins without needing a punchline at the end | start: from the top | url: https://www.instagram.com/reels/audio/323182991668129/ | confirmed: 2026-11-01
 "petal" — Ariana Grande | shape: momentum | lane-fit: general | why: 90K posts, dreamy synth-heavy bed for aesthetic and reveal content; note the lyric contains an expletive, so check the section you cut before committing | start: on the synth line, avoid the explicit bar | confirmed: 2026-10-31
 "FEVER DREAM" — Alex Warren | shape: momentum | lane-fit: any | why: listed with peak-stage Reels counts on SocialBu's current trending list (2026-10-17) | start: the chorus | confirmed: 2026-10-17
 "Cha Cha Cha" — Bruno Mars | shape: momentum | lane-fit: general | why: SocialBu lists it at peak stage (~24K Reels), a groovy reworking of "Slow Motion"; bouncy bed for reveals | start: the hook | confirmed: 2026-10-17
@@ -928,7 +931,6 @@
 
 "Someone New" — Hozier | shape: momentum | lane-fit: any | why: listed this week for feel-good montages of happy moments — a warm mid-tempo bed with a rolling rhythm that carries a run of small unrelated shots without needing any of them to be a punchline | start: on the chorus | url: https://www.instagram.com/reels/audio/666720837023576/ | confirmed: 2026-10-06
 
-"Ring My Bell" — Anita Ward | shape: momentum | lane-fit: any | why: disco drive listed this week for outfit videos, GRWMs and vacation cuts; steady enough to carry a montage of small wins without needing a punchline at the end | start: from the top | url: https://www.instagram.com/reels/audio/323182991668129/ | confirmed: 2026-10-30
 
 
 
@@ -992,7 +994,6 @@
 
 "A SIMPLE TREND" — Mr_azzurro | shape: momentum | lane-fit: general/travel | why: 5K posts across travel, wardrobe and general lifestyle — deliberately plain, which is what you want when the footage is the interesting part | start: on the beat | confirmed: 2026-09-13
 
-"Dracula (JENNIE Remix)" — Tame Impala | shape: momentum | lane-fit: any | why: 307K posts, the biggest count on this week's Scott Social list — a walk-forward/inventory showcase bed with a hard forward pull. Re-added 2026-08-21 on fresh evidence after an unjustified 08-20 drop | start: on the walk, one item per bar | url: https://www.instagram.com/reels/audio/1887907191828006/ | confirmed: 2026-10-29
 
 
 
