@@ -64,21 +64,28 @@ Shared rules for every lane:
   and the clip is speech, not a song bed. If unsure, transcribe the first
   15 seconds; a clip with no speech from him fails.
 
-## bubba: authentic people donors
+## bubba: product donors
 
-- for: bubba-ig reels (a donor OPENER, per ROUTINE-REELS guard 8).
-- wants (Marcus via Grok relay, 2026-10-31, replaces the earlier brief): attractive,
-  fit, healthy-looking adult women in authentic moments: candid and unposed, not
-  performing for a lesson. Aerobics, workout, tips and tutorial clips fail, however
-  many likes they have. So do ads, brand content, skits with a script and other water-bottle
-  brands. Judge a withheld reel's cover (`thumbnail_url`) before queueing it: a
-  cover that clearly fails gets `rejected <reason>`, not a lead and not a fetch.
+- for: bubba-ig reels (a donor OPENER, per ROUTINE-REELS guard 8). A TEST of 6 reels
+  over 2 weeks (Marcus, 2026-11-01; card 1220091235357306). Pass: 2 of 6 reach 1,000
+  views within 48 hours. If none do, stop and rethink. Marcus sees the candidates
+  before anything is cut.
+- wants (replaces the lifestyle brief of 2026-10-31): real people in a moment the
+  bottle answers, in one of three lanes:
+  1. public bottle arguments: emotional support bottles, bottle crazes, what people
+     carry and why;
+  2. everyday failures: a leak in a bag, warm water, melted ice, no ice, thirst, a spill;
+  3. real durability or ice tests filmed by real people.
+- fails: other bottle brands' ads or brand content, any other brand's logo that survives
+  the crop, scripted skits, tips and tutorials, minors, and fit-women lifestyle clips
+  with no bottle, water or ice in the moment.
+- claims: the donor sets up the moment; our reel only claims what Marcus says or shows
+  on camera. Never add a duration or durability claim from the donor's clip.
 - audience: active women 30-50 (Grok, 2026-10-29).
 - fetch: withheld leads are downloaded with ig-fetch, top 3 per scan, after the
   donor bank has fetched its picks (Marcus via Grok relay, 2026-10-30).
-- accounts: @whitneyysimmons, @massy.arias, @katrintanja
-  (Marcus's picks via Grok relay, 2026-10-31. @bethanyhamilton was shortlisted
-  and skipped. @thebirdspapaya and @mynameisjessamyn removed the same day:
-  Marcus rejected their clips. Do not re-add any of these three.)
-  A handle that business_discovery cannot read is logged
-  `pickup-skip: bubba @handle unreadable`, never guessed around.
+- accounts: none fixed yet. No account is a reliable source of these moments, so the
+  scan logs `pickup: bubba no accounts, test hunt runs by hand` and reads nothing.
+  Candidates go in `~/Claude Code/footage/donors/bubba/manifest.md` from the hand hunt.
+  Do not re-add @whitneyysimmons, @massy.arias, @katrintanja, @thebirdspapaya or
+  @mynameisjessamyn for this test.
