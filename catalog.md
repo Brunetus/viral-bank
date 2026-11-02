@@ -20,6 +20,9 @@ touched.
 
 <!-- entries below, newest first -->
 
+## DfNk6ciSmen — [NOT BANKED] DO-NOT-SPLICE (2026-11-02) tombstone (test 1) @chelskocoaching on a two-person podcast set: a grey-suited male host asks "the #1 thing a woman wants in a man" (0.0-2.5s, card "The #1 Thing A Woman Wants In A Man" over him), then she answers off-camera to him, laughing. Premise is his, she never says it to camera. Free Graph copy, frames read. · https://www.instagram.com/reel/DfNk6ciSmen/ · first-seen 2026-11-02
+## DfO5OYitbDD — [NOT BANKED] DO-NOT-SPLICE (2026-11-02) tombstone (tests 2/3/4) @sofia.zianii to camera, opens mid-sentence "No, because something I believe in to my core… your love life will be blocked, okay? You will have a shit love life." Negative, no man, no blank. Free Graph copy, frames read. · https://www.instagram.com/reel/DfO5OYitbDD/ · first-seen 2026-11-02
+
 ## DbwwG3dgvQU — [NOT BANKED] tombstone (test 4, test 3 in the tail) @cherrycatxox, a real dark-haired woman to camera at home, word captions, says "Why do men feel so dominant and powerful in a suit and tie?" (0.00-3.48s) then "You've literally got an attached lead that I can drag you around by now" (to 7.94s). Length and form pass, but the sentence names its own object (suit and tie), so no blank is left, and her own close makes the man the joke. ⚠ Marcus is already building on this clip: a copy sits in imabgold-ig/drafts/1031_friday_powerful/donor/. His call overrides this tombstone. Saved 11-01, ig-fetch, scratch deleted. · https://www.instagram.com/reel/DbwwG3dgvQU/ · first-seen 2026-11-01
 - build-note (from Marcus's own 1031_friday_powerful, 11-01 search): credit @cherrycatxox; don_n 55: "dominant" decays by 1.80, "and" rises about 1.88, and f55 still reads "FEEL SO DOMINANT". A longer cut shows an unspoken "IN" on her card from f58 (his aired cut hid it under a frost that make_trial drops), so do not extend it without Marcus. Line: "Why do men feel so dominant". Credit at y 262 sits on the top of her hair: QA checks it reads. For 1015_tokens, 1025_merge.
 
@@ -374,7 +377,7 @@ touched.
 - build-note (11-01 search): credit @sofia.zianii; --donor-ss 0.37, don_n 130 (it opens on blur): "life," decays by 4.50, card flips to "you need these two things" at f144. Line: "So, fun fact for everyone, but in order to get literally anything you want in life,". The cut drops the "two things" promise, so it is not a list opener at this cut. For 1001_lock_in.
 - source: @sofia.zianii | https://www.instagram.com/reel/DeIMulcIBKE/          <- read on the daily watchlist probe; she was on `[saved]` and moves to `[premise]` today on this pass
 - lane: premise
-- first-seen: 2026-10-11 | status: FRESH
+- first-seen: 2026-10-11 | status: STALE (2026-11-02)
 - stats-at-capture: 477 likes / 7 comments (2.49x her median engagement of 194 across 23 fetched reels; 95,236 followers, 23/23 serving media_url). Posted 2026-10-05. Picked on GATE FIT — but it happens to clear the retired 2x bar as well.
 - joke-structure: n/a — opener donor
 - the-beat: **bank 0.37 → 7.00 (6.63s).** Both ends are measured at 30fps, not estimated, and both ends matter:
