@@ -21,6 +21,7 @@ touched.
 <!-- entries below, newest first -->
 
 ## DbwwG3dgvQU — [NOT BANKED] tombstone (test 4, test 3 in the tail) @cherrycatxox, a real dark-haired woman to camera at home, word captions, says "Why do men feel so dominant and powerful in a suit and tie?" (0.00-3.48s) then "You've literally got an attached lead that I can drag you around by now" (to 7.94s). Length and form pass, but the sentence names its own object (suit and tie), so no blank is left, and her own close makes the man the joke. ⚠ Marcus is already building on this clip: a copy sits in imabgold-ig/drafts/1031_friday_powerful/donor/. His call overrides this tombstone. Saved 11-01, ig-fetch, scratch deleted. · https://www.instagram.com/reel/DbwwG3dgvQU/ · first-seen 2026-11-01
+- build-note (from Marcus's own 1031_friday_powerful, 11-01 search): credit @cherrycatxox; don_n 55: "dominant" decays by 1.80, "and" rises about 1.88, and f55 still reads "FEEL SO DOMINANT". A longer cut shows an unspoken "IN" on her card from f58 (his aired cut hid it under a frost that make_trial drops), so do not extend it without Marcus. Line: "Why do men feel so dominant". Credit at y 262 sits on the top of her hair: QA checks it reads. For 1015_tokens, 1025_merge.
 
 ## DcotZGXhTUb — [NOT BANKED] tombstone (test 8, also tests 3/4) @makayla.tonn, a real blonde woman to camera in a car, white tee, says "Let me set the scene for you guys… He is smiling. Not at me though. Who is he texting? Claude." (Claude at 9.10s). The donor names Claude, she tells a story with no blank, and he is the problem in it. Saved 11-01, ig-fetch, scratch deleted. · https://www.instagram.com/reel/DcotZGXhTUb/ · first-seen 2026-11-01
 
@@ -370,6 +371,7 @@ touched.
 - file kept until 2026-10-15 per the guard-3 prune delay.
 
 ## DeIMulcIBKE — a real brunette woman straight to camera in a bright room under a white beamed ceiling, black tube top, gold heart necklace, full-bleed 720x1280, holding up two fingers, her own white word captions: "So, fun fact for everyone, / but in order to get literally anything you want in life, / you need these two things, / and it's not what you think." then she answers herself at 7.15s
+- build-note (11-01 search): credit @sofia.zianii; --donor-ss 0.37, don_n 130 (it opens on blur): "life," decays by 4.50, card flips to "you need these two things" at f144. Line: "So, fun fact for everyone, but in order to get literally anything you want in life,". The cut drops the "two things" promise, so it is not a list opener at this cut. For 1001_lock_in.
 - source: @sofia.zianii | https://www.instagram.com/reel/DeIMulcIBKE/          <- read on the daily watchlist probe; she was on `[saved]` and moves to `[premise]` today on this pass
 - lane: premise
 - first-seen: 2026-10-11 | status: FRESH
@@ -673,6 +675,7 @@ touched.
 ## YT:ke6yPxtAaQE — [PRUNED STALE (2026-10-18)] [LEAD, IG original needed] @KatieFeeney full screen to the lens: "What is the biggest green flag in a guy? (spoken question)" · https://www.youtube.com/shorts/ke6yPxtAaQE · first-seen 2026-09-26
 
 ## DZsw9oGtP0I — [PRUNED STALE (2026-10-18)] a blonde woman to camera in a parked car, one unbroken take, NO burned text anywhere: "The hottest f***ing thing a guy can do is… [1.0s beat] …make a little noise." Hard cut at ~6.9s to a trading chart… · https://www.instagram.com/reel/DZsw9oGtP0I/ · first-seen 2026-09-26
+- build-note (from Marcus's own 0919_fire_dev, 11-01 search): credit @tradonatev1; don_n about 105 (3.5s), after "is" (3.16), well before "make" (4.44). Fit held at 2 until Marcus clears "fucking" on screen. NO burned card, so caption her line with --take (reset the word times from the envelope, "hottest" is about 0.36 and "fucking" about 0.64) '{"donor_words":[["The",0],["hottest",0.48],["fucking",0.92],["thing",1.7],["a",2.14],["guy",2.42],["can",2.66],["do",2.86],["is",3.16]],"donor_chunks":[[0,1],[2,3],[4,5],[6,7,8]]}'. Line: "The hottest fucking thing a guy can do is". Clip copied from drafts/0923_fire_dev_v2/assets. For 1015_main.
 
 ## Da8BS72t7mv — [NOT BANKED] tombstone (test 1) · @itsmrbugatti repost of an Andrew Tate podcast clip — man to camera behind a boom mic, neon word-by-word captions ("DON'T… ANY… HIGHER… EXPERIENCE… MEN… AROUND… BOYS… AND… LIFE… CAN… DOLLARS"), intercut with yacht/nightlife b-roll · https://www.instagram.com/reel/Da8BS72t7mv/ · from Marcus's Saved, fetched 2026-09-26 · man to camera AND a podcast guest, the two things test 1 names. Creator is a personal account (business_discovery error 110), so it can never be appended to [premise] whatever it posts. 17.2s.
 
@@ -1554,3 +1557,9 @@ touched.
 - lane: premise
 - status: USED
 - build-note (from Marcus's own 1015_review, opened 10-30): credit @francesca__aagostinelli; his cut don_n 97; judged cut 2.75s: "There is something so healing about being with a man". NOT don_n: shorter cut, before 'who' (don_n 97 includes it). For 0916_midweek_reset. Draft words place 'man' 2.38, 'who' 3.07; own.json places 'who' 2.8. Set the exact frame from the audio.
+
+## DGli1TvSB2A — @emilywking_, a real woman in a bedroom mirror selfie, turning toward camera in the first second, burned white card "you really wanna know what turns a man on", says "You really want to know what turns a man on." then "And it's so simple. Initiation." (her answer).
+- source: @emilywking_ | https://www.instagram.com/reel/DGli1TvSB2A/          <- opener of Marcus's own aired 1026_api (10-30, 46K). Clip copied from drafts/1026_api/donor
+- first-seen: 2026-11-01 | status: FRESH
+- premise: "You really want to know what turns a man on."
+- build-note (from Marcus's own 1026_api, 11-01 search): credit @emilywking_; don_n 63: "on" 1.68, "And" rises about 2.10 on the envelope. She opens on a whip blur and a small mirror shot, as he aired it. Her card holds through the cut. Sexual premise, capped at 2 on 10-30. He aired it himself, but its fit rows stay at 2 until he clears it for trials.
