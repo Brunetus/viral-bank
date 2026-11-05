@@ -127,6 +127,7 @@ measures tests 5/6, rewrites the entry, and moves the line here as `re-measured`
 ## re-measure
 
 ## processed
+2026-11-05 DfKdNPBIHoJ @haydenschmitty https://www.instagram.com/reel/DfKdNPBIHoJ/ — tombstone (test 1, also 8). Man to camera in a car, "If you're using Claude", pushing his own Floorplan repo. Judged on caption + cover, no fetch.
 2026-11-01 DfCZ-XDuWl6 @thelazydeveloper500 https://www.instagram.com/reel/DfCZ-XDuWl6/ — tombstone (test 1). Man to camera, Supabase API keys. ig-fetch 1/8.
 2026-11-01 DcotZGXhTUb @makayla.tonn https://www.instagram.com/reel/DcotZGXhTUb/ — tombstone (test 8). "Who is he texting? Claude." On the lane already.
 2026-11-01 DbwwG3dgvQU @cherrycatxox https://www.instagram.com/reel/DbwwG3dgvQU/ — tombstone (test 4, test 3 in the tail). "Why do men feel so dominant and powerful in a suit and tie?" 3.48s; names its own object, her close mocks him. Marcus already has it in a 10-31 draft; his call overrides.
