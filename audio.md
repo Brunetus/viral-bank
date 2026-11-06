@@ -11,6 +11,7 @@
      At 3-4 posts/day on one account alone that means 100+, not 20. Current
      pool: 170 entry lines as of 2026-10-18. The pool is over target, so the
      +5-per-scan floor no longer binds.
+     2026-11-06: +0 added, 1 RE-CONFIRMED (Dracula (JENNIE Remix)), 0 dropped. One search; still no November roundup (newest: Buffer 10-14, SocialPilot 10-12→10-25). "i love me" Joy Rhodes again only on an undated page, not added.
      2026-11-05: +0 added, 1 RE-CONFIRMED (Dracula (JENNIE Remix)), 0 dropped. One search; still no November roundup (newest: Buffer October list, SocialPilot 10-12→10-25).
      2026-11-03: +0 added, 1 RE-CONFIRMED (Dracula (JENNIE Remix)), 0 dropped. One search; still no November roundup (newest dated lists: Buffer 10-14, SocialPilot 10-12→10-25). "i love me" Joy Rhodes again only on an undated page, not added.
      2026-11-02: +0 added, 2 RE-CONFIRMED (Dracula (JENNIE Remix), Ring My Bell), 0 dropped. One search; still no November roundup (newest is SocialPilot's 10-12→10-25 list). "i love me" Joy Rhodes was named on an undated page and not added on that evidence.
@@ -908,7 +909,7 @@
 
 
 ## momentum
-"Dracula (JENNIE Remix)" — Tame Impala | shape: momentum | lane-fit: any | why: 307K posts, the biggest count on this week's Scott Social list — a walk-forward/inventory showcase bed with a hard forward pull. Re-added 2026-08-21 on fresh evidence after an unjustified 08-20 drop | start: on the walk, one item per bar | url: https://www.instagram.com/reels/audio/1887907191828006/ | confirmed: 2026-11-05
+"Dracula (JENNIE Remix)" — Tame Impala | shape: momentum | lane-fit: any | why: 307K posts, the biggest count on this week's Scott Social list — a walk-forward/inventory showcase bed with a hard forward pull. Re-added 2026-08-21 on fresh evidence after an unjustified 08-20 drop | start: on the walk, one item per bar | url: https://www.instagram.com/reels/audio/1887907191828006/ | confirmed: 2026-11-06
 "Ring My Bell" — Anita Ward | shape: momentum | lane-fit: any | why: disco drive listed this week for outfit videos, GRWMs and vacation cuts; steady enough to carry a montage of small wins without needing a punchline at the end | start: from the top | url: https://www.instagram.com/reels/audio/323182991668129/ | confirmed: 2026-11-02
 "petal" — Ariana Grande | shape: momentum | lane-fit: general | why: 90K posts, dreamy synth-heavy bed for aesthetic and reveal content; note the lyric contains an expletive, so check the section you cut before committing | start: on the synth line, avoid the explicit bar | confirmed: 2026-10-31
 "FEVER DREAM" — Alex Warren | shape: momentum | lane-fit: any | why: listed with peak-stage Reels counts on SocialBu's current trending list (2026-10-17) | start: the chorus | confirmed: 2026-10-17
