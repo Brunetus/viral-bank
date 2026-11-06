@@ -164,7 +164,7 @@ dead 2026-09-25 (Marcus: cut the dead weight; failed the gate, not probed daily)
 @cherrycatxox [saved] — added 2026-11-01 via Marcus's Saved DbwwG3dgvQU; real woman to camera, word captions. Saved reel tombstoned on test 4 (Marcus has it in a 10-31 draft, his call overrides). Probed 2026-11-02: readable, 273,244 followers, 24/25 serving. Live window is "mommy asmr" and Halloween skits; "EVERYONE knows you want an alt baddie gf" (DfAVNzfASql) has no blank, test 4.
 @wealthybytes [saved] — added 2026-11-01 via Marcus's Saved DTrzIEFEiu6; reposted podcast clip, tests 1/4. Probed 2026-11-02: readable, 423,934 followers, 25/25 serving.
 @doclittle [saved] — added 2026-11-01 via Marcus's Saved DLASCEpgsu5; repost of a woman to camera (watermark @angela_mon…), tests 2/4. Probed 2026-11-02: readable, 7,320 followers, 12/25 serving.
-@thelazydeveloper500 [saved] (unreadable) — added 2026-11-01 via Marcus's Saved DfCZ-XDuWl6; business_discovery error 110; man to camera, dev how-tos, test 1.
+dead 2026-11-06 (profile 404 on Instagram, gone not just unreadable; Grok relay): thelazydeveloper500 [saved] (unreadable) — added 2026-11-01 via Marcus's Saved DfCZ-XDuWl6; business_discovery error 110; man to camera, dev how-tos, test 1.
 @haydenschmitty [saved] — added 2026-11-05 via Marcus's Saved DfKdNPBIHoJ; man to camera, Claude Code / vibe-coding tips and his own Floorplan repo, tests 1/8. Probed 2026-11-05: readable, 26,536 followers, 23/25 serving.
 
 ## Old lanes (tech / general / sports / family) — format-capture only since 2026-09-17
