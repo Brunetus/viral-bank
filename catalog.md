@@ -1505,3 +1505,19 @@ touched.
 - first-seen: 2026-11-01 | status: FRESH
 - premise: "You really want to know what turns a man on."
 - build-note (from Marcus's own 1026_api, 11-01 search): credit @emilywking_; don_n 63: "on" 1.68, "And" rises about 2.10 on the envelope. She opens on a whip blur and a small mirror shot, as he aired it. Her card holds through the cut. Sexual premise, capped at 2 on 10-30. He aired it himself, but its fit rows stay at 2 until he clears it for trials.
+
+## Dba30J6hBFf — [NOT BANKED] Donor review Nov 6 (Marcus's collection, 11-07) @tash9pm says "The hottest man in every room is not his looks. It's not his clothing. It's not anything like that." (0-7.0s) then her answer "It's actually his fucking energy" (7.14s). Fetched 11-07 ig-fetch. Not yet checked on screen for burned captions or framing. · https://www.instagram.com/reel/Dba30J6hBFf/ · first-seen 2026-11-07
+- build-note: cut at 7.00s after "that", before "It's actually". Hottest premise: env only (Marcus 11-07).
+
+## DYQkETgtRmW — [NOT BANKED] Donor review Nov 6 (Marcus's collection, 11-07) @crys_meliea says "I've noticed that the realest men don't ask for much." (0-4.38s) then her answer "All they want is respect..." (4.60s). Fetched 11-07 ig-fetch. Not yet checked on screen for burned captions or framing. · https://www.instagram.com/reel/DYQkETgtRmW/ · first-seen 2026-11-07
+- build-note: cut at 4.38s after "much", before "All they want".
+
+## DURwZU8jL1w — [NOT BANKED] Donor review Nov 6 (Marcus's collection, 11-07) @iamcamadams, "Girls, like when you're with a man, if you have the pleasure of being with a man who is going to grind to build you up a beautiful future..." (one 19.5s run-on, no clean cut). Fetched 11-07. · https://www.instagram.com/reel/DURwZU8jL1w/ · first-seen 2026-11-07
+
+## DXpNTiOgsTp — [NOT BANKED] Donor review Nov 6 (Marcus's collection, 11-07) @chelskocoaching (same woman as DYH7OUkMOUw), "The strongest men I know cry alone, win alone, lose alone, and heal alone." Fetched 11-07. · https://www.instagram.com/reel/DXpNTiOgsTp/ · first-seen 2026-11-07
+
+## DW4IdeuER3N — [NOT BANKED] Donor review Nov 6 (Marcus's collection, 11-07) @nancyyyv, a lecture to women: "Having money and spending money on you is not the same." Fetched 11-07. · https://www.instagram.com/reel/DW4IdeuER3N/ · first-seen 2026-11-07
+
+## DeWjRJ4s1aQ — [NOT BANKED] tests 1 (two-voice skit, not one woman to camera) Donor review Nov 6 (Marcus's collection, 11-07) @maraji_, "Man, I want to pay for something for me. Me, Mrs. Independent." / "You lie." Fetched 11-07. · https://www.instagram.com/reel/DeWjRJ4s1aQ/ · first-seen 2026-11-07
+
+## DQb4DlSDR3i — [NOT BANKED] Donor review Nov 6 (Marcus's collection, 11-07) @tisiaxvs answering critics about her outfit ("apparently there were some beautiful ladies and some handsome gentlemen that couldn't really hear my message yesterday..."). Fetched 11-07. · https://www.instagram.com/reel/DQb4DlSDR3i/ · first-seen 2026-11-07
