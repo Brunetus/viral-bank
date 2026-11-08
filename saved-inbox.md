@@ -11,6 +11,7 @@ Filler rule: skip any shortcode already under `## processed` or already a catalo
 measures tests 5/6, rewrites the entry, and moves the line here as `re-measured`.
 
 ## inbox
+<!-- empty 2026-11-08: read-saved.sh read 24 on the grid and appended 3 new lines (exit 0), a REAL grid. All gated and moved to ## processed: 0 BANKED, 3 tombstoned. -->
 <!-- empty 2026-11-01: read-saved.sh read 24 on the grid and appended 5 new lines (exit 0), a REAL grid (five other creators). All gated and moved to ## processed: 0 BANKED, 5 tombstoned. -->
 <!-- empty 2026-10-30: read-saved.sh read 24 on the grid and appended 2 new lines (exit 0), a REAL grid. Both gated and moved to ## processed: 0 BANKED, 2 tombstoned. -->
 <!-- empty 2026-10-29: read-saved.sh read 24 on the grid and appended 3 new lines (exit 0), a REAL grid (three other creators). All gated or burned-skipped and moved to ## processed: 0 BANKED, 2 tombstoned, 1 burned-skip. -->
@@ -127,6 +128,9 @@ measures tests 5/6, rewrites the entry, and moves the line here as `re-measured`
 ## re-measure
 
 ## processed
+2026-11-08 DfbBMiSgswc @indyram35 https://www.instagram.com/reel/DfbBMiSgswc/ — tombstone (test 1). Viper car account, composited bikini model beside the car, no speech, no premise. Judged on caption + cover, no fetch. Handle → [saved].
+2026-11-08 DfaOrfwBzhh @nicoaliwalsh https://www.instagram.com/reel/DfaOrfwBzhh/ — tombstone (test 1). Boxer's fight clip, "Only one person has mastered my grandfather's shuffle". Judged on caption + cover, no fetch. Handle → [saved].
+2026-11-08 DepaCPGi2F_ @athlete https://www.instagram.com/reel/DepaCPGi2F_/ — tombstone (test 1). Sports aggregator, Mike Tyson sparring tweet-card repost. ig-fetch 2/8. Handle → [saved].
 2026-11-05 DfKdNPBIHoJ @haydenschmitty https://www.instagram.com/reel/DfKdNPBIHoJ/ — tombstone (test 1, also 8). Man to camera in a car, "If you're using Claude", pushing his own Floorplan repo. Judged on caption + cover, no fetch.
 2026-11-01 DfCZ-XDuWl6 @thelazydeveloper500 https://www.instagram.com/reel/DfCZ-XDuWl6/ — tombstone (test 1). Man to camera, Supabase API keys. ig-fetch 1/8.
 2026-11-01 DcotZGXhTUb @makayla.tonn https://www.instagram.com/reel/DcotZGXhTUb/ — tombstone (test 8). "Who is he texting? Claude." On the lane already.

@@ -1,61 +1,60 @@
 # taste.md — what the audiences actually reward (rewritten every scan from live insights)
 Derived data, full overwrite each scan. History lives in git. Read with catalog.md.
-Refreshed 2026-11-06 (25 imabgold reels, 25 bambi reels, full insights incl. skip rate on all 50).
+Refreshed 2026-11-08 (25 imabgold reels, 25 bambi reels, full insights incl. skip rate on all 50).
 
 ## universal
 - **Share COUNT is the distribution lever, and watch time is not correlated with it.** The longest
-  hold this window (10.7s) was forwarded 3 times; a 9.8s hold was forwarded 25,659 times.
-- **A premise with one blank in it travels; a statement does not.** Every reel over 100k opens on a
+  hold this window (11.0s) was forwarded 3 times; a 7.1s hold was forwarded 2,190 times.
+- **A premise with one blank in it travels; a statement does not.** Every reel over 30k opens on a
   claim or question and withholds the object.
 - **The payoff must be a thing the viewer owns, shows, or DOES, with a real receipt where possible.**
-  Same opener: a concrete file setup did 131k / 4,824 shares; an abstract activity ("building an
-  app") did 2.5k / 11 and, re-cut, 6.1k / 60.
+  A commit count, a credit balance, a file setup: 680-2,190 shares. A convenience the tool does for
+  him (commit messages, git commands): 1-5 shares.
 - **The opener and the object are a PAIR; neither carries alone.** The same object ($200 API
-  credit) did 45k / 1,367 and 20k / 365 on one opener and 2.2k / 4 on another.
-- **A list opener must deliver its list.** Promised a list and paid with one item: 2.3k / 15 shares.
-- **A tutorial or a pitch in the opener is not a hook.** Process and offer reels sit at 3-130 shares.
+  credit) did 48k / 1,456 shares on one opener and 2.2k / 4 on another.
+- **A re-run of a proven pair is a floor, not a repeat of the peak.** Proven pairs re-aired this
+  window opened at 11-18k views / 180-189 shares in their first day, against 131k-1.4M originals.
+- **A pitch or a tutorial in the opener is not a hook.** Offer and how-to reels sit at 3-130 shares.
 
-## @imabgold — 25 reels, 2026-10-31 → 2026-11-05
+## @imabgold — 25 reels, 2026-11-02 → 2026-11-08
 Top 3 by saves+shares
-- `DfLP-kQjMXL` 10-31 · 1,430,947 views / 25,659 shares / 7,816 saves / 9.8s / 30.7% — @samoilovart
-  "what do men spend their money on if they don't have a girlfriend or a family?" → four Mac Studios
-  running a model locally. WHY: a rig you can SEE, and the question hands out a one-word vote.
-- `DfM9stwCoo3` 11-01 · 152,294 / 5,419 / 481 / 6.0s / 37.3% — @brennaberg "the hottest thing a man
-  can do is ship his code straight to main" + "(please don't actually.)". WHY: a reckless habit
-  every dev recognises, and a binary vote (main or a branch).
-- `DfNm5PSFcGw` 11-01 · 131,066 / 4,824 / 635 / 8.7s / 29.6% — "men only want one thing… it's
-  storing his API keys in a .env file listed in his .gitignore". WHY: a real file setup, a
-  security flex every dev can check on his own machine.
-  Runners-up: `DfLdn3-pH12` 116,461 / 4,124 (Friday 5pm deploy, no donor) · `DfP3GISicGM` 59,739 /
-  2,114 (406 commits) · `DfSdDLpEVBM` 44,982 / 1,367 ("men only want one thing" → $200 API credit).
+- `DfP3GISicGM` 11-02 · 62,374 views / 2,190 shares / 238 saves / 7.1s / 37.0% — "if you know a man
+  who's always awake late at night, that's not insomnia. he's pushed 406 commits since July." WHY: a
+  real number on a real screen, and the CTA asks for the viewer's own number.
+- `DfSdDLpEVBM` 11-03 · 48,307 / 1,456 / 193 / 7.6s / 30.8% — "men only want one thing… not money,
+  not power" → $200 API credit. WHY: the classic elimination slot filled by a balance you can show.
+- `DfYH7pqJ_VS` 11-05 · 33,212 / 968 / 118 / 8.9s / 36.9% — "she wants a man who leads. he doesn't
+  believe in a QA team. he deploys straight to his users" + "staging or production?". WHY: a
+  reckless dev habit every dev recognises, and a binary vote.
+  Runners-up: `DfSxB3fDyEk` 25,257 / 689 ("why do men feel so dominant" → 24 billion tokens) ·
+  `DfVp9DXApxV` 24,287 / 478 ($200 credit again) · `DfQgXiUExcj` 18,241 / 227 (100K MRR goal board).
 Bottom 3 by saves+shares (matured, over 36h)
-- `DfPif1uERqt` 11-02 · 2,185 / 4 / 1 / 6.4s / 40.4% — "call me crazy, but the sexiest thing a man
-  can do" → $200 API credit. The same object did 45k on "men only want one thing" a day later.
-- `DfN7fu0jkzK` 11-01 · 2,457 / 11 / 5 / 6.5s / 34.1% — "men only want one thing" → "building an
-  app on Claude Code". Re-posted 11-05 as `DfXlfxVjmS4` (@weirdy_beardysfunkos opener): 6,092 / 60.
-- `DfVelFdpZ9u` 11-04 · 4,164 / 3 / 18 / 10.7s / 41.5% — Shopify $1 offer, no donor. The longest
-  hold in the window and almost nobody forwarded it: a pitch is watched, not shared.
-Early reads (under 36h, judge tomorrow)
-- `DfYH7pqJ_VS` 11-05 22:40 · 20,342 / 663 / 72 / 8.7s / 37.0% — "she wants a man who leads. he
-  doesn't believe in a QA team. he deploys straight to his users" + "staging or production?" vote.
-  The reckless-deploy habit again (see `DfM9stwCoo3`, `DfLdn3-pH12`): already the window's 6th by shares.
-- `DfXQ6ZtnO8u` 11-05 · 9,052 / 188 ("hottest thing" → checks token usage more than his bank account,
-  5.1s hold) · `DfXlfxVjmS4` 11-05 · 6,092 / 60 (activity object again).
-- `DfVp9DXApxV` 11-04 matured at 20,494 / 365: the $200-credit pair repeated at half the original.
+- `DfaKTJmFWwT` 11-06 · 788 / 5 / 1 / 5.8s / 44.5% — "what makes somebody attractive" → Claude writes
+  his commit messages. A convenience, not a possession.
+- `Dfal0uJlRyu` 11-06 · 981 / 1 / 1 / 9.4s / 39.4% — "problem solver husband" → git commands through
+  Claude Code. A husband premise (the viewer is not one) and a how-to object; the 11-07 re-cut with
+  a receipt ("every commit ends with Co-Authored-By: Claude", `DfbNzCCs1r4`) did 12,699 / 48.
+- `DfPif1uERqt` 11-02 · 2,187 / 4 / 1 / 6.4s / 40.3% — "call me crazy, but the sexiest thing a man
+  can do" → $200 credit, the object that did 48k a day later on "men only want one thing".
+Early reads (under 36h, judge next scan)
+- `DfdKj31gflQ` 11-07 · 18,462 / 180 / 109 — "hottest thing" → .env in .gitignore (re-run of the
+  131k / 4,824 object). `DfdfL2ejPMH` 11-08 · 11,041 / 189 / 34 — "what do men spend their money
+  on" → MacBook, caffeine, 20x Max (re-run of the 1.4M opener). Both strong per hour, far off peak.
+- `Dfdzwd3CVq8` 11-08 · 5,068 / 47 ("men are so hard to please" → $200 credit; the 11-03 cut did
+  7,857 / 179) · `DfdmdWmt_ZW` 11-08 · 4,884 / 44 (news peg, Gemini Carbon).
 Top 3 by avg watch time
-- `DfVelFdpZ9u` 10.7s (3 shares) · `DfLP-kQjMXL` 9.8s · `DfYH7pqJ_VS` 8.7s.
+- `DfVelFdpZ9u` 11.0s (3 shares, Shopify $1 offer) · `Dfal0uJlRyu` 9.4s (1 share) · `DfYH7pqJ_VS` 8.9s.
 Bottom 3 by avg watch time
-- `DfQLstngMvt` 5.0s / 40.3% · `DfXQ6ZtnO8u` 5.1s / 41.0% · `DfSxB3fDyEk` 5.4s / 38.4% (680 shares).
+- `DfQLstngMvt` 5.0s / 40.6% · `DfXQ6ZtnO8u` 5.1s / 42.1% · `DfSxB3fDyEk` 5.4s / 38.4% (689 shares).
 What works
-- A girl-to-camera desire/question opener ("what do men spend their money on", "the hottest thing a
-  man can do", "men only want one thing", "she wants a man who…") + ONE ownable object + a
-  one-word vote or binary CTA.
-- A reckless dev habit as the object (main, Friday 5pm, no QA team): three reels at 20k-152k.
-- A real screen, file, number or rig as the object (/stats, .env, 406 commits, Mac Studios).
+- A girl-to-camera desire/question opener ("men only want one thing", "she wants a man who…",
+  "if you know a man who…", "what do men spend their money on") + ONE ownable object with a
+  receipt + a one-word or number CTA.
+- A reckless dev habit or a hard number as the object (no QA team, 406 commits, 24B tokens).
 What dies
-- Corrections, tutorials, stack lists, offers, git how-tos: 3-130 shares.
-- An activity object ("building an app", "shipping a site") or a convenience Claude does for him.
-- A feeling with no object ("tokens reset midweek", 4.5s hold, 55% skip).
+- A convenience Claude does for him (commit messages, git commands): 1-5 shares.
+- Husband premises (the audience is 18-34 and mostly unmarried): 981 views on 11-06.
+- Offers, tutorials, news pegs: 3-44 shares.
 - "Call me crazy, but the sexiest thing a man can do": 4 and 29 shares on two objects.
 
 ## @bambi.map — 25 reels, 2026-10-14 → 2026-11-04 (no new post since 11-04)
@@ -78,8 +77,7 @@ What dies
   (36-232 views, 33-79% skip; `DfVB_pcHNV6` 11-04 "Something wonderful is happening" 186 / 42.6%).
 - Opening on a value prop or a celebration with no problem (`DfAZtLwkR2m`).
 
-steering: 21 tags in /recently_searched_hashtags (toddlertravel, familyvacation, eatlikealocal,
-travelwithkids, dadlife, familytravel, familyadventures, christophercolumbus, claudeai,
-artificialintelligence, aitools, anthropic, nontechnicalfounder, claudecode, vibecoding,
-buildinpublic, kidfriendlytravel, eatingoutwithbaby, travelwithbaby, babytravel, highchair).
-All family/AI (plus #christophercolumbus), no premise steering.
+steering: 25 tags in /recently_searched_hashtags: the 9 standing premise tags (the scan's own Graph
+queries), plus toddlertravel, familyvacation, eatlikealocal, travelwithkids, dadlife, familytravel,
+familyadventures, christophercolumbus, claudeai, artificialintelligence, aitools, anthropic,
+nontechnicalfounder, claudecode, vibecoding, buildinpublic. No new premise steering.
