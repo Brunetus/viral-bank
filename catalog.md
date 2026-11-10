@@ -1526,3 +1526,13 @@ touched.
 ## DeWjRJ4s1aQ — [NOT BANKED] tests 1 (two-voice skit, not one woman to camera) Donor review Nov 6 (Marcus's collection, 11-07) @maraji_, "Man, I want to pay for something for me. Me, Mrs. Independent." / "You lie." Fetched 11-07. · https://www.instagram.com/reel/DeWjRJ4s1aQ/ · first-seen 2026-11-07
 
 ## DQb4DlSDR3i — [NOT BANKED] Donor review Nov 6 (Marcus's collection, 11-07) @tisiaxvs answering critics about her outfit ("apparently there were some beautiful ladies and some handsome gentlemen that couldn't really hear my message yesterday..."). Fetched 11-07. · https://www.instagram.com/reel/DQb4DlSDR3i/ · first-seen 2026-11-07
+
+## DTNmu8kEeCx — [FALLBACK c1] Donor review concept 1 (Marcus's collection, 11-09) @codialyn, a real woman, solo face-cam car monologue, says "Things I no longer do because I have a husband." (0-2.48s) then her list "Starting strong out the gate, pay bills..." (2.66s). 89,997 likes (Muse live check 11-09). · https://www.instagram.com/reel/DTNmu8kEeCx/ · first-seen 2026-11-09
+- status: FALLBACK (Marcus approved 11-09 as a fallback reference for concept 1, two-bot line; Megan DfMcCJSo-Ns is the pick)
+- clip: clips/DTNmu8kEeCx.mp4 (ig-fetch 11-09)
+- build-note: cut at 2.48s after "husband", before "Starting". Household-chores list, not a business list, so the handoff to the two-bot line is a stretch (weak to medium fit).
+
+## DXVGFNSkTuw — [FALLBACK c1] Donor review concept 1 (Marcus's collection, 11-09) @abbieherbert_, a real woman, solo face-cam monologue (verified, 2.7M followers), says "I do not have a traditional marriage. My husband does everything, he cooks every single meal in our household..." (opener 0-13s, Muse's transcript). 57,103 likes (Muse live check 11-09). · https://www.instagram.com/reel/DXVGFNSkTuw/ · first-seen 2026-11-09
+- status: FALLBACK (Marcus approved 11-09 as a fallback reference for concept 1)
+- clip: NOT FETCHED yet (ig-fetch cap 8/8 used 11-09); fetch before any build
+- build-note: the usable opener runs 13s before she pivots to supporting him, too long for a one-breath handoff; a cut after "My husband does everything" would need checking on the audio. Weak fit.
