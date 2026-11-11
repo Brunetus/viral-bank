@@ -172,6 +172,7 @@ dead 2026-11-06 (profile 404 on Instagram, gone not just unreadable; Grok relay)
 @indyram35 [saved] — added 2026-11-08 via Marcus's Saved DfbBMiSgswc; Dodge Viper car account with composited bikini-model covers, test 1. Probed 2026-11-08: readable, 1,386 followers, 1/25 serving.
 @nicoaliwalsh [saved] — added 2026-11-08 via Marcus's Saved DfaOrfwBzhh; boxer, fight footage and grandfather (Ali) captions, test 1. Probed 2026-11-08: readable, 704,918 followers, 11/25 serving.
 @athlete [saved] — added 2026-11-08 via Marcus's Saved DepaCPGi2F_; sports aggregator, tweet-card reposts, test 1. Probed 2026-11-08: readable, 601,212 followers, 20/25 serving.
+@galinie_codes [saved] — added 2026-11-11 via Marcus's Saved Deg8GzPsKX1; real woman, tech/AI meme and lifestyle creator (Toronto), POV reaction memes, tests 2/3/4. Probed 2026-11-11: readable, 101,013 followers, 4/25 serving (carousels only).
 
 ## Old lanes (tech / general / sports / family) — format-capture only since 2026-09-17
 

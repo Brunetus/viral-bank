@@ -11,6 +11,7 @@ Filler rule: skip any shortcode already under `## processed` or already a catalo
 measures tests 5/6, rewrites the entry, and moves the line here as `re-measured`.
 
 ## inbox
+<!-- empty 2026-11-11 (rerun 12:03): read-saved.sh read 24 on the grid and appended 1 new line (exit 0), a REAL grid. Gated and moved to ## processed: 0 BANKED, 1 tombstoned. -->
 <!-- empty 2026-11-08: read-saved.sh read 24 on the grid and appended 3 new lines (exit 0), a REAL grid. All gated and moved to ## processed: 0 BANKED, 3 tombstoned. -->
 <!-- empty 2026-11-01: read-saved.sh read 24 on the grid and appended 5 new lines (exit 0), a REAL grid (five other creators). All gated and moved to ## processed: 0 BANKED, 5 tombstoned. -->
 <!-- empty 2026-10-30: read-saved.sh read 24 on the grid and appended 2 new lines (exit 0), a REAL grid. Both gated and moved to ## processed: 0 BANKED, 2 tombstoned. -->
@@ -128,6 +129,7 @@ measures tests 5/6, rewrites the entry, and moves the line here as `re-measured`
 ## re-measure
 
 ## processed
+2026-11-11 Deg8GzPsKX1 @galinie_codes https://www.instagram.com/reel/Deg8GzPsKX1/ — tombstone (tests 2/3/4). Woman at her desk, "pov: you broke PROD" card, cut to a crying footballer "your tech lead:". Reaction meme, no premise about men. ig-fetch 1/8. Handle → [saved].
 2026-11-08 DfbBMiSgswc @indyram35 https://www.instagram.com/reel/DfbBMiSgswc/ — tombstone (test 1). Viper car account, composited bikini model beside the car, no speech, no premise. Judged on caption + cover, no fetch. Handle → [saved].
 2026-11-08 DfaOrfwBzhh @nicoaliwalsh https://www.instagram.com/reel/DfaOrfwBzhh/ — tombstone (test 1). Boxer's fight clip, "Only one person has mastered my grandfather's shuffle". Judged on caption + cover, no fetch. Handle → [saved].
 2026-11-08 DepaCPGi2F_ @athlete https://www.instagram.com/reel/DepaCPGi2F_/ — tombstone (test 1). Sports aggregator, Mike Tyson sparring tweet-card repost. ig-fetch 2/8. Handle → [saved].
