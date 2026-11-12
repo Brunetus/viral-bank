@@ -19,6 +19,26 @@ re-downloading a clip already judged. FRESH clips and entries are never
 touched.
 
 <!-- entries below, newest first -->
+## Dfmib7DxsTf — @ashleahoess to camera in her kitchen (black V-neck, cutting board and jars in the foreground), full-bleed; burned card "The right woman adds this to your life" 0-2s while she says "Guys, do you know what I think a woman should bring to a man's life?", then she steps back from the phone and answers "color" at 4.04s
+- source: @ashleahoess | https://www.instagram.com/reel/Dfmib7DxsTf/          <- on the [premise] watchlist since 2026-09-29; bio "Helping men navigate modern dating"
+- lane: premise
+- first-seen: 2026-11-12 | status: FRESH
+- stats-at-capture: 2,524 likes / 178 comments (1.56x her median of 1,731; 349,275 followers; Graph-served, zero cookie cost)
+- joke-structure: n/a — opener donor
+- the-beat: cut at 3.6s, the frame her question finishes on ("...to a man's life?" ends 3.62s); her own answer "color" starts 4.04s, so cut before it
+- audio-model: original sound (attach in-app, NEVER bake — rule 92)
+- her-audio: original sound — her voice only, no music bed in the opener. Attachable in-app
+- pairs-with: a hard cut to what Marcus actually wants brought into his life, shown as one object: the Claude 20x Max plan / tokens resetting midweek / a second monitor of green test runs
+- premise: "Guys, do you know what I think a woman should bring to a man's life?" (spoken, verbatim; the burned card reads "The right woman adds this to your life")
+- slot: "what a woman should bring to a man's life" -> ONE object the cut shows. Her own answer is "color", a single word, so the blank closes on one thing. e.g. a Claude Max gift / usage reset / "she brought me tokens"
+- setup-length: 3.62s (premise COMPLETE as a question, blank still open until 4.04s). Over the 3s floor, under the 4.03s/4.60s winning band. She starts stepping back from the phone at ~2s but stays facing the camera
+- hero-test: the man is the BENEFICIARY, not the problem: the sentence is about what he deserves to receive, addressed to him ("Guys,"). Note for the architect: grammatically the woman is the subject, so this is the flowers-for-men family (what he should be given), not the "women are obsessed with men who..." family. Nothing negative about him anywhere in the 85s
+- addresses: young men, second person ("Guys") / recognises: the man watching, as the one who gets the gift. SAME PERSON
+- original: yes — @ashleahoess's own upload, no watermark, no third-party mark. Tail transcribed to 85s: no CTA, no product, guard 7 clear on this reel
+- clean-window: n/a — OPENER donor (her setup card IS the hook)
+- file: clips/Dfmib7DxsTf.mp4 (85.0s, 720x1280, h264; the donor beat is 0.00-3.62)
+## DfTsTdWjpZn — [NOT BANKED] DO-NOT-SPLICE (2026-11-12) tombstone (test 6 + list-opener) @shordyrawuncut (Shordy Raw, FVTV Media host, 845 followers), a real woman to camera on a hillside, word captions, 381,114 likes, 13.5s: "The three sexiest things a man can say are, I'll figure it out, I got this and it's already done. And the three unsexiest things?..." The setup finishes at ~1.9s ("are,"), under the 3s floor, and it promises a list of three. Found on the throwaway tag page #sexiestthing; ig-fetch 1/8, scratch copy and frames deleted. · https://www.instagram.com/reel/DfTsTdWjpZn/ · first-seen 2026-11-12
+## DfpBWR4NAVL — [NOT BANKED] DO-NOT-SPLICE (2026-11-12) tombstone (tests 2/3/4) @sofia.zianii, a real woman to camera in her kitchen at midnight, card "It is literally midnight, but somebody needs to listen to this message. Okay." then "You will always come home to yourself, no matter what life puts you through" (68.9s). Self-worth monologue: no man, no blank. Free Graph copy, transcribed, scratch copy deleted. · https://www.instagram.com/reel/DfpBWR4NAVL/ · first-seen 2026-11-12
 ## Deg8GzPsKX1 — [NOT BANKED] DO-NOT-SPLICE (2026-11-11) tombstone (tests 2/3/4) @galinie_codes (Galinie, tech/lifestyle creator, Toronto, 101,013 followers), a real woman at her desk, card "pov: you broke PROD and turned to your tech lead for help" (0-4s, hand on forehead), hard-cut to a crying footballer captioned "your tech lead:" (4-7.9s). A reaction meme: no positive premise about men, no man as hero, no blank. Saved reel was older than the last 25, so fetched to read it: ig-fetch 1/8, scratch copy and frames deleted. · https://www.instagram.com/reel/Deg8GzPsKX1/ · first-seen 2026-11-11
 ## DfaJEOSzekt — [NOT BANKED] DO-NOT-SPLICE (2026-11-08) tombstone (tests 2/3/4) @jilliangerhardt, a real woman to camera in her car, card "Hardworking men", says "If you've got yourself a hardworking man who's a little rough around the edges, hold on to that guy. He's stubborn, he's got a mouth on him, he's probably offended three people by…" (49,521 likes, 62.6s). Addressed to wives (#husband #bluecollarwife), the praise runs on his flaws, and there is no blank to fill. Free Graph copy, frames read and deleted. · https://www.instagram.com/reel/DfaJEOSzekt/ · first-seen 2026-11-08
 ## DfU28h1pTSs — [NOT BANKED] DO-NOT-SPLICE (2026-11-08) tombstone (tests 1/6) @theguiltgirl (Grace Bithell, OCD therapist, 9,696 followers), a real woman to camera in her car, card "7 green flags in a man from a therapist" held the whole reel (45,918 likes / 1,626 comments, 65s), but she never SAYS the premise: speech opens on item 1, "has done some art in his adulthood… photography, pottery, watercolors", at ~0.5s. The setup lives only on the card, so there is no spoken setup to cut on. Found on the throwaway tag page #greenflagsinmen; free Graph copy, frames read and deleted. · https://www.instagram.com/reel/DfU28h1pTSs/ · first-seen 2026-11-08
@@ -142,7 +162,7 @@ touched.
 ## DeLrYBazaLe — [COPY, test 7 as amended] the 0.00-4.95s opener of @jordiegarner_'s golf reel: a real brunette woman to camera in a car (mint top, gold necklaces, finger raised), card "7 nons*xual things that guys do that are attractive", says "These are seven non-sexual things that I think are attractive that guys do. Number one." then hard cut to him swinging under "GOLF"
 - source: @jordiegarner_ | https://www.instagram.com/reel/DeLrYBazaLe/   (Marcus's Saved, read-saved.sh; fetched via ig-fetch 2/8)
 - lane: premise
-- first-seen: 2026-10-21 | status: FRESH
+- first-seen: 2026-10-21 | status: STALE (2026-11-12)
 - stats-at-capture: n/a, older than the 25 media the Graph returns (Marcus's save is the spike signal)
 - joke-structure: n/a — opener donor
 - the-beat: cut at 3.8s, the frame "guys do." finishes on (3.72s). Optional longer cut at 4.9s keeps her "Number one." (4.02-4.68s) and is the copy's own cut point
@@ -162,7 +182,7 @@ touched.
 ## DQvT1RngKx6 — a real blonde woman straight to camera in a parked car (sunroof, sunglasses on her head, grey top), full-bleed, card "Signs you're a green flag to women", says "These are signs that you are a walking green flag to women."
 - source: @datingwithgracie | https://www.instagram.com/reel/DQvT1RngKx6/   (Marcus's Saved, read-saved.sh; fetched via ig-fetch 1/8)
 - lane: premise
-- first-seen: 2026-10-21 | status: FRESH
+- first-seen: 2026-10-21 | status: STALE (2026-11-12)
 - stats-at-capture: n/a, older than the 25 media the Graph returns (Marcus's save is the spike signal; account 549,712 followers)
 - joke-structure: n/a — opener donor
 - the-beat: cut at 3.6s, the frame "women." finishes on (her next line, "And if you could use an ego boost…", starts at 3.68s)

@@ -11,6 +11,7 @@ Filler rule: skip any shortcode already under `## processed` or already a catalo
 measures tests 5/6, rewrites the entry, and moves the line here as `re-measured`.
 
 ## inbox
+<!-- empty 2026-11-12: read-saved.sh read 24 on the grid and appended 0 new lines (exit 0). Nothing to gate. -->
 <!-- empty 2026-11-11 (rerun 12:03): read-saved.sh read 24 on the grid and appended 1 new line (exit 0), a REAL grid. Gated and moved to ## processed: 0 BANKED, 1 tombstoned. -->
 <!-- empty 2026-11-08: read-saved.sh read 24 on the grid and appended 3 new lines (exit 0), a REAL grid. All gated and moved to ## processed: 0 BANKED, 3 tombstoned. -->
 <!-- empty 2026-11-01: read-saved.sh read 24 on the grid and appended 5 new lines (exit 0), a REAL grid (five other creators). All gated and moved to ## processed: 0 BANKED, 5 tombstoned. -->
