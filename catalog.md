@@ -134,7 +134,7 @@ touched.
 ## DewiW1Ix6IZ — a real brunette woman straight to camera, low angle, black zip top, wood-panelled room with windows behind her, finger raised, full-bleed, white card "What a woman looks for in a man" (0-4s), says "Guys, this is what a woman looks for in a man. And I'm not going to bullshit you."
 - source: @ashleahoess | https://www.instagram.com/reel/DewiW1Ix6IZ/          <- [premise] lane since 2026-09-29; bio "Modern dating advice for men". Free Graph copy, no fetch slot
 - lane: premise
-- first-seen: 2026-10-22 | status: FRESH
+- first-seen: 2026-10-22 | status: STALE (2026-11-14)
 - stats-at-capture: 3,666 likes / comments n/a (3.0x account median), posted 2026-10-20
 - joke-structure: n/a — opener donor
 - the-beat: cut at 4.8s, the frame "bullshit you." finishes on (her next line "I'm going to give it to you straight" starts 4.88s). Tighter cut at 2.9s ("…in a man." ends ~2.4s, breath until 2.92s) is under the 3s floor, do not use it
