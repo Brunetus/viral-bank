@@ -133,6 +133,7 @@ DG3lFj6OWRn @realmarciereeves https://www.instagram.com/reel/DG3lFj6OWRn/
 ## re-measure
 
 ## processed
+2026-11-15 Dfs2mSRKIuC @glitchboxing https://www.instagram.com/reel/Dfs2mSRKIuC/ — tombstone (tests 1/2/4). Conor Mahoney, boxing coach (356,949 followers): a man on the heavy bag, card "a good bodyshot that will have you making noises you didn't know you could make", 11,061 likes. No woman, no premise about men, no blank. Judged free on Graph caption + cover, no fetch.
 2026-11-11 Deg8GzPsKX1 @galinie_codes https://www.instagram.com/reel/Deg8GzPsKX1/ — tombstone (tests 2/3/4). Woman at her desk, "pov: you broke PROD" card, cut to a crying footballer "your tech lead:". Reaction meme, no premise about men. ig-fetch 1/8. Handle → [saved].
 2026-11-08 DfbBMiSgswc @indyram35 https://www.instagram.com/reel/DfbBMiSgswc/ — tombstone (test 1). Viper car account, composited bikini model beside the car, no speech, no premise. Judged on caption + cover, no fetch. Handle → [saved].
 2026-11-08 DfaOrfwBzhh @nicoaliwalsh https://www.instagram.com/reel/DfaOrfwBzhh/ — tombstone (test 1). Boxer's fight clip, "Only one person has mastered my grandfather's shuffle". Judged on caption + cover, no fetch. Handle → [saved].

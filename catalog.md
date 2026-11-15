@@ -19,6 +19,7 @@ re-downloading a clip already judged. FRESH clips and entries are never
 touched.
 
 <!-- entries below, newest first -->
+## Dfs2mSRKIuC — [NOT BANKED] DO-NOT-SPLICE (2026-11-15) tombstone (tests 1/2/4) @glitchboxing (Conor Mahoney, boxing coach, 356,949 followers), from Marcus's Saved: a man working the heavy bag, card "a good bodyshot that will have you making noises you didn't know you could make", 11,061 likes. No woman to camera, no premise about men, no blank. Judged free on Graph caption + cover, no download. · https://www.instagram.com/reel/Dfs2mSRKIuC/ · first-seen 2026-11-15
 ## Dfmib7DxsTf — @ashleahoess to camera in her kitchen (black V-neck, cutting board and jars in the foreground), full-bleed; burned card "The right woman adds this to your life" 0-2s while she says "Guys, do you know what I think a woman should bring to a man's life?", then she steps back from the phone and answers "color" at 4.04s
 - source: @ashleahoess | https://www.instagram.com/reel/Dfmib7DxsTf/          <- on the [premise] watchlist since 2026-09-29; bio "Helping men navigate modern dating"
 - lane: premise
@@ -159,45 +160,9 @@ touched.
 
 ## DexlgSSN3t8 — [NOT BANKED] tombstone (tests 2/3/4) @lexisummits, a real woman mountaineer to camera: "So I graduated college a year ago, I got my bachelor's in mechanical engineering… for all the engineering students out there, I swear it only gets better" (0-11s). About her degree, no man in the sentence, no blank. Saved 10-22. Free Graph copy. · https://www.instagram.com/reel/DexlgSSN3t8/ · first-seen 2026-10-22
 
-## DeLrYBazaLe — [COPY, test 7 as amended] the 0.00-4.95s opener of @jordiegarner_'s golf reel: a real brunette woman to camera in a car (mint top, gold necklaces, finger raised), card "7 nons*xual things that guys do that are attractive", says "These are seven non-sexual things that I think are attractive that guys do. Number one." then hard cut to him swinging under "GOLF"
-- source: @jordiegarner_ | https://www.instagram.com/reel/DeLrYBazaLe/   (Marcus's Saved, read-saved.sh; fetched via ig-fetch 2/8)
-- lane: premise
-- first-seen: 2026-10-21 | status: STALE (2026-11-12)
-- stats-at-capture: n/a, older than the 25 media the Graph returns (Marcus's save is the spike signal)
-- joke-structure: n/a — opener donor
-- the-beat: cut at 3.8s, the frame "guys do." finishes on (3.72s). Optional longer cut at 4.9s keeps her "Number one." (4.02-4.68s) and is the copy's own cut point
-- audio-model: original sound (attach in-app, NEVER bake — rule 92)
-- her-audio: original sound — but it is @jordiegarner_'s upload, so the attachable sound is HIS reel's audio; her original account is unknown. Name @jordiegarner_'s sound in-app
-- pairs-with: a reel that delivers a real count of picturable things he does: his terminal, his /stats screen, a shipped .com, a commit streak
-- premise: "These are seven non-sexual things that I think are attractive that guys do."
-- slot: "[N] things guys do that are attractive" -> a LIST he can show, e.g. ships a .com from localhost · keeps a .env out of GitHub · a 65-day commit streak. With the "Number one." tail it becomes a one-item reveal, which is exactly what the 10-15 rule forbids, so only use the tail if the reel then delivers more items
-- list-opener: 7 (she promises SEVEN; NO LIST-PROMISE rule 10-15: bank only for a reel that delivers the count, or cut before "seven" is honoured with a visible count. Paying it off with one object reads as bait)
-- setup-length: 3.72s ("These" 0.00 → "do." 3.72, word-timed) (she finishes the premise: yes; 4.68s with "Number one.")
-- hero-test: hero. Guys are the subject doing attractive things; nothing is wrong with him.
-- addresses: the viewer, about guys (third person, warm) / recognises: the man watching. Same person.
-- original: COPY — creator: unknown (no handle or watermark in frame), copied-from: @jordiegarner_ DeLrYBazaLe
-- clean-window: n/a — OPENER donor (her setup card IS the hook)
-- file: clips/DeLrYBazaLe.mp4 (11.1s)
+## DeLrYBazaLe — [PRUNED STALE (2026-11-12)] COPY opener on @jordiegarner_'s golf reel: a real brunette woman to camera in a car, "These are seven non-sexual things that I think are attractive that guys do." (3.72s, list-opener 7) · https://www.instagram.com/reel/DeLrYBazaLe/ · first-seen 2026-10-21
 
-## DQvT1RngKx6 — a real blonde woman straight to camera in a parked car (sunroof, sunglasses on her head, grey top), full-bleed, card "Signs you're a green flag to women", says "These are signs that you are a walking green flag to women."
-- source: @datingwithgracie | https://www.instagram.com/reel/DQvT1RngKx6/   (Marcus's Saved, read-saved.sh; fetched via ig-fetch 1/8)
-- lane: premise
-- first-seen: 2026-10-21 | status: STALE (2026-11-12)
-- stats-at-capture: n/a, older than the 25 media the Graph returns (Marcus's save is the spike signal; account 549,712 followers)
-- joke-structure: n/a — opener donor
-- the-beat: cut at 3.6s, the frame "women." finishes on (her next line, "And if you could use an ego boost…", starts at 3.68s)
-- audio-model: original sound (attach in-app, NEVER bake — rule 92)
-- her-audio: original sound — attachable in-app (her own voice in her car, no music under it)
-- pairs-with: a reel that answers with 2-3 picturable things the viewer owns or does: his /stats screen, a commit streak, a Claude Max plan on the billing page
-- premise: "These are signs that you are a walking green flag to women."
-- slot: "signs you're a walking green flag" -> a short LIST of objects, never one: e.g. 24 billion tokens on /stats · a 65-day commit streak · a .env in .gitignore
-- list-opener: N (she promises "signs", plural and unnumbered; NO LIST-PROMISE rule 10-15: pay it off with 2-3 items, never a single object)
-- setup-length: 3.56s ("These" 0.00 → "women." 3.56, word-timed) (she finishes the premise: yes; under the 4-5s ideal, above the 3s floor)
-- hero-test: hero. He IS the green flag; the sentence is a compliment he can prove about himself.
-- addresses: the man watching ("you") / recognises: the man watching. Same person.
-- original: yes — creator's own upload
-- clean-window: n/a — OPENER donor (her setup card IS the hook)
-- file: clips/DQvT1RngKx6.mp4 (61.5s, 1080x1920)
+## DQvT1RngKx6 — [PRUNED STALE (2026-11-12)] @datingwithgracie, a real blonde woman to camera in a parked car: "These are signs that you are a walking green flag to women." (3.56s, list-opener N) · https://www.instagram.com/reel/DQvT1RngKx6/ · first-seen 2026-10-21
 
 ## DdejYH2irKY — [NOT BANKED] tombstone (test 4, also addresses mismatch) @chelskocoaching white top, cream wall, transcribed: "Ladies, he's not single because girls don't want him. He's single because he hasn't found a girl he wants yet." (0.0-4.8s). Positive and he is the hero, but she answers her own blank and talks to ladies; a cut before the answer is 2.4s (test 6). Same frame as the FRESH DYH7OUkMOUw, which is the usable version. Saved 10-20, ig-fetch 3/8. · https://www.instagram.com/reel/DdejYH2irKY/ · first-seen 2026-10-21
 - build-note (from Marcus's own 1015_github, opened 10-30): credit @chelskocoaching; his cut don_n 96; judged cut 2.9s: "Ladies, he's not single because girls don't want him. He's single". NOT don_n: shorter cut, before her 'because' ('single' 2.74, 'because' 2.96; don_n 96 includes it). For 1015_tokens. Tight gap, so set the exact frame from the audio.
