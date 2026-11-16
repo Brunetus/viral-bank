@@ -12,6 +12,7 @@
      pool: 170 entry lines as of 2026-10-18. The pool is over target, so the
      +5-per-scan floor no longer binds.
      2026-11-10: +0 added, 0 RE-CONFIRMED, 0 dropped. One search; still no November roundup (newest dated: SocialPilot 10-12→10-25, Buffer October; CreatorDB's tracker still at week of 08-20).
+     2026-11-16: +0 added, 0 RE-CONFIRMED, 0 dropped. One search; still no November roundup (newest dated: SocialPilot 10-12→10-25).
      2026-11-14: +0 added, 1 RE-CONFIRMED (Dracula (JENNIE Remix)), 0 dropped. One search; still no November roundup (newest dated: SocialPilot 10-12→10-25, Heyorca 10-09).
      2026-11-09: +0 added, 0 RE-CONFIRMED, 0 dropped. One search; still no November roundup (newest dated: Buffer 10-14, SocialPilot 10-12→10-25; Ring My Bell / Dracula (JENNIE Remix) only on September/undated versions, so not re-stamped).
      2026-11-08: +0 added, 1 RE-CONFIRMED (Patient Zero: Vista Social puts it #1 on CreatorDB's chart for the week of 10-28, ~189k Reels), 0 dropped. Three searches; still no November roundup. Metricool 10-07 names "October" — Adrián Berenguer, not added: shape unverifiable and no IG audio page found.
