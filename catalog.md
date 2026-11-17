@@ -19,6 +19,45 @@ re-downloading a clip already judged. FRESH clips and entries are never
 touched.
 
 <!-- entries below, newest first -->
+## DIMl8GRSmVA — @realmarciereeves to camera in her car (black tank, dark hair, driver's seat), full-bleed; word captions; says "A friendly reminder to all the men out there that being ripped is not the only way to look hot", then "it's not! okay? we're inclusive now", and fills the blank herself at ~8s with "girlies like dad bods okay, pudge is in"
+- source: @realmarciereeves | https://www.instagram.com/reel/DIMl8GRSmVA/          <- from Marcus's Saved (inbox since 11-14); creator on the [premise] watchlist since 2026-11-13 (Marcus's own request); Marcie Reeves, bio "if I don't make you laugh, at least I'm nice to look at", 385,751 followers
+- lane: premise
+- first-seen: 2026-11-17 | status: FRESH
+- stats-at-capture: n/a (older than her last 25 on Graph, fetched through the throwaway; Marcus's save is the spike signal)
+- joke-structure: n/a — opener donor
+- the-beat: cut at 4.9s, the frame her premise finishes on ("...the only way to look hot" ends 4.89s, a 0.32s pause follows, "it's not! okay?" starts 5.21s)
+- audio-model: original sound (attach in-app, NEVER bake — rule 92)
+- her-audio: original sound — her voice only, clean pauses between phrases, no music bed heard in the opener. Attachable in-app from @realmarciereeves
+- pairs-with: a hard cut to Marcus as the other way to look hot, shown as one object: the Claude 20x Max plan open on his screen / a wall of green test runs / tokens resetting midweek
+- premise: "A friendly reminder to all the men out there that being ripped is not the only way to look hot" (spoken, verbatim; the burned captions match)
+- slot: "not ripped" is the elimination, so the blank is the OTHER way to look hot -> ONE object the cut shows. Her own answer ("dad bods", ~8s) comes after the cut, so the blank stays open. e.g. a 20x Max plan / "shipping on a Sunday"
+- setup-length: 4.89s (premise COMPLETE, blank open). Inside the 4.03s/4.60s winning band
+- hero-test: the man is the HERO: she is reassuring men they are hot without the six-pack. Nothing negative about him in the opener (the ~13s tail "no one wants to cuddle with someone who's rock hard... wait" is her own joke, after the cut)
+- addresses: men, second person ("to all the men out there") / recognises: the man watching, as already hot. SAME PERSON
+- original: yes — @realmarciereeves's own upload, no third-party watermark
+- clean-window: n/a — OPENER donor (her setup card IS the hook)
+- file: clips/DIMl8GRSmVA.mp4 (18.3s, 720x1280, h264; the donor beat is 0.00-4.89)
+## DAI2HgtRHzM — @esthersarphatie to camera in a bright living room (grey halter dress, grey sofa, mountain window behind), full-bleed; colour word captions; says "When a man comes home from work, there's only one thing he really wants. He wants to have..." and answers "a little bit of peace and quiet" from 4.6s
+- source: @esthersarphatie (browsed) | https://www.instagram.com/reel/DAI2HgtRHzM/          <- found on the throwaway tag page #whatmenwant; creator on the [premise] watchlist since 2026-09-27 (C6OUCQWtMQi from her, same grammar); Esther Sarphatie, relationship coach, 605,765 followers
+- lane: premise
+- first-seen: 2026-11-17 | status: FRESH
+- stats-at-capture: 214,907 likes (throwaway tag page, 2024-09-20 post; older than her 25 on Graph, so no account-median ratio)
+- joke-structure: n/a — opener donor
+- the-beat: cut at 4.5s, after "He wants to have" (silence 4.56s), before "a little bit of peace" lands. The tighter cut is 2.9s after "really wants", but that is under the 3s floor, so use 4.5s
+- audio-model: original sound (attach in-app, NEVER bake — rule 92)
+- her-audio: original sound — her voice, with what sounds like a low bed under it (no full pauses at -32dB). Attach @esthersarphatie's original audio in-app and check it is her voice, not a library track
+- pairs-with: a hard cut to Marcus walking in and going straight to the one thing: the Claude 20x Max plan / tokens reset / a quiet desk with an agent running
+- premise: "When a man comes home from work, there's only one thing he really wants. He wants to have..." (spoken, verbatim; burned captions match)
+- slot: "only one thing he really wants" -> ONE object the cut shows (the one_thing grammar, 532k views on this account). Her answer "peace and quiet" starts after 4.5s, so the blank stays open at the cut
+- setup-length: 4.5s at the cut (premise complete through "he wants to have"; "really wants" alone ends 2.93s). Inside the winning band
+- hero-test: the man is the HERO: the sentence is about what he wants and deserves after work. Nothing negative in the opener. Note: the body (past the cut) goes on to advise women ("if you have something you want to discuss with him... all day you've been waiting for him") and is tagged #marriagecoach, but none of that is in the first 4.5s
+- addresses: women (her coaching audience), about "a man" in the third person / recognises: the man, as the one with the want. Mild split: the third-person "a man" keeps it neutral, same as C6OUCQWtMQi
+- original: yes — @esthersarphatie's own upload, no third-party watermark
+- clean-window: n/a — OPENER donor (her setup card IS the hook)
+- file: clips/DAI2HgtRHzM.mp4 (64.9s, 1080x1920, h264; the donor beat is 0.00-4.50)
+## De-tjvmiAbk — [NOT BANKED] DO-NOT-SPLICE (2026-11-17) tombstone (tests 2/4/8) @askcatgpt, from Marcus's Saved: a real woman to camera in her car, captions "If you want to understand how all this AI vibe coding stuff could actually change the world that we live in, you have to understand how code..." (155.7s). An AI explainer: no premise about men, no blank, and it names vibe coding. Fetched through the throwaway (ig-fetch), scratch copy and frames deleted. · https://www.instagram.com/reel/De-tjvmiAbk/ · first-seen 2026-11-17
+## DYuY0DLvnP9 — [NOT BANKED] DO-NOT-SPLICE (2026-11-17) tombstone (tests 2/3/4) @realmarciereeves, from Marcus's Saved: her in a red top in the car, card "Is it just me?", "I love when people ask me what are you up to this weekend, and I'm like, I'm gonna be in bed doing some horizontal cardio... I am for the sheets, not the streets" (14.0s). A joke about herself: no premise about men, no blank. Fetched through the throwaway, scratch copy deleted. · https://www.instagram.com/reel/DYuY0DLvnP9/ · first-seen 2026-11-17
+## DG3lFj6OWRn — [NOT BANKED] DO-NOT-SPLICE (2026-11-17) tombstone (tests 4/6) @realmarciereeves, from Marcus's Saved: her to camera in the car, "he's a 10 but he drinks coffee every morning, barely has any friends, loves gaming, overthinks everything 24/7" (17.7s). The "he's a 10 but" setup is ~1s and she fills the blank herself with a list, so no open slot and under the 3s floor. Fetched through the throwaway, scratch copy deleted. · https://www.instagram.com/reel/DG3lFj6OWRn/ · first-seen 2026-11-17
 ## Dfs2mSRKIuC — [NOT BANKED] DO-NOT-SPLICE (2026-11-15) tombstone (tests 1/2/4) @glitchboxing (Conor Mahoney, boxing coach, 356,949 followers), from Marcus's Saved: a man working the heavy bag, card "a good bodyshot that will have you making noises you didn't know you could make", 11,061 likes. No woman to camera, no premise about men, no blank. Judged free on Graph caption + cover, no download. · https://www.instagram.com/reel/Dfs2mSRKIuC/ · first-seen 2026-11-15
 ## Dfmib7DxsTf — @ashleahoess to camera in her kitchen (black V-neck, cutting board and jars in the foreground), full-bleed; burned card "The right woman adds this to your life" 0-2s while she says "Guys, do you know what I think a woman should bring to a man's life?", then she steps back from the phone and answers "color" at 4.04s
 - source: @ashleahoess | https://www.instagram.com/reel/Dfmib7DxsTf/          <- on the [premise] watchlist since 2026-09-29; bio "Helping men navigate modern dating"
@@ -132,25 +171,7 @@ touched.
 
 ## DXmFSpMDGYn — [NOT BANKED] tombstone (tests 2/3/4) @bylaurendudley, a real woman to camera on a green-screen street, card "how to build a personal brand by august", says "What if I told you you could build a personal brand in three and a half months that could change your life? Would you do it?" (0-4.3s). A brand how-to aimed at women, no man in the sentence, no blank; account sells a masterclass. Saved 10-25, ig-fetch 2/8. · https://www.instagram.com/reel/DXmFSpMDGYn/ · first-seen 2026-10-25
 
-## DewiW1Ix6IZ — a real brunette woman straight to camera, low angle, black zip top, wood-panelled room with windows behind her, finger raised, full-bleed, white card "What a woman looks for in a man" (0-4s), says "Guys, this is what a woman looks for in a man. And I'm not going to bullshit you."
-- source: @ashleahoess | https://www.instagram.com/reel/DewiW1Ix6IZ/          <- [premise] lane since 2026-09-29; bio "Modern dating advice for men". Free Graph copy, no fetch slot
-- lane: premise
-- first-seen: 2026-10-22 | status: STALE (2026-11-14)
-- stats-at-capture: 3,666 likes / comments n/a (3.0x account median), posted 2026-10-20
-- joke-structure: n/a — opener donor
-- the-beat: cut at 4.8s, the frame "bullshit you." finishes on (her next line "I'm going to give it to you straight" starts 4.88s). Tighter cut at 2.9s ("…in a man." ends ~2.4s, breath until 2.92s) is under the 3s floor, do not use it
-- audio-model: original sound (attach in-app, NEVER bake — rule 92)
-- her-audio: original sound — attachable in-app (her own voice, room tone, no music under it)
-- pairs-with: one picturable thing he owns or ships: a Claude 20x Max plan on the billing page, a localhost app gone live on a .com, his /stats screen
-- premise: "Guys, this is what a woman looks for in a man. And I'm not going to bullshit you."
-- slot: "what a woman looks for in a man" -> one object, e.g. a Claude 20x Max plan / a .com he shipped tonight. Her own body answers with a list (confident, motivated, …; caption "Last one hits"), so cut at 4.8s before any answer is heard
-- setup-length: 4.8s ("Guys" 0.00 → "you." ~4.75, word-timed) (she finishes the premise: yes; inside the 4-5s winning band. No count is promised, so it is a single-blank opener, not a list-opener)
-- hero-test: hero. He is what she is about to describe as wanted; nothing is wrong with him.
-- addresses: the man watching ("Guys") / recognises: the man watching. Same person.
-- original: yes — creator's own upload
-- clean-window: n/a — OPENER donor (her setup card IS the hook)
-- file: clips/DewiW1Ix6IZ.mp4 (114.5s, 720x1280)
-
+## DewiW1Ix6IZ — [PRUNED STALE (2026-11-14)] @ashleahoess opener donor: a real brunette woman straight to camera, low angle, black zip top, wood-panelled room with windows behind her, finger raised, full-bleed, white card "What a woman looks for in a man" (0-4s), says "Guys, this is what a woman... · https://www.instagram.com/reel/DewiW1Ix6IZ/ · first-seen 2026-10-22
 ## Dew3BXeoZOi — [NOT BANKED] tombstone (test 1: AI avatar, check (b) feed shape) @novaonlove at a café table, phone in hand, word captions, says "The best text a guy ever sent me wasn't 'you're beautiful.' It was this." (0-4.0s). The premise shape is right (quoted-compliment elimination, blank held to 4.0s), but 24 followers, a daily scripted line in identical staged framing, and a generated-looking face. Handle to Dropped. Throwaway tag page #greenflags, free Graph copy. · https://www.instagram.com/reel/Dew3BXeoZOi/ · first-seen 2026-10-22
 
 ## DcOdPVJRg8l — [NOT BANKED] tombstone (test 2, addresses mismatch) @meli.shares to camera in a kitchen, green cap, card "PROOF YOUR MAN IS THAT N***A", transcribed: "there is really one way to tell if your man is really that [slur] … it's just a simple fact that he's got some haters, girl" (0.0-8.0s). Positive, but aimed at women ("your man", "girl"), she answers her own blank, and the card and line carry a slur. Saved 10-22, ig-fetch 2/8. · https://www.instagram.com/reel/DcOdPVJRg8l/ · first-seen 2026-10-22

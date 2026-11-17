@@ -11,10 +11,11 @@ Filler rule: skip any shortcode already under `## processed` or already a catalo
 measures tests 5/6, rewrites the entry, and moves the line here as `re-measured`.
 
 ## inbox
-De-tjvmiAbk @askcatgpt https://www.instagram.com/reel/De-tjvmiAbk/
-DIMl8GRSmVA @realmarciereeves https://www.instagram.com/reel/DIMl8GRSmVA/
-DYuY0DLvnP9 @realmarciereeves https://www.instagram.com/reel/DYuY0DLvnP9/
-DG3lFj6OWRn @realmarciereeves https://www.instagram.com/reel/DG3lFj6OWRn/
+<!-- ⚠⚠ 2026-11-17 — READ-SAVED.SH RETURNED THE WRONG GRID AGAIN (sixth time: 10-07, 10-14, 10-24, 10-26, 10-28, 11-17). NOT A REAL INBOX; 23 LINES REMOVED.
+     read-saved.sh exited 0, "24 on grid, 23 new appended", and all 23 appended lines were @imabgold's OWN reels
+     (handle @imabgold on every line, DfAoIfxDJd0 and Df0qXMTNNrU among them). Not gated (test 1 by construction).
+     Shortcodes recorded in logs/2026-11-17.log. Not re-run. TODAY'S SAVED READ IS A MISS, not an empty inbox.
+     ⚠ FOR MARCUS: make the exit-5 check assert the FINAL URL contains /saved/. -->
 <!-- empty 2026-11-12: read-saved.sh read 24 on the grid and appended 0 new lines (exit 0). Nothing to gate. -->
 <!-- empty 2026-11-11 (rerun 12:03): read-saved.sh read 24 on the grid and appended 1 new line (exit 0), a REAL grid. Gated and moved to ## processed: 0 BANKED, 1 tombstoned. -->
 <!-- empty 2026-11-08: read-saved.sh read 24 on the grid and appended 3 new lines (exit 0), a REAL grid. All gated and moved to ## processed: 0 BANKED, 3 tombstoned. -->
@@ -134,6 +135,10 @@ DG3lFj6OWRn @realmarciereeves https://www.instagram.com/reel/DG3lFj6OWRn/
 ## re-measure
 
 ## processed
+2026-11-17 DIMl8GRSmVA @realmarciereeves https://www.instagram.com/reel/DIMl8GRSmVA/ — BANKED. "A friendly reminder to all the men out there that being ripped is not the only way to look hot", setup 4.89s, blank open until her "dad bods" at ~8s. Fetched through the throwaway (ig-fetch).
+2026-11-17 DYuY0DLvnP9 @realmarciereeves https://www.instagram.com/reel/DYuY0DLvnP9/ — tombstone (tests 2/3/4). "I am for the sheets, not the streets" joke about herself, no premise about men.
+2026-11-17 DG3lFj6OWRn @realmarciereeves https://www.instagram.com/reel/DG3lFj6OWRn/ — tombstone (tests 4/6). "He's a 10 but..." ~1s setup, she fills it with a list.
+2026-11-17 De-tjvmiAbk @askcatgpt https://www.instagram.com/reel/De-tjvmiAbk/ — tombstone (tests 2/4/8). AI vibe-coding explainer, no man, names vibe coding. Creator added to [saved], unprobed (code 4).
 2026-11-15 Dfs2mSRKIuC @glitchboxing https://www.instagram.com/reel/Dfs2mSRKIuC/ — tombstone (tests 1/2/4). Conor Mahoney, boxing coach (356,949 followers): a man on the heavy bag, card "a good bodyshot that will have you making noises you didn't know you could make", 11,061 likes. No woman, no premise about men, no blank. Judged free on Graph caption + cover, no fetch.
 2026-11-11 Deg8GzPsKX1 @galinie_codes https://www.instagram.com/reel/Deg8GzPsKX1/ — tombstone (tests 2/3/4). Woman at her desk, "pov: you broke PROD" card, cut to a crying footballer "your tech lead:". Reaction meme, no premise about men. ig-fetch 1/8. Handle → [saved].
 2026-11-08 DfbBMiSgswc @indyram35 https://www.instagram.com/reel/DfbBMiSgswc/ — tombstone (test 1). Viper car account, composited bikini model beside the car, no speech, no premise. Judged on caption + cover, no fetch. Handle → [saved].
