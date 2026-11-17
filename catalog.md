@@ -1522,3 +1522,8 @@ touched.
 - status: FALLBACK (Marcus approved 11-09 as a fallback reference for concept 1)
 - clip: NOT FETCHED yet (ig-fetch cap 8/8 used 11-09); fetch before any build
 - build-note: the usable opener runs 13s before she pivots to supporting him, too long for a one-breath handoff; a cut after "My husband does everything" would need checking on the audio. Weak fit.
+
+## DfMcCJSo-Ns — [MARCUS NAMED, trial opener 2026-11-16] @megan_rose_lane, a real woman, solo face-cam, says "The three sexiest things a man can say are" (0-2.32s), then her own list "I'll figure it out, I got this, and it's already done" (2.32-5.40s), then a skit with a second voice (5.68s on). · https://www.instagram.com/reel/DfMcCJSo-Ns/ · first-seen 2026-11-09
+- status: TRIAL OPENER (Marcus 11-16 chat, "Yes, bank it", after Grok relayed his 7:23 PM ask to put her in the trial pool). Also the opener of his unposted main reel drafts/1106_next10/c1_twobot ("already done").
+- clip: clips/DfMcCJSo-Ns.mp4 (copied 11-16 from drafts/1106_next10/donors/c1_DfMcCJSo-Ns.mp4, the 11-09 fetch; 13.45s, 1440x2560, 30 fps)
+- build-note: cut at 2.50s, don_n 75: after "are" (voice energy ends about 2.44s), before "I'll" (2.58s). She says "say are", not "do is", and the line sets up three things a man SAYS: fit only where his line answers that. Banked on Marcus's yes although it is a three-item list line (rule 10-15); fit.tsv still decides every pair. Check her burned text in the caption band at QA.
