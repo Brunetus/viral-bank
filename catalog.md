@@ -256,6 +256,7 @@ touched.
 
 ## DdTriwWB4H1 — [NOT BANKED] tombstone (test 8, also test 2) @launchwhasmik "Girls, if you found a man that only has time to spend with you and Claude or Codex, that man is the right one." She SAYS Claude at ~3.5s and addresses girls. It is the account's own payoff in her mouth, which is exactly why it cannot open one. Saved · https://www.instagram.com/reel/DdTriwWB4H1/ · first-seen 2026-10-17
 - build-note (from Marcus's own 1015_mcp, opened 10-30): credit @launchwhasmik; his cut don_n 125; judged cut 6.1s: "Girls, if you found a man that only has time to spend with you and Claude or Codex, that man is the right one.". NOT don_n: longer cut than don_n 125, ends after 'the right one' ('one' 5.7, 'That' 6.5). For 1015_tokens, 1015_github. Set the exact frame from the audio.
+- build-note (11-16, Marcus via Grok 7:42 PM and chat "Yes, build and judge"): DdTriwWB4H1 back in rotation at Marcus's own 1015_mcp cut, don_n 125 (4.17 s), ending "...with you and Claude or Codex," before "that man is the right one". This replaces the 6.1 s judged cut above (over the 5.0 s cap). fit.tsv rows dated 2026-11-16 are judged at 4.17 s.
 
 ## DakdLX_SKOW — [NOT BANKED] tombstone (tests 2/3/4) @thesheemamahek "I don't know who needs to hear this but being hated by the losers and idiots is the price you pay for not being one of them." Motivation with no man and no blank (the "let them hate" family). Saved · https://www.instagram.com/reel/DakdLX_SKOW/ · first-seen 2026-10-17
 
