@@ -1456,6 +1456,7 @@ touched.
 - first-seen: 2026-10-08 | status: RESERVED (Marcus 2026-10-08 shoot, reel 10: "because he spends all his money on Claude bots")
 - the-beat: 0-4.4s (his own cut follows)
 - file: clips/DHECXD0Ra-_.mp4
+- build-note (11-16, Marcus chat: "another opener that could be used"): trial opener. Cut at don_n 147 (4.90 s), after "clothes?" (ends 4.76 s), before "Every man who plays video games" (4.94 s) and the cut to @paoloplaysgames. Her line: "Can someone please explain to me how men are still going broke when they don't have to buy makeup, clothes?" Credit @paoloplaysgames as aired (she is uncredited on his post). Blocked on 1015_tokens, her own winner.
 
 ## DcRZppCMir8 — @the_prosperityplan (credit named by Marcus 10-30) woman to camera in an office, red bob, ID badge, pen in hand, full-bleed 720x1280, burned cards: "Men only want one thing." / "Not money" / "Not power", then a hard cut to other footage at about 5s. The opener of Marcus's own one_thing (1.0M) and 1001_localhost. · https://www.instagram.com/reel/DcRZppCMir8/ · first-seen 2026-09-13
 - lane: premise
