@@ -11,6 +11,9 @@ Filler rule: skip any shortcode already under `## processed` or already a catalo
 measures tests 5/6, rewrites the entry, and moves the line here as `re-measured`.
 
 ## inbox
+Df0VzIQxYVh @gustavburton https://www.instagram.com/reel/Df0VzIQxYVh/
+DfiRJDZsMdQ @chrisbuckguitar https://www.instagram.com/reel/DfiRJDZsMdQ/
+Dfv-lgCxy4O @thatnickpowersguy https://www.instagram.com/reel/Dfv-lgCxy4O/
 <!-- ⚠⚠ 2026-11-17 — READ-SAVED.SH RETURNED THE WRONG GRID AGAIN (sixth time: 10-07, 10-14, 10-24, 10-26, 10-28, 11-17). NOT A REAL INBOX; 23 LINES REMOVED.
      read-saved.sh exited 0, "24 on grid, 23 new appended", and all 23 appended lines were @imabgold's OWN reels
      (handle @imabgold on every line, DfAoIfxDJd0 and Df0qXMTNNrU among them). Not gated (test 1 by construction).
