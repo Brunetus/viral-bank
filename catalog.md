@@ -19,6 +19,43 @@ re-downloading a clip already judged. FRESH clips and entries are never
 touched.
 
 <!-- entries below, newest first -->
+## Dfv-lgCxy4O — @thatgirlwiththecake (borrowed, inside @thatnickpowersguy's stitch) to camera in a kitchen (black backwards cap, long wavy hair, black hoodie), full-bleed; burned card "To the men that don't cheat..." plus word captions; says "So, men that don't cheat? ... What are you doing right now?" and the stitch hard-cuts to Nick Powers' roller-coaster spreadsheet at 5.46s
+- source: @thatnickpowersguy (from Marcus's Saved) | https://www.instagram.com/reel/Dfv-lgCxy4O/          <- Nicholas Powers, "I make spreadsheets", 208,903 followers; caption "Stitch with thatgirlwiththecake"
+- lane: premise
+- first-seen: 2026-11-19 | status: FRESH
+- stats-at-capture: 51,630 likes / 1,537 comments (40.1x account median of 1,326 across his 23 videos)
+- joke-structure: n/a — opener donor
+- the-beat: cut at 5.3s, after "right now?" (word ends 5.26s), before Nick's "So I put together a spreadsheet" at 5.46s
+- audio-model: original sound (attach in-app, NEVER bake — rule 92)
+- her-audio: original sound — her voice, clear, no music bed in the first 5.3s. Only the stitch is banked; attach @thatnickpowersguy's stitch audio in-app (her original is not in her last 25 posts, so it could not be checked), and check the sound page carries her voice
+- pairs-with: a hard cut to Marcus "right now" doing the faithful-man thing: a 20x Max plan running agents at 2 am, a terminal full of Claude sessions. His proof of the format: Nick's spreadsheet payoff (51.6k likes, 40x his median) is exactly this cut
+- premise: "So, men that don't cheat? ... What are you doing right now?" (spoken, verbatim; burned card "To the men that don't cheat...")
+- slot: "what are you doing right now?" -> ONE thing the cut shows the faithful man doing instead (Claude Code at midnight / tokens resetting / an agent swarm on the desk)
+- setup-length: 5.3s (complete; note the 2s pause between "cheat?" 2.12s and "What" 4.08s, which the architect may trim to ~3.3s if the hold drags)
+- hero-test: the man is the HERO: she addresses the men who DON'T cheat, and the payoff is what they do with their time. The word "cheat" is in the sentence but only as what he is not, so test 2 passes; flag it in case the architect reads it as a negative frame
+- addresses: men directly ("men that don't cheat") / recognises: the man watching, the faithful one. Same person, no split
+- original: COPY — creator: @thatgirlwiththecake, copied-from: @thatnickpowersguy Dfv-lgCxy4O (stitch, carries her whole question 0.00-5.30s). Her account is readable (263,898 followers) but 0/25 serving media_url, and her original is not in her last 25
+- clean-window: n/a — OPENER donor (her setup card IS the hook)
+- file: clips/Dfv-lgCxy4O.mp4 (54.1s, 720x1280, h264; the donor beat is 0.00-5.30, the rest is Nick's body)
+## Df0VzIQxYVh — unnamed woman (borrowed, inside @gustavburton's reel) to camera in a car (platinum-blonde bob, black top, heavy beauty filter), full-bleed; glowing word captions over a blurred band across her face; says "The f***ing hottest thing to me is when a guy isn't afraid to..." and fills it with "grunt and growl in my ear" from 5.0s
+- source: @gustavburton (from Marcus's Saved) | https://www.instagram.com/reel/Df0VzIQxYVh/          <- Gustav Burton, racing driver, 1,245,482 followers; caption "I guess I'm the hottest guy"
+- lane: premise
+- first-seen: 2026-11-19 | status: FRESH
+- stats-at-capture: 154,294 likes / 452 comments (1.2x account median of 127,461 across his 21 videos; a big account, so the ratio is low, the count is high)
+- joke-structure: n/a — opener donor
+- the-beat: cut at 5.0s, after "isn't afraid to" (word "to" ends 5.00s), before "grunt" lands
+- audio-model: original sound (attach in-app, NEVER bake — rule 92)
+- her-audio: original sound — her voice, clear. She is uncredited, so attach @gustavburton's reel audio in-app and check it is her voice, not a library track
+- pairs-with: a hard cut to Marcus not being afraid to do the thing: hit "upgrade to 20x Max", let an agent push to prod, run five Claude sessions at once
+- premise: "The f***ing hottest thing to me is when a guy isn't afraid to..." (spoken, verbatim; the profanity is bleeped as f*cking in her captions)
+- slot: "isn't afraid to ___" -> ONE action the cut shows (spend $200 on a Max plan / ship on a Friday). Her own answer "grunt and growl in my ear" starts at 5.0s, so the blank stays open at the cut
+- setup-length: 5.0s at the cut (premise complete through "afraid to"). Inside the winning band
+- hero-test: the man is the HERO: a positive superlative ("the hottest thing") about what a guy does. Nothing negative in the opener
+- addresses: the camera, about "a guy" in the third person / recognises: the man watching, as the guy who isn't afraid. Same person, no split
+- original: COPY — creator: not nameable (no handle or watermark in the frames; AI-avatar check: no generator watermark, real car interior and motion, but the heavy filter and an unknown creator mean checks (a) and (b) could not run), copied-from: @gustavburton Df0VzIQxYVh. Gustav's body after the cut is his own reaction
+- clean-window: n/a — OPENER donor (her setup card IS the hook)
+- file: clips/Df0VzIQxYVh.mp4 (24.1s, 720x1280, h264; the donor beat is 0.00-5.00)
+## DfiRJDZsMdQ — [NOT BANKED] AD-REJECTED (2026-11-19) tombstone (guard 7) @chrisbuckguitar (Chris Buck, guitarist, 231,166 followers), from Marcus's Saved: a man, caption "I think this is what the kids call a tik tok…? Anyway, go streaming thecardinalblack new single Saving Grace." A promo for his band's single, and a man to camera (test 1). Judged free on the Graph caption, no download. · https://www.instagram.com/reel/DfiRJDZsMdQ/ · first-seen 2026-11-19
 ## DIMl8GRSmVA — @realmarciereeves to camera in her car (black tank, dark hair, driver's seat), full-bleed; word captions; says "A friendly reminder to all the men out there that being ripped is not the only way to look hot", then "it's not! okay? we're inclusive now", and fills the blank herself at ~8s with "girlies like dad bods okay, pudge is in"
 - source: @realmarciereeves | https://www.instagram.com/reel/DIMl8GRSmVA/          <- from Marcus's Saved (inbox since 11-14); creator on the [premise] watchlist since 2026-11-13 (Marcus's own request); Marcie Reeves, bio "if I don't make you laugh, at least I'm nice to look at", 385,751 followers
 - lane: premise
@@ -144,7 +181,7 @@ touched.
 ## De1zkkNueQ- — a real blonde woman straight to camera at home, pink top, holding a pen-mic and a rose-gold laptop, full-bleed, pink card "Things that I find attractive in a man" plus word captions, says "things that I find attractive in a man that have absolutely nothing to do with his looks"
 - source: @angeliclika (browsed) | https://www.instagram.com/reel/De1zkkNueQ-/          <- throwaway tag page #attractivemen; bio "NYC, Dubai Travel | Femininity | Manifestations", travel/lifestyle feed (real person, no AI tell on bio, feed or frames). Free Graph copy, no fetch slot
 - lane: premise
-- first-seen: 2026-10-27 | status: FRESH
+- first-seen: 2026-10-27 | status: STALE (2026-11-19)
 - stats-at-capture: 16 likes / 0 comments (0.32x account median of 50), 680 plays at capture, posted 2026-10-23. A tiny account: banked on gate fit, not on a spike
 - list-opener: 2+ — she promises "things" with no count and her body is a numbered list ("number two…"). Never pay this opener with ONE object (the 10-26 green-flag list paid with one item did 2,187 / 44% skip); deliver at least two, ideally the number the reel's CTA asks for (the delivered top-5 did 136k / 6,196 shares)
 - joke-structure: n/a — opener donor

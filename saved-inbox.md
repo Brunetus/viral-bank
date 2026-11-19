@@ -11,9 +11,7 @@ Filler rule: skip any shortcode already under `## processed` or already a catalo
 measures tests 5/6, rewrites the entry, and moves the line here as `re-measured`.
 
 ## inbox
-Df0VzIQxYVh @gustavburton https://www.instagram.com/reel/Df0VzIQxYVh/
-DfiRJDZsMdQ @chrisbuckguitar https://www.instagram.com/reel/DfiRJDZsMdQ/
-Dfv-lgCxy4O @thatnickpowersguy https://www.instagram.com/reel/Dfv-lgCxy4O/
+<!-- 2026-11-19: read-saved.sh exit 3 "no Local State" (this session could not read the Chrome profile). The 3 lines from 11-18 were gated: 2 BANKED, 1 tombstoned. -->
 <!-- ⚠⚠ 2026-11-17 — READ-SAVED.SH RETURNED THE WRONG GRID AGAIN (sixth time: 10-07, 10-14, 10-24, 10-26, 10-28, 11-17). NOT A REAL INBOX; 23 LINES REMOVED.
      read-saved.sh exited 0, "24 on grid, 23 new appended", and all 23 appended lines were @imabgold's OWN reels
      (handle @imabgold on every line, DfAoIfxDJd0 and Df0qXMTNNrU among them). Not gated (test 1 by construction).
@@ -138,6 +136,9 @@ Dfv-lgCxy4O @thatnickpowersguy https://www.instagram.com/reel/Dfv-lgCxy4O/
 ## re-measure
 
 ## processed
+2026-11-19 Df0VzIQxYVh @gustavburton https://www.instagram.com/reel/Df0VzIQxYVh/ — BANKED (COPY). Borrowed unnamed woman: "The f***ing hottest thing to me is when a guy isn't afraid to...", cut 5.0s; @gustavburton to [saved] as a donor source.
+2026-11-19 DfiRJDZsMdQ @chrisbuckguitar https://www.instagram.com/reel/DfiRJDZsMdQ/ — tombstone (ad, guard 7; test 1). Promo for his band's new single, a man.
+2026-11-19 Dfv-lgCxy4O @thatnickpowersguy https://www.instagram.com/reel/Dfv-lgCxy4O/ — BANKED (COPY). Stitch with @thatgirlwiththecake: "So, men that don't cheat? What are you doing right now?", cut 5.3s; she goes to [premise], he to [saved].
 2026-11-17 DIMl8GRSmVA @realmarciereeves https://www.instagram.com/reel/DIMl8GRSmVA/ — BANKED. "A friendly reminder to all the men out there that being ripped is not the only way to look hot", setup 4.89s, blank open until her "dad bods" at ~8s. Fetched through the throwaway (ig-fetch).
 2026-11-17 DYuY0DLvnP9 @realmarciereeves https://www.instagram.com/reel/DYuY0DLvnP9/ — tombstone (tests 2/3/4). "I am for the sheets, not the streets" joke about herself, no premise about men.
 2026-11-17 DG3lFj6OWRn @realmarciereeves https://www.instagram.com/reel/DG3lFj6OWRn/ — tombstone (tests 4/6). "He's a 10 but..." ~1s setup, she fills it with a list.

@@ -12,6 +12,7 @@
      pool: 170 entry lines as of 2026-10-18. The pool is over target, so the
      +5-per-scan floor no longer binds.
      2026-11-10: +0 added, 0 RE-CONFIRMED, 0 dropped. One search; still no November roundup (newest dated: SocialPilot 10-12→10-25, Buffer October; CreatorDB's tracker still at week of 08-20).
+     2026-11-19: +0 added, 1 RE-CONFIRMED (Patient Zero, SocialPilot rising list ~130k posts), 0 dropped. One search; no roundup newer than Metricool 11-02, whose tracks were not visible.
      2026-11-17: +1 added ("Thriller" Michael Jackson, Metricool's 11-02 list, its first November roundup), 1 RE-CONFIRMED (Dracula (JENNIE Remix)), 0 dropped. One search.
      2026-11-16: +0 added, 0 RE-CONFIRMED, 0 dropped. One search; still no November roundup (newest dated: SocialPilot 10-12→10-25).
      2026-11-14: +0 added, 1 RE-CONFIRMED (Dracula (JENNIE Remix)), 0 dropped. One search; still no November roundup (newest dated: SocialPilot 10-12→10-25, Heyorca 10-09).
@@ -830,7 +831,7 @@
 
 ## quiet-confession
 "Yummy Little Day" — @emilogue | shape: quiet-confession | lane-fit: family/food | why: 59K posts — sweet playful bed made for makers, bakers and small handmade moments; the warmest option on the current lists | start: from the top | confirmed: 2026-11-01
-"Patient Zero" — Taylor Swift | shape: quiet-confession | lane-fit: any | why: the closing line is the payoff the whole cut waits for, so it plays straight under a reveal held to the last beat; 53k reels and climbing in its first weeks | start: cold, land the final line on the reveal | confirmed: 2026-11-08
+"Patient Zero" — Taylor Swift | shape: quiet-confession | lane-fit: any | why: the closing line is the payoff the whole cut waits for, so it plays straight under a reveal held to the last beat; 53k reels and climbing in its first weeks | start: cold, land the final line on the reveal | confirmed: 2026-11-19
 "Stupid Song" — Olivia Rodrigo | shape: quiet-confession | lane-fit: general | why: the other half of this week's Rodrigo tribute wave; the title does the self-deprecation for you, so an earnest montage reads as knowingly silly | start: on the hook | confirmed: 2026-10-31
 "Birds of a Feather" — Billie Eilish | shape: quiet-confession | lane-fit: any | why: SocialBu: "continues to dominate Instagram Reels in 2026"; soft bed for sincere admissions | start: the chorus | confirmed: 2026-10-17
 "we fell in love in october" — girl in red | shape: quiet-confession | lane-fit: general/family | why: the seasonal indie bed that returns every October; soft and unhurried, so a plain sentence on screen carries the whole beat. | start: the opening guitar, before the vocal | confirmed: 2026-10-15
