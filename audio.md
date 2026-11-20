@@ -916,6 +916,7 @@
 
 
 ## momentum
+"Flower In A Hurricane" — Justice ft. Tame Impala, SZA, King Gizzard & the Lizard Wizard | shape: momentum | lane-fit: any | why: Virlo's #1 Instagram Reels sound for the 7 days to 2026-11-18 (59 new reels), a big-name collab with a driving build | start: the first drop | confirmed: 2026-11-20
 "Thriller" — Michael Jackson | shape: momentum | lane-fit: any | why: top pick on Metricool's Nov 2 2026 Reels list, carried by Halloween-season interest; seasonal, so expect it to fade fast | start: the synth-and-bass intro, one beat per cut | confirmed: 2026-11-17
 "Dracula (JENNIE Remix)" — Tame Impala | shape: momentum | lane-fit: any | why: 307K posts, the biggest count on this week's Scott Social list — a walk-forward/inventory showcase bed with a hard forward pull. Re-added 2026-08-21 on fresh evidence after an unjustified 08-20 drop | start: on the walk, one item per bar | url: https://www.instagram.com/reels/audio/1887907191828006/ | confirmed: 2026-11-17
 "Ring My Bell" — Anita Ward | shape: momentum | lane-fit: any | why: disco drive listed this week for outfit videos, GRWMs and vacation cuts; steady enough to carry a montage of small wins without needing a punchline at the end | start: from the top | url: https://www.instagram.com/reels/audio/323182991668129/ | confirmed: 2026-11-02

@@ -19,6 +19,7 @@ re-downloading a clip already judged. FRESH clips and entries are never
 touched.
 
 <!-- entries below, newest first -->
+## Df8nU9CoDxK — [NOT BANKED] DO-NOT-SPLICE (2026-11-20) tombstone (tests 1/6, list opener) @datingwjessie (3,301 likes, 6.8x median), to camera with earphones, card "hottest things a guy can do:" (28.3s). She never SAYS the premise: the card carries it and her speech opens straight into the list at 0.76s ("Asks good questions. Communicates. Is curious about you... Gives you flowers without you asking for flowers..."). No spoken setup (test 1), 0s of setup (test 6), and a list-promise opener with no blank. Downloaded free on Graph media_url, frames + mlx_whisper; clip file kept for the 6b prune. · https://www.instagram.com/reel/Df8nU9CoDxK/ · first-seen 2026-11-20
 ## Dfv-lgCxy4O — @thatgirlwiththecake (borrowed, inside @thatnickpowersguy's stitch) to camera in a kitchen (black backwards cap, long wavy hair, black hoodie), full-bleed; burned card "To the men that don't cheat..." plus word captions; says "So, men that don't cheat? ... What are you doing right now?" and the stitch hard-cuts to Nick Powers' roller-coaster spreadsheet at 5.46s
 - source: @thatnickpowersguy (from Marcus's Saved) | https://www.instagram.com/reel/Dfv-lgCxy4O/          <- Nicholas Powers, "I make spreadsheets", 208,903 followers; caption "Stitch with thatgirlwiththecake"
 - lane: premise
