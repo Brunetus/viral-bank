@@ -11,6 +11,7 @@
      At 3-4 posts/day on one account alone that means 100+, not 20. Current
      pool: 170 entry lines as of 2026-10-18. The pool is over target, so the
      +5-per-scan floor no longer binds.
+     2026-11-21: +1 added ("Underneath the Tree" Kelly Clarkson, Buffer November list), 1 RE-CONFIRMED (Flower In A Hurricane, Virlo #1 to 11-18), 0 dropped. Two searches; no IG audio url found. "Dilruba Dilnasheen" (Virlo #2) and "Vintage November" seen without a named artist, not added.
      2026-11-10: +0 added, 0 RE-CONFIRMED, 0 dropped. One search; still no November roundup (newest dated: SocialPilot 10-12→10-25, Buffer October; CreatorDB's tracker still at week of 08-20).
      2026-11-19: +0 added, 1 RE-CONFIRMED (Patient Zero, SocialPilot rising list ~130k posts), 0 dropped. One search; no roundup newer than Metricool 11-02, whose tracks were not visible.
      2026-11-17: +1 added ("Thriller" Michael Jackson, Metricool's 11-02 list, its first November roundup), 1 RE-CONFIRMED (Dracula (JENNIE Remix)), 0 dropped. One search.
@@ -916,7 +917,8 @@
 
 
 ## momentum
-"Flower In A Hurricane" — Justice ft. Tame Impala, SZA, King Gizzard & the Lizard Wizard | shape: momentum | lane-fit: any | why: Virlo's #1 Instagram Reels sound for the 7 days to 2026-11-18 (59 new reels), a big-name collab with a driving build | start: the first drop | confirmed: 2026-11-20
+"Underneath the Tree" — Kelly Clarkson | shape: momentum | lane-fit: any | why: on Buffer's November 2026 list (published 11-03) for festive content; a bright Christmas build that carries a holiday montage or gift reveal, seasonal so expect it to fade after December | start: the chorus entry | confirmed: 2026-11-21
+"Flower In A Hurricane" — Justice ft. Tame Impala, SZA, King Gizzard & the Lizard Wizard | shape: momentum | lane-fit: any | why: Virlo's #1 Instagram Reels sound for the 7 days to 2026-11-18 (59 new reels), a big-name collab with a driving build | start: the first drop | confirmed: 2026-11-21
 "Thriller" — Michael Jackson | shape: momentum | lane-fit: any | why: top pick on Metricool's Nov 2 2026 Reels list, carried by Halloween-season interest; seasonal, so expect it to fade fast | start: the synth-and-bass intro, one beat per cut | confirmed: 2026-11-17
 "Dracula (JENNIE Remix)" — Tame Impala | shape: momentum | lane-fit: any | why: 307K posts, the biggest count on this week's Scott Social list — a walk-forward/inventory showcase bed with a hard forward pull. Re-added 2026-08-21 on fresh evidence after an unjustified 08-20 drop | start: on the walk, one item per bar | url: https://www.instagram.com/reels/audio/1887907191828006/ | confirmed: 2026-11-17
 "Ring My Bell" — Anita Ward | shape: momentum | lane-fit: any | why: disco drive listed this week for outfit videos, GRWMs and vacation cuts; steady enough to carry a montage of small wins without needing a punchline at the end | start: from the top | url: https://www.instagram.com/reels/audio/323182991668129/ | confirmed: 2026-11-02

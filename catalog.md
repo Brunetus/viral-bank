@@ -147,7 +147,7 @@ touched.
 ## DfFjVLtiKuC — a real brunette woman straight to camera in a parked car (sunroof, seatbelt, black tank, hand gestures counting), full-bleed, white card "Top 5 qualities a woman loves in a man" held over her word captions, says "Guys, bring these five qualities to the table and a woman's going to find you irresistible"
 - source: @ashleahoess | https://www.instagram.com/reel/DfFjVLtiKuC/          <- [premise] lane, business_discovery read (media withheld, fetched by shortcode through ig-fetch 2/8). Bio "Helping men navigate modern dating… Listen to My Words Podcast", a real person (no AI tell on bio, feed or frames)
 - lane: premise
-- first-seen: 2026-10-30 | status: FRESH
+- first-seen: 2026-10-30 | status: STALE (2026-11-21)
 - stats-at-capture: 1,770 likes / 112 comments (1.0x account median of 1,879), posted 2026-10-29
 - list-opener: 5 — she promises FIVE qualities and her body is a numbered list ("number one, being authentic"). Pay it with five items, like the delivered top-5 (`De8hc24OndL`, 168k / 7,957 shares); never with one object
 - joke-structure: n/a — opener donor
