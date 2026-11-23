@@ -11,6 +11,7 @@
      At 3-4 posts/day on one account alone that means 100+, not 20. Current
      pool: 170 entry lines as of 2026-10-18. The pool is over target, so the
      +5-per-scan floor no longer binds.
+     2026-11-23: +3 added ("DROP IT LIKE ITS HOT x STAYIN ALIVE (ALTÉGO MIX)" ALTÉGO and "November Rain" Guns N' Roses from Buffer's November list; "Dilruba Dilnasheen" Rito Riba & Siddhant Kaushal, Virlo #2, artist now named), 1 RE-CONFIRMED (Flower In A Hurricane), 0 dropped. One search; no IG audio urls looked up (time).
      2026-11-21: +1 added ("Underneath the Tree" Kelly Clarkson, Buffer November list), 1 RE-CONFIRMED (Flower In A Hurricane, Virlo #1 to 11-18), 0 dropped. Two searches; no IG audio url found. "Dilruba Dilnasheen" (Virlo #2) and "Vintage November" seen without a named artist, not added.
      2026-11-10: +0 added, 0 RE-CONFIRMED, 0 dropped. One search; still no November roundup (newest dated: SocialPilot 10-12→10-25, Buffer October; CreatorDB's tracker still at week of 08-20).
      2026-11-19: +0 added, 1 RE-CONFIRMED (Patient Zero, SocialPilot rising list ~130k posts), 0 dropped. One search; no roundup newer than Metricool 11-02, whose tracks were not visible.
@@ -831,6 +832,7 @@
 
 
 ## quiet-confession
+"November Rain" — Guns N' Roses | shape: quiet-confession | lane-fit: any | why: on Buffer's November 2026 list (published 11-03), the seasonal piano-ballad trend; the slow piano intro sits under a straight-faced confession | start: the piano intro | confirmed: 2026-11-23
 "Yummy Little Day" — @emilogue | shape: quiet-confession | lane-fit: family/food | why: 59K posts — sweet playful bed made for makers, bakers and small handmade moments; the warmest option on the current lists | start: from the top | confirmed: 2026-11-01
 "Patient Zero" — Taylor Swift | shape: quiet-confession | lane-fit: any | why: the closing line is the payoff the whole cut waits for, so it plays straight under a reveal held to the last beat; 53k reels and climbing in its first weeks | start: cold, land the final line on the reveal | confirmed: 2026-11-19
 "Stupid Song" — Olivia Rodrigo | shape: quiet-confession | lane-fit: general | why: the other half of this week's Rodrigo tribute wave; the title does the self-deprecation for you, so an earnest montage reads as knowingly silly | start: on the hook | confirmed: 2026-10-31
@@ -917,8 +919,10 @@
 
 
 ## momentum
+"DROP IT LIKE ITS HOT x STAYIN ALIVE (ALTÉGO MIX)" — ALTÉGO | shape: momentum | lane-fit: any | why: on Buffer's November 2026 list (published 11-03), the loading-screen GRWM trend; a mashup that builds to a hard drop | start: the drop into the Bee Gees hook | confirmed: 2026-11-23
+"Dilruba Dilnasheen" — Rito Riba & Siddhant Kaushal | shape: momentum | lane-fit: general | why: Virlo's #2 Instagram Reels sound for the 7 days to 2026-11-18 (40 new reels), strong with the India-heavy reach | start: the hook | confirmed: 2026-11-23
 "Underneath the Tree" — Kelly Clarkson | shape: momentum | lane-fit: any | why: on Buffer's November 2026 list (published 11-03) for festive content; a bright Christmas build that carries a holiday montage or gift reveal, seasonal so expect it to fade after December | start: the chorus entry | confirmed: 2026-11-21
-"Flower In A Hurricane" — Justice ft. Tame Impala, SZA, King Gizzard & the Lizard Wizard | shape: momentum | lane-fit: any | why: Virlo's #1 Instagram Reels sound for the 7 days to 2026-11-18 (59 new reels), a big-name collab with a driving build | start: the first drop | confirmed: 2026-11-21
+"Flower In A Hurricane" — Justice ft. Tame Impala, SZA, King Gizzard & the Lizard Wizard | shape: momentum | lane-fit: any | why: Virlo's #1 Instagram Reels sound for the 7 days to 2026-11-18 (59 new reels), a big-name collab with a driving build | start: the first drop | confirmed: 2026-11-23
 "Thriller" — Michael Jackson | shape: momentum | lane-fit: any | why: top pick on Metricool's Nov 2 2026 Reels list, carried by Halloween-season interest; seasonal, so expect it to fade fast | start: the synth-and-bass intro, one beat per cut | confirmed: 2026-11-17
 "Dracula (JENNIE Remix)" — Tame Impala | shape: momentum | lane-fit: any | why: 307K posts, the biggest count on this week's Scott Social list — a walk-forward/inventory showcase bed with a hard forward pull. Re-added 2026-08-21 on fresh evidence after an unjustified 08-20 drop | start: on the walk, one item per bar | url: https://www.instagram.com/reels/audio/1887907191828006/ | confirmed: 2026-11-17
 "Ring My Bell" — Anita Ward | shape: momentum | lane-fit: any | why: disco drive listed this week for outfit videos, GRWMs and vacation cuts; steady enough to carry a montage of small wins without needing a punchline at the end | start: from the top | url: https://www.instagram.com/reels/audio/323182991668129/ | confirmed: 2026-11-02

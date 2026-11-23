@@ -19,6 +19,30 @@ re-downloading a clip already judged. FRESH clips and entries are never
 touched.
 
 <!-- entries below, newest first -->
+## DND-1nVtnNe — unnamed woman (borrowed, inside @wegogym1000's gym meme) to camera in a dark car at night (blonde messy bun, blush top), full-bleed 720x1280, no burned text; says "The hottest fucking thing a guy can do is..." with a long held "is", then answers "make a little noise", and the reel hard-cuts at ~8.3s to Ronnie Coleman grunting through a dumbbell set
+- source: @wegogym1000 (browsed, throwaway tag page #sexiestthing) | https://www.instagram.com/reel/DND-1nVtnNe/          <- gym meme page, caption "the hottest thing a guy can do... is actually lifting weights. Lightweight BABYYYYY!"
+- lane: premise
+- first-seen: 2026-11-23 | status: FRESH
+- stats-at-capture: 366,756 likes / 899 comments (browsed tag-page find, posted 2025-08-07; no account baseline, Graph was at its app limit so the account was not probed)
+- joke-structure: n/a — opener donor
+- the-beat: cut at 4.5s, on the held "is" (word "is" runs 3.26-4.54s), before "make" lands at 4.54s
+- audio-model: original sound (attach in-app, NEVER bake — rule 92)
+- her-audio: original sound — her voice, clear and loud, no music bed under the opener. She is uncredited, so attach @wegogym1000's reel audio in-app and check it opens on her voice (the page may have swapped in a gym track for the Ronnie half)
+- pairs-with: a hard cut to Marcus doing the one thing out loud: hitting "upgrade to 20x Max", typing /compact, killing a runaway agent, saying "ship it"
+- premise: "The hottest fucking thing a guy can do is..." (spoken, verbatim, mlx-whisper; bleep or caption it as f***ing)
+- slot: "the hottest thing a guy can do is ___" -> ONE action the cut shows (storing his API keys in a .env / checking token usage before his bank app). Her own answer "make a little noise" starts at 4.54s, so the blank is open at a 4.5s cut
+- setup-length: 4.54s (premise complete through the held "is"; she finishes it). Inside the winning band
+- hero-test: the man is the HERO: a positive superlative about what a guy does, no negative frame
+- addresses: the camera, about "a guy" in the third person / recognises: the man watching, as the guy doing the hottest thing. Same person, no split
+- original: COPY — creator: not nameable (no handle, watermark or caption in her frames; AI-avatar check: real car interior, natural motion and blinks, no generator watermark; bio check (a) could not run, creator unknown), copied-from: @wegogym1000 DND-1nVtnNe
+- clean-window: n/a — OPENER donor (her setup card IS the hook)
+- file: clips/DND-1nVtnNe.mp4 (16.3s, 720x1280, h264; the donor beat is 0.00-4.54, she runs to ~8.3s)
+## DGOMy_Up8P8 — [NOT BANKED] tombstone (test 7: a copy, and the original is already banked as DcRZppCMir8) @kings__community (132,961 likes, 2025-02-18), opens on the @the_prosperityplan red-bob woman, cards "MEN ONLY WANT 1 THING / It's Not MONEY / It's Not POWER", then a man in a cap says "appreciation" · https://www.instagram.com/reel/DGOMy_Up8P8/ · first-seen 2026-11-23 (tag page #whatmenwant, fetched via ig-fetch, file deleted)
+## DerHBDIRO8L — [NOT BANKED] tombstone (test 1) @girlsnextdoorplayboyfans, from Marcus's Saved: a 6.6-min Larry King Live / CNN piece on Hugh Hefner and the Playboy Mansion, no woman to camera · https://www.instagram.com/reel/DerHBDIRO8L/ · first-seen 2026-11-23
+## DfoHJWrBjUc — [NOT BANKED] tombstone (tests 1/8) @itsmanuelarx, from Marcus's Saved: a woman by a door, silent reaction skit under a card "Coming back from a date where instead of flirting I lectured him on automating his business with Claude"; she never speaks a premise and the card names Claude · https://www.instagram.com/reel/DfoHJWrBjUc/ · first-seen 2026-11-23
+## Df45u4jxvEh — [NOT BANKED] tombstone (test 1) @spinwithdylan, from Marcus's Saved: phone filming a TV news segment about a creator landing a GTA 6 role, card "This is one of the funniest things GTA has ever done" · https://www.instagram.com/reel/Df45u4jxvEh/ · first-seen 2026-11-23
+## Df7iBRLML6y — [NOT BANKED] tombstone (tests 2/4) @oboycaleb_, from Marcus's Saved: Colombian women in bikinis by a pool, "Colombia, we don't say morning, we say buenos días mi amor...", a language bit, no premise about men · https://www.instagram.com/reel/Df7iBRLML6y/ · first-seen 2026-11-23
+## Df6sbuuCUpC — [NOT BANKED] tombstone (test 1) @thebigjakeyd, from Marcus's Saved: a man on a couch playing GTA, captions "what are you doing, gotta get ripped for my girl Lucia... get up your fat ass and real life" · https://www.instagram.com/reel/Df6sbuuCUpC/ · first-seen 2026-11-23
 ## Df8nU9CoDxK — [NOT BANKED] DO-NOT-SPLICE (2026-11-20) tombstone (tests 1/6, list opener) @datingwjessie (3,301 likes, 6.8x median), to camera with earphones, card "hottest things a guy can do:" (28.3s). She never SAYS the premise: the card carries it and her speech opens straight into the list at 0.76s ("Asks good questions. Communicates. Is curious about you... Gives you flowers without you asking for flowers..."). No spoken setup (test 1), 0s of setup (test 6), and a list-promise opener with no blank. Downloaded free on Graph media_url, frames + mlx_whisper; clip file kept for the 6b prune. · https://www.instagram.com/reel/Df8nU9CoDxK/ · first-seen 2026-11-20
 ## Dfv-lgCxy4O — @thatgirlwiththecake (borrowed, inside @thatnickpowersguy's stitch) to camera in a kitchen (black backwards cap, long wavy hair, black hoodie), full-bleed; burned card "To the men that don't cheat..." plus word captions; says "So, men that don't cheat? ... What are you doing right now?" and the stitch hard-cuts to Nick Powers' roller-coaster spreadsheet at 5.46s
 - source: @thatnickpowersguy (from Marcus's Saved) | https://www.instagram.com/reel/Dfv-lgCxy4O/          <- Nicholas Powers, "I make spreadsheets", 208,903 followers; caption "Stitch with thatgirlwiththecake"
@@ -179,26 +203,7 @@ touched.
 ## De1eBc8owGL — [NOT BANKED] tombstone (test 6, also list-opener and her own product) @veebee3d, a woman to camera in an EAGLES sweatshirt, card "top 5 hottest things you can say to a woman", says the line in 2.54s then "number one: hey, check out my 3D printer" with cutaways to her printers. The same frame @imabgold aired 10-26 (De8hc24OndL, 136k / 6,196 shares); this one was posted 10-23. Setup under 3s, a list promise, and a 3D-print shop's account showing its machines. Format captured as playbook #107. Saved 10-27, ig-fetch 3/8. · https://www.instagram.com/reel/De1eBc8owGL/ · first-seen 2026-10-27
 ## De7qpuNtTr6 — [NOT BANKED] tombstone (test 6) @verenaa.bo, a real woman to camera, red top and bandana, fairy lights, card "Attractive things that men do", says "attractive things that men do that need a little bit more appreciation" (0.00-2.90s) then the first item ("when he knows the difference between protecting you and controlling you"). Positive, he is the hero, but the setup is 2.9s, under the 3s floor, and it is a list promise ("Part 8" of a series). Throwaway tag page #attractivemen (2,165 plays), ig-fetch 4/8. · https://www.instagram.com/reel/De7qpuNtTr6/ · first-seen 2026-10-27
 
-## De1zkkNueQ- — a real blonde woman straight to camera at home, pink top, holding a pen-mic and a rose-gold laptop, full-bleed, pink card "Things that I find attractive in a man" plus word captions, says "things that I find attractive in a man that have absolutely nothing to do with his looks"
-- source: @angeliclika (browsed) | https://www.instagram.com/reel/De1zkkNueQ-/          <- throwaway tag page #attractivemen; bio "NYC, Dubai Travel | Femininity | Manifestations", travel/lifestyle feed (real person, no AI tell on bio, feed or frames). Free Graph copy, no fetch slot
-- lane: premise
-- first-seen: 2026-10-27 | status: STALE (2026-11-19)
-- stats-at-capture: 16 likes / 0 comments (0.32x account median of 50), 680 plays at capture, posted 2026-10-23. A tiny account: banked on gate fit, not on a spike
-- list-opener: 2+ — she promises "things" with no count and her body is a numbered list ("number two…"). Never pay this opener with ONE object (the 10-26 green-flag list paid with one item did 2,187 / 44% skip); deliver at least two, ideally the number the reel's CTA asks for (the delivered top-5 did 136k / 6,196 shares)
-- joke-structure: n/a — opener donor
-- the-beat: cut at 3.84s, the frame "looks" finishes on ("because honestly" starts 3.84s, word-timed)
-- audio-model: original sound (attach in-app, NEVER bake — rule 92)
-- her-audio: original sound — attachable in-app (her own voice, clean room tone in the transcription; confirm no library track under it when attaching)
-- pairs-with: two or more things he owns, ships or does with a tool, none of them about his face: his /stats screen, a .env in .gitignore, a localhost app gone live. The laptop in her hand is a free visual bridge to Marcus's desk
-- premise: "things that I find attractive in a man that have absolutely nothing to do with his looks"
-- slot: "attractive in a man, nothing to do with his looks" -> a short list of ownable habits/objects, e.g. 1. he commits and pushes every session 2. his API keys live in .env. ⚠ Same frame as `De9aGDYo6rb` ("has nothing to do with how they look", opener @datingwjessie, 2,765 views): that reel died on a RE-SPENT object (ship to main), so this donor needs fresh objects, not the main/.com/streak ones
-- setup-length: 3.84s ("things" 0.00 → "looks" 3.84, word-timed) (she finishes the premise: yes; just under the 4-5s winning band, over the 3s floor)
-- hero-test: hero. She is listing what makes him wanted; nothing is wrong with him.
-- addresses: anyone watching, about men in general / recognises: the man watching, who owns the objects. Same person, though she never says "guys"
-- original: yes — creator's own upload
-- clean-window: n/a — OPENER donor (her setup card IS the hook)
-- file: clips/De1zkkNueQ-.mp4 (67.0s, 720x1280)
-
+## De1zkkNueQ- — [PRUNED STALE (2026-11-19)] @angeliclika (browsed) a real blonde woman straight to camera at home, pink top, holding a pen-mic and a rose-gold laptop, full-bleed, pink card "Things that I find attracti... · https://www.instagram.com/reel/De1zkkNueQ-/ · first-seen 2026-10-27
 ## De6xHy2y3Mr — [NOT BANKED] tombstone (tests 1/6) @rawmicofficial, a woman podcast guest at a mic speaking Hindi ("women like men who talk very well… have you seen the fans of bodybuilders? very few"), cut to a Satyaprem Ki Katha film clip at ~2s; a podcast guest, the premise is the caption's, not said in one setup, and she is on screen under 3s. Throwaway tag page #whatwomenwant (144,621 plays), ig-fetch 2/8 · https://www.instagram.com/reel/De6xHy2y3Mr/ · first-seen 2026-10-26
 
 ## De4hZX8RmEz — [NOT BANKED] tombstone (test 1, not spoken) @ecruzmagno, two people in hoodies at a campsite, peace signs, card "What do you look for in a man?" over a music track (0-8.0s); nobody says the premise and the caption answers it with a list. Throwaway tag page #whatmenwant, ig-fetch 3/8. · https://www.instagram.com/reel/De4hZX8RmEz/ · first-seen 2026-10-25
@@ -1554,7 +1559,7 @@ touched.
 
 ## DGli1TvSB2A — @emilywking_, a real woman in a bedroom mirror selfie, turning toward camera in the first second, burned white card "you really wanna know what turns a man on", says "You really want to know what turns a man on." then "And it's so simple. Initiation." (her answer).
 - source: @emilywking_ | https://www.instagram.com/reel/DGli1TvSB2A/          <- opener of Marcus's own aired 1026_api (10-30, 46K). Clip copied from drafts/1026_api/donor
-- first-seen: 2026-11-01 | status: FRESH
+- first-seen: 2026-11-01 | status: STALE (2026-11-23)
 - premise: "You really want to know what turns a man on."
 - build-note (from Marcus's own 1026_api, 11-01 search): credit @emilywking_; don_n 63: "on" 1.68, "And" rises about 2.10 on the envelope. She opens on a whip blur and a small mirror shot, as he aired it. Her card holds through the cut. Sexual premise, capped at 2 on 10-30. He aired it himself, but its fit rows stay at 2 until he clears it for trials.
 

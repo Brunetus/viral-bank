@@ -136,6 +136,11 @@ measures tests 5/6, rewrites the entry, and moves the line here as `re-measured`
 ## re-measure
 
 ## processed
+2026-11-23 Df6sbuuCUpC @thebigjakeyd https://www.instagram.com/reel/Df6sbuuCUpC/ — tombstone (test 1). A man playing GTA on a couch. Fetched through the throwaway (ig-fetch); creator lookup cut by Graph code 4.
+2026-11-23 Df7iBRLML6y @oboycaleb_ https://www.instagram.com/reel/Df7iBRLML6y/ — tombstone (tests 2/4). Colombian women by a pool, a "buenos días mi amor" language bit, no premise about men. Fetched through the throwaway (ig-fetch); creator lookup cut by Graph code 4.
+2026-11-23 Df45u4jxvEh @spinwithdylan https://www.instagram.com/reel/Df45u4jxvEh/ — tombstone (test 1). Phone filming a TV news segment about GTA 6. Fetched through the throwaway (ig-fetch); creator lookup cut by Graph code 4.
+2026-11-23 DfoHJWrBjUc @itsmanuelarx https://www.instagram.com/reel/DfoHJWrBjUc/ — tombstone (tests 1/8). Silent woman, card "...I lectured him on automating his business with Claude". Fetched through the throwaway (ig-fetch); creator lookup cut by Graph code 4.
+2026-11-23 DerHBDIRO8L @girlsnextdoorplayboyfans https://www.instagram.com/reel/DerHBDIRO8L/ — tombstone (test 1). Larry King / CNN piece on Hugh Hefner. Fetched through the throwaway (ig-fetch); creator lookup cut by Graph code 4.
 2026-11-19 Df0VzIQxYVh @gustavburton https://www.instagram.com/reel/Df0VzIQxYVh/ — BANKED (COPY). Borrowed unnamed woman: "The f***ing hottest thing to me is when a guy isn't afraid to...", cut 5.0s; @gustavburton to [saved] as a donor source.
 2026-11-19 DfiRJDZsMdQ @chrisbuckguitar https://www.instagram.com/reel/DfiRJDZsMdQ/ — tombstone (ad, guard 7; test 1). Promo for his band's new single, a man.
 2026-11-19 Dfv-lgCxy4O @thatnickpowersguy https://www.instagram.com/reel/Dfv-lgCxy4O/ — BANKED (COPY). Stitch with @thatgirlwiththecake: "So, men that don't cheat? What are you doing right now?", cut 5.3s; she goes to [premise], he to [saved].

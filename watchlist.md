@@ -181,6 +181,11 @@ dead 2026-11-06 (profile 404 on Instagram, gone not just unreadable; Grok relay)
 @gustavburton [saved] DONOR SOURCE — added 2026-11-19 via Marcus's Saved Df0VzIQxYVh, BANKED as COPY the same morning (an unnamed woman in a car: "the hottest thing to me is when a guy isn't afraid to...", 5.0s). Gustav Burton, racing driver, 1,245,482 followers, 24/25 serving. He is a man (test 1 fails him); his value is the borrowed openers.
 @thatnickpowersguy [saved] DONOR SOURCE — added 2026-11-19 via Marcus's Saved Dfv-lgCxy4O, BANKED as COPY the same morning (stitch with @thatgirlwiththecake, 5.3s). Nicholas Powers, spreadsheet creator, 208,903 followers, 25/25 serving. Stitches women's questions and answers with a spreadsheet: the exact donor-plus-payoff shape.
 @chrisbuckguitar [saved] — added 2026-11-19 via Marcus's Saved DfiRJDZsMdQ; Chris Buck, guitarist, 231,166 followers, 21/25 serving. That reel is a single promo (guard 7) and he is a man (test 1). Low hit rate expected.
+@thebigjakeyd [saved] — added 2026-11-23 via Marcus's Saved Df6sbuuCUpC; a man, GTA / couch gaming skits (test 1). Unprobed: Graph hit its app limit 11-23.
+@oboycaleb_ [saved] — added 2026-11-23 via Marcus's Saved Df7iBRLML6y; Colombia travel / women-by-the-pool clips, no premise about men (tests 2/4). Unprobed: Graph code 4 on 11-23.
+@spinwithdylan [saved] — added 2026-11-23 via Marcus's Saved Df45u4jxvEh; GTA 6 news / reaction clips (test 1). Unprobed: Graph code 4 on 11-23.
+@itsmanuelarx [saved] — added 2026-11-23 via Marcus's Saved DfoHJWrBjUc; woman, silent text-card skits about dating and Claude (tests 1/8 on that reel). Unprobed: Graph code 4 on 11-23.
+@girlsnextdoorplayboyfans [saved] — added 2026-11-23 via Marcus's Saved DerHBDIRO8L; Playboy fan page, old TV interview reposts (test 1). Unprobed: Graph code 4 on 11-23.
 
 ## Old lanes (tech / general / sports / family) — format-capture only since 2026-09-17
 
