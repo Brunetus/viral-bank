@@ -11,6 +11,7 @@
      At 3-4 posts/day on one account alone that means 100+, not 20. Current
      pool: 170 entry lines as of 2026-10-18. The pool is over target, so the
      +5-per-scan floor no longer binds.
+     2026-11-24: +1 added ("Love Me" JMSN, SocialBee list dated 11-19), 0 RE-CONFIRMED (Virlo still at the 11-18 week, already stamped), 0 dropped. One search; no IG audio url (time).
      2026-11-23: +3 added ("DROP IT LIKE ITS HOT x STAYIN ALIVE (ALTÉGO MIX)" ALTÉGO and "November Rain" Guns N' Roses from Buffer's November list; "Dilruba Dilnasheen" Rito Riba & Siddhant Kaushal, Virlo #2, artist now named), 1 RE-CONFIRMED (Flower In A Hurricane), 0 dropped. One search; no IG audio urls looked up (time).
      2026-11-21: +1 added ("Underneath the Tree" Kelly Clarkson, Buffer November list), 1 RE-CONFIRMED (Flower In A Hurricane, Virlo #1 to 11-18), 0 dropped. Two searches; no IG audio url found. "Dilruba Dilnasheen" (Virlo #2) and "Vintage November" seen without a named artist, not added.
      2026-11-10: +0 added, 0 RE-CONFIRMED, 0 dropped. One search; still no November roundup (newest dated: SocialPilot 10-12→10-25, Buffer October; CreatorDB's tracker still at week of 08-20).
@@ -879,6 +880,7 @@
 
 "See You Again" — Tyler, The Creator ft. Kali Uchis | shape: quiet-confession | lane-fit: any | why: listed for jokes AND for special moments, so it holds a dry line without turning it sentimental | start: on the hook | url: https://www.instagram.com/reels/audio/239175870199817/ | confirmed: 2026-10-06
 
+"Love Me" — JMSN | shape: quiet-confession | lane-fit: any | why: SocialBee's trending-sounds list dated 2026-11-19 names it a current Reels sound; a slow, low R&B vocal that sits under a soft admission without pushing it | start: on the first vocal line | confirmed: 2026-11-24
 "Hate That I Made You Love Me" — Ariana Grande | shape: quiet-confession | lane-fit: any | why: the reflective, slightly nostalgic cinematic bed of the week — for an admission the speaker is not entirely proud of | start: on the first vocal line | url: https://www.instagram.com/reels/audio/2422397121605345/ | confirmed: 2026-10-06
 
 "Heaven Must Be Missing an Angel" — Tavares | shape: quiet-confession | lane-fit: any | why: running under moments that feel exactly right; warm enough to carry an understated line about something finally working | start: on the vocal | url: https://www.instagram.com/reels/audio/185706688978501/ | confirmed: 2026-10-06

@@ -19,7 +19,29 @@ re-downloading a clip already judged. FRESH clips and entries are never
 touched.
 
 <!-- entries below, newest first -->
+## DgGh9VGSPO6 — @chelskocoaching (the same real woman as the FRESH-era `DYH7OUkMOUw`) straight to camera on a white bed, white lace crop top, hands behind her head, full-bleed 720x1280, serif card "WHAT MAKES A WOMAN OBSESSED WITH A MAN" over her word captions; says "What makes a woman obsessed with a man? I'm a woman, so I can tell. It's not the money. It's not the abs." then raises a finger at 7.0s for "#1 … he's not available at…"
+- source: @chelskocoaching | https://www.instagram.com/reel/DgGh9VGSPO6/          <- [premise] lane, business_discovery read (media withheld; logged-out fetch failed, fetched by shortcode through ig-fetch 1/8)
+- lane: premise
+- first-seen: 2026-11-24 | status: FRESH
+- stats-at-capture: 447 likes / 4 comments (5.0x account median), posted 2026-11-23, 344,627 followers
+- joke-structure: n/a — opener donor
+- the-beat: cut at 6.8s, after "It's not the abs" (caption holds 6.0-6.8s, mouth closed from ~6.4s; the "#1" card and her raised finger arrive at 7.0s, never let it in). Shorter option: cut at ~3.0s, after "obsessed with a man?", if the reel's own card carries the "not money, not abs"
+- audio-model: original sound (attach in-app, NEVER bake — rule 92)
+- her-audio: her own voice, but no silence gap anywhere in the first 7s (mean -17 dB), so a quiet bed may run under her. Confirm in-app that the reel's sound is her original audio before attaching; if it is a licensed track, flag it and let the architect decide
+- pairs-with: the one thing he has that she can't stop thinking about: his Claude 20x Max plan, a localhost app that went live, a /stats screen. Same frame as `one_thing` ("not money, not power") and the sexiest_said winners
+- premise: "What makes a woman obsessed with a man? I'm a woman, so I can tell. It's not the money. It's not the abs."
+- slot: "not the money, not the abs" -> the one thing that makes her obsessed: a Claude 20x Max plan / his API keys in a .env file / his app on a real .com
+- setup-length: 6.4s to the end of "abs" (premise question alone ends ~3.0s) (she finishes it: yes; longer than the 4-5s winning band, but the eliminations are the slot, so the full 6.4s is the stronger cut)
+- hero-test: hero. He is the one she becomes obsessed with; money and abs are struck out to make room for his object. Her own answer after 7.0s ("he's not available…") is cut away.
+- addresses: men (her bio "I help men attract healthy love"; "I'm a woman, so I can tell" speaks to the man watching) / recognises: the man watching who owns the object. Same person
+- original: yes — creator's own upload
+- clean-window: n/a — OPENER donor (her setup card IS the hook)
+- file: clips/DgGh9VGSPO6.mp4 (35.4s, 720x1280)
+
+## DgGiN9lywcZ — [NOT BANKED] DO-NOT-SPLICE (2026-11-24) tombstone (tests 2/4) @chelskocoaching to camera, card "NEVER TEXT A WOMAN WHO IGNORES YOU", says "Never text a woman who ignores you. I am a woman, let me tell you how this works. She saw it, she read it…" A warning with no blank, the man is the problem. Fetched via ig-fetch 2/8 (no caption to screen), file deleted · https://www.instagram.com/reel/DgGiN9lywcZ/ · first-seen 2026-11-24
+
 ## DND-1nVtnNe — unnamed woman (borrowed, inside @wegogym1000's gym meme) to camera in a dark car at night (blonde messy bun, blush top), full-bleed 720x1280, no burned text; says "The hottest fucking thing a guy can do is..." with a long held "is", then answers "make a little noise", and the reel hard-cuts at ~8.3s to Ronnie Coleman grunting through a dumbbell set
+- ⛔ OUT OF ROTATION (Marcus 2026-11-23 via Grok 12:20): the blonde woman in the parked car has aired twice on @imabgold (hottest 09-16, fire_dev_v2 09-24); never use her again, in any copy of this clip (DZsw9oGtP0I @tradonatev1, DND-1nVtnNe @wegogym1000).
 - source: @wegogym1000 (browsed, throwaway tag page #sexiestthing) | https://www.instagram.com/reel/DND-1nVtnNe/          <- gym meme page, caption "the hottest thing a guy can do... is actually lifting weights. Lightweight BABYYYYY!"
 - lane: premise
 - first-seen: 2026-11-23 | status: FRESH
@@ -168,27 +190,7 @@ touched.
 
 ## DfIGVPiCX6F — [NOT BANKED] DO-NOT-SPLICE (2026-10-31) tombstone (test 6: setup 2.08s, also an uncredited list count) @datingwithgracie, real woman to camera in her car, card "THINGS WOMEN LOVE", speech "things women love, but won't ask for." ends 2.08s, then "By the way, I'm Gracie, dating coach for men", follow ask to 10.00s, "Number one" at 10.76s. Right premise and audience, too short. Fetched ig-fetch 1/8, scratch deleted, no clip kept. · https://www.instagram.com/reel/DfIGVPiCX6F/ · first-seen 2026-10-31
 
-## DfFjVLtiKuC — a real brunette woman straight to camera in a parked car (sunroof, seatbelt, black tank, hand gestures counting), full-bleed, white card "Top 5 qualities a woman loves in a man" held over her word captions, says "Guys, bring these five qualities to the table and a woman's going to find you irresistible"
-- source: @ashleahoess | https://www.instagram.com/reel/DfFjVLtiKuC/          <- [premise] lane, business_discovery read (media withheld, fetched by shortcode through ig-fetch 2/8). Bio "Helping men navigate modern dating… Listen to My Words Podcast", a real person (no AI tell on bio, feed or frames)
-- lane: premise
-- first-seen: 2026-10-30 | status: STALE (2026-11-21)
-- stats-at-capture: 1,770 likes / 112 comments (1.0x account median of 1,879), posted 2026-10-29
-- list-opener: 5 — she promises FIVE qualities and her body is a numbered list ("number one, being authentic"). Pay it with five items, like the delivered top-5 (`De8hc24OndL`, 168k / 7,957 shares); never with one object
-- joke-structure: n/a — opener donor
-- the-beat: cut at 4.6s, after "irresistible" (word ends 4.28s, word-timed); the card holds to ~4.9s, where she starts "listen to my words"
-- audio-model: original sound (attach in-app, NEVER bake — rule 92)
-- her-audio: original sound — attachable in-app (her own voice, car interior, no music heard under it in the first 14s; confirm in-app when attaching)
-- pairs-with: five things he does or shows with a tool: his /stats screen, a .env in .gitignore, a commit-every-session habit, a localhost app gone live, a real rig. "Bring to the table" also reads as a desk: Marcus's desk is a free visual bridge
-- premise: "Guys, bring these five qualities to the table and a woman's going to find you irresistible"
-- slot: "these five qualities" -> a numbered list of five ownable habits/objects, e.g. 1. his API keys live in .env 2. he pushes to GitHub after every session 3. his /stats screen … Fresh objects preferred over the re-spent main/.com/streak ones
-- setup-length: 4.28s ("Guys" 0.00 → "irresistible" 4.28, word-timed) (she finishes the premise: yes; inside the 4-5s winning band)
-- hero-test: hero. He brings the qualities and she says he becomes irresistible; nothing is wrong with him.
-- addresses: "guys", the man watching / recognises: the man watching, who owns the objects. Same person
-- original: yes — creator's own upload
-- ⚠ ad note (guard 7, judged keep): at 7.2-10.0s, AFTER the cut point, she plugs her own e-book ("my e-book is in the bottom"). The caption sells nothing and the opener 0-4.6s carries no promotion, so the reel reads as advice with a plug. Never run the clip past 4.9s
-- clean-window: n/a — OPENER donor (her setup card IS the hook)
-- file: clips/DfFjVLtiKuC.mp4 (107.6s, 1080x1920)
-
+## DfFjVLtiKuC — [PRUNED STALE (2026-11-21)] @ashleahoess, real woman to camera in a parked car, card "Top 5 qualities a woman loves in a man", "Guys, bring these five qualities to the table and a woman's going to find you irresistible" (setup 4.28s, list-opener: 5) · https://www.instagram.com/reel/DfFjVLtiKuC/ · first-seen 2026-10-30
 ## DczSTUwBm0L — [NOT BANKED] tombstone (test 8, also a list with no single blank) @makayla.tonn, a real woman to camera, says "Men are so simple. You just cook them banana bread with some chocolate chips in there, ask him how Claude is doing today and tell him he reminds you of Batman. He'll be in love with you in two seconds, I promise." (0-9.2s). She names Claude at ~4s and fills her own blank three times. Saved 10-30, ig-fetch 1/8. · https://www.instagram.com/reel/DczSTUwBm0L/ · first-seen 2026-10-30
 
 ## DfCwe2KBy9c — [NOT BANKED] AD-REJECTED tombstone (guard 7) @excel_esports, Microsoft Excel World Championship promo (415,628 likes), caption "Tickets are available now! Link in bio." Not gated past the ad filter, not downloaded. Saved 10-30. · https://www.instagram.com/reel/DfCwe2KBy9c/ · first-seen 2026-10-30
@@ -673,6 +675,7 @@ touched.
 ## YT:ke6yPxtAaQE — [PRUNED STALE (2026-10-18)] [LEAD, IG original needed] @KatieFeeney full screen to the lens: "What is the biggest green flag in a guy? (spoken question)" · https://www.youtube.com/shorts/ke6yPxtAaQE · first-seen 2026-09-26
 
 ## DZsw9oGtP0I — [PRUNED STALE (2026-10-18)] a blonde woman to camera in a parked car, one unbroken take, NO burned text anywhere: "The hottest f***ing thing a guy can do is… [1.0s beat] …make a little noise." Hard cut at ~6.9s to a trading chart… · https://www.instagram.com/reel/DZsw9oGtP0I/ · first-seen 2026-09-26
+- ⛔ OUT OF ROTATION (Marcus 2026-11-23 via Grok 12:20): the blonde woman in the parked car has aired twice on @imabgold (hottest 09-16, fire_dev_v2 09-24); never use her again, in any copy of this clip (DZsw9oGtP0I @tradonatev1, DND-1nVtnNe @wegogym1000).
 - build-note (from Marcus's own 0919_fire_dev, 11-01 search): credit @tradonatev1; don_n about 105 (3.5s), after "is" (3.16), well before "make" (4.44). Fit held at 2 until Marcus clears "fucking" on screen. NO burned card, so caption her line with --take (reset the word times from the envelope, "hottest" is about 0.36 and "fucking" about 0.64) '{"donor_words":[["The",0],["hottest",0.48],["fucking",0.92],["thing",1.7],["a",2.14],["guy",2.42],["can",2.66],["do",2.86],["is",3.16]],"donor_chunks":[[0,1],[2,3],[4,5],[6,7,8]]}'. Line: "The hottest fucking thing a guy can do is". Clip copied from drafts/0923_fire_dev_v2/assets. For 1015_main.
 
 ## Da8BS72t7mv — [NOT BANKED] tombstone (test 1) · @itsmrbugatti repost of an Andrew Tate podcast clip — man to camera behind a boom mic, neon word-by-word captions ("DON'T… ANY… HIGHER… EXPERIENCE… MEN… AROUND… BOYS… AND… LIFE… CAN… DOLLARS"), intercut with yacht/nightlife b-roll · https://www.instagram.com/reel/Da8BS72t7mv/ · from Marcus's Saved, fetched 2026-09-26 · man to camera AND a podcast guest, the two things test 1 names. Creator is a personal account (business_discovery error 110), so it can never be appended to [premise] whatever it posts. 17.2s.
@@ -1593,3 +1596,5 @@ touched.
 - status: TRIAL OPENER (Marcus 11-16 chat, "Yes, bank it", after Grok relayed his 7:23 PM ask to put her in the trial pool). Also the opener of his unposted main reel drafts/1106_next10/c1_twobot ("already done").
 - clip: clips/DfMcCJSo-Ns.mp4 (copied 11-16 from drafts/1106_next10/donors/c1_DfMcCJSo-Ns.mp4, the 11-09 fetch; 13.45s, 1440x2560, 30 fps)
 - build-note: cut at 2.50s, don_n 75: after "are" (voice energy ends about 2.44s), before "I'll" (2.58s). She says "say are", not "do is", and the line sets up three things a man SAYS: fit only where his line answers that. Banked on Marcus's yes although it is a three-item list line (rule 10-15); fit.tsv still decides every pair. Check her burned text in the caption band at QA.
+
+## DZ4wDocA6HD — [NOT BANKED] tombstone (test 1: AI-generated host) @withgabbyrose, profile name "Gabby Rose | AI Podcast" (86,622 followers); podcast-set woman, "The sexiest thing a man can do has nothing to do with his looks..." 55,924 likes. Built as a Fable alt 11-23, dropped the same day once the profile showed it is an AI podcast (garbled mic logo first flagged in QA). Never use. · https://www.instagram.com/reel/DZ4wDocA6HD/ · first-seen 2026-06-22
