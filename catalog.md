@@ -19,6 +19,33 @@ re-downloading a clip already judged. FRESH clips and entries are never
 touched.
 
 <!-- entries below, newest first -->
+
+## DgI-qrms-pW — @chelskocoaching (the same real woman as `DgGh9VGSPO6`, a second take of the same premise) close straight to camera, grey top and gold hoops for 0-5s, then a white lace top against an ivy wall, full-bleed 720x1280, serif card "WHAT MAKES A WOMAN OBSESSED (IT'S NOT WHAT YOU THINK)" over her word captions for the first ~3s; says "What makes a woman obsessed with a man? Let me tell you, from a woman's perspective, it's not what you think. It's not the money, not the abs, it's not the car." then "What she really wants is…" from 8.5s
+- source: @chelskocoaching | https://www.instagram.com/reel/DgI-qrms-pW/          <- [premise] lane, business_discovery read (media withheld; logged-out fetch failed, fetched by shortcode through ig-fetch 1/8)
+- lane: premise
+- first-seen: 2026-11-25 | status: FRESH
+- stats-at-capture: 241 likes / 4 comments (3.7x account median), posted 2026-11-24, 345,888 followers
+- joke-structure: n/a — opener donor
+- the-beat: cut at 8.2s, after "it's not the car" (word ends 8.03s; "What she really wants" starts 8.48s, never let it in). There is a jump cut at ~5s where her outfit changes
+- audio-model: original sound (attach in-app, NEVER bake — rule 92)
+- her-audio: her own voice, no silence gap in the first 9s (mean -16.8 dB), same as `DgGh9VGSPO6`: confirm in-app that the reel's sound is her original audio before attaching; if it is a licensed track, flag it and let the architect decide
+- pairs-with: the one thing he has that she can't stop thinking about: his Claude 20x Max plan, a localhost app that went live on a real .com. Same frame as `one_thing` and `DgGh9VGSPO6`; use one or the other, not both in the same week
+- premise: "What makes a woman obsessed with a man? Let me tell you, from a woman's perspective, it's not what you think. It's not the money, not the abs, it's not the car."
+- slot: "not the money, not the abs, not the car" -> the one thing that makes her obsessed: a Claude 20x Max plan / his app on a real .com / tokens resetting midweek
+- setup-length: 8.0s to the end of "car" (the question alone ends 1.8s, too short to cut there) (she finishes it: yes; well past the 4-5s band, so `DgGh9VGSPO6` at 6.4s is the tighter take of the same premise; this one adds "not the car" and the "it's not what you think" turn)
+- hero-test: hero. He is the one she becomes obsessed with; money, abs and car are struck out to make room for his object. Her own answer after 8.5s is cut away.
+- addresses: men (her bio "I help men attract healthy love"; "from a woman's perspective" speaks to the man watching) / recognises: the man watching who owns the object. Same person
+- original: yes — creator's own upload
+- clean-window: n/a — OPENER donor (her setup card IS the hook)
+- file: clips/DgI-qrms-pW.mp4 (31.1s, 720x1280)
+
+## Ddg3bnMxUB5 — [NOT BANKED] tombstone (test 6, plus addresses women) @iammkaterinaa solo at a podcast mic, black blazer, serif word captions; says "The sexiest thing a man can do, be insanely busy and still take five minutes to make sure you're okay." The blank opens at 1.9s and her "you" is the woman. Throwaway tag-page find, fetched via ig-fetch 2/8, never entered clips/; creator added to [premise] · https://www.instagram.com/reel/Ddg3bnMxUB5/ · first-seen 2026-11-25
+
+## Df86WyYRyTv — [NOT BANKED] tombstone (test 1: a man speaks) @wisdominthat, an older bearded man driving in plaid and overalls, card "The sexiest thing a man can do"; says "The sexiest thing a man can do is not abs or a car or money. It's when she says something and you actually listen." Throwaway tag-page find, fetched via ig-fetch 3/8, never entered clips/ · https://www.instagram.com/reel/Df86WyYRyTv/ · first-seen 2026-11-25
+
+## DgIYetviTTX — [NOT BANKED] DO-NOT-SPLICE (2026-11-25) tombstone (test 2) @chelskocoaching at a podcast mic, white corset top; says "Is deleting messages cheating? It depends." A negative frame, no blank. Served free, fetched to learn, never entered clips/ · https://www.instagram.com/reel/DgIYetviTTX/ · first-seen 2026-11-25
+
+## DgIVd-ysLCc — [NOT BANKED] DO-NOT-SPLICE (2026-11-25) tombstone (test 4) @chelskocoaching; says "Welcome to Realistic Datemaxxing for guys with jobs, stress and actual lives…" then a run of tips. A list with no blank. Served free, fetched to learn, never entered clips/ · https://www.instagram.com/reel/DgIVd-ysLCc/ · first-seen 2026-11-25
 ## DgGh9VGSPO6 — @chelskocoaching (the same real woman as the FRESH-era `DYH7OUkMOUw`) straight to camera on a white bed, white lace crop top, hands behind her head, full-bleed 720x1280, serif card "WHAT MAKES A WOMAN OBSESSED WITH A MAN" over her word captions; says "What makes a woman obsessed with a man? I'm a woman, so I can tell. It's not the money. It's not the abs." then raises a finger at 7.0s for "#1 … he's not available at…"
 - source: @chelskocoaching | https://www.instagram.com/reel/DgGh9VGSPO6/          <- [premise] lane, business_discovery read (media withheld; logged-out fetch failed, fetched by shortcode through ig-fetch 1/8)
 - lane: premise

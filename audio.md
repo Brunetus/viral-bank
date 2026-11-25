@@ -11,6 +11,7 @@
      At 3-4 posts/day on one account alone that means 100+, not 20. Current
      pool: 170 entry lines as of 2026-10-18. The pool is over target, so the
      +5-per-scan floor no longer binds.
+     2026-11-25: +1 added ("November" Past Day, SocialBee 11-11), 0 RE-CONFIRMED (Virlo still at the 11-18 week, already stamped), 0 dropped. One search; no IG audio url. "Vintage November" seen on Virlo but no artist named, not added.
      2026-11-24: +1 added ("Love Me" JMSN, SocialBee list dated 11-19), 0 RE-CONFIRMED (Virlo still at the 11-18 week, already stamped), 0 dropped. One search; no IG audio url (time).
      2026-11-23: +3 added ("DROP IT LIKE ITS HOT x STAYIN ALIVE (ALTÉGO MIX)" ALTÉGO and "November Rain" Guns N' Roses from Buffer's November list; "Dilruba Dilnasheen" Rito Riba & Siddhant Kaushal, Virlo #2, artist now named), 1 RE-CONFIRMED (Flower In A Hurricane), 0 dropped. One search; no IG audio urls looked up (time).
      2026-11-21: +1 added ("Underneath the Tree" Kelly Clarkson, Buffer November list), 1 RE-CONFIRMED (Flower In A Hurricane, Virlo #1 to 11-18), 0 dropped. Two searches; no IG audio url found. "Dilruba Dilnasheen" (Virlo #2) and "Vintage November" seen without a named artist, not added.
@@ -921,6 +922,7 @@
 
 
 ## momentum
+"November" — Past Day | shape: momentum | lane-fit: general | why: SocialBee's trending-songs update of 2026-11-11 features it, a seasonal Past Day bed in the same lane as their "Summer Vibes" (78K posts), no lyric to fight | start: from the top | confirmed: 2026-11-25
 "DROP IT LIKE ITS HOT x STAYIN ALIVE (ALTÉGO MIX)" — ALTÉGO | shape: momentum | lane-fit: any | why: on Buffer's November 2026 list (published 11-03), the loading-screen GRWM trend; a mashup that builds to a hard drop | start: the drop into the Bee Gees hook | confirmed: 2026-11-23
 "Dilruba Dilnasheen" — Rito Riba & Siddhant Kaushal | shape: momentum | lane-fit: general | why: Virlo's #2 Instagram Reels sound for the 7 days to 2026-11-18 (40 new reels), strong with the India-heavy reach | start: the hook | confirmed: 2026-11-23
 "Underneath the Tree" — Kelly Clarkson | shape: momentum | lane-fit: any | why: on Buffer's November 2026 list (published 11-03) for festive content; a bright Christmas build that carries a holiday montage or gift reveal, seasonal so expect it to fade after December | start: the chorus entry | confirmed: 2026-11-21
