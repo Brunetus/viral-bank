@@ -20,6 +20,14 @@ touched.
 
 <!-- entries below, newest first -->
 
+## De8iu6RPOjV — [NOT BANKED] DO-NOT-SPLICE (2026-11-26) tombstone (test 7: a copy whose original is already banked) @lindenwhitt (a man) answer reel opening on a SCREEN RECORDING of @brennaberg's `DbqLa2UTlUI` with Instagram's UI on it (452K likes, Follow button): "Call me crazy, but I think the sexiest thing that a man can do is" 0.00-4.60s, then he answers "calculate a bending moment without looking at a formula sheet." Original preferred and already in the bank (USED 10-17); worth knowing her premise draws answer-reels (this one 21k likes, #sexiestthing). Fetched by ig-fetch to learn, scratch only, never in clips/ · https://www.instagram.com/reel/De8iu6RPOjV/ · first-seen 2026-11-26
+
+## DgLMUWnSRC5 — [NOT BANKED] DO-NOT-SPLICE (2026-11-26) tombstone (test 4, and test 2 audience fit) @chelskocoaching to camera, card "THAT'S A HUSBAND": "If he's a homebody, keeps his circle small, loves to eat, gives you a little attitude, and has a big heart. Yeah, that's a husband." A filled list, no blank, husband framing. Fetched by ig-fetch to learn, scratch only · https://www.instagram.com/reel/DgLMUWnSRC5/ · first-seen 2026-11-26
+
+## DgBUPvcoZ8C — [NOT BANKED] DO-NOT-SPLICE (2026-11-26) tombstone (test 1) @jennaphillipsballard silent to camera under a music bed, text card "what men think a woman wants: a baller, a big shot, a wealthy man, a perfect man / what she actually wants: connection, consistency". She never speaks the premise. Fetched by ig-fetch to learn, scratch only · https://www.instagram.com/reel/DgBUPvcoZ8C/ · first-seen 2026-11-26
+
+## DgMB1mRIFyz — [NOT BANKED] DO-NOT-SPLICE (2026-11-26) tombstone (test 4) @datingwjessie to camera: "I hear a lot of people talk about wanting someone they have good banter with. But what the fuck does that actually mean?" Gender-neutral "someone", no blank. Served free, fetched to learn, never entered clips/ · https://www.instagram.com/reel/DgMB1mRIFyz/ · first-seen 2026-11-26
+
 ## DgI-qrms-pW — @chelskocoaching (the same real woman as `DgGh9VGSPO6`, a second take of the same premise) close straight to camera, grey top and gold hoops for 0-5s, then a white lace top against an ivy wall, full-bleed 720x1280, serif card "WHAT MAKES A WOMAN OBSESSED (IT'S NOT WHAT YOU THINK)" over her word captions for the first ~3s; says "What makes a woman obsessed with a man? Let me tell you, from a woman's perspective, it's not what you think. It's not the money, not the abs, it's not the car." then "What she really wants is…" from 8.5s
 - source: @chelskocoaching | https://www.instagram.com/reel/DgI-qrms-pW/          <- [premise] lane, business_discovery read (media withheld; logged-out fetch failed, fetched by shortcode through ig-fetch 1/8)
 - lane: premise
@@ -1587,11 +1595,7 @@ touched.
 - status: USED
 - build-note (from Marcus's own 1015_review, opened 10-30): credit @francesca__aagostinelli; his cut don_n 97; judged cut 2.75s: "There is something so healing about being with a man". NOT don_n: shorter cut, before 'who' (don_n 97 includes it). For 0916_midweek_reset. Draft words place 'man' 2.38, 'who' 3.07; own.json places 'who' 2.8. Set the exact frame from the audio.
 
-## DGli1TvSB2A — @emilywking_, a real woman in a bedroom mirror selfie, turning toward camera in the first second, burned white card "you really wanna know what turns a man on", says "You really want to know what turns a man on." then "And it's so simple. Initiation." (her answer).
-- source: @emilywking_ | https://www.instagram.com/reel/DGli1TvSB2A/          <- opener of Marcus's own aired 1026_api (10-30, 46K). Clip copied from drafts/1026_api/donor
-- first-seen: 2026-11-01 | status: STALE (2026-11-23)
-- premise: "You really want to know what turns a man on."
-- build-note (from Marcus's own 1026_api, 11-01 search): credit @emilywking_; don_n 63: "on" 1.68, "And" rises about 2.10 on the envelope. She opens on a whip blur and a small mirror shot, as he aired it. Her card holds through the cut. Sexual premise, capped at 2 on 10-30. He aired it himself, but its fit rows stay at 2 until he clears it for trials.
+## DGli1TvSB2A — [PRUNED STALE (2026-11-23)] @emilywking_ mirror selfie, "You really want to know what turns a man on." opener of Marcus's aired 1026_api (copy stays in his drafts/1026_api/donor) · https://www.instagram.com/reel/DGli1TvSB2A/ · first-seen 2026-11-01
 
 ## Dba30J6hBFf — [NOT BANKED] Donor review Nov 6 (Marcus's collection, 11-07) @tash9pm says "The hottest man in every room is not his looks. It's not his clothing. It's not anything like that." (0-7.0s) then her answer "It's actually his fucking energy" (7.14s). Fetched 11-07 ig-fetch. Not yet checked on screen for burned captions or framing. · https://www.instagram.com/reel/Dba30J6hBFf/ · first-seen 2026-11-07
 - build-note: cut at 7.00s after "that", before "It's actually". Hottest premise: env only (Marcus 11-07).
