@@ -20,6 +20,8 @@ touched.
 
 <!-- entries below, newest first -->
 
+## DgOGFJAhkCS — [NOT BANKED] DO-NOT-SPLICE (2026-11-27) tombstone (tests 2/3) @makayla.tonn to camera, word captions ("Valid."), caption "Yo Siri play beautiful crazy by luke combs". Served free, transcribed: "A man just called you crazy. You start a timer. Every man who called you crazy called that." The man is the problem and the setup talks to women. Scratch copy only, never in clips/ · https://www.instagram.com/reel/DgOGFJAhkCS/ · first-seen 2026-11-27
+
 ## De8iu6RPOjV — [NOT BANKED] DO-NOT-SPLICE (2026-11-26) tombstone (test 7: a copy whose original is already banked) @lindenwhitt (a man) answer reel opening on a SCREEN RECORDING of @brennaberg's `DbqLa2UTlUI` with Instagram's UI on it (452K likes, Follow button): "Call me crazy, but I think the sexiest thing that a man can do is" 0.00-4.60s, then he answers "calculate a bending moment without looking at a formula sheet." Original preferred and already in the bank (USED 10-17); worth knowing her premise draws answer-reels (this one 21k likes, #sexiestthing). Fetched by ig-fetch to learn, scratch only, never in clips/ · https://www.instagram.com/reel/De8iu6RPOjV/ · first-seen 2026-11-26
 
 ## DgLMUWnSRC5 — [NOT BANKED] DO-NOT-SPLICE (2026-11-26) tombstone (test 4, and test 2 audience fit) @chelskocoaching to camera, card "THAT'S A HUSBAND": "If he's a homebody, keeps his circle small, loves to eat, gives you a little attitude, and has a big heart. Yeah, that's a husband." A filled list, no blank, husband framing. Fetched by ig-fetch to learn, scratch only · https://www.instagram.com/reel/DgLMUWnSRC5/ · first-seen 2026-11-26

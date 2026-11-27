@@ -1,83 +1,79 @@
 # taste.md — what the audiences actually reward (rewritten every scan from live insights)
 Derived data, full overwrite each scan. History lives in git. Read with catalog.md.
-Refreshed 2026-11-08 (25 imabgold reels, 25 bambi reels, full insights incl. skip rate on all 50).
+Refreshed 2026-11-27 (25 imabgold reels 11-17 → 11-26, 25 bambi reels 10-14 → 11-04, full insights incl. skip rate on all 50).
 
 ## universal
-- **Share COUNT is the distribution lever, and watch time is not correlated with it.** The longest
-  hold this window (11.0s) was forwarded 3 times; a 7.1s hold was forwarded 2,190 times.
-- **A premise with one blank in it travels; a statement does not.** Every reel over 30k opens on a
-  claim or question and withholds the object.
-- **The payoff must be a thing the viewer owns, shows, or DOES, with a real receipt where possible.**
-  A commit count, a credit balance, a file setup: 680-2,190 shares. A convenience the tool does for
-  him (commit messages, git commands): 1-5 shares.
-- **The opener and the object are a PAIR; neither carries alone.** The same object ($200 API
-  credit) did 48k / 1,456 shares on one opener and 2.2k / 4 on another.
-- **A re-run of a proven pair is a floor, not a repeat of the peak.** Proven pairs re-aired this
-  window opened at 11-18k views / 180-189 shares in their first day, against 131k-1.4M originals.
-- **A pitch or a tutorial in the opener is not a hook.** Offer and how-to reels sit at 3-130 shares.
+- **Skip rate is the early tell; watch time is not.** On both accounts the best reel has the lowest
+  skip rate (28-35% on the hits, 18.7% on the other account's best) while the flops sit at 41-79%.
+  The longest holds (15-16s) were forwarded 15-113 times; a 9.0s hold was forwarded 91,735 times.
+- **Share COUNT is the distribution lever.** Rank on shares, not on rate and not on hold.
+- **A premise with one blank in it travels; a statement does not.** Every reel over 50k opens on a
+  claim or question and withholds the object until the cut.
+- **The opener and the object are a PAIR; neither carries alone.** The same opener did 3.55M / 91.7k
+  shares with one object and 6.9k / 38 with another inside the same week.
+- **A re-run of a proven pair is a floor, not a repeat of the peak,** and the floor sinks when the
+  same opener airs several times in a few days.
+- **A pitch, a tutorial or a personal setup tour in the opener is not a hook.** They hold longest and
+  travel least.
 
-## @imabgold — 25 reels, 2026-11-02 → 2026-11-08
+## @imabgold — 25 reels, 2026-11-17 → 2026-11-26
 Top 3 by saves+shares
-- `DfP3GISicGM` 11-02 · 62,374 views / 2,190 shares / 238 saves / 7.1s / 37.0% — "if you know a man
-  who's always awake late at night, that's not insomnia. he's pushed 406 commits since July." WHY: a
-  real number on a real screen, and the CTA asks for the viewer's own number.
-- `DfSdDLpEVBM` 11-03 · 48,307 / 1,456 / 193 / 7.6s / 30.8% — "men only want one thing… not money,
-  not power" → $200 API credit. WHY: the classic elimination slot filled by a balance you can show.
-- `DfYH7pqJ_VS` 11-05 · 33,212 / 968 / 118 / 8.9s / 36.9% — "she wants a man who leads. he doesn't
-  believe in a QA team. he deploys straight to his users" + "staging or production?". WHY: a
-  reckless dev habit every dev recognises, and a binary vote.
-  Runners-up: `DfSxB3fDyEk` 25,257 / 689 ("why do men feel so dominant" → 24 billion tokens) ·
-  `DfVp9DXApxV` 24,287 / 478 ($200 credit again) · `DfQgXiUExcj` 18,241 / 227 (100K MRR goal board).
+- `Df7uwORjq1W` 11-19 · 3,549,086 views / 91,735 shares / 19,035 saves / 9.0s / 29.2% — "the sexiest
+  thing a man can do is not abs, not a car, not money" → storing his API keys in a .env file. WHY:
+  three eliminations the viewer agrees with, then a habit every dev owns and can tag a friend over.
+- `Df-NagsjEMm` 11-20 · 591,281 / 10,473 / 2,213 / 6.7s / 34.9% — same opener → going from
+  localhost:3000 to a published .com. WHY: the shipping moment, a milestone every builder has had.
+- `Df26ikJDtfA` 11-17 · 264,100 / 7,074 / 3,568 / 10.0s / 33.3% — "non-sexual things men do that are
+  really attractive" → a list of his own paid tools. WHY: a save-worthy list on a flattering frame.
+  Runners-up: `Df3V5iRj9u1` 182,183 / 5,442 ("how are men still going broke" → his AI spend) ·
+  `Df2fLHfggeM` 57,489 / 1,804 (ships straight to main, no reviews).
 Bottom 3 by saves+shares (matured, over 36h)
-- `DfaKTJmFWwT` 11-06 · 788 / 5 / 1 / 5.8s / 44.5% — "what makes somebody attractive" → Claude writes
-  his commit messages. A convenience, not a possession.
-- `Dfal0uJlRyu` 11-06 · 981 / 1 / 1 / 9.4s / 39.4% — "problem solver husband" → git commands through
-  Claude Code. A husband premise (the viewer is not one) and a how-to object; the 11-07 re-cut with
-  a receipt ("every commit ends with Co-Authored-By: Claude", `DfbNzCCs1r4`) did 12,699 / 48.
-- `DfPif1uERqt` 11-02 · 2,187 / 4 / 1 / 6.4s / 40.3% — "call me crazy, but the sexiest thing a man
-  can do" → $200 credit, the object that did 48k a day later on "men only want one thing".
+- `DgJdtcVtEpJ` 11-25 · 3,106 / 15 / 11 / 16.3s / 52.2% — "i stopped opening Claude": a personal setup
+  confession, no donor, no blank. Longest hold of the window, near-bottom shares.
+- `DgGJg9LjRpH` 11-23 · 3,338 / 26 / 3 / 5.5s / 41.0% — "what makes somebody attractive… building an
+  app": the object is a whole activity, not one ownable thing.
+- `Df50moctD_A` 11-19 · 8,919 / 16 / 23 / 11.2s / 39.5% — "he uses the Claude Ultra plan": a setup
+  walkthrough (Grokbot relays…) in place of a premise.
 Early reads (under 36h, judge next scan)
-- `DfdKj31gflQ` 11-07 · 18,462 / 180 / 109 — "hottest thing" → .env in .gitignore (re-run of the
-  131k / 4,824 object). `DfdfL2ejPMH` 11-08 · 11,041 / 189 / 34 — "what do men spend their money
-  on" → MacBook, caffeine, 20x Max (re-run of the 1.4M opener). Both strong per hour, far off peak.
-- `Dfdzwd3CVq8` 11-08 · 5,068 / 47 ("men are so hard to please" → $200 credit; the 11-03 cut did
-  7,857 / 179) · `DfdmdWmt_ZW` 11-08 · 4,884 / 44 (news peg, Gemini Carbon).
+- `DgN9Jpcp-xN` 11-26 · 6,896 / 38 ("why do men feel so dominant" → Cayman beach, the 24B-token opener
+  re-run) · `DgLFZRTz7TB` 11-25 · 2,218 / 32 (new @chelskocoaching "obsessed" donor → .env).
 Top 3 by avg watch time
-- `DfVelFdpZ9u` 11.0s (3 shares, Shopify $1 offer) · `Dfal0uJlRyu` 9.4s (1 share) · `DfYH7pqJ_VS` 8.9s.
+- `DgJdtcVtEpJ` 16.3s (15 shares) · `Df8dC7Wtnwd` 15.5s (113, GTA 6 "Chad GPT" skit) · `Df50moctD_A` 11.2s (16).
 Bottom 3 by avg watch time
-- `DfQLstngMvt` 5.0s / 40.6% · `DfXQ6ZtnO8u` 5.1s / 42.1% · `DfSxB3fDyEk` 5.4s / 38.4% (689 shares).
+- `DgIgm6wjiui` 5.0s / 41.0% · `DgF7yAhDUx0` 5.2s / 48.0% · `DgBNpafDIaS` 5.3s / 44.2%.
 What works
-- A girl-to-camera desire/question opener ("men only want one thing", "she wants a man who…",
-  "if you know a man who…", "what do men spend their money on") + ONE ownable object with a
-  receipt + a one-word or number CTA.
-- A reckless dev habit or a hard number as the object (no QA team, 406 commits, 24B tokens).
+- The elimination opener ("not abs, not a car, not money") + ONE habit or milestone every dev owns
+  (.env, localhost → .com, shipping to main). That pairing produced all three top reels.
+- A flattering list frame ("non-sexual things men do that are attractive") when the items are his
+  own receipts.
 What dies
-- A convenience Claude does for him (commit messages, git commands): 1-5 shares.
-- Husband premises (the audience is 18-34 and mostly unmarried): 981 views on 11-06.
-- Offers, tutorials, news pegs: 3-44 shares.
-- "Call me crazy, but the sexiest thing a man can do": 4 and 29 shares on two objects.
+- The same proven opener re-aired with a weaker object within days: "when a man comes home from
+  work" ×4 (4-20k), "sexiest thing" + 20x Max 25.9k against 3.55M for .env.
+- Objects that are an activity ("building an app") rather than a thing or a moment.
+- Personal setup tours and walkthroughs: the longest holds, 15-16 shares.
+- The 11-22 → 11-26 run sits at 2-9k across five openers: fatigue on the donor rotation, not one bad cut.
 
 ## @bambi.map — 25 reels, 2026-10-14 → 2026-11-04 (no new post since 11-04)
 Top 3 by saves+shares (thin axis: nothing has cleared 1 combined, so read views and hold)
-- `DenTxwcgTGk` 10-17 · 2,262 / 0 / 1 / 10.0s / 18.6% — "It isn't the snacks." Claim, eliminations, blank.
-- `DemBQQElBxQ` 10-17 · 1,736 / 1 share / 6.7s / 25.4% — "our three-second check before we sit down".
-- `DewtdZolYBq` 10-21 · 1,225 / 0 / 5.2s / 33.0% — "The baby gets the good chair. You get ______."
+- `DenTxwcgTGk` 10-17 · 2,267 / 0 / 1 / 10.0s / 18.7% — "It isn't the snacks." Claim, eliminations, blank.
+- `DemBQQElBxQ` 10-17 · 1,741 / 1 share / 6.7s / 25.4% — "our three-second check before we sit down".
+- `DeiJwttFhaN` 10-15 · 388 / 1 share / 6.8s / 27.9% — "He walks now. Mostly." A real milestone, then the problem.
 Bottom 3 (everything sits at 0-1 combined; read hold and skip)
-- `DfAZtLwkR2m` 10-27 · 36 / 2.3s / 78.8% — a promise about the product, no problem in the open.
-- `De9gEsYAD__` 10-26 · 137 / 3.4s / 65.0% — "here are the green ones": a list announced in the open.
-- `DfFVqVdGzs8` 10-29 · 172 / 4.0s / 59.5% — a blank on a stock proverb, no parent's problem in it.
+- `DfAZtLwkR2m` 10-27 · 38 / 2.3s / 79.4% — a promise about the product, no problem in the open.
+- `De9gEsYAD__` 10-26 · 139 / 3.4s / 65.3% — "here are the green ones": a list announced in the open.
+- `DesggECDDfZ` 10-20 · 133 / 3.9s / 61.6% — "if you think you're the loud table": aimed at a guilt, no blank.
 Top 3 by avg watch time
-- `DenTxwcgTGk` 10.0s / 18.6% · `DeiJwttFhaN` 6.8s / 28.0% · `DemBQQElBxQ` 6.7s / 25.4%.
+- `DenTxwcgTGk` 10.0s / 18.7% · `DeiJwttFhaN` 6.8s / 27.9% · `DemBQQElBxQ` 6.7s / 25.4%.
 What works
 - Open on the parent's recognisable failure; name the product later or never. ~2,000 views is the
   real ceiling, hit only by problem-first hooks (10-17).
-- A blank works when it sits on the parent's own moment (`DewtdZolYBq`), not a proverb.
+- A blank works when it sits on the parent's own moment (`DewtdZolYBq` 1,227), not a proverb.
 What dies
-- Manifestation, list, promise, proverb and "most underrated thing" opens since posting resumed
-  (36-232 views, 33-79% skip; `DfVB_pcHNV6` 11-04 "Something wonderful is happening" 186 / 42.6%).
+- Manifestation, list, promise, proverb and "most underrated thing" opens (38-237 views, 33-79% skip;
+  `DfVB_pcHNV6` 11-04 "Something wonderful is happening" 195 / 43%).
 - Opening on a value prop or a celebration with no problem (`DfAZtLwkR2m`).
 
-steering: 25 tags in /recently_searched_hashtags: the 9 standing premise tags (the scan's own Graph
-queries), plus toddlertravel, familyvacation, eatlikealocal, travelwithkids, dadlife, familytravel,
-familyadventures, christophercolumbus, claudeai, artificialintelligence, aitools, anthropic,
-nontechnicalfounder, claudecode, vibecoding, buildinpublic. No new premise steering.
+steering: 25 tags in /recently_searched_hashtags: 8 of the standing premise tags (the scan's own Graph
+queries), plus toddlertravel, eatlikealocal, familyadventures, familytraveltips, familytravel,
+travelwithkids, kidfriendlytravel, eatingoutwithbaby, dadlife, claudeai, artificialintelligence,
+anthropic, aitools, nontechnicalfounder, claudecode, vibecoding, buildinpublic. No new premise steering.
