@@ -1,6 +1,6 @@
 # taste.md — what the audiences actually reward (rewritten every scan from live insights)
 Derived data, full overwrite each scan. History lives in git. Read with catalog.md.
-Refreshed 2026-11-27 (25 imabgold reels 11-17 → 11-26, 25 bambi reels 10-14 → 11-04, full insights incl. skip rate on all 50).
+Refreshed 2026-11-28 (25 imabgold reels 11-18 → 11-28, 25 bambi reels 10-14 → 11-04, full insights incl. skip rate on all 50).
 
 ## universal
 - **Skip rate is the early tell; watch time is not.** On both accounts the best reel has the lowest
@@ -16,42 +16,46 @@ Refreshed 2026-11-27 (25 imabgold reels 11-17 → 11-26, 25 bambi reels 10-14 �
 - **A pitch, a tutorial or a personal setup tour in the opener is not a hook.** They hold longest and
   travel least.
 
-## @imabgold — 25 reels, 2026-11-17 → 2026-11-26
+## @imabgold — 25 reels, 2026-11-18 → 2026-11-28
 Top 3 by saves+shares
-- `Df7uwORjq1W` 11-19 · 3,549,086 views / 91,735 shares / 19,035 saves / 9.0s / 29.2% — "the sexiest
+- `Df7uwORjq1W` 11-19 · 3,638,003 views / 94,243 shares / 19,625 saves / 9.1s / 29.2% — "the sexiest
   thing a man can do is not abs, not a car, not money" → storing his API keys in a .env file. WHY:
   three eliminations the viewer agrees with, then a habit every dev owns and can tag a friend over.
-- `Df-NagsjEMm` 11-20 · 591,281 / 10,473 / 2,213 / 6.7s / 34.9% — same opener → going from
+- `Df-NagsjEMm` 11-20 · 595,760 / 10,573 / 2,232 / 6.7s / 34.9% — same opener → going from
   localhost:3000 to a published .com. WHY: the shipping moment, a milestone every builder has had.
-- `Df26ikJDtfA` 11-17 · 264,100 / 7,074 / 3,568 / 10.0s / 33.3% — "non-sexual things men do that are
-  really attractive" → a list of his own paid tools. WHY: a save-worthy list on a flattering frame.
-  Runners-up: `Df3V5iRj9u1` 182,183 / 5,442 ("how are men still going broke" → his AI spend) ·
-  `Df2fLHfggeM` 57,489 / 1,804 (ships straight to main, no reviews).
+- `Df8EGmRjphy` 11-19 · 25,292 / 710 / 103 / 8.3s / 37.9% — "men, what is the equivalent for you that
+  is flowers for a girl?" WHY: a question with one open slot, answered by one ownable object.
+  Runners-up: `DgGwNDCNHqY` 11-24 29,696 / 430 / 249 ("the three sexiest things a man can say? he pays
+  for a Claude…", a NEW opener, the best of the last seven days) · `DgBABbIiQBh` 11-21 26,674 / 459
+  (the .env opener re-aired).
 Bottom 3 by saves+shares (matured, over 36h)
-- `DgJdtcVtEpJ` 11-25 · 3,106 / 15 / 11 / 16.3s / 52.2% — "i stopped opening Claude": a personal setup
-  confession, no donor, no blank. Longest hold of the window, near-bottom shares.
-- `DgGJg9LjRpH` 11-23 · 3,338 / 26 / 3 / 5.5s / 41.0% — "what makes somebody attractive… building an
+- `DgGJg9LjRpH` 11-23 · 3,353 / 27 / 3 / 5.5s / 41.0% — "what makes somebody attractive… building an
   app": the object is a whole activity, not one ownable thing.
-- `Df50moctD_A` 11-19 · 8,919 / 16 / 23 / 11.2s / 39.5% — "he uses the Claude Ultra plan": a setup
-  walkthrough (Grokbot relays…) in place of a premise.
+- `Df50moctD_A` 11-19 · 9,047 / 16 / 23 / 11.2s / 39.7% — "he uses the Claude Ultra plan": a setup
+  walkthrough in place of a premise.
+- `DgLFZRTz7TB` 11-25 · 2,243 / 32 / 10 / 6.7s / 44.1% — new @chelskocoaching "obsessed" donor → .env:
+  the proven object under a fresh donor did not carry it.
 Early reads (under 36h, judge next scan)
-- `DgN9Jpcp-xN` 11-26 · 6,896 / 38 ("why do men feel so dominant" → Cayman beach, the 24B-token opener
-  re-run) · `DgLFZRTz7TB` 11-25 · 2,218 / 32 (new @chelskocoaching "obsessed" donor → .env).
+- `DgQrDI5JOIw` 11-27 · 5,466 / 16 / 28 / 53.9% ("women with a lot of ambition have to date men with
+  more") · `DgQ_FTEsYF8` 11-28 · 3,284 / 21 (the .env opener, fifth airing) · `DgQqdX5Mn3L` 11-27 ·
+  3,059 / 4 ("being ripped is not the only way") · `DgRTt5Us60Z` 11-28 · 1,785 / 2 · `DgQPAQeJ-ij`
+  11-27 · 1,511 / 24 / 4.7s ("obsessed" donor again).
 Top 3 by avg watch time
-- `DgJdtcVtEpJ` 16.3s (15 shares) · `Df8dC7Wtnwd` 15.5s (113, GTA 6 "Chad GPT" skit) · `Df50moctD_A` 11.2s (16).
-Bottom 3 by avg watch time
+- `DgJdtcVtEpJ` 15.9s (15 shares) · `Df8dC7Wtnwd` 15.5s (113, GTA 6 "Chad GPT" skit) · `Df50moctD_A` 11.2s (16).
+Bottom 3 by avg watch time (matured)
 - `DgIgm6wjiui` 5.0s / 41.0% · `DgF7yAhDUx0` 5.2s / 48.0% · `DgBNpafDIaS` 5.3s / 44.2%.
 What works
 - The elimination opener ("not abs, not a car, not money") + ONE habit or milestone every dev owns
-  (.env, localhost → .com, shipping to main). That pairing produced all three top reels.
-- A flattering list frame ("non-sexual things men do that are attractive") when the items are his
-  own receipts.
+  (.env, localhost → .com). That pairing produced the two biggest reels.
+- A question with one slot ("what is the equivalent of flowers for you", "the three sexiest things a
+  man can say") answered by one ownable object: the 25-30k tier, and the only fresh openers that
+  cleared 20k in the last week.
 What dies
-- The same proven opener re-aired with a weaker object within days: "when a man comes home from
-  work" ×4 (4-20k), "sexiest thing" + 20x Max 25.9k against 3.55M for .env.
+- The same proven opener re-aired: the .env opener fell 3.64M → 26.7k (11-21) → 3.3k (11-28, early);
+  "when a man comes home from work" ×4 (4-20k).
 - Objects that are an activity ("building an app") rather than a thing or a moment.
 - Personal setup tours and walkthroughs: the longest holds, 15-16 shares.
-- The 11-22 → 11-26 run sits at 2-9k across five openers: fatigue on the donor rotation, not one bad cut.
+- The 11-25 → 11-28 run sits at 1.5-8k across nine posts, the one new-opener exception aside (11-24, 29.7k).
 
 ## @bambi.map — 25 reels, 2026-10-14 → 2026-11-04 (no new post since 11-04)
 Top 3 by saves+shares (thin axis: nothing has cleared 1 combined, so read views and hold)
